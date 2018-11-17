@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="exchange_cycle_lottery">
+    <ItemSpec id="2011" itemId="209710" num="1" name="79010331" icon="item209710" description="79010332" color="4" />
+    <ItemSpec id="2012" itemId="209711" num="1" name="79010333" icon="item209711" description="79010334" color="3" />
+    <ItemSpec id="2013" itemId="209712" num="1" name="79010335" icon="item209712" description="79010336" color="3" />
+    <ItemSpec id="2014" itemId="209713" num="1" name="79010337" icon="item209713" description="79010338" color="2" />
+    <ItemSpec id="2015" itemId="209714" num="1" name="79010339" icon="item209714" description="79010340" color="2" />
+    <ItemSpec id="2016" itemId="209715" num="1" name="79010341" icon="item209715" description="79010342" color="3" />
+    <ItemSpec id="2017" itemId="209716" num="1" name="79010343" icon="item209716" description="79010344" color="3" />
+    <ItemSpec id="2018" itemId="200364" num="1" name="104207" icon="item406" description="105098" color="1" />
+    <ItemSpec id="2019" itemId="200368" num="1" name="104430" icon="item406" description="105098" color="4" />
+    <ItemSpec id="2020" num="1" name="79010325" icon="item209717" description="79010348" color="1" />
+</Group>
+</tns:database>

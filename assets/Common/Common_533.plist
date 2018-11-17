@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>tutorial_plane_crash.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{4,4},{640,1136}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{640,1136}}</string>
+                <key>sourceSize</key>
+                <string>{640,1136}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>_alpha_Common_533.pkm</string>
+            <key>size</key>
+            <string>{648,1144}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:2a2b914b6af2396cfd2404747ae73d22:1/1$</string>
+            <key>textureFileName</key>
+            <string>_alpha_Common_533.pkm</string>
+        </dict>
+    </dict>
+</plist>

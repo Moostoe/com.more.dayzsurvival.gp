@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="skinInfomation">
+    <ItemSpec id="chrismas_face" config="SDJzhucheng_1:6;448|SDJzhucheng_2:-155.5;193|SDJzhucheng_2:-69;280|SDJzhucheng_3:70.5;50|SDJzhucheng_3:186.6;95"  />
+    <ItemSpec id="outer_chrismas_face" config="shengdanyewai_1:15;20|shengdanyewai_2:15;20|shengdanyewai_3:15;20"  />
+    <ItemSpec id="outer_newyear_face" config="pifulong_1:15;40|pifulong_2:15;40"  />
+     <ItemSpec id="outer_falao_face" config="aijipifu_1:0;15|aijipifu_2:0;15|aijipifu_3:0;15|aijipifu_4:0;15"  />
+     <ItemSpec id="outer_japan_face" config="ribrnpifu_1:0;40|ribrnpifu_2:0;40"  />
+     <ItemSpec id="outer_diwang_face" config="DWpifu_1:-60;35|DWpifu_2:-90;35|DWpifu_3:0;90|DWpifu_4:50;55|DWpifu_6:20;-20|DWpifu_7:20;-20"  />
+	 
+	<ItemSpec id="110057" type="1" display="0" itemid="205066" />
+    <ItemSpec id="110058" type="1" display="0" itemid="205067" />
+    <ItemSpec id="110059" type="1" display="0" itemid="205068" />
+    <ItemSpec id="110060" type="1" display="0" itemid="205069" />
+
+</Group>
+</tns:database>

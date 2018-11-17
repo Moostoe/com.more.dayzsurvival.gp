@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="World_events">
+    <ItemSpec id="1" name="83001023" desc="83001013" target="83001003" type="1" para="19" function_unlock="1,2" type2="1" reward="350520" time="5"/>
+    <ItemSpec id="2" name="83001024" desc="83001014" target="83001004" type="2" para="50000" function_unlock="3" type2="2" reward="350521" time="7"/>
+    <ItemSpec id="3" name="83001025" desc="83001015" target="83001005" type="3" para="20000" function_unlock="4" type2="2" reward="350522" time="7"/>
+    <ItemSpec id="4" name="83001026" desc="83001016" target="83001006" type="4" para="20000000" function_unlock="5" type2="3" reward="350523" time="14"/>
+    <ItemSpec id="5" name="83001027" desc="83001017" target="83001007" type="5" para="20000000" function_unlock="6" type2="2" reward="350524" time="14"/>
+    <ItemSpec id="6" name="83001028" desc="83001018" target="83001008" type="6" para="3" function_unlock="7,8" type2="3" reward="350525" time="35"/>
+    <ItemSpec id="7" name="83001029" desc="83001019" target="83001009" type="7" para="20000000" function_unlock="9" type2="1" reward="350526" time="14"/>
+    <ItemSpec id="8" name="83001030" desc="83001020" target="83001010" type="8" para="50000" function_unlock="10" type2="2" reward="350527" time="14"/>
+    <ItemSpec id="9" name="83001031" desc="83001021" target="83001011" type="9" para="2" function_unlock="11" type2="2" reward="350528" time="42"/>
+    <ItemSpec id="10" name="83001032" desc="83001022" target="83001012" type="10" para="800" function_unlock="12,13" type2="3" reward="350529" time="30"/>
+
+
+
+
+
+	</Group>
+	
+<Group id="function_unlock">	
+    <ItemSpec id="1" name="83001046" desc="150271" icon="prison_chuanqi"/>
+    <ItemSpec id="2" name="83001047" desc="133004" icon="activity_alliance"/>
+    <ItemSpec id="3" name="83001048" desc="150429" icon="country_chuanqi"/>
+    <ItemSpec id="4" name="83001049" desc="150353" icon="alliance_chuanqi"/>
+    <ItemSpec id="5" name="83001050" desc="81000653" icon="u_LaunchCenterActivityIcon"/>
+    <ItemSpec id="6" name="83001051" desc="172352" icon="u_ArenaActivityIcon"/>
+    <ItemSpec id="7" name="83001052" desc="150429" icon="country_chuanqi"/>
+    <ItemSpec id="8" name="83001053" desc="84000007" icon="activity_icon_57044"/>
+    <ItemSpec id="9" name="83001054" desc="87100018" icon="greatLaunchCenterRankIcon"/>
+    <ItemSpec id="10" name="83001055" desc="79030297" icon="activity_icon_68"/>
+    <ItemSpec id="11" name="83001056" desc="79001023" icon="mummyback_icon"/>
+    <ItemSpec id="12" name="83001057" desc="87000050" icon="icon_hefu"/>
+    <ItemSpec id="13" name="83001058" desc="87000050" icon="activity_icon_57045"/>
+
+	
+	</Group>	
+</tns:database>

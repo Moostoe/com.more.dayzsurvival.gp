@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="87001" key="Activity" type="1" common="6f4ff914ac4f1732d9dd5f2846dccdd5" common_android="67ca7d57824412a7156403fe734592d9" version="9.99.99" />
+    <ItemSpec id="87002" key="Activity_Ad" type="1" common="6e79e916dbf5e4877ed392be47a824fd" common_android="af7174ea752d3e880bea5208dec41317" version="9.99.99" />
+    <ItemSpec id="87003" key="Activity_Icon" type="1" common="97a9dcbd6ccf00d6ad0d9c090a4132bd" common_android="72821fbd13d6be6db8fba0e3b9090190" version="9.99.99" />
+    <ItemSpec id="87004" key="Decorate_Icon" type="1" common="85f6bd644b54bfaba3a8062abf7bd53b" common_android="9467e217d5af45c922bde7db7c280e0a" version="9.99.99" />
+    <ItemSpec id="87005" key="Item_Icon" type="1" common="1a32b655f2b36c751719a7e42c7b67ec" common_android="362c2734da5175ee24ecb1f4422936dd" version="9.99.99" />
+    <ItemSpec id="87006" key="Equip_Icon" type="1" common="7a89544d286b22869b0b608d23fafb1c" common_android="dc1f58c42d1d47f52c415cfd171b859f" version="9.99.99" />
+     <ItemSpec id="87007" key="Science_Icon" type="1" common="997c1bae2f79f549bcc5bfc23d438f0d" common_android="3baeb5a3c3dd6cc4aa3b33a71fcb745e" version="9.99.99" />
+    <ItemSpec id="87008" key="Science_Icon_Main" type="1" common="78b6662255786b43ab87dabe7e48cdb2" common_android="e69ec15ac884f3249cbf20e61bfe2364" version="9.99.99" />
+    <ItemSpec id="87009" key="Loading" type="1" common="1024a94f673fe1c1f959451335010b16" common_android="f9d5c7605c57c3ed8c8319a24eb69175" version="9.99.99" />
+    <ItemSpec id="87010" key="particle" type="1" common=" " version="0.0.0" />
+    <ItemSpec id="87011" key="Dynamic_Img" type="1" common=" " version="0.0.0" />
+    <ItemSpec id="87012" key="particleImg" type="1" common=" " version="0.0.0" />
+    <ItemSpec id="87013" key="OfficerResource" type="1" common="477cc28d9c2127191d965ee3b8a8f162" common_android="a41c9206742e39b3bdbe8700f267516f" version="9.99.99" />
+    <ItemSpec id="87014" key="World_5" type="1" common="cd6c4939407a08f16aad0fe0fe3ad968" common_android="cebeba4a6d03ed35a252ac799f2c69fe" version="9.99.99" />
+    <ItemSpec id="87015" key="World_6" type="1" common="75ef81850d9e5d35aff342e2d48855e4" common_android="7a48a46436c32f18fa2dcf21149cc2f0" version="9.99.99" />
+    <ItemSpec id="87016" key="luaVersion_v3" type="2" value="1.2.18" />
+    <ItemSpec id="87017" key="luaCode_v3" type="2" value="c1f57b6201b3d9a56510ee5c0d650bdd" />
+    <ItemSpec id="87018" key="Banner_Img" type="1" common="077fbe11f5ad55a08d173536209d6cdc" common_android="400c0cab3e9f97f0a8bfc6d51b302250" version="9.99.99" />
+    <ItemSpec id="87019" key="update_Imperial_34" type="3"  common="01a18f03a7e0d8934c755c00c7e5ad81" common_android="404c5e3e7dd4e1b79f0f3a6ad1d63e60" version="9.99.99" />
+    <ItemSpec id="87020" key="update_Imperial_35" type="3"  common="96479ec46e3c3c635cf7b1ce11eedd8f" common_android="123fb9d53e171c999f8772460857daa3" version="9.99.99" />
+    <ItemSpec id="87021" key="update_Imperial_36" type="3"  common="c717ed90aa251cab324229a6883e8c4f" common_android="60aa3b8daa694cd2420a859059532cbe" version="9.99.99" />
+    <ItemSpec id="87022" key="update_Imperial_37" type="3"  common="59af6b2cb6bba4ea180e58b6a0f67300" common_android="c7d35b08b627a7ec72973149c492d24d" version="9.99.99" />
+    <ItemSpec id="87023" key="update_Imperial_38" type="3"  common="538f1b8425f89eba987aab8c96a78817" common_android="e00cbeaddcfe4b0f34565aa4bacc464b" version="9.99.99" />
+    <ItemSpec id="87024" key="update_ccbi" type="3"  remove="true" common="59a2b2689ffc2b0039b1e97e0442e7e9" version="9.99.99" />
+    <ItemSpec id="87025" key="update_hirecamp" type="3"  common="72c76856292508b6def9073b6c118067" version="9.99.99" />
+    <ItemSpec id="87026" key="update_script" type="3"  common="de29b931627e6c228a3ff22c4871d84f" version="9.99.99" />
+    <ItemSpec id="87027" key="update_anim" type="3"  common="843875391b7d38817a58b9262bf7ad35" common_android="c0204a5313693d4e8c50f761864a17b3" version="9.99.99" />
+    <ItemSpec id="87028" key="Update_Missile" type="1"  common="d6e2c0da0d452c5af437258546733e3a" common_android="10fe5c091b68d8e86b5e3e620497adb1" version="9.99.99" />
+    <ItemSpec id="87029" key="Alliance_Science" type="1"  common="d191a37a2e70e0aa6e468460fca6b8f4" common_android="11cb5b831dc0947dc1fcb28f8efe66ff" version="9.99.99" />
+    <ItemSpec id="87030" key="Avatar_Res" type="1"  common="651de4870c98ba89a26ac420d3776112" common_android="cdc53d1c5a8d0794fab900304f5d5464" version="9.99.99" />
+    <ItemSpec id="87031" key="update_Imperial_34" type="3"  common="7ca2946a9b82f463be55cffbde494062" common_android="475612fa40c4470621498acd405f35b4" version="1.0.105" />
+    <ItemSpec id="87032" key="update_Imperial_35" type="3"  common="232bd8b125d6e0c215daf1b53d37af2d" common_android="67702dac675f48f9c7d9449ff607aac8" version="1.0.105" />
+    <ItemSpec id="87033" key="update_Imperial_36" type="3"  common="4da66d8fc1f3db4504b7e00fa151a3bc" common_android="46feeacc7eeb6a5495b6e2cbab427046" version="1.0.105" />
+    <ItemSpec id="87034" key="update_Imperial_37" type="3"  common="af1a03cf3007f7c80d7157af22f78211" common_android="27f5c72acc43b4df691f4038549bef7b" version="1.0.105" />
+    <ItemSpec id="87035" key="update_Imperial_38" type="3"  common="df854646f91989fb5e8dea33285f1f7e" common_android="63c0747bd69c69f8229469523d39f2b9" version="1.0.105" />
+    <ItemSpec id="87036" key="update_ccbi" type="3"  common="552dfd82aa86c5b70c7169f6e9175da0" version="1.0.105" />
+    <ItemSpec id="87037" key="World_res" type="1"  common="1b59b98848d4e876034c2b65c004fd55" common_android="7f24310239c29e22029152e256ffe043" version="9.99.99" />
+    <ItemSpec id="87038" key="particleImg" type="1" common="d618c8776f13acd58baa6e6e8106f677" common_android="d618c8776f13acd58baa6e6e8106f677" version="9.99.99" />
+    <ItemSpec id="87039" key="update_World_8" type="4"  common="d35802ea6e635ee0fd0d4fa99af73886" common_android="d4b11c5b81a98096c562dd3cc4fa50cc" version="9.99.99" />
+    <ItemSpec id="87040" key="update_World_9" type="4"  common="cc4fd98a0731599c97132e17324c0323" common_android="82c1388fbc6e1d1bc474e6972cf8764c" version="9.99.99" />
+    <ItemSpec id="87041" key="RepayView" type="1"  common="02dc65ad54501540e5b4e0b1c864f74b" common_android="21f2d6e73e262a488a0622defddc523a" version="9.99.99" />
+    <ItemSpec id="87045" key="World" type="1"  common="cfe08efb77a8fff7d7a2bf18784a7898" common_android="56547091a09aea0be1908f80d5d3d8ce" version="9.99.99" />
+    <ItemSpec id="87046" key="update_Imperial_39" type="7"  common="c5d5642b7f01b9c00a026ab6ebc67ea2" common_android="21aa3566c978275c7bb93f8453cdee9c" version="9.99.99" />
+    <ItemSpec id="87047" key="update_Imperial_40" type="7"  common="d3b594cfad4e78009371ddd8b33454bc" common_android="122ffc6f1a2a0fe1cbddce7047fc81fe" version="9.99.99" />
+    <ItemSpec id="87048" key="update_Imperial_41" type="7"  common="fcca4b45f6e4c25cf74439e98d5387e9" common_android="02763b06ce35ad2e6a2e332c366b5048" version="9.99.99" />
+    <ItemSpec id="87049" key="update_Imperial_42" type="7"  common="2b840af67dc579cf205b91dc6262f2ef" common_android="05fc495b2d57467fb3891b79d9f599ff" version="9.99.99" />
+    <ItemSpec id="87050" key="update_Imperial_43" type="7"  common="ad232647e84b7f28c1761da04a4ba9ab" common_android="52e4136d7df37d9efccf6671029db7b0" version="9.99.99" />
+    <ItemSpec id="87051" key="update_ccbi_HF" type="7"  common="ab17ffdeaea62ff5529657e7700d663e" version="9.99.99" />
+    <ItemSpec id="87052" key="update_Imperial_44" type="7"  common="ee9918804160674cdf1a67b08b48e960" common_android="91cacc9fd28907d5bf0d29c9f4b116bf" version="9.99.99" />
+    <ItemSpec id="87072" key="SP_World_zombie" type="5"  common="75c9d4afbb0fdc31c5d1912fda5f4b41" common_android="25fceee95a7bbad56876246bdd0d7252" version="9.99.99" />
+    <ItemSpec id="87073" key="SP_World_huaban_01" type="5"  common="c8721cc73a2246b05576ebf5431aa3ec" common_android="9331ad96b38220f1a29c755b0510c6d7" version="9.99.99" />
+    <ItemSpec id="87074" key="SP_World_huaban_02" type="5"  common="4f780002016fb4a2b2b4418598b5a187" common_android="823e3d17c2a4055d37e2456d9a9fb51a" version="9.99.99" />
+    <ItemSpec id="87075" key="SP_World_huaban_03" type="5"  common="a8342f0423f8f6dce7fc9f5cf559b395" common_android="203b1afacc15afb730f7359e13d05d08" version="9.99.99" />
+    <ItemSpec id="87076" key="SP_World_nurses_01" type="5"  common="b4cb14018b58ea125e5c4ba9dacfa3d0" common_android="593547b7ebfef1d445c0f25de32f0ea7" version="9.99.99" />
+    <ItemSpec id="87077" key="SP_World_nurses_02" type="5"  common="4caa414cafe5d574fee04a6a28d4d42b" common_android="6fc0f52498762a31370c15ee7d3529d7" version="9.99.99" />
+    <ItemSpec id="87078" key="SP_World_nurses_03" type="5"  common="8a2140bdea24ff1009bdf9deb29fbc85" common_android="8a2140bdea24ff1009bdf9deb29fbc85" version="9.99.99" />
+    <ItemSpec id="87079" key="SP_World_sangshi5_01" type="5"  common="dbd268d8db1ace4aed8591eca2957a1d" common_android="25de17d99bd370c770942d4b6fefc8bd" version="9.99.99" />
+    <ItemSpec id="87080" key="SP_World_sangshi5_02" type="5"  common="98de2d57d09717ffad5daa1af0a8a816" common_android="7bd6e49fda282576b1dad8ab2da08ef4" version="9.99.99" />
+    <ItemSpec id="87081" key="SP_World_sangshi5_03" type="5"  common="8595b43cb7ab836f9f649d78b0172017" common_android="1fd811e88a39d54bb05b988e5f0f0ff8" version="9.99.99" />
+    <ItemSpec id="87082" key="SP_World_sangshi_04" type="5"  common="59808f58f62d667abe2c280e5fbe749e" common_android="03bd92a44e65c9b7f7a69143593291ce" version="9.99.99" />
+    <ItemSpec id="87083" key="SP_World_sangshi_05" type="5"  common="d630dfc7e5568da8f53cbca8da6d1799" common_android="5c421f4c9cbead8fe619bcba0f65a245" version="9.99.99" />
+    <ItemSpec id="87084" key="SP_World_sangshi_06" type="5"  common="700d3c71dd3989b4be873cde112dda50" common_android="a27d5b4d4cb7962f81effaafbb691b74" version="9.99.99" />
+    <ItemSpec id="87085" key="SP_World_tufu_01" type="5"  common="d5a1f4ed6f1f261adcb33805ea7aa131" common_android="74e5e537fa0b8df154da131bbacfe972" version="9.99.99" />
+    <ItemSpec id="87086" key="SP_World_tufu_02" type="5"  common="70ee5167a4246857be522f54dc11f571" common_android="1fae587d9b9b0e870398925bd2591028" version="9.99.99" />
+    <ItemSpec id="87087" key="update_Combat" type="1"  common="eedc92e6b693282c995f6d3a1d48b28b" common_android="2228656b59a12cb1835adc8bc946eb3d" version="9.99.99" />
+</tns:database>

@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="hero_skill">
+
+
+    <ItemSpec id="69000101" skill_id="690001" skill_lv="1" hero_lv="0" hero_id="240033" name="200311" type="2" icon="herosk_2003" description="200312" cd_time="60" />
+    <ItemSpec id="69000201" skill_id="690002" skill_lv="1" hero_lv="30" hero_id="240031" name="200307" type="2" icon="herosk_2001" description="200308" des_para="1000" cd_time="1200" />
+    <ItemSpec id="69000202" skill_id="690002" skill_lv="2" hero_lv="35" hero_id="240031" name="200307" type="2" icon="herosk_2001" description="200308" des_para="1500" cd_time="1200" />
+    <ItemSpec id="69000203" skill_id="690002" skill_lv="3" hero_lv="40" hero_id="240031" name="200307" type="2" icon="herosk_2001" description="200308" des_para="2000" cd_time="1200" />
+    <ItemSpec id="69000204" skill_id="690002" skill_lv="4" hero_lv="45" hero_id="240031" name="200307" type="2" icon="herosk_2001" description="200308" des_para="2500" cd_time="1200" />
+    <ItemSpec id="69000205" skill_id="690002" skill_lv="5" hero_lv="0" hero_id="240031" name="200307" type="2" icon="herosk_2001" description="200308" des_para="3000" cd_time="1200" />
+    <ItemSpec id="69000301" skill_id="690003" skill_lv="1" hero_lv="30" hero_id="240032" name="200309" type="2" battle_type="1" icon="herosk_2002" description="200310" des_para="20" cd_time="300" time="3600" />
+    <ItemSpec id="69000302" skill_id="690003" skill_lv="2" hero_lv="35" hero_id="240032" name="200309" type="2" battle_type="1" icon="herosk_2002" description="200310" des_para="25" cd_time="300" time="3600" />
+    <ItemSpec id="69000303" skill_id="690003" skill_lv="3" hero_lv="40" hero_id="240032" name="200309" type="2" battle_type="1" icon="herosk_2002" description="200355" des_para="30;10" cd_time="300" time="3600" />
+    <ItemSpec id="69000304" skill_id="690003" skill_lv="4" hero_lv="45" hero_id="240032" name="200309" type="2" battle_type="1" icon="herosk_2002" description="200355" des_para="35;20" cd_time="300" time="3600" />
+    <ItemSpec id="69000305" skill_id="690003" skill_lv="5" hero_lv="0" hero_id="240032" name="200309" type="2" battle_type="1" icon="herosk_2002" description="200355" des_para="40;40" cd_time="300" time="3600" />
+    <ItemSpec id="69000401" skill_id="690004" skill_lv="1" hero_lv="30" hero_id="240035" name="200317" type="2" battle_type="1" icon="herosk_2004" description="200318" des_para="5;100;60" cd_time="300" time="300" />
+    <ItemSpec id="69000402" skill_id="690004" skill_lv="2" hero_lv="35" hero_id="240035" name="200317" type="2" battle_type="1" icon="herosk_2004" description="200318" des_para="10;100;60" cd_time="300" time="600" />
+    <ItemSpec id="69000403" skill_id="690004" skill_lv="3" hero_lv="40" hero_id="240035" name="200317" type="2" battle_type="1" icon="herosk_2004" description="200356" des_para="15;100;60;10" cd_time="300" time="900" />
+    <ItemSpec id="69000404" skill_id="690004" skill_lv="4" hero_lv="45" hero_id="240035" name="200317" type="2" battle_type="1" icon="herosk_2004" description="200356" des_para="15;120;60;20" cd_time="300" time="1200" />
+    <ItemSpec id="69000405" skill_id="690004" skill_lv="5" hero_lv="0" hero_id="240035" name="200317" type="2" battle_type="1" icon="herosk_2004" description="200356" des_para="30;150;70;30" cd_time="300" time="1500" />
+    <ItemSpec id="69000501" skill_id="690005" skill_lv="1" hero_lv="30" hero_id="240036" name="200323" type="2" battle_type="1" icon="herosk_2005" description="200324" des_para="10;20" cd_time="1200" time="600" />
+    <ItemSpec id="69000502" skill_id="690005" skill_lv="2" hero_lv="35" hero_id="240036" name="200323" type="2" battle_type="1" icon="herosk_2005" description="200324" des_para="15;25" cd_time="1200" time="900" />
+    <ItemSpec id="69000503" skill_id="690005" skill_lv="3" hero_lv="40" hero_id="240036" name="200323" type="2" battle_type="1" icon="herosk_2005" description="200324" des_para="20;30" cd_time="1200" time="1200" />
+    <ItemSpec id="69000504" skill_id="690005" skill_lv="4" hero_lv="45" hero_id="240036" name="200323" type="2" battle_type="1" icon="herosk_2005" description="200324" des_para="30;35" cd_time="1200" time="1800" />
+    <ItemSpec id="69000505" skill_id="690005" skill_lv="5" hero_lv="0" hero_id="240036" name="200323" type="2" battle_type="1" icon="herosk_2005" description="200324" des_para="50;40" cd_time="1200" time="3000" />
+	
+    <ItemSpec id="69000601" skill_id="690006" skill_lv="1" hero_lv="30" hero_id="240038" name="200329" type="2" battle_type="1" icon="herosk_2006" description="200330" des_para="30;15" cd_time="240" time="900" />
+    <ItemSpec id="69000602" skill_id="690006" skill_lv="2" hero_lv="35" hero_id="240038" name="200329" type="2" battle_type="1" icon="herosk_2006" description="200330" des_para="30;20" cd_time="240" time="1200" />
+    <ItemSpec id="69000603" skill_id="690006" skill_lv="3" hero_lv="40" hero_id="240038" name="200329" type="2" battle_type="1" icon="herosk_2006" description="200330" des_para="30;25" cd_time="240" time="1500" />
+    <ItemSpec id="69000604" skill_id="690006" skill_lv="4" hero_lv="0" hero_id="240038" name="200329" type="2" battle_type="1" icon="herosk_2006" description="200330" des_para="30;30" cd_time="240" time="1800" />
+	
+    <ItemSpec id="69000701" skill_id="690007" skill_lv="1" hero_lv="30" hero_id="240039" name="200333" type="2" battle_type="1" icon="herosk_2007" description="200334" des_para="5" cd_time="360" time="300" />
+    <ItemSpec id="69000702" skill_id="690007" skill_lv="2" hero_lv="35" hero_id="240039" name="200333" type="2" battle_type="1" icon="herosk_2007" description="200358" des_para="10;10" cd_time="360" time="600" />
+    <ItemSpec id="69000703" skill_id="690007" skill_lv="3" hero_lv="40" hero_id="240039" name="200333" type="2" battle_type="1" icon="herosk_2007" description="200358" des_para="20;20" cd_time="360" time="1200" />
+    <ItemSpec id="69000704" skill_id="690007" skill_lv="4" hero_lv="45" hero_id="240039" name="200333" type="2" battle_type="1" icon="herosk_2007" description="200358" des_para="30;30" cd_time="360" time="1800" />
+    <ItemSpec id="69000705" skill_id="690007" skill_lv="5" hero_lv="0" hero_id="240039" name="200333" type="2" battle_type="1" icon="herosk_2007" description="200358" des_para="30;50" cd_time="360" time="1800" />
+    <ItemSpec id="69000801" skill_id="690008" skill_lv="1" hero_lv="30" hero_id="240040" name="200337" type="2" battle_type="1" icon="herosk_2008" description="200338" des_para="20" cd_time="1200" />
+    <ItemSpec id="69000802" skill_id="690008" skill_lv="2" hero_lv="35" hero_id="240040" name="200337" type="2" battle_type="1" icon="herosk_2008" description="200405" des_para="5;20" cd_time="1200" />
+    <ItemSpec id="69000803" skill_id="690008" skill_lv="3" hero_lv="40" hero_id="240040" name="200337" type="2" battle_type="1" icon="herosk_2008" description="200405" des_para="10;20" cd_time="1200" />
+    <ItemSpec id="69000804" skill_id="690008" skill_lv="4" hero_lv="45" hero_id="240040" name="200337" type="2" battle_type="1" icon="herosk_2008" description="200405" des_para="15;20" cd_time="1200" />
+    <ItemSpec id="69000805" skill_id="690008" skill_lv="5" hero_lv="0" hero_id="240040" name="200337" type="2" battle_type="1" icon="herosk_2008" description="200405" des_para="20;20" cd_time="1200" />
+    
+	<ItemSpec id="69000901" skill_id="690009" skill_lv="1" hero_lv="25" hero_id="240041" name="200341" type="2" icon="herosk_2009" description="200342" des_para="1;10;8" cd_time="480" />
+    <ItemSpec id="69000902" skill_id="690009" skill_lv="2" hero_lv="30" hero_id="240041" name="200341" type="2" icon="herosk_2009" description="200342" des_para="2;10;8" cd_time="480" />
+    <ItemSpec id="69000903" skill_id="690009" skill_lv="3" hero_lv="0" hero_id="240041" name="200341" type="2" icon="herosk_2009" description="200342" des_para="3;10;8" cd_time="480" />
+    <ItemSpec id="69001002" skill_id="690010" skill_lv="2" hero_lv="0" hero_id="240041" name="200341" type="2" icon="herosk_2009" description="200342" des_para="2;10;8" cd_time="480" />
+    <ItemSpec id="69001103" skill_id="690011" skill_lv="3" hero_lv="0" hero_id="240041" name="200341" type="2" icon="herosk_2009" description="200342" des_para="3;10;8" cd_time="480" />
+    <ItemSpec id="69001201" skill_id="690012" skill_lv="1" hero_lv="30" hero_id="240044" name="200360" type="2" icon="herosk_2010" description="200361" des_para="40;20;48" cd_time="2880" />
+    <ItemSpec id="69001202" skill_id="690012" skill_lv="2" hero_lv="35" hero_id="240044" name="200360" type="2" icon="herosk_2010" description="200361" des_para="50;25;48" cd_time="2880" />
+    <ItemSpec id="69001203" skill_id="690012" skill_lv="3" hero_lv="40" hero_id="240044" name="200360" type="2" icon="herosk_2010" description="200361" des_para="60;30;48" cd_time="2880" />
+    <ItemSpec id="69001204" skill_id="690012" skill_lv="4" hero_lv="45" hero_id="240044" name="200360" type="2" icon="herosk_2010" description="200361" des_para="70;35;48" cd_time="2880" />
+    <ItemSpec id="69001205" skill_id="690012" skill_lv="5" hero_lv="0" hero_id="240044" name="200360" type="2" icon="herosk_2010" description="200361" des_para="80;40;48" cd_time="2880" />
+    <ItemSpec id="69001301" skill_id="690013" skill_lv="1" hero_lv="30" hero_id="240046" name="200370" type="2" icon="herosk_2011" description="200371" des_para="5;8;20" cd_time="1200" />
+    <ItemSpec id="69001302" skill_id="690013" skill_lv="2" hero_lv="35" hero_id="240046" name="200370" type="2" icon="herosk_2011" description="200371" des_para="5;15;20" cd_time="1200" />
+    <ItemSpec id="69001303" skill_id="690013" skill_lv="3" hero_lv="40" hero_id="240046" name="200370" type="2" icon="herosk_2011" description="200371" des_para="10;20;20" cd_time="1200" />
+    <ItemSpec id="69001304" skill_id="690013" skill_lv="4" hero_lv="45" hero_id="240046" name="200370" type="2" icon="herosk_2011" description="200371" des_para="15;30;20" cd_time="1200" />
+    <ItemSpec id="69001305" skill_id="690013" skill_lv="5" hero_lv="0" hero_id="240046" name="200370" type="2" icon="herosk_2011" description="200371" des_para="20;50;20" cd_time="1200" />
+    <ItemSpec id="69001401" skill_id="690014" skill_lv="1" hero_lv="30" hero_id="240047" name="200374" type="2" battle_type="1" icon="herosk_2012" description="200375" des_para="8;2000;20" cd_time="1200" />
+    <ItemSpec id="69001402" skill_id="690014" skill_lv="2" hero_lv="35" hero_id="240047" name="200374" type="2" battle_type="1" icon="herosk_2012" description="200375" des_para="10;4000;20" cd_time="1200" />
+    <ItemSpec id="69001403" skill_id="690014" skill_lv="3" hero_lv="40" hero_id="240047" name="200374" type="2" battle_type="1" icon="herosk_2012" description="200375" des_para="12;6000;20" cd_time="1200" />
+    <ItemSpec id="69001404" skill_id="690014" skill_lv="4" hero_lv="45" hero_id="240047" name="200374" type="2" battle_type="1" icon="herosk_2012" description="200375" des_para="14;10000;20" cd_time="1200" />
+    <ItemSpec id="69001405" skill_id="690014" skill_lv="5" hero_lv="0" hero_id="240047" name="200374" type="2" battle_type="1" icon="herosk_2012" description="200375" des_para="16;15000;20" cd_time="1200" />
+	
+    <ItemSpec id="69001501" skill_id="690015" skill_lv="1" hero_lv="30" hero_id="240048" name="200385" type="2" battle_type="1" icon="herosk_2013" description="200386" des_para="30;10;5000;1;30;20" cd_time="1200" time="1800" />
+    <ItemSpec id="69001502" skill_id="690015" skill_lv="2" hero_lv="35" hero_id="240048" name="200385" type="2" battle_type="1" icon="herosk_2013" description="200386" des_para="30;15;5000;1;35;20" cd_time="1200" time="1800" />
+    <ItemSpec id="69001503" skill_id="690015" skill_lv="3" hero_lv="40" hero_id="240048" name="200385" type="2" battle_type="1" icon="herosk_2013" description="200386" des_para="30;20;4000;1;40;20" cd_time="1200" time="1800" />
+    <ItemSpec id="69001504" skill_id="690015" skill_lv="4" hero_lv="45" hero_id="240048" name="200385" type="2" battle_type="1" icon="herosk_2013" description="200386" des_para="30;25;4000;1;45;20" cd_time="1200" time="1800" />
+    <ItemSpec id="69001505" skill_id="690015" skill_lv="5" hero_lv="0" hero_id="240048" name="200385" type="2" battle_type="1" icon="herosk_2013" description="200386" des_para="30;30;3000;1;50;20" cd_time="1200" time="1800" />
+	
+    <ItemSpec id="69001601" skill_id="690016" skill_lv="1" hero_lv="30" hero_id="240049" name="200399" type="2" battle_type="1" icon="herosk_2014" description="200404" des_para="50;10;20" cd_time="1200" time="0" />
+    <ItemSpec id="69001602" skill_id="690016" skill_lv="2" hero_lv="35" hero_id="240049" name="200399" type="2" battle_type="1" icon="herosk_2014" description="200404" des_para="45;15;20" cd_time="1200" time="0" />
+    <ItemSpec id="69001603" skill_id="690016" skill_lv="3" hero_lv="40" hero_id="240049" name="200399" type="2" battle_type="1" icon="herosk_2014" description="200404" des_para="40;20;20" cd_time="1200" time="0" />
+    <ItemSpec id="69001604" skill_id="690016" skill_lv="4" hero_lv="45" hero_id="240049" name="200399" type="2" battle_type="1" icon="herosk_2014" description="200404" des_para="35;25;20" cd_time="1200" time="0" />
+    <ItemSpec id="69001605" skill_id="690016" skill_lv="5" hero_id="240049" name="200399" type="2" battle_type="1" icon="herosk_2014" description="200404" des_para="30;30;20" cd_time="1200" time="0" />
+
+    <ItemSpec id="69001701" skill_id="690017" skill_lv="1" hero_lv="30" hero_id="240050" name="200410" type="2" icon="herosk_2015" description="200415" des_para="20;10;4" cd_time="240" time="600" />
+    <ItemSpec id="69001702" skill_id="690017" skill_lv="2" hero_lv="35" hero_id="240050" name="200410" type="2" icon="herosk_2015" description="200415" des_para="22;15;4" cd_time="240" time="900" />
+    <ItemSpec id="69001703" skill_id="690017" skill_lv="3" hero_lv="40" hero_id="240050" name="200410" type="2" icon="herosk_2015" description="200415" des_para="24;20;4" cd_time="240" time="1200" />
+    <ItemSpec id="69001704" skill_id="690017" skill_lv="4" hero_lv="45" hero_id="240050" name="200410" type="2" icon="herosk_2015" description="200415" des_para="26;25;4" cd_time="240" time="1500" />
+    <ItemSpec id="69001705" skill_id="690017" skill_lv="5" hero_id="240050" name="200410" type="2" icon="herosk_2015" description="200415" des_para="30;30;4" cd_time="240" time="1800" />
+    <ItemSpec id="69001801" skill_id="690018" skill_lv="1" hero_lv="30" hero_id="240051" name="200424" type="2" battle_type="1" icon="herosk_2016" description="200419" des_para="10;10;6" cd_time="360" time="600" />
+    <ItemSpec id="69001802" skill_id="690018" skill_lv="2" hero_lv="35" hero_id="240051" name="200424" type="2" battle_type="1" icon="herosk_2016" description="200419" des_para="12;12;6" cd_time="360" time="600" />
+    <ItemSpec id="69001803" skill_id="690018" skill_lv="3" hero_lv="40" hero_id="240051" name="200424" type="2" battle_type="1" icon="herosk_2016" description="200419" des_para="15;15;6" cd_time="360" time="600" />
+    <ItemSpec id="69001804" skill_id="690018" skill_lv="4" hero_lv="45" hero_id="240051" name="200424" type="2" battle_type="1" icon="herosk_2016" description="200419" des_para="20;20;6" cd_time="360" time="900" />
+    <ItemSpec id="69001805" skill_id="690018" skill_lv="5" hero_id="240051" name="200424" type="2" battle_type="1" icon="herosk_2016" description="200419" des_para="25;25;6" cd_time="360" time="900" />
+    <ItemSpec id="69001901" skill_id="690019" skill_lv="1" hero_lv="30" hero_id="240052" name="200430" type="2" icon="herosk_2017" description="200435" des_para="15;8" cd_time="480" para_1="15" />
+    <ItemSpec id="69001902" skill_id="690019" skill_lv="2" hero_lv="35" hero_id="240052" name="200430" type="2" icon="herosk_2017" description="200435" des_para="17;8" cd_time="480" para_1="15" />
+    <ItemSpec id="69001903" skill_id="690019" skill_lv="3" hero_lv="40" hero_id="240052" name="200430" type="2" icon="herosk_2017" description="200435" des_para="20;8" cd_time="480" para_1="15" />
+    <ItemSpec id="69001904" skill_id="690019" skill_lv="4" hero_lv="45" hero_id="240052" name="200430" type="2" icon="herosk_2017" description="200435" des_para="25;8" cd_time="480" para_1="15" />
+    <ItemSpec id="69001905" skill_id="690019" skill_lv="5" hero_id="240052" name="200430" type="2" icon="herosk_2017" description="200435" des_para="30;8" cd_time="480" para_1="15" />
+
+    <ItemSpec id="69002001" skill_id="690020" skill_lv="1" hero_lv="30" hero_id="240053" name="200444" type="2" battle_type="1" icon="herosk_2018" description="200445" des_para="10;20" cd_time="1200" time="600" />
+    <ItemSpec id="69002002" skill_id="690020" skill_lv="2" hero_lv="35" hero_id="240053" name="200444" type="2" battle_type="1" icon="herosk_2018" description="200445" des_para="15;16" cd_time="960" time="900" />
+    <ItemSpec id="69002003" skill_id="690020" skill_lv="3" hero_lv="40" hero_id="240053" name="200444" type="2" battle_type="1" icon="herosk_2018" description="200445" des_para="20;12" cd_time="720" time="1200" />
+    <ItemSpec id="69002004" skill_id="690020" skill_lv="4" hero_lv="45" hero_id="240053" name="200444" type="2" battle_type="1" icon="herosk_2018" description="200445" des_para="30;8" cd_time="480" time="1800" />
+    <ItemSpec id="69002005" skill_id="690020" skill_lv="5" hero_id="240053" name="200444" type="2" battle_type="1" icon="herosk_2018" description="200445" des_para="60;4" cd_time="240" time="3600" />
+
+
+    <ItemSpec id="68000101" skill_id="680001" skill_lv="1" hero_lv="30" hero_id="240031" name="200301" type="1" icon="herosk_1001" description="200302" des_para="100" />
+    <ItemSpec id="68000102" skill_id="680001" skill_lv="2" hero_lv="35" hero_id="240031" name="200301" type="1" icon="herosk_1001" description="200302" des_para="200" />
+    <ItemSpec id="68000103" skill_id="680001" skill_lv="3" hero_lv="40" hero_id="240031" name="200301" type="1" icon="herosk_1001" description="200302" des_para="400" />
+    <ItemSpec id="68000104" skill_id="680001" skill_lv="4" hero_lv="45" hero_id="240031" name="200301" type="1" icon="herosk_1001" description="200302" des_para="800" />
+    <ItemSpec id="68000105" skill_id="680001" skill_lv="5" hero_lv="0" hero_id="240031" name="200301" type="1" icon="herosk_1001" description="200302" des_para="1200" />
+    <ItemSpec id="68000201" skill_id="680002" skill_lv="1" hero_lv="30" hero_id="240032" name="200303" type="1" battle_type="1" icon="herosk_1002" description="200304" des_para="15" />
+    <ItemSpec id="68000202" skill_id="680002" skill_lv="2" hero_lv="35" hero_id="240032" name="200303" type="1" battle_type="1" icon="herosk_1002" description="200304" des_para="25" />
+    <ItemSpec id="68000203" skill_id="680002" skill_lv="3" hero_lv="40" hero_id="240032" name="200303" type="1" battle_type="1" icon="herosk_1002" description="200359" des_para="35;10" />
+    <ItemSpec id="68000204" skill_id="680002" skill_lv="4" hero_lv="45" hero_id="240032" name="200303" type="1" battle_type="1" icon="herosk_1002" description="200359" des_para="45;20" />
+    <ItemSpec id="68000205" skill_id="680002" skill_lv="5" hero_lv="0" hero_id="240032" name="200303" type="1" battle_type="1" icon="herosk_1002" description="200359" des_para="55;30" />
+    <ItemSpec id="68000301" skill_id="680003" skill_lv="1" hero_lv="30" hero_id="240033" name="200305" type="1" battle_type="1" icon="herosk_1003" description="200306" des_para="25" />
+    <ItemSpec id="68000302" skill_id="680003" skill_lv="2" hero_lv="35" hero_id="240033" name="200305" type="1" battle_type="1" icon="herosk_1003" description="200306" des_para="40" />
+    <ItemSpec id="68000303" skill_id="680003" skill_lv="3" hero_lv="40" hero_id="240033" name="200305" type="1" battle_type="1" icon="herosk_1003" description="200306" des_para="55" />
+    <ItemSpec id="68000304" skill_id="680003" skill_lv="4" hero_lv="45" hero_id="240033" name="200305" type="1" battle_type="1" icon="herosk_1003" description="200306" des_para="70" />
+    <ItemSpec id="68000305" skill_id="680003" skill_lv="5" hero_lv="0" hero_id="240033" name="200305" type="1" battle_type="1" icon="herosk_1003" description="200306" des_para="100" />
+    <ItemSpec id="68000401" skill_id="680004" skill_lv="1" hero_lv="30" hero_id="240034" name="200313" type="1" icon="herosk_1004" description="200314" des_para="15" />
+    <ItemSpec id="68000402" skill_id="680004" skill_lv="2" hero_lv="35" hero_id="240034" name="200313" type="1" icon="herosk_1004" description="200314" des_para="20" />
+    <ItemSpec id="68000403" skill_id="680004" skill_lv="3" hero_lv="40" hero_id="240034" name="200313" type="1" icon="herosk_1004" description="200314" des_para="25" />
+    <ItemSpec id="68000404" skill_id="680004" skill_lv="4" hero_lv="45" hero_id="240034" name="200313" type="1" icon="herosk_1004" description="200314" des_para="30" />
+    <ItemSpec id="68000405" skill_id="680004" skill_lv="5" hero_lv="0" hero_id="240034" name="200313" type="1" icon="herosk_1004" description="200314" des_para="35" />
+    <ItemSpec id="68000501" skill_id="680005" skill_lv="1" hero_lv="30" hero_id="240034" name="200315" type="1" icon="herosk_1005" description="200316" des_para="10" />
+    <ItemSpec id="68000502" skill_id="680005" skill_lv="2" hero_lv="35" hero_id="240034" name="200315" type="1" icon="herosk_1005" description="200316" des_para="15" />
+    <ItemSpec id="68000503" skill_id="680005" skill_lv="3" hero_lv="40" hero_id="240034" name="200315" type="1" icon="herosk_1005" description="200316" des_para="20" />
+    <ItemSpec id="68000504" skill_id="680005" skill_lv="4" hero_lv="45" hero_id="240034" name="200315" type="1" icon="herosk_1005" description="200316" des_para="30" />
+    <ItemSpec id="68000505" skill_id="680005" skill_lv="5" hero_lv="0" hero_id="240034" name="200315" type="1" icon="herosk_1005" description="200316" des_para="40" />
+    <ItemSpec id="68000601" skill_id="680006" skill_lv="1" hero_lv="30" hero_id="240035" name="200319" type="1" battle_type="1" icon="herosk_1006" description="200320" des_para="10" />
+    <ItemSpec id="68000602" skill_id="680006" skill_lv="2" hero_lv="35" hero_id="240035" name="200319" type="1" battle_type="1" icon="herosk_1006" description="200320" des_para="12" />
+    <ItemSpec id="68000603" skill_id="680006" skill_lv="3" hero_lv="40" hero_id="240035" name="200319" type="1" battle_type="1" icon="herosk_1006" description="200320" des_para="14" />
+    <ItemSpec id="68000604" skill_id="680006" skill_lv="4" hero_lv="45" hero_id="240035" name="200319" type="1" battle_type="1" icon="herosk_1006" description="200320" des_para="17" />
+    <ItemSpec id="68000605" skill_id="680006" skill_lv="5" hero_lv="0" hero_id="240035" name="200319" type="1" battle_type="1" icon="herosk_1006" description="200320" des_para="20" />
+    <ItemSpec id="68000701" skill_id="680007" skill_lv="1" hero_lv="35" hero_id="240036" name="200321" type="1" battle_type="1" icon="herosk_1007" description="200322" des_para="40" />
+    <ItemSpec id="68000702" skill_id="680007" skill_lv="2" hero_lv="40" hero_id="240036" name="200321" type="1" battle_type="1" icon="herosk_1007" description="200357" des_para="40;10" />
+    <ItemSpec id="68000703" skill_id="680007" skill_lv="3" hero_lv="45" hero_id="240036" name="200321" type="1" battle_type="1" icon="herosk_1007" description="200357" des_para="45;20" />
+    <ItemSpec id="68000704" skill_id="680007" skill_lv="4" hero_lv="48" hero_id="240036" name="200321" type="1" battle_type="1" icon="herosk_1007" description="200357" des_para="50;30" />
+    <ItemSpec id="68000705" skill_id="680007" skill_lv="5" hero_lv="0" hero_id="240036" name="200321" type="1" battle_type="1" icon="herosk_1007" description="200357" des_para="60;50" />
+    <ItemSpec id="68000801" skill_id="680008" skill_lv="1" hero_lv="30" hero_id="240037" name="200325" type="1" icon="herosk_1008" description="200326" des_para="-10" />
+    <ItemSpec id="68000901" skill_id="680009" skill_lv="1" hero_lv="30" hero_id="240037" name="200327" type="1" icon="herosk_1009" description="200328" des_para="50" />
+    <ItemSpec id="68001001" skill_id="680010" skill_lv="1" hero_lv="30" hero_id="240038" name="200331" type="1" icon="herosk_1010" description="200332" des_para="1" />
+    <ItemSpec id="68001002" skill_id="680010" skill_lv="2" hero_lv="35" hero_id="240038" name="200331" type="1" icon="herosk_1010" description="200332" des_para="1.5" />
+    <ItemSpec id="68001003" skill_id="680010" skill_lv="3" hero_lv="40" hero_id="240038" name="200331" type="1" icon="herosk_1010" description="200332" des_para="2" />
+    <ItemSpec id="68001004" skill_id="680010" skill_lv="4" hero_lv="45" hero_id="240038" name="200331" type="1" icon="herosk_1010" description="200332" des_para="2.5" />
+    <ItemSpec id="68001005" skill_id="680010" skill_lv="5" hero_lv="0" hero_id="240038" name="200331" type="1" icon="herosk_1010" description="200332" des_para="3" />
+    <ItemSpec id="68001101" skill_id="680011" skill_lv="1" hero_lv="30" hero_id="240039" name="200335" type="1" battle_type="1" icon="herosk_1011" description="200336" des_para="1;30" time="600" />
+    <ItemSpec id="68001102" skill_id="680011" skill_lv="2" hero_lv="35" hero_id="240039" name="200335" type="1" battle_type="1" icon="herosk_1011" description="200336" des_para="5;30" time="600" />
+    <ItemSpec id="68001103" skill_id="680011" skill_lv="3" hero_lv="40" hero_id="240039" name="200335" type="1" battle_type="1" icon="herosk_1011" description="200336" des_para="5;35" time="600" />
+    <ItemSpec id="68001104" skill_id="680011" skill_lv="4" hero_lv="45" hero_id="240039" name="200335" type="1" battle_type="1" icon="herosk_1011" description="200336" des_para="10;35" time="600" />
+    <ItemSpec id="68001105" skill_id="680011" skill_lv="5" hero_lv="0" hero_id="240039" name="200335" type="1" battle_type="1" icon="herosk_1011" description="200336" des_para="20;40" time="600" />
+    <ItemSpec id="68001201" skill_id="680012" skill_lv="1" hero_lv="30" hero_id="240040" name="200339" type="1" battle_type="1" icon="herosk_1012" description="200340" des_para="10;60" />
+    <ItemSpec id="68001301" skill_id="680013" skill_lv="1" hero_lv="30" hero_id="240041" name="200343" type="1" icon="herosk_1013" description="200344" des_para="10" />
+    <ItemSpec id="68001302" skill_id="680013" skill_lv="2" hero_lv="35" hero_id="240041" name="200343" type="1" icon="herosk_1013" description="200344" des_para="15" />
+    <ItemSpec id="68001303" skill_id="680013" skill_lv="3" hero_lv="0" hero_id="240041" name="200343" type="1" icon="herosk_1013" description="200346" des_para="20" />
+    <ItemSpec id="68001402" skill_id="680014" skill_lv="2" hero_lv="0" hero_id="240041" name="200343" type="1" icon="herosk_1013" description="200344" des_para="15" />
+    <ItemSpec id="68001503" skill_id="680015" skill_lv="3" hero_lv="0" hero_id="240041" name="200343" type="1" battle_type="1" icon="herosk_1013" description="200346" des_para="20" />
+    <ItemSpec id="68001601" skill_id="680016" skill_lv="1" hero_lv="0" hero_id="240042" name="200347" type="1" battle_type="1" icon="herosk_1014" description="200348" des_para="25" />
+    <ItemSpec id="68001701" skill_id="680017" skill_lv="1" hero_lv="30" hero_id="240042" name="200349" type="1" battle_type="1" icon="herosk_1015" description="200350" des_para="50" />
+    <ItemSpec id="68001702" skill_id="680017" skill_lv="2" hero_lv="35" hero_id="240042" name="200349" type="1" battle_type="1" icon="herosk_1015" description="200350" des_para="60" />
+    <ItemSpec id="68001703" skill_id="680017" skill_lv="3" hero_lv="40" hero_id="240042" name="200349" type="1" battle_type="1" icon="herosk_1015" description="200350" des_para="70" />
+    <ItemSpec id="68001704" skill_id="680017" skill_lv="4" hero_lv="45" hero_id="240042" name="200349" type="1" battle_type="1" icon="herosk_1015" description="200350" des_para="80" />
+    <ItemSpec id="68001705" skill_id="680017" skill_lv="5" hero_lv="0" hero_id="240042" name="200349" type="1" battle_type="1" icon="herosk_1015" description="200350" des_para="100" />
+    <ItemSpec id="68001801" skill_id="680018" skill_lv="1" hero_lv="0" hero_id="240043" name="200351" type="1" icon="herosk_1016" description="200352" des_para="50" />
+    <ItemSpec id="68001901" skill_id="680019" skill_lv="1" hero_lv="0" hero_id="240043" name="200353" type="1" icon="herosk_1017" description="200354" des_para="100" />
+    <ItemSpec id="68002001" skill_id="680020" skill_lv="1" hero_lv="30" hero_id="240044" name="200362" type="1" icon="herosk_1018" description="200363" des_para="2" />
+    <ItemSpec id="68002002" skill_id="680020" skill_lv="2" hero_lv="35" hero_id="240044" name="200362" type="1" icon="herosk_1018" description="200363" des_para="2.5" />
+    <ItemSpec id="68002003" skill_id="680020" skill_lv="3" hero_lv="40" hero_id="240044" name="200362" type="1" icon="herosk_1018" description="200363" des_para="3" />
+    <ItemSpec id="68002004" skill_id="680020" skill_lv="4" hero_lv="45" hero_id="240044" name="200362" type="1" icon="herosk_1018" description="200363" des_para="3.5" />
+    <ItemSpec id="68002005" skill_id="680020" skill_lv="5" hero_lv="0" hero_id="240044" name="200362" type="1" icon="herosk_1018" description="200363" des_para="4" />
+    <ItemSpec id="68002101" skill_id="680021" skill_lv="1" hero_lv="30" hero_id="240045" name="200364" type="1" icon="herosk_1019" description="200365" des_para="10" />
+    <ItemSpec id="68002102" skill_id="680021" skill_lv="2" hero_lv="35" hero_id="240045" name="200364" type="1" icon="herosk_1019" description="200365" des_para="15" />
+    <ItemSpec id="68002103" skill_id="680021" skill_lv="3" hero_lv="40" hero_id="240045" name="200364" type="1" icon="herosk_1019" description="200368" des_para="20;10" />
+    <ItemSpec id="68002104" skill_id="680021" skill_lv="4" hero_lv="45" hero_id="240045" name="200364" type="1" icon="herosk_1019" description="200368" des_para="25;20" />
+    <ItemSpec id="68002105" skill_id="680021" skill_lv="5" hero_lv="0" hero_id="240045" name="200364" type="1" icon="herosk_1019" description="200368" des_para="30;30" />
+    <ItemSpec id="68002201" skill_id="680022" skill_lv="1" hero_lv="30" hero_id="240045" name="200366" type="1" icon="herosk_1020" description="200367" des_para="20" />
+    <ItemSpec id="68002202" skill_id="680022" skill_lv="2" hero_lv="35" hero_id="240045" name="200366" type="1" icon="herosk_1020" description="200367" des_para="25" />
+    <ItemSpec id="68002203" skill_id="680022" skill_lv="3" hero_lv="40" hero_id="240045" name="200366" type="1" icon="herosk_1020" description="200367" des_para="30" />
+    <ItemSpec id="68002204" skill_id="680022" skill_lv="4" hero_lv="45" hero_id="240045" name="200366" type="1" icon="herosk_1020" description="200369" des_para="35;5" />
+    <ItemSpec id="68002205" skill_id="680022" skill_lv="5" hero_lv="0" hero_id="240045" name="200366" type="1" icon="herosk_1020" description="200369" des_para="40;10" />
+    <ItemSpec id="68002301" skill_id="680023" skill_lv="1" hero_lv="30" hero_id="240046" name="200382" type="1" icon="herosk_1021" description="200373" des_para="5;10" />
+    <ItemSpec id="68002302" skill_id="680023" skill_lv="2" hero_lv="35" hero_id="240046" name="200382" type="1" icon="herosk_1021" description="200373" des_para="5;15" />
+    <ItemSpec id="68002303" skill_id="680023" skill_lv="3" hero_lv="40" hero_id="240046" name="200382" type="1" icon="herosk_1021" description="200373" des_para="10;20" />
+    <ItemSpec id="68002304" skill_id="680023" skill_lv="4" hero_lv="45" hero_id="240046" name="200382" type="1" icon="herosk_1021" description="200373" des_para="10;25" />
+    <ItemSpec id="68002305" skill_id="680023" skill_lv="5" hero_lv="0" hero_id="240046" name="200382" type="1" icon="herosk_1021" description="200373" des_para="10;30" />
+    <ItemSpec id="68002401" skill_id="680024" skill_lv="1" hero_lv="30" hero_id="240047" name="200376" type="1" battle_type="1" icon="herosk_1022" description="200377" des_para="20;5" />
+    <ItemSpec id="68002402" skill_id="680024" skill_lv="2" hero_lv="35" hero_id="240047" name="200376" type="1" battle_type="1" icon="herosk_1022" description="200377" des_para="22;7" />
+    <ItemSpec id="68002403" skill_id="680024" skill_lv="3" hero_lv="40" hero_id="240047" name="200376" type="1" battle_type="1" icon="herosk_1022" description="200377" des_para="24;9" />
+    <ItemSpec id="68002404" skill_id="680024" skill_lv="4" hero_lv="45" hero_id="240047" name="200376" type="1" battle_type="1" icon="herosk_1022" description="200377" des_para="26;11" />
+    <ItemSpec id="68002405" skill_id="680024" skill_lv="5" hero_lv="0" hero_id="240047" name="200376" type="1" battle_type="1" icon="herosk_1022" description="200377" des_para="30;13" />
+    <ItemSpec id="68002501" skill_id="680025" skill_lv="1" hero_lv="0" hero_id="240046" name="200381" type="1" icon="herosk_1031" description="200378" des_para="33" />
+    <ItemSpec id="68002601" skill_id="680026" skill_lv="1" hero_lv="0" hero_id="240046" name="200383" type="1" icon="herosk_1032" description="200379" des_para="33" />
+    <ItemSpec id="68002701" skill_id="680027" skill_lv="1" hero_lv="0" hero_id="240046" name="200384" type="1" icon="herosk_1033" description="200380" des_para="33;50" />
+    <ItemSpec id="68002801" skill_id="680028" skill_lv="1" hero_lv="0" hero_id="240048" name="200387" type="1" battle_type="1" icon="herosk_1026" description="200388" des_para="10" />
+    <ItemSpec id="68002901" skill_id="680029" skill_lv="1" hero_lv="0" hero_id="240048" name="200389" type="1" battle_type="1" icon="herosk_1027" description="200390" des_para="10" />
+    <ItemSpec id="68003001" skill_id="680030" skill_lv="1" hero_lv="0" hero_id="240048" name="200391" type="1" icon="herosk_1028" description="200392" des_para="5" />
+
+    <ItemSpec id="68003101" skill_id="680031" skill_lv="1" hero_lv="0" hero_id="240048" name="200393" type="1" battle_type="1" icon="herosk_1029" description="76601816" des_para="10" />
+    <ItemSpec id="68003102" skill_id="680031" skill_lv="2" hero_lv="0" hero_id="240048" name="200393" type="1" battle_type="1" icon="herosk_1029" description="76601816" des_para="12" />
+    <ItemSpec id="68003103" skill_id="680031" skill_lv="3" hero_lv="0" hero_id="240048" name="200393" type="1" battle_type="1" icon="herosk_1029" description="76601816" des_para="14" />
+    <ItemSpec id="68003104" skill_id="680031" skill_lv="4" hero_lv="0" hero_id="240048" name="200393" type="1" battle_type="1" icon="herosk_1029" description="76601816" des_para="16" />
+    <ItemSpec id="68003105" skill_id="680031" skill_lv="5" hero_lv="0" hero_id="240048" name="200393" type="1" battle_type="1" icon="herosk_1029" description="76601816" des_para="20" />
+
+ <ItemSpec id="68003401" skill_id="680034" skill_lv="1" hero_lv="0" hero_id="240049" name="200395" type="1" icon="herosk_1034" description="200400" des_para="1" />
+    <ItemSpec id="68003201" skill_id="680032" skill_lv="1" hero_lv="0" hero_id="240049" name="200396" type="1" icon="herosk_1035" description="200401" des_para="1" />
+    <ItemSpec id="68003301" skill_id="680033" skill_lv="1" hero_lv="30" hero_id="240049" name="200397" type="1" icon="herosk_1036" description="200402" des_para="1" />
+    <ItemSpec id="68003302" skill_id="680033" skill_lv="2" hero_lv="35" hero_id="240049" name="200397" type="1" icon="herosk_1036" description="200402" des_para="2" />
+    <ItemSpec id="68003303" skill_id="680033" skill_lv="3" hero_lv="40" hero_id="240049" name="200397" type="1" icon="herosk_1036" description="200402" des_para="3" />
+    <ItemSpec id="68003304" skill_id="680033" skill_lv="4" hero_lv="45" hero_id="240049" name="200397" type="1" icon="herosk_1036" description="200402" des_para="4" />
+    <ItemSpec id="68003305" skill_id="680033" skill_lv="5" hero_id="240049" name="200397" type="1" icon="herosk_1036" description="200402" des_para="5" />
+	<ItemSpec id="68003501" skill_id="680035" skill_lv="1" hero_lv="30" hero_id="240049" name="200398" type="1" battle_type="1" icon="herosk_1037" description="200403" des_para="20;50" />
+    <ItemSpec id="68003502" skill_id="680035" skill_lv="2" hero_lv="35" hero_id="240049" name="200398" type="1" battle_type="1" icon="herosk_1037" description="200403" des_para="25;55" />
+    <ItemSpec id="68003503" skill_id="680035" skill_lv="3" hero_lv="40" hero_id="240049" name="200398" type="1" battle_type="1" icon="herosk_1037" description="200403" des_para="30;60" />
+    <ItemSpec id="68003504" skill_id="680035" skill_lv="4" hero_lv="45" hero_id="240049" name="200398" type="1" battle_type="1" icon="herosk_1037" description="200403" des_para="30;70" />
+    <ItemSpec id="68003505" skill_id="680035" skill_lv="5" hero_id="240049" name="200398" type="1" battle_type="1" icon="herosk_1037" description="200403" des_para="30;80" />
+
+    <ItemSpec id="68003601" skill_id="680036" skill_lv="1" hero_id="240050" name="200406" type="1" icon="herosk_1038" description="200411" des_para="10" />
+    <ItemSpec id="68003701" skill_id="680037" skill_lv="1" hero_id="240050" name="200407" type="1" icon="herosk_1039" description="200412" des_para="1000" />
+    <ItemSpec id="68003801" skill_id="680038" skill_lv="1" hero_id="240050" name="200408" type="1" icon="herosk_1040" description="200413" des_para="20" />
+    <ItemSpec id="68003901" skill_id="680039" skill_lv="1" hero_lv="30" hero_id="240050" name="200409" type="1" battle_type="1" icon="herosk_1041" description="200414" des_para="30" />
+    <ItemSpec id="68003902" skill_id="680039" skill_lv="2" hero_lv="35" hero_id="240050" name="200409" type="1" battle_type="1" icon="herosk_1041" description="200414" des_para="35" />
+    <ItemSpec id="68003903" skill_id="680039" skill_lv="3" hero_lv="40" hero_id="240050" name="200409" type="1" battle_type="1" icon="herosk_1041" description="200414" des_para="40" />
+    <ItemSpec id="68003904" skill_id="680039" skill_lv="4" hero_lv="45" hero_id="240050" name="200409" type="1" battle_type="1" icon="herosk_1041" description="200414" des_para="45" />
+    <ItemSpec id="68003905" skill_id="680039" skill_lv="5" hero_id="240050" name="200409" type="1" battle_type="1" icon="herosk_1041" description="200414" des_para="60" />
+    <ItemSpec id="68004001" skill_id="680040" skill_lv="1" hero_id="240051" name="200421" icon="herosk_1042" description="200416" des_para="20" />
+    <ItemSpec id="68004101" skill_id="680041" skill_lv="1" hero_id="240051" name="200422" icon="herosk_1043" description="200417" des_para="20" />
+    <ItemSpec id="68004201" skill_id="680042" skill_lv="1" hero_id="240051" name="200423" battle_type="1" icon="herosk_1044" description="200418" des_para="50" />
+    <ItemSpec id="68004301" skill_id="680043" skill_lv="1" hero_lv="30" hero_id="240051" name="200425" battle_type="1" icon="herosk_1045" description="200420" des_para="40" />
+    <ItemSpec id="68004302" skill_id="680043" skill_lv="2" hero_lv="35" hero_id="240051" name="200425" battle_type="1" icon="herosk_1045" description="200420" des_para="45" />
+    <ItemSpec id="68004303" skill_id="680043" skill_lv="3" hero_lv="40" hero_id="240051" name="200425" battle_type="1" icon="herosk_1045" description="200420" des_para="50" />
+    <ItemSpec id="68004304" skill_id="680043" skill_lv="4" hero_lv="45" hero_id="240051" name="200425" battle_type="1" icon="herosk_1045" description="200420" des_para="60" />
+    <ItemSpec id="68004305" skill_id="680043" skill_lv="5" hero_id="240051" name="200425" battle_type="1" icon="herosk_1045" description="200420" des_para="70" />
+    <ItemSpec id="68004401" skill_id="680044" skill_lv="1" hero_id="240052" name="200426" icon="herosk_1046" description="200431" des_para="2" />
+    <ItemSpec id="68004501" skill_id="680045" skill_lv="1" hero_id="240052" name="200427" icon="herosk_1047" description="200432" des_para="20" />
+    <ItemSpec id="68004601" skill_id="680046" skill_lv="1" hero_lv="30" hero_id="240052" name="200428" icon="herosk_1048" description="200433" des_para="10" />
+    <ItemSpec id="68004602" skill_id="680046" skill_lv="2" hero_lv="35" hero_id="240052" name="200428" icon="herosk_1048" description="200433" des_para="12" />
+    <ItemSpec id="68004603" skill_id="680046" skill_lv="3" hero_lv="40" hero_id="240052" name="200428" icon="herosk_1048" description="200433" des_para="14" />
+    <ItemSpec id="68004604" skill_id="680046" skill_lv="4" hero_lv="45" hero_id="240052" name="200428" icon="herosk_1048" description="200433" des_para="16" />
+    <ItemSpec id="68004605" skill_id="680046" skill_lv="5" hero_id="240052" name="200428" icon="herosk_1048" description="200433" des_para="20" />
+    <ItemSpec id="68004701" skill_id="680047" skill_lv="1" hero_lv="30" hero_id="240052" name="200429" icon="herosk_1049" description="200434" des_para="25" />
+    <ItemSpec id="68004702" skill_id="680047" skill_lv="2" hero_lv="35" hero_id="240052" name="200429" icon="herosk_1049" description="200434" des_para="30" />
+    <ItemSpec id="68004703" skill_id="680047" skill_lv="3" hero_lv="40" hero_id="240052" name="200429" icon="herosk_1049" description="200434" des_para="35" />
+    <ItemSpec id="68004704" skill_id="680047" skill_lv="4" hero_lv="45" hero_id="240052" name="200429" icon="herosk_1049" description="200434" des_para="45" />
+    <ItemSpec id="68004705" skill_id="680047" skill_lv="5" hero_id="240052" name="200429" icon="herosk_1049" description="200434" des_para="60" />
+	
+    <ItemSpec id="68004801" skill_id="680048" skill_lv="1" hero_id="240053" name="200436" type="1" battle_type="1" icon="herosk_1050" description="200437" des_para="10" />
+    <ItemSpec id="68004901" skill_id="680049" skill_lv="1" hero_id="240053" name="200438" type="1" battle_type="1" icon="herosk_1051" description="200439" des_para="10" />
+    <ItemSpec id="68005001" skill_id="680050" skill_lv="1" hero_lv="30" hero_id="240053" name="200440" type="1" battle_type="1" icon="herosk_1052" description="200441" des_para="10;20" />
+    <ItemSpec id="68005002" skill_id="680050" skill_lv="2" hero_lv="35" hero_id="240053" name="200440" type="1" battle_type="1" icon="herosk_1052" description="200441" des_para="15;25" />
+    <ItemSpec id="68005003" skill_id="680050" skill_lv="3" hero_lv="40" hero_id="240053" name="200440" type="1" battle_type="1" icon="herosk_1052" description="200441" des_para="20;30" />
+    <ItemSpec id="68005004" skill_id="680050" skill_lv="4" hero_lv="45" hero_id="240053" name="200440" type="1" battle_type="1" icon="herosk_1052" description="200441" des_para="25;35" />
+    <ItemSpec id="68005005" skill_id="680050" skill_lv="5" hero_id="240053" name="200440" type="1" battle_type="1" icon="herosk_1052" description="200441" des_para="30;50" />
+    <ItemSpec id="68005101" skill_id="680051" skill_lv="1" hero_lv="30" hero_id="240053" name="200442" type="1" icon="herosk_1053" description="200443" des_para="10" />
+    <ItemSpec id="68005202" skill_id="680052" skill_lv="2" hero_lv="35" hero_id="240053" name="200442" type="1" icon="herosk_1054" description="200443" des_para="12" />
+    <ItemSpec id="68005303" skill_id="680053" skill_lv="3" hero_lv="40" hero_id="240053" name="200442" type="1" icon="herosk_1055" description="200443" des_para="15" />
+    <ItemSpec id="68005404" skill_id="680054" skill_lv="4" hero_lv="45" hero_id="240053" name="200442" type="1" icon="herosk_1056" description="200443" des_para="20" />
+    <ItemSpec id="68005505" skill_id="680055" skill_lv="5" hero_id="240053" name="200442" type="1" icon="herosk_1057" description="200443" des_para="25" />
+
+    <ItemSpec id="67010001" skill_id="670100" skill_lv="1" hero_lv="0" hero_id="240030" name="201102" type="1" icon="herosk_3003" description="201202" des_para="10" />
+    <ItemSpec id="67010101" skill_id="670101" skill_lv="1" hero_lv="0" hero_id="240031" name="201116" type="1" icon="herosk_3017" description="201216" des_para="20" />
+    <ItemSpec id="67010201" skill_id="670102" skill_lv="1" hero_lv="0" hero_id="240032" name="201116" type="1" icon="herosk_3017" description="201216" des_para="20" />
+    <ItemSpec id="67010301" skill_id="670103" skill_lv="1" hero_lv="0" hero_id="240033" name="201110" type="1" icon="herosk_3011" description="201210" des_para="5" />
+    <ItemSpec id="67010401" skill_id="670104" skill_lv="1" hero_lv="0" hero_id="240034" name="201129" type="1" icon="herosk_3054" description="201253" des_para="100" />
+    <ItemSpec id="67010501" skill_id="670105" skill_lv="1" hero_lv="0" hero_id="240035" name="201114" type="1" icon="herosk_3015" description="201214" des_para="20" />
+    <ItemSpec id="67010601" skill_id="670106" skill_lv="1" hero_lv="0" hero_id="240036" name="201117" type="1" icon="herosk_3018" description="201217" des_para="20" />
+    <ItemSpec id="67010701" skill_id="670107" skill_lv="1" hero_lv="0" hero_id="240037" name="201135" type="1" icon="herosk_3065" description="201264" des_para="5" />
+    <ItemSpec id="67010801" skill_id="670108" skill_lv="1" hero_lv="0" hero_id="240038" name="201139" type="1" icon="herosk_3074" description="201273" des_para="20" />
+    <ItemSpec id="67010901" skill_id="670109" skill_lv="1" hero_lv="0" hero_id="240039" name="201110" type="1" icon="herosk_3011" description="201210" des_para="5" />
+    <ItemSpec id="67011001" skill_id="670110" skill_lv="1" hero_lv="0" hero_id="240040" name="201115" type="1" icon="herosk_3016" description="201215" des_para="20" />
+    <ItemSpec id="67011101" skill_id="670111" skill_lv="1" hero_lv="0" hero_id="240041" name="201100" type="1" icon="herosk_3002" description="201201" des_para="20" />
+    <ItemSpec id="67011201" skill_id="670112" skill_lv="1" hero_lv="0" hero_id="240042" name="201132" type="1" icon="herosk_3058" description="201257" des_para="8000" />
+
+    <ItemSpec id="67011401" skill_id="670114" skill_lv="1" hero_lv="0" hero_id="240044" name="201135" type="1" icon="herosk_3065" description="201289" des_para="20" />
+    <ItemSpec id="67011501" skill_id="670115" skill_lv="1" hero_lv="0" hero_id="240045" name="201155" type="1" icon="herosk_3071" description="201270" des_para="10" />
+    <ItemSpec id="67011601" skill_id="670116" skill_lv="1" hero_lv="0" name="201113" type="1" icon="0" description="201117" des_para="10" />
+    <ItemSpec id="67011701" skill_id="670117" skill_lv="1" hero_lv="0" hero_id="240047" name="201143" type="1" icon="herosk_3019" description="201218" des_para="5" />
+    <ItemSpec id="67020001" skill_id="670200" skill_lv="1" hero_lv="0" hero_id="240030" name="201101" type="1" icon="herosk_3001" description="201200" des_para="10" />
+    <ItemSpec id="67020101" skill_id="670201" skill_lv="1" hero_lv="0" hero_id="240031" name="201115" type="1" icon="herosk_3016" description="201215" des_para="20" />
+    <ItemSpec id="67020201" skill_id="670202" skill_lv="1" hero_lv="0" hero_id="240032" name="201120" type="1" icon="herosk_3039" description="201238" des_para="10" />
+    <ItemSpec id="67020301" skill_id="670203" skill_lv="1" hero_lv="0" hero_id="240033" name="201103" type="1" icon="herosk_3003" description="201202" des_para="20" />
+    <ItemSpec id="67020401" skill_id="670204" skill_lv="1" hero_lv="0" hero_id="240034" name="201109" type="1" icon="herosk_3010" description="201209" des_para="10" />
+    <ItemSpec id="67020501" skill_id="670205" skill_lv="1" hero_lv="0" hero_id="240035" name="201119" type="1" icon="herosk_3023" description="201222" des_para="10" />
+    <ItemSpec id="67020601" skill_id="670206" skill_lv="1" hero_lv="0" hero_id="240036" name="201120" type="1" icon="herosk_3047" description="201246" des_para="10" />
+    <ItemSpec id="67020701" skill_id="670207" skill_lv="1" hero_lv="0" hero_id="240037" name="201102" type="1" icon="herosk_3003" description="201202" des_para="20" />
+    <ItemSpec id="67020801" skill_id="670208" skill_lv="1" hero_lv="0" hero_id="240038" name="201107" type="1" icon="herosk_3007" description="201206" des_para="20" />
+    <ItemSpec id="67020901" skill_id="670209" skill_lv="1" hero_lv="0" hero_id="240039" name="201122" type="1" icon="herosk_3027" description="201278" des_para="10" />
+    <ItemSpec id="67021001" skill_id="670210" skill_lv="1" hero_lv="0" hero_id="240040" name="201119" type="1" icon="herosk_3030" description="201229" des_para="10" />
+    <ItemSpec id="67021101" skill_id="670211" skill_lv="1" hero_lv="0" hero_id="240041" name="201108" type="1" icon="herosk_3009" description="201208" des_para="20" />
+    <ItemSpec id="67021201" skill_id="670212" skill_lv="1" hero_lv="0" hero_id="240042" name="201148" type="1" icon="herosk_3029" description="201280" des_para="10" />
+
+    <ItemSpec id="67021401" skill_id="670214" skill_lv="1" hero_lv="0" hero_id="240044" name="201151" type="1" icon="herosk_3068" description="201267" des_para="10" />
+    <ItemSpec id="67021501" skill_id="670215" skill_lv="1" hero_lv="0" hero_id="240045" name="201137" type="1" icon="herosk_3070" description="201269" des_para="10" />
+    <ItemSpec id="67021601" skill_id="670216" skill_lv="1" hero_lv="0" name="201102" type="1" icon="herosk_3003" description="201202" des_para="20" />
+    <ItemSpec id="67021701" skill_id="670217" skill_lv="1" hero_lv="0" hero_id="240047" name="201145" type="1" icon="herosk_3020" description="201219" des_para="5" />
+    <ItemSpec id="67030001" skill_id="670300" skill_lv="1" hero_lv="0" hero_id="240030" name="201104" type="1" icon="herosk_3005" description="201204" des_para="10" />
+    <ItemSpec id="67040001" skill_id="670400" skill_lv="1" hero_lv="0" hero_id="240030" name="201106" type="1" icon="herosk_3007" description="201206" des_para="10" />
+    <ItemSpec id="67040101" skill_id="670401" skill_lv="1" hero_lv="0" hero_id="240031" name="201114" type="1" icon="herosk_3015" description="201214" des_para="20" />
+    <ItemSpec id="67040201" skill_id="670402" skill_lv="1" hero_lv="0" hero_id="240032" name="201119" type="1" icon="herosk_3038" description="201237" des_para="10" />
+    <ItemSpec id="67040301" skill_id="670403" skill_lv="1" hero_lv="0" hero_id="240033" name="201108" type="1" icon="herosk_3009" description="201208" des_para="20" />
+    <ItemSpec id="67040401" skill_id="670404" skill_lv="1" hero_lv="0" hero_id="240034" name="201100" type="1" icon="herosk_3001" description="201200" des_para="20" />
+    <ItemSpec id="67040501" skill_id="670405" skill_lv="1" hero_lv="0" hero_id="240035" name="201120" type="1" icon="herosk_3024" description="201223" des_para="10" />
+    <ItemSpec id="67040601" skill_id="670406" skill_lv="1" hero_lv="0" hero_id="240036" name="201119" type="1" icon="herosk_3046" description="201245" des_para="10" />
+    <ItemSpec id="67040701" skill_id="670407" skill_lv="1" hero_lv="0" hero_id="240037" name="201100" type="1" icon="herosk_3001" description="201200" des_para="10" />
+    <ItemSpec id="67040801" skill_id="670408" skill_lv="1" hero_lv="0" hero_id="240038" name="201133" type="1" icon="herosk_3063" description="201262" des_para="5" />
+    <ItemSpec id="67040901" skill_id="670409" skill_lv="1" hero_lv="0" hero_id="240039" name="201122" type="1" icon="herosk_3026" description="201277" des_para="10" />
+    <ItemSpec id="67041001" skill_id="670410" skill_lv="1" hero_lv="0" hero_id="240040" name="201120" type="1" icon="herosk_3031" description="201230" des_para="10" />
+    <ItemSpec id="67041101" skill_id="670411" skill_lv="1" hero_lv="0" hero_id="240041" name="201106" type="1" icon="herosk_3008" description="201207" des_para="20" />
+    <ItemSpec id="67041201" skill_id="670412" skill_lv="1" hero_lv="0" hero_id="240042" name="201147" type="1" icon="herosk_3028" description="201279" des_para="10" />
+
+    <ItemSpec id="67041401" skill_id="670414" skill_lv="1" hero_lv="0" hero_id="240044" name="201152" type="1" icon="herosk_3069" description="201268" des_para="5" />
+    <ItemSpec id="67041501" skill_id="670415" skill_lv="1" hero_lv="0" hero_id="240045" name="201138" type="1" icon="herosk_3073" description="201272" des_para="20" />
+    <ItemSpec id="67041601" skill_id="670416" skill_lv="1" hero_lv="0" name="201112" type="1" icon="herosk_3013" description="201212" des_para="100" />
+    <ItemSpec id="67041701" skill_id="670417" skill_lv="1" hero_lv="0" hero_id="240047" name="201144" type="1" icon="herosk_3021" description="201220" des_para="5" />
+
+
+
+	
+    </Group> 
+</tns:database>

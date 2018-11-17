@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="exchange_page">
+    <ItemSpec id="46800" name="101091" order="100" />
+    <ItemSpec id="46801" name="101372" order="99" />
+    <ItemSpec id="46802" name="101374" condition="1;5" order="98" />
+    <ItemSpec id="46803" name="101078" condition="1;5" order="96" />
+    <ItemSpec id="46804" name="100285" order="92" />
+    </Group> 
+</tns:database>

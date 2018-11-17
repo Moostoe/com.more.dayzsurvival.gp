@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="missile">
+    <ItemSpec id="53301" type="1" name="109600" description="109601" description_tips="109704" image="53301" atk_dialog="109523" def_dialog="109524" unlock_level="1" order="50" />
+    <ItemSpec id="53302" type="1" name="109602" description="109603" description_tips="109705" image="53302" atk_dialog="109525" def_dialog="109526" unlock_level="2" order="49" />
+    <ItemSpec id="53303" type="1" name="109604" description="109605" description_tips="109706" image="53303" atk_dialog="109527" def_dialog="109528" unlock_level="3" order="47" />
+    <ItemSpec id="53304" type="1" name="109606" description="109607" description_tips="109707" image="53304" atk_dialog="109530" def_dialog="109531" unlock_level="6" order="44" />
+    <ItemSpec id="53305" type="1" name="109608" description="109609" description_tips="109709" image="53305" atk_dialog="109802" def_dialog="109803" unlock_level="5" order="45" />
+    <ItemSpec id="53306" type="101" name="109610" description="109611" description_tips="109711" image="53306" atk_dialog="109530" def_dialog="109531" unlock_level="12" order="38" />
+    <ItemSpec id="53307" type="1" name="109612" description="109613" description_tips="109713" image="53307" atk_dialog="109804" def_dialog="109805" unlock_level="13" order="37" />
+    <ItemSpec id="53308" type="1" name="109614" description="109615" description_tips="109715" image="53308" atk_dialog="109807" def_dialog="109808" unlock_level="7" order="43" />
+    <ItemSpec id="53309" type="1" name="109616" description="109617" description_tips="109717" image="53309" atk_dialog="109809" def_dialog="109810" unlock_level="11" order="39" />
+    <ItemSpec id="53310" type="101" name="109618" description="109619" description_tips="109719" image="53310" atk_dialog="109809" def_dialog="109810" unlock_level="14" order="36" />
+    <ItemSpec id="53311" type="2" name="109620" description="109621" description_tips="109721" image="53311" atk_dialog="109811" def_dialog="109812" unlock_level="4" order="46" />
+    <ItemSpec id="53312" type="5" name="109622" description="109623" description_tips="109723" image="53312" atk_dialog="109813" def_dialog="109814" unlock_level="8" order="42" />
+    <ItemSpec id="53313" type="1" name="109624" description="109625" description_tips="109725" image="53313" atk_dialog="109815" def_dialog="109816" unlock_level="9" order="41" />
+    <ItemSpec id="53314" type="4" name="109626" description="109627" description_tips="109727" image="53314" atk_dialog="109818" def_dialog="109822" unlock_level="10" order="40" />
+    <ItemSpec id="53315" type="1" name="109628" description="109629" description_tips="109729" image="53315" atk_dialog="109823" def_dialog="109824" unlock_level="15" order="35" />
+</Group>
+</tns:database>

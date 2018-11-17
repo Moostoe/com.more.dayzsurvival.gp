@@ -1,0 +1,116 @@
+_alpha_g0103.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Barry_guangbo1
+  rotate: false
+  xy: 455, 222
+  size: 39, 16
+  orig: 73, 46
+  offset: 16, 21
+  index: -1
+Barry_xiong
+  rotate: true
+  xy: 128, 137
+  size: 132, 197
+  orig: 132, 197
+  offset: 0, 0
+  index: -1
+Barry_ermai
+  rotate: false
+  xy: 331, 137
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+Barry_l_xiaobi
+  rotate: true
+  xy: 336, 249
+  size: 91, 94
+  orig: 115, 94
+  offset: 5, 0
+  index: -1
+Barry_tou
+  rotate: true
+  xy: 241, 275
+  size: 65, 89
+  orig: 65, 89
+  offset: 0, 0
+  index: -1
+Barry_xiong_dao
+  rotate: true
+  xy: 436, 249
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+Barry_guangbo2
+  rotate: false
+  xy: 128, 324
+  size: 66, 24
+  orig: 118, 68
+  offset: 25, 30
+  index: -1
+Barry_tui
+  rotate: true
+  xy: 363, 2
+  size: 153, 108
+  orig: 153, 108
+  offset: 0, 0
+  index: -1
+Barry_guangbo3
+  rotate: true
+  xy: 477, 2
+  size: 95, 33
+  orig: 165, 95
+  offset: 34, 42
+  index: -1
+Barry_dun_neice
+  rotate: false
+  xy: 477, 103
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+Barry_r_dabi
+  rotate: true
+  xy: 331, 161
+  size: 82, 118
+  orig: 82, 118
+  offset: 0, 0
+  index: -1
+Barry_r_xiaobi
+  rotate: false
+  xy: 128, 2
+  size: 229, 129
+  orig: 229, 135
+  offset: 0, 0
+  index: -1
+Barry_r_yiling
+  rotate: false
+  xy: 455, 166
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+Barry_dun
+  rotate: false
+  xy: 2, 2
+  size: 120, 329
+  orig: 144, 329
+  offset: 24, 0
+  index: -1
+Barry_l_dabi
+  rotate: true
+  xy: 128, 275
+  size: 43, 107
+  orig: 53, 107
+  offset: 10, 0
+  index: -1
+Barry_l_yiling
+  rotate: true
+  xy: 436, 326
+  size: 13, 44
+  orig: 13, 44
+  offset: 0, 0
+  index: -1

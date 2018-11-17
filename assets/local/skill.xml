@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="skill">
+<ItemSpec id="101000"/>
+<ItemSpec id="101001"/>
+<ItemSpec id="101002"/>
+<ItemSpec id="101003"/>
+<ItemSpec id="101004" effect="151;0" effect_add="151;20"/>
+<ItemSpec id="101005" effect="151;0" effect_add="151;20"/>
+<ItemSpec id="101006"/>
+<ItemSpec id="101007"/>
+<ItemSpec id="101008" object="12" object_num="1" effect="151;0" effect_add="151;10" rate="400" rate_add="0"/>
+<ItemSpec id="101009" object="12" object_num="1" effect="151;0" effect_add="151;10" rate="400" rate_add="0"/>
+<ItemSpec id="101010" effect="151;2" effect_add="151;2"/>
+<ItemSpec id="101011" effect="151;2" effect_add="151;2"/>
+<ItemSpec id="101012" object="0" object_num="1" effect="151;50" effect_add="151;50" rate="300" rate_add="0"/>
+<ItemSpec id="101013" object="12" object_num="1" effect="151;20" effect_add="151;10" rate="300" rate_add="0"/>
+<ItemSpec id="101014" object="12" object_num="1" effect="151;0" effect_add="151;10"/>
+<ItemSpec id="101015"/>
+<ItemSpec id="101016" object="101" object_num="100" rate="200"/>
+<ItemSpec id="101017" object="12" object_num="1" effect="151;0" effect_add="151;20" rate="150" rate_add="0"/>
+<ItemSpec id="101018"/>
+<ItemSpec id="101019" effect="151;0" effect_add="151;20"/>
+<ItemSpec id="101020" object="100" object_num="1" rate="200"/>
+<ItemSpec id="101021" effect="151;50" effect_add="151;25"/>
+<ItemSpec id="101022" object="12" object_num="2" effect="151;0" effect_add="151;20" rate="200" rate_add="0"/>
+<ItemSpec id="101023" object="100" object_num="1" rate="200"/>
+<ItemSpec id="101024" object="16" object_num="1" effect="151;0" effect_add="151;20"/>
+<ItemSpec id="101025" object="16" object_num="1" effect="151;0" effect_add="151;20"/>
+<ItemSpec id="101026"/>
+<ItemSpec id="101027"/>
+<ItemSpec id="101028"/>
+<ItemSpec id="101029" object="12" object_num="1" rate="1000"/>
+<ItemSpec id="101030" object="16" object_num="1"/>
+<ItemSpec id="101031" object="16" object_num="1"/>
+<ItemSpec id="101032" object="16" object_num="1"/>
+<ItemSpec id="101033" object="16" object_num="1"/>
+<ItemSpec id="101034" object="12" object_num="1"/>
+<ItemSpec id="101035" object="12" object_num="1"/>
+<ItemSpec id="101036" object="12" object_num="1" effect="151;0" effect_add="151;20"/>
+<ItemSpec id="101037" object="12" object_num="1" effect="151;0" effect_add="151;20"/>
+<ItemSpec id="101038" object="12" object_num="1"/>
+<ItemSpec id="101039" object="12" object_num="1"/>
+<ItemSpec id="101040" object="17" object_num="1" rate="0"/>
+<ItemSpec id="101041" effect="151;-50"/>
+<ItemSpec id="101042"/>
+<ItemSpec id="101043"/>
+<ItemSpec id="101044" object="12" object_num="2" effect="151;30|685;1" effect_add="151;18" rate="120"/>
+<ItemSpec id="101045" effect="684;210" effect_add="684;110"/>
+<ItemSpec id="101100"/>
+<ItemSpec id="102000" name="ceshi16" icon="herosk_1079" skill_animation="Dzbaozha" skill_animation_amount="9" skill_animation_time="2000" range="1" object="1" object_num="1" effect="151;5" effect_add="151;5" effect_alv="151;0.5" rate="300" rate_add="0"/>
+<ItemSpec id="102001" name="ceshi16" icon="herosk_1079" skill_animation="Dzbaozha" skill_animation_amount="9" skill_animation_time="2000" range="2" object="1" object_num="1" effect="151;4.5" effect_add="151;4" effect_alv="151;0.8" rate="300" rate_add="0"/>
+<ItemSpec id="102002" name="ceshi16" icon="herosk_1079" skill_animation="Dzbaozha" skill_animation_amount="9" skill_animation_time="2000" range="3" object="1" object_num="1" effect="151;5" effect_add="151;2" effect_alv="151;1" rate="300" rate_add="0"/>
+<ItemSpec id="102003" name="ceshi16" icon="herosk_1079" skill_animation="Dzbaozha" skill_animation_amount="9" skill_animation_time="2000" range="1" object="1" object_num="1" effect="151;1" effect_add="151;1" effect_alv="151;0.1" rate="300" rate_add="0"/>
+<ItemSpec id="102004" name="ceshi16" icon="herosk_1079" skill_animation="Dzbaozha" skill_animation_amount="9" skill_animation_time="2000" range="2" object="1" object_num="1" effect="151;1.5" effect_add="151;0.5" effect_alv="151;0.12" rate="300" rate_add="0"/>
+<ItemSpec id="102005" name="ceshi16" icon="herosk_1079" skill_animation="Dzbaozha" skill_animation_amount="9" skill_animation_time="2000" range="3" object="1" object_num="1" effect="151;5" effect_add="151;0.5" effect_alv="151;0.15" rate="300" rate_add="0"/>
+<ItemSpec id="102006" name="ceshi17" icon="herosk_1080" skill_animation="Dzbaozha" skill_animation_amount="9" skill_animation_time="2000" range="4" object="1" object_num="1" effect="151;0" effect_add="151;5" effect_alv="151;4" rate="300" rate_add="0" status_times="1"/>
+<ItemSpec id="102007" name="ceshi17" icon="herosk_1080" skill_animation="Dzbaozha" skill_animation_amount="9" skill_animation_time="2000" range="5" ready="1" object="2" object_num="2" effect="151;0" effect_add="151;5" effect_alv="151;3" rate="500" rate_add="0"/>
+<ItemSpec id="102008" name="ceshi17" icon="herosk_1080" skill_animation="Dzbaozha" skill_animation_amount="9" skill_animation_time="2000" range="2" object="1" object_num="1" effect="151;5" effect_add="151;5" effect_alv="151;2" rate="400" rate_add="0"/>
+<ItemSpec id="102010" name="ceshi17" icon="herosk_1080" skill_animation="Dzbaozha" skill_animation_amount="9" skill_animation_time="2000" range="3" round="1;3;6" object="2" object_num="2" effect="151;20" effect_add="151;3" effect_alv="151;1.5" rate="600" rate_add="0"/>
+<ItemSpec id="102011" name="ceshi17" icon="herosk_1080" skill_animation="Dzbaozha" skill_animation_amount="9" skill_animation_time="2000" range="3" object="1" object_num="1" effect="151;10" effect_add="151;3" effect_alv="151;1.2" rate="300" rate_add="0" status_times="1"/>
+<ItemSpec id="102012" name="ceshi17" icon="herosk_1080" skill_animation="Dzbaozha" skill_animation_amount="9" skill_animation_time="2000" range="3" ready="1" object="2" object_num="2" effect="151;5" effect_add="151;2" effect_alv="151;2" rate="450" rate_add="0"/>
+<ItemSpec id="102013" name="ceshi16" icon="herosk_1079" aoe_animation="hit_aoe" range="5" round="2;5;7" object="2" object_num="3" effect="151;30" effect_add="151;5" effect_alv="151;2" rate="500" rate_add="0"/>
+<ItemSpec id="102014" name="ceshi16" icon="herosk_1079" aoe_animation="hit_aoe" range="4" object="1" object_num="1" effect="151;50" effect_add="151;3" effect_alv="151;4" rate="400" rate_add="0"/>
+<ItemSpec id="102015" name="ceshi16" icon="herosk_1079" aoe_animation="hit_aoe" range="3" ready="1" object="2" object_num="2" effect="151;0" effect_add="151;5" effect_alv="151;1.5" rate="450" rate_add="0"/>
+<ItemSpec id="102016" name="ceshi16" icon="herosk_1079" aoe_animation="hit_aoe" range="3" object="1" object_num="1" effect="151;5" effect_add="151;5" effect_alv="151;1" rate="500" rate_add="0"/>
+<ItemSpec id="102017" name="ceshi16" icon="herosk_1079" aoe_animation="hit_aoe" range="3" object="1" object_num="1" effect="151;10" effect_add="151;2" effect_alv="151;0.5" rate="400" rate_add="0" status_times="1"/>
+<ItemSpec id="102018" name="ceshi16" icon="herosk_1079" aoe_animation="hit_aoe" range="2" object="1" object_num="1" effect="151;5" effect_add="151;5" effect_alv="151;2" rate="400" rate_add="0"/>
+<ItemSpec id="102020" name="ceshi17" icon="herosk_1080" aoe_animation="hit_aoe" range="5" ready="1" object="2" object_num="3" effect="151;0" effect_add="151;2" effect_alv="151;1" rate="600" rate_add="0"/>
+<ItemSpec id="102021" name="ceshi17" icon="herosk_1080" aoe_animation="hit_aoe" range="5" object="1" object_num="1" effect="151;30" effect_add="151;10" effect_alv="151;5.5" rate="300" rate_add="0"/>
+<ItemSpec id="102022" name="ceshi17" icon="herosk_1080" aoe_animation="hit_aoe" range="2" object="1" object_num="1" effect="151;10" effect_add="151;1" effect_alv="151;0.5" rate="300" rate_add="0" status_times="1"/>
+<ItemSpec id="102023" name="ceshi17" icon="herosk_1080" aoe_animation="hit_aoe" range="3" object="2" object_num="2" effect="151;0" effect_add="151;1" effect_alv="151;0.3" rate="300" rate_add="0" status_times="1"/>
+<ItemSpec id="102024" name="ceshi17" icon="herosk_1080" aoe_animation="helicopter_poison" range="2" object="1" object_num="1" effect="151;5" effect_add="151;2" effect_alv="151;1" rate="300" rate_add="0" status_times="1"/>
+<ItemSpec id="102025" name="ceshi17" icon="herosk_1080" aoe_animation="helicopter_poison" range="2" object="1" object_num="1" effect="151;10" effect_add="151;3" effect_alv="151;2" rate="450" rate_add="0"/>
+<ItemSpec id="102026" name="ceshi16" icon="herosk_1079" aoe_animation="helicopter_poison" range="4" object="1" object_num="1" effect="152;100" effect_add="152;10" rate="300" rate_add="0"/>
+<ItemSpec id="102031" name="ceshi16" icon="herosk_1079" aoe_animation="helicopter_poison" range="3" ready="1" object="1" object_num="1" effect="151;20" effect_add="151;10" effect_alv="151;5" rate="550" rate_add="0"/>
+<ItemSpec id="102032" name="ceshi16" icon="herosk_1079" aoe_animation="helicopter_poison" range="3" object="1" object_num="1" effect="151;20" effect_add="151;5" effect_alv="151;3" rate="390" rate_add="0" status_times="1"/>
+<ItemSpec id="102033" name="ceshi16" icon="herosk_1079" aoe_animation="helicopter_poison" range="5" object="1" object_num="1" effect="151;55" effect_add="151;5" effect_alv="151;2" rate="400" rate_add="0"/>
+<ItemSpec id="102034" name="ceshi16" icon="herosk_1079" aoe_animation="helicopter_poison" range="5" round="3;5;8" object="2" object_num="2" effect="151;15" effect_add="151;2" effect_alv="151;3" rate="550" rate_add="0"/>
+<ItemSpec id="102035" name="ceshi16" icon="herosk_1079" aoe_animation="helicopter_poison" range="2" object="1" object_num="1" effect="151;10" effect_add="151;1" effect_alv="151;2" rate="400" rate_add="0" status_times="1"/>
+<ItemSpec id="102040" name="ceshi17" icon="herosk_1080" aoe_animation="helicopter_poison" range="2" object="1" object_num="1" effect="151;20" effect_add="151;2" effect_alv="151;2.5" rate="300" rate_add="0" status_times="1"/>
+<ItemSpec id="102041" name="ceshi17" icon="herosk_1080" aoe_animation="helicopter_poison" range="4" object="2" object_num="2" effect="151;10" effect_add="151;1" effect_alv="151;1" rate="450" rate_add="0"/>
+<ItemSpec id="102042" name="ceshi17" icon="herosk_1080" skill_animation="Dzbaozha" skill_animation_amount="9" skill_animation_time="2000" range="5" ready="1" object="1" object_num="1" effect="151;45" effect_add="151;10" effect_alv="151;4" rate="550" rate_add="0"/>
+<ItemSpec id="102043" name="ceshi17" icon="herosk_1080" skill_animation="Dzbaozha" skill_animation_amount="9" skill_animation_time="2000" range="2" object="1" object_num="1" effect="151;20" effect_add="151;3" effect_alv="151;5" rate="300" rate_add="0"/>
+<ItemSpec id="102044" name="ceshi17" icon="herosk_1080" skill_animation="Dzbaozha" skill_animation_amount="9" skill_animation_time="2000" range="2" object="1" object_num="1" effect="151;10" effect_add="151;3" effect_alv="151;2" rate="300" rate_add="0" status_times="1"/>
+<ItemSpec id="102045" name="ceshi17" icon="herosk_1080" skill_animation="Dzbaozha" skill_animation_amount="9" skill_animation_time="2000" range="3" object="2" object_num="2" effect="151;10" effect_add="151;1" effect_alv="151;1" rate="300" rate_add="0"/>
+<ItemSpec id="102050" name="ceshi16" icon="herosk_1079" skill_animation="Dzbaozha" skill_animation_amount="9" skill_animation_time="2000" range="3" object="2" object_num="2" effect="151;5" effect_add="151;1" effect_alv="151;1" rate="300" rate_add="0" status_times="1"/>
+<ItemSpec id="102051" name="ceshi16" icon="herosk_1079" skill_animation="Dzbaozha" skill_animation_amount="9" skill_animation_time="2000" range="2" object="1" object_num="1" effect="151;5" effect_add="151;1" effect_alv="151;0.5" rate="300" rate_add="0" status_times="1"/>
+<ItemSpec id="102052" name="ceshi16" icon="herosk_1079" skill_animation="Dzbaozha" skill_animation_amount="9" skill_animation_time="2000" range="3" object="2" object_num="2" effect="151;0" effect_add="151;1.5" effect_alv="151;0.2" rate="400" rate_add="0"/>
+<ItemSpec id="102053" name="ceshi16" icon="herosk_1079" skill_animation="Dzbaozha" skill_animation_amount="9" skill_animation_time="2000" range="2" object="1" object_num="1" effect="151;40" effect_add="151;5" effect_alv="151;1.5" rate="300" rate_add="0"/>
+<ItemSpec id="102054" name="ceshi16" icon="herosk_1079" skill_animation="Dzbaozha" skill_animation_amount="9" skill_animation_time="2000" range="2" object="1" object_num="1" effect="151;10" effect_add="151;3" effect_alv="151;2" rate="300" rate_add="0" status_times="1"/>
+<ItemSpec id="102055" name="ceshi16" icon="herosk_1079" skill_animation="Dzbaozha" skill_animation_amount="9" skill_animation_time="2000" range="3" object="1" object_num="1" effect="151;20" effect_add="151;2" effect_alv="151;2.5" rate="300" rate_add="0"/>
+<ItemSpec id="102060" name="ceshi17" icon="herosk_1080" skill_animation="Dzbaozha" skill_animation_amount="9" skill_animation_time="2000" range="4" object="2" object_num="2" effect="151;0" effect_add="151;1" effect_alv="151;1" rate="300" rate_add="0"/>
+<ItemSpec id="102061" name="ceshi17" icon="herosk_1080" skill_animation="Dzbaozha" skill_animation_amount="9" skill_animation_time="2000" range="2" object="1" object_num="1" effect="151;20" effect_add="151;1.5" effect_alv="151;1.5" rate="550" rate_add="0"/>
+<ItemSpec id="102062" name="ceshi17" icon="herosk_1080" range="3" object="2" object_num="2" effect="151;20" effect_add="151;5" effect_alv="151;1" rate="300" rate_add="0"/>
+<ItemSpec id="102063" name="ceshi17" icon="herosk_1080" range="1" object="3" object_num="1" effect="151;0" effect_add="151;1" effect_alv="151;0.4" rate="300" rate_add="0" status_times="1"/>
+<ItemSpec id="102064" name="ceshi17" icon="herosk_1080" rate="20"/>
+<ItemSpec id="102065" name="ceshi17" icon="herosk_1080" object_num="1"/>
+<ItemSpec id="102070" object="12" object_num="1" effect="152;10" effect_add="152;4" rate="100" times="2"/>
+<ItemSpec id="102071" effect="1402;5" effect_add="1402;5"/>
+<ItemSpec id="102072" effect="1404;5" effect_add="1404;5"/>
+<ItemSpec id="102073"/>
+<ItemSpec id="102074" rate="20"/>
+<ItemSpec id="102075" object_num="1"/>
+<ItemSpec id="102080" object="12" object_num="1" effect="152;20" effect_add="152;10" rate="100"/>
+<ItemSpec id="102081" effect="1405;5" effect_add="1405;5"/>
+<ItemSpec id="102082" effect="1407;5" effect_add="1407;5"/>
+<ItemSpec id="102083"/>
+<ItemSpec id="102084" rate="20"/>
+<ItemSpec id="102085" object_num="1"/>
+<ItemSpec id="102090" object="10" object_num="1" effect="152;20" effect_add="152;10" rate="100"/>
+<ItemSpec id="102091" effect="1401;5" effect_add="1401;5"/>
+<ItemSpec id="102092" effect="1404;5" effect_add="1404;5"/>
+<ItemSpec id="102093"/>
+<ItemSpec id="102094" rate="20"/>
+<ItemSpec id="102095" object_num="1"/>
+<ItemSpec id="102200" object="0" object_num="1" effect="151;30" effect_add="151;10" rate="100" rate_add="10"/>
+<ItemSpec id="102201" object="0" object_num="1" effect="151;30" effect_add="151;10" rate="100" rate_add="10"/>
+<ItemSpec id="102202" effect="151;50"/>
+<ItemSpec id="102203" effect="151;50"/>
+<ItemSpec id="102210" object="0" object_num="1" effect="151;30" effect_add="151;10" rate="100" rate_add="10"/>
+<ItemSpec id="102211" object="0" object_num="1" effect="151;30" effect_add="151;10" rate="100" rate_add="10"/>
+<ItemSpec id="102212" effect="151;50"/>
+<ItemSpec id="102213" effect="151;50"/>
+<ItemSpec id="102220" object="0" object_num="1" effect="151;30" effect_add="151;10" rate="100" rate_add="10" times="1"/>
+<ItemSpec id="102221" object="0" object_num="1" effect="151;30" effect_add="151;10" rate="100" rate_add="10" times="1"/>
+<ItemSpec id="102222" times="1"/>
+<ItemSpec id="102223" times="1"/>
+<ItemSpec id="102230" object="0" object_num="1" effect="151;30" effect_add="151;10" rate="100" rate_add="10"/>
+<ItemSpec id="102231" object="0" object_num="1" effect="151;30" effect_add="151;10" rate="100" rate_add="10"/>
+<ItemSpec id="102232" object_num="1"/>
+<ItemSpec id="102233" object_num="1"/>
+<ItemSpec id="102240" object="0" object_num="1" effect="151;20" effect_add="151;8" rate="100" rate_add="10"/>
+<ItemSpec id="102250" object="0" object_num="1" effect="151;20" effect_add="151;8" rate="100" rate_add="10"/>
+<ItemSpec id="102260" object="0" object_num="1" effect="151;20" effect_add="151;8" rate="100" rate_add="10"/>
+<ItemSpec id="102270" object="0" object_num="1" effect="151;20" effect_add="151;8" rate="100" rate_add="10"/>
+<ItemSpec id="102280" object="0" object_num="1" effect="151;20" effect_add="151;8" rate="100" rate_add="10"/>
+<ItemSpec id="102290" object="0" object_num="1" effect="151;20" effect_add="151;8" rate="100" rate_add="10"/>
+<ItemSpec id="102300" object="12" object_num="2" effect="151;20" effect_add="151;8" rate="100" rate_add="10"/>
+<ItemSpec id="102310" object="0" object_num="1" effect="151;20" effect_add="151;8" rate="100" rate_add="10"/>
+<ItemSpec id="102400" object="12" object_num="1" rate="50" rate_add="5"/>
+<ItemSpec id="102401"/>
+<ItemSpec id="102402"/>
+<ItemSpec id="102403" rate="10" rate_add="10"/>
+<ItemSpec id="102404"/>
+<ItemSpec id="102405"/>
+<ItemSpec id="102406" effect="20;2"/>
+<ItemSpec id="102410" object="20" object_num="1" rate="50" rate_add="5"/>
+<ItemSpec id="102411" rate="40" rate_add="4"/>
+<ItemSpec id="102412"/>
+<ItemSpec id="102413" rate="8" rate_add="8"/>
+<ItemSpec id="102414"/>
+<ItemSpec id="102415"/>
+<ItemSpec id="102420" object="120" object_num="1" rate="50" rate_add="5"/>
+<ItemSpec id="102421"/>
+<ItemSpec id="102422"/>
+<ItemSpec id="102423" rate="8" rate_add="8"/>
+<ItemSpec id="102424"/>
+<ItemSpec id="102425" effect="20;1"/>
+<ItemSpec id="102426" effect="904;200" effect_add="30" rate="30" rate_add="0"/>
+<ItemSpec id="102427" effect="904;250" effect_add="50" rate="50" rate_add="0"/>
+<ItemSpec id="103000" range="3" ready="1" object="12" object_num="1" effect="151;100" effect_add="151;100" rate="500" rate_add="0"/>
+<ItemSpec id="103001" range="3" object="12" object_num="2" effect="151;100" effect_add="151;100" rate="1000" rate_add="100"/>
+<ItemSpec id="103002" range="3" object="12" object_num="3" effect="151;100" effect_add="151;100" rate="1000" rate_add="100"/>
+<ItemSpec id="103003" range="3" round="1;3;5;7" object="12" object_num="3" effect="151;100" effect_add="151;100" rate="500" rate_add="100"/>
+<ItemSpec id="103004" range="3" object="12" object_num="3" effect="151;100" effect_add="151;100" rate="1000" rate_add="100"/>
+<ItemSpec id="103005" range="3" object="12" object_num="3" effect="151;100" effect_add="151;100" rate="1000" rate_add="100"/>
+
+  </Group>
+</tns:database>

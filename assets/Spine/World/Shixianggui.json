@@ -1,0 +1,2397 @@
+{
+"skeleton": { "hash": "3F+rwvMMqR/6MmrykwUr+X3lKBo", "spine": "2.1.25", "width": 268, "height": 249 },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Shixianggui_dj_0_0_0_", "bone": "root", "attachment": "Shixianggui_dj_0_0_0_" },
+	{ "name": "Shixianggui_dj_0_0_1_", "bone": "root", "attachment": "Shixianggui_dj_0_0_1_" },
+	{ "name": "Shixianggui_dj_0_0_2_", "bone": "root", "attachment": "Shixianggui_dj_0_0_2_" },
+	{ "name": "Shixianggui_dj_0_0_3_", "bone": "root", "attachment": "Shixianggui_dj_0_0_3_" },
+	{ "name": "Shixianggui_dj_0_0_4_", "bone": "root", "attachment": "Shixianggui_dj_0_0_4_" },
+	{ "name": "Shixianggui_dj_0_1_0_", "bone": "root", "attachment": "Shixianggui_dj_0_1_0_" },
+	{ "name": "Shixianggui_dj_0_1_1_", "bone": "root", "attachment": "Shixianggui_dj_0_1_1_" },
+	{ "name": "Shixianggui_dj_0_1_2_", "bone": "root", "attachment": "Shixianggui_dj_0_1_2_" },
+	{ "name": "Shixianggui_dj_0_1_3_", "bone": "root", "attachment": "Shixianggui_dj_0_1_3_" },
+	{ "name": "Shixianggui_dj_0_1_4_", "bone": "root", "attachment": "Shixianggui_dj_0_1_4_" },
+	{ "name": "Shixianggui_dj_0_2_0_", "bone": "root", "attachment": "Shixianggui_dj_0_2_0_" },
+	{ "name": "Shixianggui_dj_0_2_1_", "bone": "root", "attachment": "Shixianggui_dj_0_2_1_" },
+	{ "name": "Shixianggui_dj_0_2_2_", "bone": "root", "attachment": "Shixianggui_dj_0_2_2_" },
+	{ "name": "Shixianggui_dj_0_2_3_", "bone": "root", "attachment": "Shixianggui_dj_0_2_3_" },
+	{ "name": "Shixianggui_dj_0_2_4_", "bone": "root", "attachment": "Shixianggui_dj_0_2_4_" },
+	{ "name": "Shixianggui_dj_0_2_5_", "bone": "root", "attachment": "Shixianggui_dj_0_2_5_" },
+	{ "name": "Shixianggui_dj_0_3_0_", "bone": "root", "attachment": "Shixianggui_dj_0_3_0_" },
+	{ "name": "Shixianggui_dj_0_3_1_", "bone": "root", "attachment": "Shixianggui_dj_0_3_1_" },
+	{ "name": "Shixianggui_dj_0_3_2_", "bone": "root", "attachment": "Shixianggui_dj_0_3_2_" },
+	{ "name": "Shixianggui_dj_0_3_3_", "bone": "root", "attachment": "Shixianggui_dj_0_3_3_" },
+	{ "name": "Shixianggui_dj_0_3_4_", "bone": "root", "attachment": "Shixianggui_dj_0_3_4_" },
+	{ "name": "Shixianggui_dj_0_3_5_", "bone": "root", "attachment": "Shixianggui_dj_0_3_5_" },
+	{ "name": "Shixianggui_dj_0_4_0_", "bone": "root", "attachment": "Shixianggui_dj_0_4_0_" },
+	{ "name": "Shixianggui_dj_0_4_1_", "bone": "root", "attachment": "Shixianggui_dj_0_4_1_" },
+	{ "name": "Shixianggui_dj_0_4_2_", "bone": "root", "attachment": "Shixianggui_dj_0_4_2_" },
+	{ "name": "Shixianggui_dj_0_4_3_", "bone": "root", "attachment": "Shixianggui_dj_0_4_3_" },
+	{ "name": "Shixianggui_dj_0_4_4_", "bone": "root", "attachment": "Shixianggui_dj_0_4_4_" },
+	{ "name": "Shixianggui_dj_0_4_5_", "bone": "root", "attachment": "Shixianggui_dj_0_4_5_" },
+	{ "name": "Shixianggui_dj_0_4_6_", "bone": "root", "attachment": "Shixianggui_dj_0_4_6_" },
+	{ "name": "Shixianggui_dj_0_5_0_", "bone": "root", "attachment": "Shixianggui_dj_0_5_0_" },
+	{ "name": "Shixianggui_dj_0_5_1_", "bone": "root", "attachment": "Shixianggui_dj_0_5_1_" },
+	{ "name": "Shixianggui_dj_0_5_2_", "bone": "root", "attachment": "Shixianggui_dj_0_5_2_" },
+	{ "name": "Shixianggui_dj_0_5_3_", "bone": "root", "attachment": "Shixianggui_dj_0_5_3_" },
+	{ "name": "Shixianggui_dj_0_5_4_", "bone": "root", "attachment": "Shixianggui_dj_0_5_4_" },
+	{ "name": "Shixianggui_dj_0_5_5_", "bone": "root", "attachment": "Shixianggui_dj_0_5_5_" },
+	{ "name": "Shixianggui_dj_0_6_0_", "bone": "root", "attachment": "Shixianggui_dj_0_6_0_" },
+	{ "name": "Shixianggui_dj_0_6_1_", "bone": "root", "attachment": "Shixianggui_dj_0_6_1_" },
+	{ "name": "Shixianggui_dj_0_6_2_", "bone": "root", "attachment": "Shixianggui_dj_0_6_2_" },
+	{ "name": "Shixianggui_dj_0_6_3_", "bone": "root", "attachment": "Shixianggui_dj_0_6_3_" },
+	{ "name": "Shixianggui_dj_0_6_4_", "bone": "root", "attachment": "Shixianggui_dj_0_6_4_" },
+	{ "name": "Shixianggui_dj_0_7_0_", "bone": "root", "attachment": "Shixianggui_dj_0_7_0_" },
+	{ "name": "Shixianggui_dj_0_7_1_", "bone": "root", "attachment": "Shixianggui_dj_0_7_1_" },
+	{ "name": "Shixianggui_dj_0_7_2_", "bone": "root", "attachment": "Shixianggui_dj_0_7_2_" },
+	{ "name": "Shixianggui_dj_0_7_3_", "bone": "root", "attachment": "Shixianggui_dj_0_7_3_" },
+	{ "name": "Shixianggui_dj_0_7_4_", "bone": "root", "attachment": "Shixianggui_dj_0_7_4_" },
+	{ "name": "Shixianggui_gj_0_1_5_", "bone": "root", "attachment": "Shixianggui_gj_0_1_5_" },
+	{ "name": "Shixianggui_gj_0_1_0_", "bone": "root", "attachment": "Shixianggui_gj_0_1_0_" },
+	{ "name": "Shixianggui_gj_0_1_1_", "bone": "root", "attachment": "Shixianggui_gj_0_1_1_" },
+	{ "name": "Shixianggui_gj_0_1_2_", "bone": "root", "attachment": "Shixianggui_gj_0_1_2_" },
+	{ "name": "Shixianggui_gj_0_1_3_", "bone": "root", "attachment": "Shixianggui_gj_0_1_3_" },
+	{ "name": "Shixianggui_gj_0_1_4_", "bone": "root", "attachment": "Shixianggui_gj_0_1_4_" },
+	{ "name": "Shixianggui_gj_0_2_0_", "bone": "root", "attachment": "Shixianggui_gj_0_2_0_" },
+	{ "name": "Shixianggui_gj_0_2_1_", "bone": "root", "attachment": "Shixianggui_gj_0_2_1_" },
+	{ "name": "Shixianggui_gj_0_2_2_", "bone": "root", "attachment": "Shixianggui_gj_0_2_2_" },
+	{ "name": "Shixianggui_gj_0_2_3_", "bone": "root", "attachment": "Shixianggui_gj_0_2_3_" },
+	{ "name": "Shixianggui_gj_0_2_4_", "bone": "root", "attachment": "Shixianggui_gj_0_2_4_" },
+	{ "name": "Shixianggui_gj_0_3_0_", "bone": "root", "attachment": "Shixianggui_gj_0_3_0_" },
+	{ "name": "Shixianggui_gj_0_3_1_", "bone": "root", "attachment": "Shixianggui_gj_0_3_1_" },
+	{ "name": "Shixianggui_gj_0_3_2_", "bone": "root", "attachment": "Shixianggui_gj_0_3_2_" },
+	{ "name": "Shixianggui_gj_0_3_3_", "bone": "root", "attachment": "Shixianggui_gj_0_3_3_" },
+	{ "name": "Shixianggui_gj_0_3_4_", "bone": "root", "attachment": "Shixianggui_gj_0_3_4_" },
+	{ "name": "Shixianggui_gj_0_4_0_", "bone": "root", "attachment": "Shixianggui_gj_0_4_0_" },
+	{ "name": "Shixianggui_gj_0_4_1_", "bone": "root", "attachment": "Shixianggui_gj_0_4_1_" },
+	{ "name": "Shixianggui_gj_0_4_2_", "bone": "root", "attachment": "Shixianggui_gj_0_4_2_" },
+	{ "name": "Shixianggui_gj_0_5_0_", "bone": "root", "attachment": "Shixianggui_gj_0_5_0_" },
+	{ "name": "Shixianggui_gj_0_5_1_", "bone": "root", "attachment": "Shixianggui_gj_0_5_1_" },
+	{ "name": "Shixianggui_gj_0_5_2_", "bone": "root", "attachment": "Shixianggui_gj_0_5_2_" },
+	{ "name": "Shixianggui_gj_0_5_3_", "bone": "root", "attachment": "Shixianggui_gj_0_5_3_" },
+	{ "name": "Shixianggui_gj_0_6_0_", "bone": "root", "attachment": "Shixianggui_gj_0_6_0_" },
+	{ "name": "Shixianggui_gj_0_6_1_", "bone": "root", "attachment": "Shixianggui_gj_0_6_1_" },
+	{ "name": "Shixianggui_gj_0_6_2_", "bone": "root", "attachment": "Shixianggui_gj_0_6_2_" },
+	{ "name": "Shixianggui_gj_0_6_3_", "bone": "root", "attachment": "Shixianggui_gj_0_6_3_" },
+	{ "name": "Shixianggui_gj_0_7_0_", "bone": "root", "attachment": "Shixianggui_gj_0_7_0_" },
+	{ "name": "Shixianggui_gj_0_7_1_", "bone": "root", "attachment": "Shixianggui_gj_0_7_1_" },
+	{ "name": "Shixianggui_gj_0_7_2_", "bone": "root", "attachment": "Shixianggui_gj_0_7_2_" },
+	{ "name": "Shixianggui_gj_0_7_3_", "bone": "root", "attachment": "Shixianggui_gj_0_7_3_" },
+	{ "name": "Shixianggui_sw_0_1_0_", "bone": "root", "attachment": "Shixianggui_sw_0_1_0_" },
+	{ "name": "Shixianggui_sw_0_1_1_", "bone": "root", "attachment": "Shixianggui_sw_0_1_1_" },
+	{ "name": "Shixianggui_sw_0_1_2_", "bone": "root", "attachment": "Shixianggui_sw_0_1_2_" },
+	{ "name": "Shixianggui_sw_0_1_3_", "bone": "root", "attachment": "Shixianggui_sw_0_1_3_" },
+	{ "name": "Shixianggui_sw_0_2_0_", "bone": "root", "attachment": "Shixianggui_sw_0_2_0_" },
+	{ "name": "Shixianggui_sw_0_2_1_", "bone": "root", "attachment": "Shixianggui_sw_0_2_1_" },
+	{ "name": "Shixianggui_sw_0_2_2_", "bone": "root", "attachment": "Shixianggui_sw_0_2_2_" },
+	{ "name": "Shixianggui_sw_0_2_3_", "bone": "root", "attachment": "Shixianggui_sw_0_2_3_" },
+	{ "name": "Shixianggui_sw_0_3_0_", "bone": "root", "attachment": "Shixianggui_sw_0_3_0_" },
+	{ "name": "Shixianggui_sw_0_3_1_", "bone": "root", "attachment": "Shixianggui_sw_0_3_1_" },
+	{ "name": "Shixianggui_sw_0_3_2_", "bone": "root", "attachment": "Shixianggui_sw_0_3_2_" },
+	{ "name": "Shixianggui_sw_0_4_0_", "bone": "root", "attachment": "Shixianggui_sw_0_4_0_" },
+	{ "name": "Shixianggui_sw_0_4_1_", "bone": "root", "attachment": "Shixianggui_sw_0_4_1_" },
+	{ "name": "Shixianggui_sw_0_4_2_", "bone": "root", "attachment": "Shixianggui_sw_0_4_2_" },
+	{ "name": "Shixianggui_sw_0_4_3_", "bone": "root", "attachment": "Shixianggui_sw_0_4_3_" },
+	{ "name": "Shixianggui_sw_0_5_0_", "bone": "root", "attachment": "Shixianggui_sw_0_5_0_" },
+	{ "name": "Shixianggui_sw_0_5_1_", "bone": "root", "attachment": "Shixianggui_sw_0_5_1_" },
+	{ "name": "Shixianggui_sw_0_5_2_", "bone": "root", "attachment": "Shixianggui_sw_0_5_2_" },
+	{ "name": "Shixianggui_sw_0_6_0_", "bone": "root", "attachment": "Shixianggui_sw_0_6_0_" },
+	{ "name": "Shixianggui_sw_0_6_1_", "bone": "root", "attachment": "Shixianggui_sw_0_6_1_" },
+	{ "name": "Shixianggui_sw_0_6_2_", "bone": "root", "attachment": "Shixianggui_sw_0_6_2_" },
+	{ "name": "Shixianggui_sw_0_7_3_", "bone": "root", "attachment": "Shixianggui_sw_0_7_3_" },
+	{ "name": "Shixianggui_sw_0_7_2_", "bone": "root", "attachment": "Shixianggui_sw_0_7_2_" },
+	{ "name": "Shixianggui_sw_0_7_1_", "bone": "root", "attachment": "Shixianggui_sw_0_7_1_" },
+	{ "name": "Shixianggui_sw_0_7_0_", "bone": "root", "attachment": "Shixianggui_sw_0_7_0_" }
+],
+"skins": {
+	"default": {
+		"Shixianggui_dj_0_0_0_": {
+			"Shixianggui_dj_0_0_0_": { "x": -55.44, "y": 48.99, "width": 79, "height": 24 }
+		},
+		"Shixianggui_dj_0_0_1_": {
+			"Shixianggui_dj_0_0_1_": { "x": 2.05, "y": 61.49, "width": 36, "height": 61 }
+		},
+		"Shixianggui_dj_0_0_2_": {
+			"Shixianggui_dj_0_0_2_": { "x": 13.55, "y": 18.49, "width": 19, "height": 25 }
+		},
+		"Shixianggui_dj_0_0_3_": {
+			"Shixianggui_dj_0_0_3_": { "x": 53.55, "y": 70.99, "width": 67, "height": 26 }
+		},
+		"Shixianggui_dj_0_0_4_": {
+			"Shixianggui_dj_0_0_4_": { "x": -8.94, "y": 115.49, "width": 34, "height": 47 }
+		},
+		"Shixianggui_dj_0_1_0_": {
+			"Shixianggui_dj_0_1_0_": { "x": -55.44, "y": 46.49, "width": 79, "height": 25 }
+		},
+		"Shixianggui_dj_0_1_1_": {
+			"Shixianggui_dj_0_1_1_": { "x": 1.55, "y": 58.99, "width": 35, "height": 60 }
+		},
+		"Shixianggui_dj_0_1_2_": {
+			"Shixianggui_dj_0_1_2_": { "x": 14.05, "y": 17.49, "width": 20, "height": 23 }
+		},
+		"Shixianggui_dj_0_1_3_": {
+			"Shixianggui_dj_0_1_3_": { "x": -20.94, "y": 110.99, "width": 50, "height": 44 }
+		},
+		"Shixianggui_dj_0_1_4_": {
+			"Shixianggui_dj_0_1_4_": { "x": 50.05, "y": 57.99, "width": 62, "height": 34 }
+		},
+		"Shixianggui_dj_0_2_0_": {
+			"Shixianggui_dj_0_2_0_": { "x": 3.55, "y": 66.99, "width": 31, "height": 54 }
+		},
+		"Shixianggui_dj_0_2_1_": {
+			"Shixianggui_dj_0_2_1_": { "x": -53.94, "y": 44.49, "width": 84, "height": 27 }
+		},
+		"Shixianggui_dj_0_2_2_": {
+			"Shixianggui_dj_0_2_2_": { "x": 1.05, "y": 33.49, "width": 34, "height": 13 }
+		},
+		"Shixianggui_dj_0_2_3_": {
+			"Shixianggui_dj_0_2_3_": { "x": 15.05, "y": 16.49, "width": 20, "height": 21 }
+		},
+		"Shixianggui_dj_0_2_4_": {
+			"Shixianggui_dj_0_2_4_": { "x": -19.94, "y": 112.49, "width": 66, "height": 37 }
+		},
+		"Shixianggui_dj_0_2_5_": {
+			"Shixianggui_dj_0_2_5_": { "x": 44.55, "y": 60.99, "width": 51, "height": 40 }
+		},
+		"Shixianggui_dj_0_3_0_": {
+			"Shixianggui_dj_0_3_0_": { "x": 3.55, "y": 65.99, "width": 31, "height": 54 }
+		},
+		"Shixianggui_dj_0_3_1_": {
+			"Shixianggui_dj_0_3_1_": { "x": -53.94, "y": 42.49, "width": 84, "height": 27 }
+		},
+		"Shixianggui_dj_0_3_2_": {
+			"Shixianggui_dj_0_3_2_": { "x": 15.55, "y": 17.49, "width": 21, "height": 21 }
+		},
+		"Shixianggui_dj_0_3_3_": {
+			"Shixianggui_dj_0_3_3_": { "x": 0.55, "y": 33.99, "width": 33, "height": 12 }
+		},
+		"Shixianggui_dj_0_3_4_": {
+			"Shixianggui_dj_0_3_4_": { "x": -2.94, "y": 115.49, "width": 58, "height": 45 }
+		},
+		"Shixianggui_dj_0_3_5_": {
+			"Shixianggui_dj_0_3_5_": { "x": 46.05, "y": 76.99, "width": 56, "height": 34 }
+		},
+		"Shixianggui_dj_0_4_0_": {
+			"Shixianggui_dj_0_4_0_": { "x": 3.55, "y": 61.49, "width": 37, "height": 65 }
+		},
+		"Shixianggui_dj_0_4_1_": {
+			"Shixianggui_dj_0_4_1_": { "x": -54.44, "y": 41.49, "width": 85, "height": 27 }
+		},
+		"Shixianggui_dj_0_4_2_": {
+			"Shixianggui_dj_0_4_2_": { "x": 16.05, "y": 17.99, "width": 22, "height": 22 }
+		},
+		"Shixianggui_dj_0_4_3_": {
+			"Shixianggui_dj_0_4_3_": { "x": 58.55, "y": 89.99, "width": 43, "height": 32 }
+		},
+		"Shixianggui_dj_0_4_4_": {
+			"Shixianggui_dj_0_4_4_": { "x": 29.55, "y": 84.49, "width": 15, "height": 19 }
+		},
+		"Shixianggui_dj_0_4_5_": {
+			"Shixianggui_dj_0_4_5_": { "x": 14.55, "y": 120.99, "width": 45, "height": 54 }
+		},
+		"Shixianggui_dj_0_4_6_": {
+			"Shixianggui_dj_0_4_6_": { "x": 35.05, "y": 64.99, "width": 26, "height": 10 }
+		},
+		"Shixianggui_dj_0_5_0_": {
+			"Shixianggui_dj_0_5_0_": { "x": 2.55, "y": 62.49, "width": 35, "height": 63 }
+		},
+		"Shixianggui_dj_0_5_1_": {
+			"Shixianggui_dj_0_5_1_": { "x": -55.94, "y": 44.99, "width": 82, "height": 24 }
+		},
+		"Shixianggui_dj_0_5_2_": {
+			"Shixianggui_dj_0_5_2_": { "x": 16.05, "y": 18.99, "width": 22, "height": 24 }
+		},
+		"Shixianggui_dj_0_5_3_": {
+			"Shixianggui_dj_0_5_3_": { "x": 34.05, "y": 64.99, "width": 28, "height": 10 }
+		},
+		"Shixianggui_dj_0_5_4_": {
+			"Shixianggui_dj_0_5_4_": { "x": 24.05, "y": 119.49, "width": 36, "height": 93 }
+		},
+		"Shixianggui_dj_0_5_5_": {
+			"Shixianggui_dj_0_5_5_": { "x": 66.05, "y": 93.99, "width": 48, "height": 28 }
+		},
+		"Shixianggui_dj_0_6_0_": {
+			"Shixianggui_dj_0_6_0_": { "x": 2.05, "y": 62.99, "width": 36, "height": 64 }
+		},
+		"Shixianggui_dj_0_6_1_": {
+			"Shixianggui_dj_0_6_1_": { "x": 21.55, "y": 131.5, "width": 49, "height": 73 }
+		},
+		"Shixianggui_dj_0_6_2_": {
+			"Shixianggui_dj_0_6_2_": { "x": 55.55, "y": 86.49, "width": 75, "height": 49 }
+		},
+		"Shixianggui_dj_0_6_3_": {
+			"Shixianggui_dj_0_6_3_": { "x": 15.55, "y": 18.99, "width": 21, "height": 24 }
+		},
+		"Shixianggui_dj_0_6_4_": {
+			"Shixianggui_dj_0_6_4_": { "x": -56.44, "y": 46.99, "width": 81, "height": 24 }
+		},
+		"Shixianggui_dj_0_7_0_": {
+			"Shixianggui_dj_0_7_0_": { "x": 2.05, "y": 59.99, "width": 36, "height": 58 }
+		},
+		"Shixianggui_dj_0_7_1_": {
+			"Shixianggui_dj_0_7_1_": { "x": 55.05, "y": 79.99, "width": 70, "height": 38 }
+		},
+		"Shixianggui_dj_0_7_2_": {
+			"Shixianggui_dj_0_7_2_": { "x": 3.55, "y": 121.99, "width": 35, "height": 66 }
+		},
+		"Shixianggui_dj_0_7_3_": {
+			"Shixianggui_dj_0_7_3_": { "x": -55.94, "y": 47.99, "width": 80, "height": 24 }
+		},
+		"Shixianggui_dj_0_7_4_": {
+			"Shixianggui_dj_0_7_4_": { "x": 14.05, "y": 18.49, "width": 20, "height": 25 }
+		},
+		"Shixianggui_gj_0_1_0_": {
+			"Shixianggui_gj_0_1_0_": { "x": -57.44, "y": 55.99, "width": 83, "height": 32 }
+		},
+		"Shixianggui_gj_0_1_1_": {
+			"Shixianggui_gj_0_1_1_": { "x": 30.05, "y": 84.49, "width": 24, "height": 11 }
+		},
+		"Shixianggui_gj_0_1_2_": {
+			"Shixianggui_gj_0_1_2_": { "x": -21.44, "y": 110.49, "width": 65, "height": 37 }
+		},
+		"Shixianggui_gj_0_1_3_": {
+			"Shixianggui_gj_0_1_3_": { "x": 33.55, "y": 32.99, "width": 31, "height": 66 }
+		},
+		"Shixianggui_gj_0_1_4_": {
+			"Shixianggui_gj_0_1_4_": { "x": 11.05, "y": 17.49, "width": 12, "height": 17 }
+		},
+		"Shixianggui_gj_0_1_5_": {
+			"Shixianggui_gj_0_1_5_": { "x": 1.05, "y": 58.99, "width": 34, "height": 66 }
+		},
+		"Shixianggui_gj_0_2_0_": {
+			"Shixianggui_gj_0_2_0_": { "x": 14.05, "y": 32.99, "width": 34, "height": 68 }
+		},
+		"Shixianggui_gj_0_2_1_": {
+			"Shixianggui_gj_0_2_1_": { "x": 2.05, "y": 107.49, "width": 44, "height": 81 }
+		},
+		"Shixianggui_gj_0_2_2_": {
+			"Shixianggui_gj_0_2_2_": { "x": -16.44, "y": 56.99, "width": 27, "height": 12 }
+		},
+		"Shixianggui_gj_0_2_3_": {
+			"Shixianggui_gj_0_2_3_": { "x": -53.94, "y": 92.49, "width": 68, "height": 19 }
+		},
+		"Shixianggui_gj_0_2_4_": {
+			"Shixianggui_gj_0_2_4_": { "x": 32.05, "y": 112.99, "width": 16, "height": 8 }
+		},
+		"Shixianggui_gj_0_3_0_": {
+			"Shixianggui_gj_0_3_0_": { "x": 7.05, "y": 110.49, "width": 36, "height": 83 }
+		},
+		"Shixianggui_gj_0_3_1_": {
+			"Shixianggui_gj_0_3_1_": { "x": -43.44, "y": 102.99, "width": 65, "height": 30 }
+		},
+		"Shixianggui_gj_0_3_2_": {
+			"Shixianggui_gj_0_3_2_": { "x": 31.05, "y": 132, "width": 12, "height": 8 }
+		},
+		"Shixianggui_gj_0_3_3_": {
+			"Shixianggui_gj_0_3_3_": { "x": 16.05, "y": 37.49, "width": 40, "height": 63 }
+		},
+		"Shixianggui_gj_0_3_4_": {
+			"Shixianggui_gj_0_3_4_": { "x": -13.94, "y": 49.99, "width": 20, "height": 10 }
+		},
+		"Shixianggui_gj_0_4_0_": {
+			"Shixianggui_gj_0_4_0_": { "x": -21.94, "y": 36.99, "width": 64, "height": 78 }
+		},
+		"Shixianggui_gj_0_4_1_": {
+			"Shixianggui_gj_0_4_1_": { "x": -79.44, "y": -15, "width": 51, "height": 60 }
+		},
+		"Shixianggui_gj_0_4_2_": {
+			"Shixianggui_gj_0_4_2_": { "x": 31.55, "y": 64.99, "width": 43, "height": 64 }
+		},
+		"Shixianggui_gj_0_5_0_": {
+			"Shixianggui_gj_0_5_0_": { "x": -48.44, "y": 35.49, "width": 53, "height": 41 }
+		},
+		"Shixianggui_gj_0_5_1_": {
+			"Shixianggui_gj_0_5_1_": { "x": 5.05, "y": 21.99, "width": 54, "height": 44 }
+		},
+		"Shixianggui_gj_0_5_2_": {
+			"Shixianggui_gj_0_5_2_": { "x": 22.55, "y": 62.49, "width": 61, "height": 37 }
+		},
+		"Shixianggui_gj_0_5_3_": {
+			"Shixianggui_gj_0_5_3_": { "x": -71.94, "y": -12.5, "width": 48, "height": 55 }
+		},
+		"Shixianggui_gj_0_6_0_": {
+			"Shixianggui_gj_0_6_0_": { "x": -12.94, "y": 26.49, "width": 70, "height": 53 }
+		},
+		"Shixianggui_gj_0_6_1_": {
+			"Shixianggui_gj_0_6_1_": { "x": -72.94, "y": -1, "width": 50, "height": 70 }
+		},
+		"Shixianggui_gj_0_6_2_": {
+			"Shixianggui_gj_0_6_2_": { "x": -72.44, "y": 45.49, "width": 49, "height": 15 }
+		},
+		"Shixianggui_gj_0_6_3_": {
+			"Shixianggui_gj_0_6_3_": { "x": 41.05, "y": 48.99, "width": 38, "height": 16 }
+		},
+		"Shixianggui_gj_0_7_0_": {
+			"Shixianggui_gj_0_7_0_": { "x": -14.94, "y": 24.99, "width": 54, "height": 62 }
+		},
+		"Shixianggui_gj_0_7_1_": {
+			"Shixianggui_gj_0_7_1_": { "x": -74.94, "y": 17.49, "width": 66, "height": 51 }
+		},
+		"Shixianggui_gj_0_7_2_": {
+			"Shixianggui_gj_0_7_2_": { "x": -67.44, "y": 64.49, "width": 81, "height": 17 }
+		},
+		"Shixianggui_gj_0_7_3_": {
+			"Shixianggui_gj_0_7_3_": { "x": 36.55, "y": 30.99, "width": 49, "height": 24 }
+		},
+		"Shixianggui_sw_0_1_0_": {
+			"Shixianggui_sw_0_1_0_": { "x": -34.44, "y": 109.99, "width": 73, "height": 52 }
+		},
+		"Shixianggui_sw_0_1_1_": {
+			"Shixianggui_sw_0_1_1_": { "x": 5.55, "y": 42.99, "width": 29, "height": 34 }
+		},
+		"Shixianggui_sw_0_1_2_": {
+			"Shixianggui_sw_0_1_2_": { "x": 45.55, "y": 38.99, "width": 21, "height": 42 }
+		},
+		"Shixianggui_sw_0_1_3_": {
+			"Shixianggui_sw_0_1_3_": { "x": 29.05, "y": 97.99, "width": 54, "height": 76 }
+		},
+		"Shixianggui_sw_0_2_0_": {
+			"Shixianggui_sw_0_2_0_": { "x": 39.05, "y": 95.99, "width": 70, "height": 88 }
+		},
+		"Shixianggui_sw_0_2_1_": {
+			"Shixianggui_sw_0_2_1_": { "x": -1.94, "y": 54.99, "width": 12, "height": 10 }
+		},
+		"Shixianggui_sw_0_2_2_": {
+			"Shixianggui_sw_0_2_2_": { "x": -24.44, "y": 118.99, "width": 57, "height": 60 }
+		},
+		"Shixianggui_sw_0_2_3_": {
+			"Shixianggui_sw_0_2_3_": { "x": 22.55, "y": 43.49, "width": 21, "height": 17 }
+		},
+		"Shixianggui_sw_0_3_0_": {
+			"Shixianggui_sw_0_3_0_": { "x": 21.05, "y": 96.99, "width": 66, "height": 96 }
+		},
+		"Shixianggui_sw_0_3_1_": {
+			"Shixianggui_sw_0_3_1_": { "x": 55.55, "y": 174.5, "width": 31, "height": 59 }
+		},
+		"Shixianggui_sw_0_3_2_": {
+			"Shixianggui_sw_0_3_2_": { "x": 72.55, "y": 92.49, "width": 37, "height": 65 }
+		},
+		"Shixianggui_sw_0_4_0_": {
+			"Shixianggui_sw_0_4_0_": { "x": 45.55, "y": 88.99, "width": 63, "height": 90 }
+		},
+		"Shixianggui_sw_0_4_1_": {
+			"Shixianggui_sw_0_4_1_": { "x": 41.05, "y": 35.99, "width": 26, "height": 16 }
+		},
+		"Shixianggui_sw_0_4_2_": {
+			"Shixianggui_sw_0_4_2_": { "x": 95.55, "y": 76.99, "width": 37, "height": 54 }
+		},
+		"Shixianggui_sw_0_4_3_": {
+			"Shixianggui_sw_0_4_3_": { "x": 80.05, "y": 156.49, "width": 36, "height": 45 }
+		},
+		"Shixianggui_sw_0_5_0_": {
+			"Shixianggui_sw_0_5_0_": { "x": 51.55, "y": 102.49, "width": 37, "height": 113 }
+		},
+		"Shixianggui_sw_0_5_1_": {
+			"Shixianggui_sw_0_5_1_": { "x": 78.55, "y": 71.49, "width": 17, "height": 39 }
+		},
+		"Shixianggui_sw_0_5_2_": {
+			"Shixianggui_sw_0_5_2_": { "x": 115.55, "y": 60.99, "width": 57, "height": 44 }
+		},
+		"Shixianggui_sw_0_6_0_": {
+			"Shixianggui_sw_0_6_0_": { "x": 49.05, "y": 93.99, "width": 46, "height": 128 }
+		},
+		"Shixianggui_sw_0_6_1_": {
+			"Shixianggui_sw_0_6_1_": { "x": 83.05, "y": 72.49, "width": 22, "height": 45 }
+		},
+		"Shixianggui_sw_0_6_2_": {
+			"Shixianggui_sw_0_6_2_": { "x": 122.55, "y": 57.99, "width": 57, "height": 60 }
+		},
+		"Shixianggui_sw_0_7_0_": {
+			"Shixianggui_sw_0_7_0_": { "x": 49.55, "y": 86.49, "width": 63, "height": 131 }
+		},
+		"Shixianggui_sw_0_7_1_": {
+			"Shixianggui_sw_0_7_1_": { "x": 89.55, "y": 66.49, "width": 17, "height": 39 }
+		},
+		"Shixianggui_sw_0_7_2_": {
+			"Shixianggui_sw_0_7_2_": { "x": 129.05, "y": 41.99, "width": 62, "height": 38 }
+		},
+		"Shixianggui_sw_0_7_3_": {
+			"Shixianggui_sw_0_7_3_": { "x": 113.05, "y": 74.99, "width": 30, "height": 28 }
+		}
+	}
+},
+"animations": {
+	"dj": {
+		"slots": {
+			"Shixianggui_dj_0_0_0_": {
+				"attachment": [
+					{ "time": 0, "name": "Shixianggui_dj_0_0_0_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_0_1_": {
+				"attachment": [
+					{ "time": 0, "name": "Shixianggui_dj_0_0_1_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_0_2_": {
+				"attachment": [
+					{ "time": 0, "name": "Shixianggui_dj_0_0_2_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_0_3_": {
+				"attachment": [
+					{ "time": 0, "name": "Shixianggui_dj_0_0_3_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_0_4_": {
+				"attachment": [
+					{ "time": 0, "name": "Shixianggui_dj_0_0_4_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_1_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Shixianggui_dj_0_1_0_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_1_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Shixianggui_dj_0_1_1_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_1_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Shixianggui_dj_0_1_2_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_1_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Shixianggui_dj_0_1_3_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_1_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Shixianggui_dj_0_1_4_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_2_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Shixianggui_dj_0_2_0_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_2_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Shixianggui_dj_0_2_1_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_2_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Shixianggui_dj_0_2_2_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_2_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Shixianggui_dj_0_2_3_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_2_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Shixianggui_dj_0_2_4_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_2_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Shixianggui_dj_0_2_5_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_3_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Shixianggui_dj_0_3_0_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_3_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Shixianggui_dj_0_3_1_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_3_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Shixianggui_dj_0_3_2_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_3_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Shixianggui_dj_0_3_3_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_3_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Shixianggui_dj_0_3_4_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_3_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Shixianggui_dj_0_3_5_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_4_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Shixianggui_dj_0_4_0_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_4_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Shixianggui_dj_0_4_1_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_4_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Shixianggui_dj_0_4_2_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_4_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Shixianggui_dj_0_4_3_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_4_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Shixianggui_dj_0_4_4_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_4_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Shixianggui_dj_0_4_5_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_4_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Shixianggui_dj_0_4_6_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_5_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Shixianggui_dj_0_5_0_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_5_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Shixianggui_dj_0_5_1_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_5_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Shixianggui_dj_0_5_2_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_5_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Shixianggui_dj_0_5_3_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_5_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Shixianggui_dj_0_5_4_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_5_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Shixianggui_dj_0_5_5_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_6_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Shixianggui_dj_0_6_0_" },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_6_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Shixianggui_dj_0_6_1_" },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_6_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Shixianggui_dj_0_6_2_" },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_6_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Shixianggui_dj_0_6_3_" },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_6_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Shixianggui_dj_0_6_4_" },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_7_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Shixianggui_dj_0_7_0_" }
+				]
+			},
+			"Shixianggui_dj_0_7_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Shixianggui_dj_0_7_1_" }
+				]
+			},
+			"Shixianggui_dj_0_7_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Shixianggui_dj_0_7_2_" }
+				]
+			},
+			"Shixianggui_dj_0_7_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Shixianggui_dj_0_7_3_" }
+				]
+			},
+			"Shixianggui_dj_0_7_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Shixianggui_dj_0_7_4_" }
+				]
+			},
+			"Shixianggui_gj_0_1_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_1_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_1_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_1_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_1_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_1_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_2_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_2_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_2_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_2_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_2_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_3_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_3_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_3_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_3_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_3_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_4_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_4_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_4_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_5_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_5_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_5_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_5_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_6_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_6_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_6_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_6_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_7_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_7_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_7_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_7_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_1_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_1_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_1_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_1_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_2_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_2_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_2_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_2_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_3_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_3_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_3_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_4_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_4_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_4_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_4_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_5_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_5_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_5_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_6_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_6_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_6_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_7_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_7_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_7_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_7_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			}
+		}
+	},
+	"gj": {
+		"slots": {
+			"Shixianggui_dj_0_0_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_0_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_0_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_0_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_0_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_1_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_1_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_1_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_1_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_1_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_2_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_2_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_2_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_2_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_2_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_2_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_3_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_3_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_3_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_3_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_3_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_3_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_4_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_4_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_4_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_4_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_4_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_4_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_4_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_5_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_5_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_5_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_5_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_5_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_5_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_6_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_6_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_6_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_6_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_6_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_7_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_7_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_7_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_7_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_7_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_1_0_": {
+				"attachment": [
+					{ "time": 0, "name": "Shixianggui_gj_0_1_0_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_1_1_": {
+				"attachment": [
+					{ "time": 0, "name": "Shixianggui_gj_0_1_1_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_1_2_": {
+				"attachment": [
+					{ "time": 0, "name": "Shixianggui_gj_0_1_2_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_1_3_": {
+				"attachment": [
+					{ "time": 0, "name": "Shixianggui_gj_0_1_3_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_1_4_": {
+				"attachment": [
+					{ "time": 0, "name": "Shixianggui_gj_0_1_4_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_1_5_": {
+				"attachment": [
+					{ "time": 0, "name": "Shixianggui_gj_0_1_5_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_2_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Shixianggui_gj_0_2_0_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_2_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Shixianggui_gj_0_2_1_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_2_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Shixianggui_gj_0_2_2_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_2_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Shixianggui_gj_0_2_3_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_2_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Shixianggui_gj_0_2_4_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_3_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Shixianggui_gj_0_3_0_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_3_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Shixianggui_gj_0_3_1_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_3_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Shixianggui_gj_0_3_2_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_3_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Shixianggui_gj_0_3_3_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_3_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Shixianggui_gj_0_3_4_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_4_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Shixianggui_gj_0_4_0_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_4_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Shixianggui_gj_0_4_1_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_4_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Shixianggui_gj_0_4_2_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_5_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Shixianggui_gj_0_5_0_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_5_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Shixianggui_gj_0_5_1_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_5_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Shixianggui_gj_0_5_2_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_5_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Shixianggui_gj_0_5_3_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_6_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Shixianggui_gj_0_6_0_" },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_6_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Shixianggui_gj_0_6_1_" },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_6_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Shixianggui_gj_0_6_2_" },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_6_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Shixianggui_gj_0_6_3_" },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_7_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Shixianggui_gj_0_7_0_" }
+				]
+			},
+			"Shixianggui_gj_0_7_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Shixianggui_gj_0_7_1_" }
+				]
+			},
+			"Shixianggui_gj_0_7_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Shixianggui_gj_0_7_2_" }
+				]
+			},
+			"Shixianggui_gj_0_7_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Shixianggui_gj_0_7_3_" }
+				]
+			},
+			"Shixianggui_sw_0_1_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_1_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_1_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_1_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_2_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_2_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_2_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_2_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_3_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_3_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_3_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_4_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_4_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_4_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_4_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_5_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_5_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_5_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_6_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_6_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_6_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_7_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_7_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_7_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_7_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			}
+		}
+	},
+	"sw": {
+		"slots": {
+			"Shixianggui_dj_0_0_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_0_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_0_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_0_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_0_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_1_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_1_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_1_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_1_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_1_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_2_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_2_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_2_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_2_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_2_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_2_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_3_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_3_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_3_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_3_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_3_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_3_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_4_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_4_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_4_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_4_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_4_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_4_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_4_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_5_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_5_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_5_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_5_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_5_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_5_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_6_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_6_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_6_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_6_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_6_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_7_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_7_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_7_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_7_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_dj_0_7_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_1_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_1_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_1_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_1_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_1_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_1_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_2_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_2_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_2_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_2_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_2_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_3_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_3_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_3_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_3_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_3_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_4_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_4_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_4_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_5_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_5_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_5_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_5_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_6_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_6_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_6_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_6_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_7_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_7_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_7_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_gj_0_7_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_1_0_": {
+				"attachment": [
+					{ "time": 0, "name": "Shixianggui_sw_0_1_0_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_1_1_": {
+				"attachment": [
+					{ "time": 0, "name": "Shixianggui_sw_0_1_1_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_1_2_": {
+				"attachment": [
+					{ "time": 0, "name": "Shixianggui_sw_0_1_2_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_1_3_": {
+				"attachment": [
+					{ "time": 0, "name": "Shixianggui_sw_0_1_3_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_2_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Shixianggui_sw_0_2_0_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_2_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Shixianggui_sw_0_2_1_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_2_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Shixianggui_sw_0_2_2_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_2_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Shixianggui_sw_0_2_3_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_3_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Shixianggui_sw_0_3_0_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_3_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Shixianggui_sw_0_3_1_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_3_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Shixianggui_sw_0_3_2_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_4_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Shixianggui_sw_0_4_0_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_4_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Shixianggui_sw_0_4_1_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_4_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Shixianggui_sw_0_4_2_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_4_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Shixianggui_sw_0_4_3_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_5_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Shixianggui_sw_0_5_0_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_5_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Shixianggui_sw_0_5_1_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_5_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Shixianggui_sw_0_5_2_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_6_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Shixianggui_sw_0_6_0_" },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_6_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Shixianggui_sw_0_6_1_" },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_6_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Shixianggui_sw_0_6_2_" },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"Shixianggui_sw_0_7_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Shixianggui_sw_0_7_0_" }
+				]
+			},
+			"Shixianggui_sw_0_7_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Shixianggui_sw_0_7_1_" }
+				]
+			},
+			"Shixianggui_sw_0_7_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Shixianggui_sw_0_7_2_" }
+				]
+			},
+			"Shixianggui_sw_0_7_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Shixianggui_sw_0_7_3_" }
+				]
+			}
+		}
+	}
+}
+}

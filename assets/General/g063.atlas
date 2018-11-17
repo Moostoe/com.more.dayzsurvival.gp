@@ -1,0 +1,137 @@
+_alpha_g063.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zuoqiangzhuan
+  rotate: false
+  xy: 192, 298
+  size: 149, 115
+  orig: 189, 221
+  offset: 22, 70
+  index: -1
+zuoshoudakai
+  rotate: false
+  xy: 177, 419
+  size: 63, 84
+  orig: 63, 84
+  offset: 0, 0
+  index: -1
+youshoudakai
+  rotate: false
+  xy: 246, 419
+  size: 62, 83
+  orig: 62, 83
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: true
+  xy: 286, 228
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+zuogeboshang
+  rotate: true
+  xy: 2, 446
+  size: 43, 141
+  orig: 43, 141
+  offset: 0, 0
+  index: -1
+youqiangzhuan
+  rotate: false
+  xy: 2, 311
+  size: 149, 115
+  orig: 189, 221
+  offset: 17, 70
+  index: -1
+toufa3
+  rotate: false
+  xy: 157, 311
+  size: 18, 50
+  orig: 20, 52
+  offset: 0, 2
+  index: -1
+youshou
+  rotate: false
+  xy: 296, 2
+  size: 88, 147
+  orig: 88, 147
+  offset: 0, 0
+  index: -1
+banzhengyan
+  rotate: false
+  xy: 2, 495
+  size: 46, 11
+  orig: 46, 11
+  offset: 0, 0
+  index: -1
+kuzi
+  rotate: false
+  xy: 2, 147
+  size: 184, 158
+  orig: 184, 160
+  offset: 0, 2
+  index: -1
+youxiatoufa
+  rotate: false
+  xy: 157, 367
+  size: 19, 38
+  orig: 19, 38
+  offset: 0, 0
+  index: -1
+xianglian
+  rotate: false
+  xy: 337, 446
+  size: 47, 45
+  orig: 49, 45
+  offset: 1, 0
+  index: -1
+biyan
+  rotate: true
+  xy: 157, 411
+  size: 46, 14
+  orig: 48, 14
+  offset: 2, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 149, 463
+  size: 18, 35
+  orig: 20, 41
+  offset: 0, 4
+  index: -1
+toufa1
+  rotate: false
+  xy: 314, 419
+  size: 17, 35
+  orig: 19, 39
+  offset: 0, 3
+  index: -1
+yougeboshang
+  rotate: false
+  xy: 347, 294
+  size: 37, 146
+  orig: 41, 146
+  offset: 1, 0
+  index: -1
+youbi
+  rotate: true
+  xy: 286, 155
+  size: 67, 86
+  orig: 67, 86
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 192, 147
+  size: 88, 145
+  orig: 90, 145
+  offset: 2, 0
+  index: -1
+shangshen
+  rotate: true
+  xy: 2, 2
+  size: 139, 288
+  orig: 143, 288
+  offset: 0, 0
+  index: -1

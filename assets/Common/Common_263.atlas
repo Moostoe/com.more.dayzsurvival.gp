@@ -1,0 +1,81 @@
+_alpha_Common_263.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hf_baodai
+  rotate: true
+  xy: 688, 167
+  size: 82, 94
+  orig: 82, 94
+  offset: 0, 0
+  index: -1
+hf_shenti
+  rotate: true
+  xy: 2, 2
+  size: 247, 388
+  orig: 247, 388
+  offset: 0, 0
+  index: -1
+hf_youdabi
+  rotate: true
+  xy: 577, 2
+  size: 87, 159
+  orig: 87, 159
+  offset: 0, 0
+  index: -1
+hf_youxiaobi
+  rotate: false
+  xy: 467, 148
+  size: 105, 73
+  orig: 105, 73
+  offset: 0, 0
+  index: -1
+hf_zuoshou
+  rotate: false
+  xy: 739, 78
+  size: 98, 84
+  orig: 98, 84
+  offset: 0, 0
+  index: -1
+hf_toubu
+  rotate: true
+  xy: 575, 167
+  size: 82, 110
+  orig: 82, 114
+  offset: 0, 0
+  index: -1
+hf_zuodabi
+  rotate: false
+  xy: 467, 2
+  size: 107, 143
+  orig: 107, 143
+  offset: 0, 0
+  index: -1
+hf_xuejia
+  rotate: false
+  xy: 393, 187
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+hf_zuoxiaobi
+  rotate: true
+  xy: 577, 92
+  size: 72, 119
+  orig: 72, 119
+  offset: 0, 0
+  index: -1
+hf_bao
+  rotate: false
+  xy: 393, 2
+  size: 71, 182
+  orig: 71, 182
+  offset: 0, 0
+  index: -1
+hf_youshou
+  rotate: true
+  xy: 739, 2
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1

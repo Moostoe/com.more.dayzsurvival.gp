@@ -1,0 +1,23 @@
+{
+"skeleton": { "hash": "saB+if1Ihw4h+KM8FdAFlG80ItA", "spine": "2.1.27", "width": 258, "height": 157, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": 17.08, "y": -6.66 }
+],
+"slots": [
+	{ "name": "nanminying", "bone": "bone", "attachment": "nanminying" }
+],
+"skins": {
+	"default": {
+		"nanminying": {
+			"nanminying": { "x": -17.08, "y": 36.91, "width": 258, "height": 157 }
+		}
+	}
+},
+"animations": {
+	"animation": {},
+	"die": {},
+	"move": {},
+	"standby": {}
+}
+}

@@ -1,0 +1,67 @@
+_alpha_ico107119.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tzc_deng
+  rotate: true
+  xy: 377, 266
+  size: 116, 28
+  orig: 128, 40
+  offset: 6, 6
+  index: -1
+tzc_xiabu
+  rotate: true
+  xy: 2, 478
+  size: 510, 226
+  orig: 510, 230
+  offset: 0, 4
+  index: -1
+tzc_jiqiang
+  rotate: false
+  xy: 352, 863
+  size: 47, 44
+  orig: 53, 48
+  offset: 5, 0
+  index: -1
+tzc_youchelun
+  rotate: true
+  xy: 234, 478
+  size: 278, 168
+  orig: 278, 170
+  offset: 0, 2
+  index: -1
+tzc_zuishang
+  rotate: false
+  xy: 2, 2
+  size: 406, 258
+  orig: 406, 258
+  offset: 0, 0
+  index: -1
+tzc_zuogongjian
+  rotate: true
+  xy: 234, 878
+  size: 96, 45
+  orig: 96, 45
+  offset: 0, 0
+  index: -1
+tzc_yougongjian
+  rotate: true
+  xy: 352, 762
+  size: 95, 51
+  orig: 97, 51
+  offset: 1, 0
+  index: -1
+tzc_zuochelun
+  rotate: false
+  xy: 234, 762
+  size: 112, 110
+  orig: 114, 116
+  offset: 2, 6
+  index: -1
+tzc_zhongjian
+  rotate: false
+  xy: 2, 266
+  size: 369, 206
+  orig: 369, 206
+  offset: 0, 0
+  index: -1

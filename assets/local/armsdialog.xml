@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="armsdialog">
+    <ItemSpec id="1001" army="1" dialogId1="170609" dialogId2="170610" dialogId3="170611" dialogId4="170612" dialogId5="170613" dialogId6="170609" dialogId7="170610" dialogId8="170611" dialogId9="170612" dialogId10="170613" dialogId11="170612" dialogId12="170613" resetTime="10" />
+    <ItemSpec id="1002" army="2" dialogId1="170614" dialogId2="170615" dialogId3="170616" dialogId4="170617" dialogId5="170618" dialogId6="170614" dialogId7="170615" dialogId8="170616" dialogId9="170617" dialogId10="170618" dialogId11="170617" dialogId12="170618" resetTime="10" />
+    <ItemSpec id="1003" army="3" dialogId1="170604" dialogId2="170605" dialogId3="170606" dialogId4="170607" dialogId5="170608" dialogId6="170604" dialogId7="170605" dialogId8="170606" dialogId9="170607" dialogId10="170608" dialogId11="170607" dialogId12="170608" resetTime="10" />
+    <ItemSpec id="1004" army="4" dialogId1="170619" dialogId2="170620" dialogId3="170621" dialogId4="170622" dialogId5="170623" dialogId6="170624" dialogId7="170619" dialogId8="170620" dialogId9="170621" dialogId10="170622" dialogId11="170623" dialogId12="170624" resetTime="10" />
+    <ItemSpec id="1005" army="5" dialogId1="170604" dialogId2="170605" dialogId3="170606" dialogId4="170607" dialogId5="170608" dialogId6="170604" dialogId7="170605" dialogId8="170606" dialogId9="170607" dialogId10="170608" dialogId11="170607" dialogId12="170608" resetTime="10" />
+</Group>
+</tns:database>

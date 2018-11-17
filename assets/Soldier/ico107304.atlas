@@ -1,0 +1,109 @@
+_alpha_ico107304.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5ji_youxiaobi
+  rotate: true
+  xy: 395, 80
+  size: 50, 100
+  orig: 50, 102
+  offset: 0, 2
+  index: -1
+5ji_youdatui
+  rotate: false
+  xy: 96, 153
+  size: 74, 91
+  orig: 74, 91
+  offset: 0, 0
+  index: -1
+5ji_youjiao
+  rotate: false
+  xy: 2, 206
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+5ji_shou
+  rotate: false
+  xy: 2, 2
+  size: 88, 198
+  orig: 88, 198
+  offset: 0, 0
+  index: -1
+5ji_qugan
+  rotate: true
+  xy: 201, 2
+  size: 133, 123
+  orig: 151, 135
+  offset: 13, 2
+  index: -1
+5ji_zuodabi
+  rotate: true
+  xy: 398, 136
+  size: 43, 97
+  orig: 45, 97
+  offset: 0, 0
+  index: -1
+5ji_kua
+  rotate: true
+  xy: 262, 141
+  size: 104, 66
+  orig: 104, 66
+  offset: 0, 0
+  index: -1
+5ji_zuodatui
+  rotate: false
+  xy: 176, 153
+  size: 80, 86
+  orig: 94, 116
+  offset: 13, 30
+  index: -1
+5ji_xiaba
+  rotate: true
+  xy: 52, 206
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+5ji_zuoxiaobi
+  rotate: false
+  xy: 96, 2
+  size: 99, 145
+  orig: 99, 153
+  offset: 0, 7
+  index: -1
+5ji_youxiaotui
+  rotate: false
+  xy: 330, 2
+  size: 59, 103
+  orig: 59, 103
+  offset: 0, 0
+  index: -1
+5ji_zuoxiaotui
+  rotate: true
+  xy: 395, 2
+  size: 72, 102
+  orig: 84, 102
+  offset: 12, 0
+  index: -1
+5ji_tou
+  rotate: false
+  xy: 334, 111
+  size: 55, 48
+  orig: 55, 48
+  offset: 0, 0
+  index: -1
+5ji_youdabi
+  rotate: true
+  xy: 334, 165
+  size: 81, 58
+  orig: 85, 70
+  offset: 4, 12
+  index: -1
+5ji_zuojiao
+  rotate: false
+  xy: 398, 185
+  size: 83, 44
+  orig: 83, 44
+  offset: 0, 0
+  index: -1

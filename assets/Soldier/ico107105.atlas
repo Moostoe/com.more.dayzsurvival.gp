@@ -1,0 +1,137 @@
+_alpha_ico107105.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6ji_chehoushen
+  rotate: false
+  xy: 2, 2
+  size: 270, 183
+  orig: 286, 187
+  offset: 6, 4
+  index: -1
+6ji_lyoutong2
+  rotate: false
+  xy: 225, 383
+  size: 39, 39
+  orig: 41, 39
+  offset: 1, 0
+  index: -1
+6ji_zi
+  rotate: false
+  xy: 430, 230
+  size: 48, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+6ji_yingzi
+  rotate: false
+  xy: 2, 191
+  size: 331, 120
+  orig: 333, 120
+  offset: 0, 0
+  index: -1
+6ji_lci
+  rotate: false
+  xy: 430, 157
+  size: 72, 67
+  orig: 82, 81
+  offset: 0, 13
+  index: -1
+6ji_chedinglan
+  rotate: true
+  xy: 388, 157
+  size: 133, 36
+  orig: 137, 36
+  offset: 4, 0
+  index: -1
+6ji_lyoutong1
+  rotate: false
+  xy: 435, 287
+  size: 43, 34
+  orig: 45, 34
+  offset: 1, 0
+  index: -1
+6ji_qianhu
+  rotate: false
+  xy: 278, 2
+  size: 226, 149
+  orig: 234, 151
+  offset: 8, 1
+  index: -1
+6ji_cheshenqian
+  rotate: false
+  xy: 2, 317
+  size: 217, 93
+  orig: 225, 93
+  offset: 7, 0
+  index: -1
+6ji_lhouluntai
+  rotate: false
+  xy: 388, 296
+  size: 41, 55
+  orig: 43, 55
+  offset: 1, 0
+  index: -1
+6ji_lbianlan
+  rotate: true
+  xy: 278, 157
+  size: 21, 52
+  orig: 25, 62
+  offset: 4, 10
+  index: -1
+chesandeng
+  rotate: true
+  xy: 484, 307
+  size: 25, 20
+  orig: 35, 28
+  offset: 4, 4
+  index: -1
+c6ji_hedingfanghu
+  rotate: false
+  xy: 225, 317
+  size: 86, 60
+  orig: 86, 60
+  offset: 0, 0
+  index: -1
+6ji_ldang
+  rotate: true
+  xy: 373, 357
+  size: 64, 29
+  orig: 64, 29
+  offset: 0, 0
+  index: -1
+6ji_ci
+  rotate: false
+  xy: 270, 383
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+6ji_wangsi
+  rotate: true
+  xy: 408, 357
+  size: 63, 30
+  orig: 65, 32
+  offset: 1, 1
+  index: -1
+6ji_chedeng
+  rotate: true
+  xy: 484, 230
+  size: 71, 20
+  orig: 71, 24
+  offset: 0, 4
+  index: -1
+6ji_cheqian
+  rotate: true
+  xy: 339, 157
+  size: 177, 43
+  orig: 177, 43
+  offset: 0, 0
+  index: -1
+6ji_lqianluntai
+  rotate: false
+  xy: 317, 340
+  size: 50, 82
+  orig: 50, 84
+  offset: 0, 1
+  index: -1

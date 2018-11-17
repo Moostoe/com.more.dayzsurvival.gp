@@ -1,0 +1,116 @@
+_alpha_g0112.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Neal_bao2
+  rotate: true
+  xy: 192, 378
+  size: 122, 68
+  orig: 122, 68
+  offset: 0, 0
+  index: -1
+Neal_bao
+  rotate: false
+  xy: 2, 378
+  size: 67, 124
+  orig: 67, 124
+  offset: 0, 0
+  index: -1
+Neal_tou
+  rotate: true
+  xy: 266, 440
+  size: 55, 81
+  orig: 55, 81
+  offset: 0, 0
+  index: -1
+Neal_qigan1
+  rotate: false
+  xy: 178, 189
+  size: 88, 183
+  orig: 88, 183
+  offset: 0, 0
+  index: -1
+Neal_youshou
+  rotate: false
+  xy: 272, 370
+  size: 129, 64
+  orig: 129, 64
+  offset: 0, 0
+  index: -1
+Neal_qi2
+  rotate: false
+  xy: 204, 2
+  size: 158, 168
+  orig: 158, 168
+  offset: 0, 0
+  index: -1
+Neal_qugan
+  rotate: false
+  xy: 2, 189
+  size: 170, 183
+  orig: 182, 193
+  offset: 12, 0
+  index: -1
+Neal_duijiangji
+  rotate: true
+  xy: 436, 470
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+Neal_pifeng1
+  rotate: true
+  xy: 408, 175
+  size: 167, 95
+  orig: 167, 95
+  offset: 0, 0
+  index: -1
+Neal_kua
+  rotate: false
+  xy: 408, 348
+  size: 100, 64
+  orig: 100, 64
+  offset: 0, 0
+  index: -1
+Neal_pifeng2
+  rotate: false
+  xy: 2, 2
+  size: 196, 181
+  orig: 202, 181
+  offset: 6, 0
+  index: -1
+Neal_qi1
+  rotate: false
+  xy: 368, 2
+  size: 144, 167
+  orig: 144, 167
+  offset: 0, 0
+  index: -1
+Neal_daizi
+  rotate: true
+  xy: 75, 378
+  size: 114, 111
+  orig: 114, 111
+  offset: 0, 0
+  index: -1
+Neal_qigan2
+  rotate: false
+  xy: 272, 176
+  size: 130, 188
+  orig: 130, 188
+  offset: 0, 0
+  index: -1
+Neal_youshangbi
+  rotate: false
+  xy: 436, 418
+  size: 59, 46
+  orig: 59, 46
+  offset: 0, 0
+  index: -1
+Neal_zuoshangbi
+  rotate: true
+  xy: 353, 440
+  size: 58, 77
+  orig: 58, 77
+  offset: 0, 0
+  index: -1

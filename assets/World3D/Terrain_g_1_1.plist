@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>Terrain_g_1_1.pkm</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,0},{512,512}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{512,512}}</string>
+                <key>sourceSize</key>
+                <string>{512,512}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>Terrain_g_1_1.pkm</string>
+            <key>size</key>
+            <string>{512,512}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:8039621572b11a5c1697a4e27b947980:1/1$</string>
+            <key>textureFileName</key>
+            <string>Terrain_g_1_1.pkm</string>
+        </dict>
+    </dict>
+</plist>

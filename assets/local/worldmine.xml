@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="worldmine">
+    <ItemSpec id="87200" name="109817" icon="icon87200" atk_title="109819" atk_content="109820;109829" def_title="109821" def_content="109822;109830" />
+</Group>
+</tns:database>

@@ -1,0 +1,95 @@
+_alpha_g0117.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+piaodai
+  rotate: true
+  xy: 212, 345
+  size: 22, 88
+  orig: 22, 88
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 2
+  size: 196, 296
+  orig: 200, 298
+  offset: 0, 2
+  index: -1
+gebo
+  rotate: true
+  xy: 304, 2
+  size: 203, 80
+  orig: 203, 80
+  offset: 0, 0
+  index: -1
+houmian
+  rotate: false
+  xy: 238, 408
+  size: 105, 100
+  orig: 105, 100
+  offset: 0, 0
+  index: -1
+kuzi
+  rotate: false
+  xy: 2, 204
+  size: 204, 165
+  orig: 212, 165
+  offset: 2, 0
+  index: -1
+shangbi2
+  rotate: false
+  xy: 303, 211
+  size: 80, 128
+  orig: 82, 128
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: true
+  xy: 349, 408
+  size: 45, 8
+  orig: 45, 8
+  offset: 0, 0
+  index: -1
+paidai1
+  rotate: false
+  xy: 264, 373
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+jianjia
+  rotate: true
+  xy: 306, 345
+  size: 57, 67
+  orig: 67, 103
+  offset: 10, 0
+  index: -1
+kuzipiaodai
+  rotate: false
+  xy: 119, 375
+  size: 113, 131
+  orig: 113, 131
+  offset: 0, 0
+  index: -1
+shangbi1
+  rotate: false
+  xy: 2, 375
+  size: 111, 134
+  orig: 117, 134
+  offset: 6, 0
+  index: -1
+tou
+  rotate: false
+  xy: 212, 204
+  size: 85, 126
+  orig: 89, 128
+  offset: 3, 0
+  index: -1
+piaodai2
+  rotate: true
+  xy: 238, 373
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1

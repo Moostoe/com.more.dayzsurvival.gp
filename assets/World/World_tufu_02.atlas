@@ -1,0 +1,165 @@
+_alpha_World_tufu_02.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l_shou2
+  rotate: false
+  xy: 123, 220
+  size: 21, 25
+  orig: 23, 27
+  offset: 2, 1
+  index: -1
+l_xiaotui
+  rotate: false
+  xy: 89, 178
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+r_datui
+  rotate: true
+  xy: 2, 204
+  size: 33, 49
+  orig: 41, 59
+  offset: 0, 4
+  index: -1
+hou_qunbai
+  rotate: true
+  xy: 118, 2
+  size: 51, 32
+  orig: 61, 32
+  offset: 0, 0
+  index: -1
+qian_qunbai
+  rotate: true
+  xy: 2, 74
+  size: 68, 41
+  orig: 68, 41
+  offset: 0, 0
+  index: -1
+l_dabi2
+  rotate: false
+  xy: 49, 74
+  size: 29, 43
+  orig: 33, 47
+  offset: 4, 3
+  index: -1
+l_dabi
+  rotate: false
+  xy: 53, 159
+  size: 27, 31
+  orig: 27, 33
+  offset: 0, 1
+  index: -1
+l_xiaobi3
+  rotate: true
+  xy: 57, 196
+  size: 29, 26
+  orig: 33, 28
+  offset: 0, 2
+  index: -1
+r_dabi
+  rotate: false
+  xy: 119, 59
+  size: 35, 33
+  orig: 37, 33
+  offset: 1, 0
+  index: -1
+l_shou
+  rotate: true
+  xy: 53, 123
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+l_dabi3
+  rotate: false
+  xy: 84, 68
+  size: 29, 41
+  orig: 33, 47
+  offset: 4, 3
+  index: -1
+r_shou
+  rotate: false
+  xy: 89, 205
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+l_xiaobi2
+  rotate: false
+  xy: 84, 115
+  size: 29, 24
+  orig: 33, 28
+  offset: 0, 4
+  index: -1
+tou
+  rotate: true
+  xy: 119, 98
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+l_xiaobi
+  rotate: false
+  xy: 119, 164
+  size: 28, 23
+  orig: 38, 25
+  offset: 5, 2
+  index: -1
+xin
+  rotate: true
+  xy: 57, 231
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+l_jiao
+  rotate: false
+  xy: 119, 131
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+r_xiaotui
+  rotate: false
+  xy: 86, 145
+  size: 27, 27
+  orig: 27, 29
+  offset: 0, 2
+  index: -1
+xiong
+  rotate: false
+  xy: 2, 2
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+r_jiao
+  rotate: true
+  xy: 92, 231
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+l_datui
+  rotate: false
+  xy: 2, 148
+  size: 45, 50
+  orig: 49, 52
+  offset: 4, 2
+  index: -1
+r_xiaobi
+  rotate: true
+  xy: 123, 193
+  size: 21, 31
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 64, 2
+  size: 48, 60
+  orig: 48, 62
+  offset: 0, 1
+  index: -1

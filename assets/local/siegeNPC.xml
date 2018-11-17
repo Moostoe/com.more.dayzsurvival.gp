@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="siegeNPC">
+	<ItemSpec id="3001" name="79000333" armsId="107008;1000|107009;1000" armsBuff="1010;1000"/>
+</Group>
+
+
+
+
+
+
+</tns:database>

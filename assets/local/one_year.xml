@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="one_year">
+    <ItemSpec id="1" contentTitle="79010428" contentDesicription="79010431" picUrl="http://img.im30app.com/az/fbshare/fra.jpg" />
+    <ItemSpec id="2" contentTitle="79010429" contentDesicription="79010432" picUrl="http://img.im30app.com/az/fbshare/war.jpg" />
+    <ItemSpec id="3" contentTitle="79010430" contentDesicription="79010433" picUrl="http://img.im30app.com/az/fbshare/zombie.jpg" />
+</Group>
+</tns:database>

@@ -1,0 +1,43 @@
+{
+"skeleton": { "hash": "+XZBFLtz0t8qSHyQg1NHRzZxOwI", "spine": "2.1.27", "width": 1129, "height": 2000, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": 14.62, "y": 947.67 }
+],
+"slots": [
+	{ "name": "ssq_beijinghou", "bone": "bone", "attachment": "ssq_beijinghou" }
+],
+"skins": {
+	"default": {
+		"ssq_beijinghou": {
+			"ssq_beijinghou": { "x": -14.62, "y": 51.05, "width": 1129, "height": 2000 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 2.6666, "angle": 0, "curve": "stepped" },
+					{ "time": 5.6666, "angle": 0, "curve": "stepped" },
+					{ "time": 6.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": -434.95, "curve": "stepped" },
+					{ "time": 2.6666, "x": 0, "y": -434.95 },
+					{ "time": 5.6666, "x": 0, "y": -408.42, "curve": "stepped" },
+					{ "time": 6.6666, "x": 0, "y": -408.42 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1.2, "y": 1.2, "curve": "stepped" },
+					{ "time": 2.6666, "x": 1.2, "y": 1.2 },
+					{ "time": 5.6666, "x": 0.57, "y": 0.57, "curve": "stepped" },
+					{ "time": 6.6666, "x": 0.57, "y": 0.57 }
+				]
+			}
+		}
+	}
+}
+}

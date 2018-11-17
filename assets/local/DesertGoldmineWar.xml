@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="goldmine">
+    <ItemSpec id="10000" level="0" gold="1" pic="w_goldmine0" name="80000752" soldier_number="5000"/>
+    <ItemSpec id="10001" level="1" gold="10" pic="w_goldmine1" name="80000751" soldier_number="20000"/>
+    <ItemSpec id="10002" level="2" gold="50" pic="w_goldmine2" name="80000751" soldier_number="80000"/>
+    <ItemSpec id="10003" level="3" gold="120" pic="w_goldmine3" name="80000751" soldier_number="100000"/>
+  </Group>
+  <Group id="goldrush_building">
+    <ItemSpec id="20001" name="80000001" description="80000002" pic="item100" size="2" territorysize="4" number="1" stone="500000" speed1=".3" speed2=".000004" rank="3" city_pic="territory_3;0;60|territory_4;0;60" city_ani="WorldBuild;WorldDamaged"/>
+  </Group>
+
+  <Group id="goldrush_config">
+    <ItemSpec id="goldrush_color" color1="0,119,174" color2="207,0,0"/>
+  </Group>
+
+  
+  
+
+</tns:database>

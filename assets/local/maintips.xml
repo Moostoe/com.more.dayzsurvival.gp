@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="maintips">
+    <ItemSpec id="221100" type="1" order="1" />
+    <ItemSpec id="221101" type="2" order="2" />
+    <ItemSpec id="221102" type="3" order="3" />
+    <ItemSpec id="221103" type="4" order="4" para1="120" />
+    <ItemSpec id="221104" type="5" order="5" />
+    <ItemSpec id="221105" type="6" order="6" />
+    <ItemSpec id="221106" type="7" order="50" />
+    <ItemSpec id="221107" type="8" order="100" />
+    <ItemSpec id="221108" type="9" order="10" />
+    <ItemSpec id="221109" type="10" order="11" showtime="3;4" />
+    <ItemSpec id="221110" type="11" order="5" />
+
+	<ItemSpec id="221112" type="13" order="13" />
+
+</Group>
+</tns:database>

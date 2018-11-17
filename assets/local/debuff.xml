@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="debuff">
+<ItemSpec id="1010001" name="201000" description="201001" pic="debuff_fangyu"/>
+<ItemSpec id="1010002" name="109536" description="109537" pic="icon1010002"/>
+<ItemSpec id="1010003" name="109800" description="109803" pic="icon1010003" pos="1;2"/>
+<ItemSpec id="1010004" name="109806" description="109808" pic="icon1010004" pos="1;2"/>
+<ItemSpec id="1010005" name="109825" description="109826" pic="icon500911"/>
+<ItemSpec id="1010006" name="81000483" description="81000502" pic="maoyan_debuff_1" pos="1;2"/>
+<ItemSpec id="1010007" name="81000484" description="81000503" pic="maoyan_debuff_2" pos="1;2"/>
+
+    </Group> 
+</tns:database>

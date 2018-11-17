@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="quick_clear_cd">
+    <ItemSpec id="602700" goods_id="208006;208034;209726" />
+    <ItemSpec id="690002" goods_id="208025" />
+    <ItemSpec id="690003" goods_id="208026" />
+    <ItemSpec id="690001" goods_id="208027" />
+    <ItemSpec id="690004" goods_id="208028" />
+    <ItemSpec id="690005" goods_id="208029" />
+    <ItemSpec id="690006" goods_id="208030" />
+    <ItemSpec id="690007" goods_id="208031" />
+    <ItemSpec id="690008" goods_id="208032;208035" />
+    <ItemSpec id="690009" goods_id="208033" />
+    <ItemSpec id="601000" goods_id="208036" />
+    <ItemSpec id="650001" goods_id="208037" />
+    <ItemSpec id="605100" goods_id="208038" />
+    <ItemSpec id="650002" goods_id="208039" />
+    <ItemSpec id="690016" goods_id="208040" />
+
+</Group>
+</tns:database>
+	

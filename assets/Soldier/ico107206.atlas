@@ -1,0 +1,144 @@
+_alpha_ico107206.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+youdatui
+  rotate: false
+  xy: 332, 75
+  size: 48, 96
+  orig: 48, 96
+  offset: 0, 0
+  index: -1
+youyaobu
+  rotate: false
+  xy: 371, 177
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: false
+  xy: 2, 178
+  size: 129, 110
+  orig: 129, 110
+  offset: 0, 0
+  index: -1
+shenzi
+  rotate: true
+  xy: 210, 75
+  size: 86, 116
+  orig: 86, 116
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 210, 2
+  size: 170, 67
+  orig: 206, 87
+  offset: 18, 6
+  index: -1
+weijin
+  rotate: false
+  xy: 443, 176
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+qianweijin
+  rotate: false
+  xy: 412, 166
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+youxiaotui
+  rotate: true
+  xy: 386, 2
+  size: 46, 111
+  orig: 46, 111
+  offset: 0, 0
+  index: -1
+zidandai
+  rotate: false
+  xy: 137, 178
+  size: 55, 110
+  orig: 55, 110
+  offset: 0, 0
+  index: -1
+zuoshouqian
+  rotate: true
+  xy: 463, 216
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: false
+  xy: 274, 167
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: false
+  xy: 386, 54
+  size: 59, 106
+  orig: 59, 106
+  offset: 0, 0
+  index: -1
+zuoxiaobi
+  rotate: true
+  xy: 328, 177
+  size: 53, 37
+  orig: 57, 39
+  offset: 4, 2
+  index: -1
+zuoxiaotui
+  rotate: false
+  xy: 451, 54
+  size: 33, 116
+  orig: 33, 116
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 274, 241
+  size: 69, 62
+  orig: 69, 62
+  offset: 0, 0
+  index: -1
+qiang
+  rotate: false
+  xy: 2, 2
+  size: 202, 170
+  orig: 216, 228
+  offset: 14, 24
+  index: -1
+youxiaobi
+  rotate: false
+  xy: 198, 267
+  size: 62, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+kua
+  rotate: true
+  xy: 198, 178
+  size: 83, 70
+  orig: 83, 70
+  offset: 0, 0
+  index: -1
+zuodabi
+  rotate: false
+  xy: 433, 216
+  size: 24, 78
+  orig: 24, 78
+  offset: 0, 0
+  index: -1
+yaoguadai
+  rotate: false
+  xy: 349, 236
+  size: 78, 67
+  orig: 78, 67
+  offset: 0, 0
+  index: -1

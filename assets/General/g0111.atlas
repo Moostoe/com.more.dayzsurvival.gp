@@ -1,0 +1,102 @@
+_alpha_g0111.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chad_tou
+  rotate: true
+  xy: 159, 420
+  size: 79, 78
+  orig: 81, 78
+  offset: 0, 0
+  index: -1
+Chad_wqdaizi
+  rotate: false
+  xy: 2, 466
+  size: 74, 42
+  orig: 74, 42
+  offset: 0, 0
+  index: -1
+Chad_body
+  rotate: false
+  xy: 2, 287
+  size: 119, 173
+  orig: 151, 179
+  offset: 18, 0
+  index: -1
+Chad_youxiaobi
+  rotate: true
+  xy: 152, 2
+  size: 83, 100
+  orig: 83, 100
+  offset: 0, 0
+  index: -1
+Chad_zuoxiaobi
+  rotate: true
+  xy: 152, 156
+  size: 43, 69
+  orig: 43, 73
+  offset: 0, 0
+  index: -1
+Chad_zuodabi
+  rotate: true
+  xy: 152, 91
+  size: 59, 87
+  orig: 67, 87
+  offset: 0, 0
+  index: -1
+Chad_wq
+  rotate: true
+  xy: 2, 2
+  size: 279, 144
+  orig: 279, 170
+  offset: 0, 26
+  index: -1
+Chad_tui
+  rotate: true
+  xy: 127, 287
+  size: 127, 125
+  orig: 127, 125
+  offset: 0, 0
+  index: -1
+Chad_zuoshou
+  rotate: false
+  xy: 127, 420
+  size: 26, 26
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Chad_qiang
+  rotate: true
+  xy: 152, 253
+  size: 23, 80
+  orig: 27, 80
+  offset: 4, 0
+  index: -1
+Chad_youdabi
+  rotate: true
+  xy: 82, 466
+  size: 41, 71
+  orig: 41, 71
+  offset: 0, 0
+  index: -1
+Chad_daizi
+  rotate: false
+  xy: 227, 156
+  size: 23, 91
+  orig: 23, 91
+  offset: 0, 0
+  index: -1
+Chad_yantou
+  rotate: true
+  xy: 127, 452
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+Chad_zhuangshi
+  rotate: false
+  xy: 152, 205
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1

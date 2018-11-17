@@ -1,0 +1,151 @@
+_alpha_ico107309.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10ji_zuodatui
+  rotate: true
+  xy: 302, 55
+  size: 33, 93
+  orig: 35, 93
+  offset: 2, 0
+  index: -1
+10ji_zuobilian
+  rotate: true
+  xy: 190, 2
+  size: 56, 106
+  orig: 64, 108
+  offset: 0, 0
+  index: -1
+10ji_tou
+  rotate: false
+  xy: 436, 85
+  size: 48, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+10ji_boci
+  rotate: true
+  xy: 118, 105
+  size: 68, 83
+  orig: 68, 83
+  offset: 0, 0
+  index: -1
+10ji_xiongiqanlian
+  rotate: false
+  xy: 320, 94
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+10ji_zuoshouwan
+  rotate: false
+  xy: 332, 166
+  size: 42, 42
+  orig: 48, 44
+  offset: 3, 2
+  index: -1
+10ji_youxiaobi
+  rotate: false
+  xy: 207, 100
+  size: 60, 68
+  orig: 64, 78
+  offset: 3, 2
+  index: -1
+10ji_shen
+  rotate: false
+  xy: 118, 2
+  size: 66, 97
+  orig: 66, 103
+  offset: 0, 0
+  index: -1
+10ji_youdabi
+  rotate: false
+  xy: 293, 174
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1
+10ji_youdatui
+  rotate: true
+  xy: 302, 2
+  size: 47, 106
+  orig: 47, 106
+  offset: 0, 0
+  index: -1
+10ji_zulianqian
+  rotate: false
+  xy: 2, 2
+  size: 80, 194
+  orig: 80, 194
+  offset: 0, 0
+  index: -1
+10ji_zuoxiaobi
+  rotate: false
+  xy: 383, 94
+  size: 47, 68
+  orig: 47, 68
+  offset: 0, 0
+  index: -1
+10ji_zuojiaolian
+  rotate: true
+  xy: 447, 153
+  size: 64, 39
+  orig: 64, 41
+  offset: 0, 0
+  index: -1
+10ji_zuoshou
+  rotate: true
+  xy: 380, 168
+  size: 49, 61
+  orig: 49, 61
+  offset: 0, 0
+  index: -1
+10ji_zuodabi
+  rotate: false
+  xy: 273, 100
+  size: 41, 68
+  orig: 41, 74
+  offset: 0, 1
+  index: -1
+10ji_youjiaolian
+  rotate: false
+  xy: 414, 2
+  size: 85, 51
+  orig: 85, 53
+  offset: 0, 2
+  index: -1
+10ji_zuolianhou
+  rotate: false
+  xy: 88, 2
+  size: 24, 174
+  orig: 24, 174
+  offset: 0, 0
+  index: -1
+10ji_zulianhouhou
+  rotate: true
+  xy: 88, 182
+  size: 43, 133
+  orig: 43, 133
+  offset: 0, 0
+  index: -1
+10ji_kua
+  rotate: false
+  xy: 227, 174
+  size: 60, 51
+  orig: 62, 53
+  offset: 0, 2
+  index: -1
+10ji_youxitui
+  rotate: true
+  xy: 190, 64
+  size: 30, 97
+  orig: 34, 99
+  offset: 4, 0
+  index: -1
+10ji_zuoxiaotui
+  rotate: true
+  xy: 401, 59
+  size: 20, 88
+  orig: 20, 88
+  offset: 0, 0
+  index: -1

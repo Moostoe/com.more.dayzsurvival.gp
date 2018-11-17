@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="soldier_effect">
+    <!-- offset为原始大小偏移，程序会考虑scale进行调整偏移 ,卯点 ccp(0.5f, 0.5f)-->
+    <!-- 新版一战小兵喷火... -->
+    
+    <soldier id="1000" name="a030_0" effect_attack="penhuo/huoyanbingpenhuo_SW_attack_%02d.png" scale="2" offsetL="70,-20" offsetR="70,-20" offsetT="1,1" offsetB="1,1" offsetTR="1,1" offsetTL="1,1" offsetBR="-70,-20" offsetBL="70,-25"/>
+    <soldier id="1001" name="paobing" effect_attack="kaiqiang/shibingkaiqiang_%s_attack_%02d.png" scale="1.3" offsetL="20,20" offsetR="-20,20" offsetT="1,1" offsetB="1,1" offsetTR="1,1" offsetTL="1,1" offsetBR="1,1" offsetBL="1,1"/>
+    <soldier id="1002" name="buqiangbing" effect_attack="zidan/zidanke/zidanke_move_%02d.png" scale="1.3" offsetL="18,15" offsetR="-15,15" offsetT="18,1" offsetB="5,-11" offsetTR="1,1" offsetTL="1,1" offsetBR="1,1" offsetBL="10,-1"/>
+    <soldier id="1003" name="jl" effect_attack="zidan/zidanke/zidanke_move_%02d.png" scale="0.6" offsetL="1,1" offsetR="1,1" offsetT="1,1" offsetB="1,1" offsetTR="1,1" offsetTL="1,1" offsetBR="1,1" offsetBL="1,1"/>
+    <soldier id="1004" name="db" effect_attack="zidan/zidanke/zidanke_move_%02d.png" scale="0.6" offsetL="1,1" offsetR="1,1" offsetT="1,1" offsetB="1,1" offsetTR="1,1" offsetTL="1,1" offsetBR="1,1" offsetBL="1,1"/>
+    <soldier id="1005" name="cd" effect_attack="zidan/zidanke/zidanke_move_%02d.png" scale="0.6" offsetL="1,1" offsetR="1,1" offsetT="1,1" offsetB="1,1" offsetTR="1,1" offsetTL="1,1" offsetBR="1,1" offsetBL="1,1"/>
+    <soldier id="1006" name="shss" effect_attack="zidan/zidanke/zidanke_move_%02d.png" scale="0.6" offsetL="1,1" offsetR="1,1" offsetT="1,1" offsetB="1,1" offsetTR="1,1" offsetTL="1,1" offsetBR="1,1" offsetBL="1,1"/>
+    <soldier id="1007" name="xm" effect_attack="zidan/zidanke/zidanke_move_%02d.png" scale="0.6" offsetL="1,1" offsetR="1,1" offsetT="1,1" offsetB="1,1" offsetTR="1,1" offsetTL="1,1" offsetBR="1,1" offsetBL="1,1"/>
+    <soldier id="1008" name="nh1" effect_attack="zidan/zidanke/zidanke_move_%02d.png" scale="0.6" offsetL="1,1" offsetR="1,1" offsetT="1,1" offsetB="1,1" offsetTR="1,1" offsetTL="1,1" offsetBR="1,1" offsetBL="1,1"/>
+    <soldier id="1009" name="a060_0" effect_attack="zidan/zidanke/zidanke_move_%02d.png" scale="0.6" offsetL="1,1" offsetR="1,1" offsetT="1,1" offsetB="1,1" offsetTR="1,1" offsetTL="1,1" offsetBR="1,1" offsetBL="1,1"/>
+    <!-- <soldier id="1010" name="a010_0" effect_attack="" scale="0.6" offsetL="1,1" offsetR="1,1" offsetT="1,1" offsetB="1,1" offsetTR="1,1" offsetTL="1,1" offsetBR="1,1" offsetBL="1,1"/> -->
+<!--    <soldier id="1011" name="a020_0" effect_attack="zidan/zidanke/zidanke_move_%02d.png" scale="0.6" offsetL="1,1" offsetR="1,1" offsetT="1,1" offsetB="1,1" offsetTR="1,1" offsetTL="1,1" offsetBR="1,1" offsetBL="1,1"/>-->
+    <soldier id="1012" name="a030_1" effect_attack="zidan/zidanke/zidanke_move_%02d.png" scale="0.6" offsetL="40,30" offsetR="-30,27" offsetT="10,50" offsetB="0,15" offsetTR="-27,45" offsetTL="37,43" offsetBR="-30,5" offsetBL="40,5"/>
+    <soldier id="1013" name="a020_0" effect_attack="tank_effect/tank1_%s_%02d.png" scale="0.6" offsetL="110,20" offsetR="-90,20" offsetT="0,90" offsetB="10,-40" offsetTR="-80,60" offsetTL="100,60" offsetBR="-68,-18" offsetBL="75,-15"/>
+  </Group>
+</tns:database>

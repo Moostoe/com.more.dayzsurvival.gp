@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="role_exp">
+ 
+    <ItemSpec id="100101" player_exp="300" />
+    <ItemSpec id="100102" player_exp="800" />
+    <ItemSpec id="100103" player_exp="2100" />
+    <ItemSpec id="100104" player_exp="6800" />
+    <ItemSpec id="100105" player_exp="13400" />
+    <ItemSpec id="100106" player_exp="18300" />
+    <ItemSpec id="100107" player_exp="25100" />
+    <ItemSpec id="100108" player_exp="36200" />
+    <ItemSpec id="100109" player_exp="44200" />
+    <ItemSpec id="100110" player_exp="59800" />
+    <ItemSpec id="100111" player_exp="75000" />
+    <ItemSpec id="100112" player_exp="98200" />
+    <ItemSpec id="100113" player_exp="121000" />
+    <ItemSpec id="100114" player_exp="150000" />
+    <ItemSpec id="100115" player_exp="200000" />
+    <ItemSpec id="100116" player_exp="264000" />
+    <ItemSpec id="100117" player_exp="282000" />
+    <ItemSpec id="100118" player_exp="316000" />
+    <ItemSpec id="100119" player_exp="360000" />
+    <ItemSpec id="100120" player_exp="445000" />
+    <ItemSpec id="100121" player_exp="540000" />
+    <ItemSpec id="100122" player_exp="581000" />
+    <ItemSpec id="100123" player_exp="637000" />
+    <ItemSpec id="100124" player_exp="745000" />
+    <ItemSpec id="100125" player_exp="880000" />
+    <ItemSpec id="100126" player_exp="920000" />
+    <ItemSpec id="100127" player_exp="1050000" />
+    <ItemSpec id="100128" player_exp="1130000" />
+    <ItemSpec id="100129" player_exp="1310000" />
+    <ItemSpec id="100130" player_exp="1860000" />
+    <ItemSpec id="100131" player_exp="2650000" />
+    <ItemSpec id="100132" player_exp="2980000" />
+    <ItemSpec id="100133" player_exp="3820000" />
+    <ItemSpec id="100134" player_exp="4320000" />
+    <ItemSpec id="100135" player_exp="6850000" />
+    <ItemSpec id="100136" player_exp="8740000" />
+    <ItemSpec id="100137" player_exp="9830000" />
+    <ItemSpec id="100138" player_exp="11800000" />
+    <ItemSpec id="100139" player_exp="16300000" />
+    <ItemSpec id="100140" player_exp="21820000" />
+    <ItemSpec id="100141" player_exp="30300000" />
+    <ItemSpec id="100142" player_exp="38800000" />
+    <ItemSpec id="100143" player_exp="52400000" />
+    <ItemSpec id="100144" player_exp="67500000" />
+    <ItemSpec id="100145" player_exp="90600000" />
+    <ItemSpec id="100146" player_exp="119000000" />
+    <ItemSpec id="100147" player_exp="147000000" />
+    <ItemSpec id="100148" player_exp="220000000" />
+    <ItemSpec id="100149" player_exp="250000000" />
+    <ItemSpec id="100150" player_exp="300000000" />
+
+
+</Group>
+
+
+  </tns:database>

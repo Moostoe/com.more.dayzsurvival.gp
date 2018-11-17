@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="eventBuilding">
+    <ItemSpec id="1000" num="56" name="79000419" icon="w4_npc1" npc="107711;250000|107721;50000" point="100000" size="1" injured="100" speedReduce="100" speedUpTimes="2" armsNum="1000000"/>
+    <ItemSpec id="1010" num="40" name="79000420" icon="w4_npc1" npc="107712;500000|107722;100000" point="500000" size="1" injured="100" speedReduce="100" speedUpTimes="2" armsNum="1000000"/>
+    <ItemSpec id="1020" num="4" name="79000421" icon="w4_npc2" npc="107713;5000000|107723;1000000" point="5000000" size="2" injured="100" speedReduce="100" speedUpTimes="2" armsNum="1000000"/>
+</Group>
+
+</tns:database>

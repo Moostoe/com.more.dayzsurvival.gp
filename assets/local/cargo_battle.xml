@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="people">
+      <begin id="10000" type="1" resource="buqiangbing" position="2494,1144" speed="90" zorder="100" born="0.1" action="0,1,7" des="man1" scale="1.3" delay="1" repeat="1" png="1"/>
+      <begin id="10001" type="1" resource="buqiangbing" position="2588,1192" speed="90" zorder="100" born="0.1" action="0,1,7" des="man5" scale="1.3" delay="1" repeat="1" png="1"/>
+      <begin id="10002" type="1" resource="buqiangbing" position="2659,1234" speed="90" zorder="100" born="0.2" action="0.1,1,7" des="man1" scale="1.3" delay="1" repeat="1" png="1"/>
+      <begin id="10003" type="1" resource="buqiangbing" position="2729,1272" speed="90" zorder="100" born="0.2" action="0.1,1,7" des="man5" scale="1.3" delay="1" repeat="1" png="1"/>
+     
+     
+      <begin id="10004" type="3" resource="effect_dajiqiang"   position="2162,1417" speed="90" zorder="100" born="3.2" action="0,1,3" des="texiao-zhadan" scale="1.3" delay="1" repeat="1" png="2"/>
+      <begin id="10005" type="3" resource="effect_dajiqiang"   position="2185,1429" speed="90" zorder="100" born="3.2" action="0,1,3" des="texiao-zhadan" scale="1.3" delay="1" repeat="1" png="2"/>
+      <begin id="10006" type="3" resource="effect_xiaojiqiang" position="2485,1549" speed="90" zorder="100" born="3.2" action="0,1,2" des="texiao-zhadan" scale="1.3" delay="1" repeat="1" png="2"/>
+      <begin id="10007" type="3" resource="effect_xiaojiqiang" position="2639,1526" speed="90" zorder="100" born="3.2" action="0,1,2" des="texiao-zhadan" scale="1.3" delay="1" repeat="1" png="2"/>
+     
+      <begin id="10008" type="1" resource="zidan" position="2266,1300|2826,861 " speed="500" zorder="100" born="3.2" action="0,4,1" des="man5" scale="1.3" delay="0.5" repeat="100" png="1"/>
+      <begin id="10009" type="1" resource="zidan" position="2250,1290|2810,851 " speed="500" zorder="100" born="3.2" action="0,4,1" des="man5" scale="1.3" delay="0.5" repeat="100" png="1"/>
+      <begin id="10010" type="1" resource="zidan" position="2562,1427|2967,1111" speed="500" zorder="100" born="3.2" action="0,4,1" des="man5" scale="1.3" delay="0.5" repeat="100" png="1"/>
+      <begin id="10011" type="1" resource="zidan" position="2719,1400|3022,1065" speed="500" zorder="100" born="3.2" action="0,4,1" des="man5" scale="1.3" delay="0.5" repeat="100" png="1"/>
+      
+      <begin id="10012" type="1" resource="zidan" position="2266,1300|2826,861 " speed="500" zorder="100" born="3.2" action="0.1,4,1" des="man5" scale="1.3" delay="0.5" repeat="100" png="1"/>
+      <begin id="10013" type="1" resource="zidan" position="2250,1290|2810,851 " speed="500" zorder="100" born="3.2" action="0.1,4,1" des="man5" scale="1.3" delay="0.5" repeat="100" png="1"/>
+      <begin id="10014" type="1" resource="zidan" position="2562,1427|2967,1111" speed="500" zorder="100" born="3.2" action="0.1,4,1" des="man5" scale="1.3" delay="0.5" repeat="100" png="1"/>
+      <begin id="10015" type="1" resource="zidan" position="2719,1400|3022,1065" speed="500" zorder="100" born="3.2" action="0.1,4,1" des="man5" scale="1.3" delay="0.5" repeat="100" png="1"/>
+      
+      <begin id="10016" type="1" resource="zidan" position="2266,1300|2826,861 " speed="500" zorder="100" born="3.2" action="0.2,4,1" des="man5" scale="1.3" delay="0.5" repeat="100" png="1"/>
+      <begin id="10017" type="1" resource="zidan" position="2250,1290|2810,851 " speed="500" zorder="100" born="3.2" action="0.2,4,1" des="man5" scale="1.3" delay="0.5" repeat="100" png="1"/>
+      <begin id="10018" type="1" resource="zidan" position="2562,1427|2967,1111" speed="500" zorder="100" born="3.2" action="0.2,4,1" des="man5" scale="1.3" delay="0.5" repeat="100" png="1"/>
+      <begin id="10019" type="1" resource="zidan" position="2719,1400|3022,1065" speed="500" zorder="100" born="3.2" action="0.2,4,1" des="man5" scale="1.3" delay="0.5" repeat="100" png="1"/>
+      
+      <begin id="10020" type="1" resource="zidan" position="2266,1300|2826,861 " speed="500" zorder="100" born="3.2" action="0.3,4,1" des="man5" scale="1.3" delay="0.5" repeat="100" png="1"/>
+      <begin id="10021" type="1" resource="zidan" position="2250,1290|2810,851 " speed="500" zorder="100" born="3.2" action="0.3,4,1" des="man5" scale="1.3" delay="0.5" repeat="100" png="1"/>
+      <begin id="10022" type="1" resource="zidan" position="2562,1427|2967,1111" speed="500" zorder="100" born="3.2" action="0.3,4,1" des="man5" scale="1.3" delay="0.5" repeat="100" png="1"/>
+      <begin id="10023" type="1" resource="zidan" position="2719,1400|3022,1065" speed="500" zorder="100" born="3.2" action="0.3,4,1" des="man5" scale="1.3" delay="0.5" repeat="100" png="1"/>
+      
+      <begin id="10024" type="1" resource="zidan" position="2266,1300|2826,861 " speed="500" zorder="100" born="3.2" action="0.4,4,1" des="man5" scale="1.3" delay="0.5" repeat="100" png="1"/>
+      <begin id="10025" type="1" resource="zidan" position="2250,1290|2810,851 " speed="500" zorder="100" born="3.2" action="0.4,4,1" des="man5" scale="1.3" delay="0.5" repeat="100" png="1"/>
+      <begin id="10026" type="1" resource="zidan" position="2562,1427|2967,1111" speed="500" zorder="100" born="3.2" action="0.4,4,1" des="man5" scale="1.3" delay="0.5" repeat="100" png="1"/>
+      <begin id="10027" type="1" resource="zidan" position="2719,1400|3022,1065" speed="500" zorder="100" born="3.2" action="0.4,4,1" des="man5" scale="1.3" delay="0.5" repeat="100" png="1"/>
+</Group>
+<Group id="Operation">
+    <!--type:0 移动屏幕 1:快速移动屏幕 2:动画结束 play变宝箱 3:动画真正的结束 动画消失 4:僵尸出现-->
+    <begin id="20000" type="2" born="7.0"/>
+    <begin id="20001" type="3" born="7.5"/>
+    <begin id="20002" type="4" aimpoint="2586,1137" origin="2510,500" rect="1200,400" num="15" born="2.3"/>
+    <begin id="20003" type="4" aimpoint="2586,1137" origin="3110,500" rect="1200,400" num="15" born="2.7"/>
+    <begin id="20004" type="4" aimpoint="2586,1137" origin="2510,500" rect="1200,400" num="15" born="3.1"/>
+    <begin id="20005" type="4" aimpoint="2586,1137" origin="3110,500" rect="1200,400" num="15" born="3.5"/>
+    <begin id="20006" type="0" position="2460,1110" duration="2" scale="0.7" born="0.1"/> 
+</Group>
+
+<Group id="Fool">
+    <!--type:0 移动屏幕 1:快速移动屏幕 2:动画结束 play变宝箱 3:动画真正的结束 动画消失 4:僵尸出现-->
+    <begin id="30000" type="2" born="1.0"/>
+    <begin id="30001" type="3" born="2.0"/>
+    <begin id="30002" type="4" aimpoint="2586,1137" origin="2510,500" rect="1200,400" num="15" born="0.5"/>
+    <begin id="30003" type="4" aimpoint="2586,1137" origin="3110,500" rect="1200,400" num="15" born="1.0"/>
+    <begin id="30004" type="4" aimpoint="2586,1137" origin="2510,500" rect="1200,400" num="15" born="1.5"/>
+    <begin id="30005" type="4" aimpoint="2586,1137" origin="3110,500" rect="1200,400" num="15" born="3.5"/>
+    <begin id="30006" type="4" aimpoint="1000,1000" origin="1000,1000" rect="1200,600" num="30" born="0.1"/>
+    <begin id="30007" type="4" aimpoint="1000,1500" origin="1500,1000" rect="1200,600" num="30" born="0.1"/>
+    <begin id="30008" type="4" aimpoint="1000,2000" origin="2000,1000" rect="1200,600" num="30" born="0.1"/>
+    <begin id="30009" type="4" aimpoint="1000,2500" origin="2500,1000" rect="1200,600" num="30" born="0.1"/>
+
+    <begin id="30010" type="0" position="2460,1110" duration="2" scale="0.7" born="0.1"/> 
+    <begin id="30011" type="5" born="4"/>
+</Group>
+</tns:database>
+	

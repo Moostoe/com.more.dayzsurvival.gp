@@ -1,0 +1,95 @@
+_alpha_ico107103.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4ji_chegaizuo
+  rotate: false
+  xy: 2, 467
+  size: 85, 28
+  orig: 85, 30
+  offset: 0, 0
+  index: -1
+4ji_lhouchelun
+  rotate: false
+  xy: 180, 216
+  size: 59, 60
+  orig: 67, 60
+  offset: 0, 0
+  index: -1
+4ji_fanghu
+  rotate: true
+  xy: 120, 291
+  size: 113, 91
+  orig: 113, 91
+  offset: 0, 0
+  index: -1
+4ji_rqianchelun
+  rotate: false
+  xy: 98, 213
+  size: 76, 72
+  orig: 82, 72
+  offset: 5, 0
+  index: -1
+4ji_yingzi
+  rotate: true
+  xy: 2, 2
+  size: 283, 90
+  orig: 287, 90
+  offset: 1, 0
+  index: -1
+4ji_lab
+  rotate: true
+  xy: 196, 2
+  size: 72, 53
+  orig: 74, 53
+  offset: 1, 0
+  index: -1
+4ji_cheqinshen
+  rotate: true
+  xy: 98, 2
+  size: 205, 92
+  orig: 239, 92
+  offset: 34, 0
+  index: -1
+4ji_ldianju
+  rotate: true
+  xy: 209, 410
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+4ji_zhuanlun
+  rotate: true
+  xy: 196, 80
+  size: 62, 46
+  orig: 64, 46
+  offset: 1, 0
+  index: -1
+4ji_lqianchelun
+  rotate: false
+  xy: 120, 410
+  size: 83, 79
+  orig: 95, 79
+  offset: 1, 0
+  index: -1
+4ji_chehoushen
+  rotate: true
+  xy: 2, 291
+  size: 170, 112
+  orig: 172, 114
+  offset: 1, 1
+  index: -1
+4ji_qiangpao
+  rotate: true
+  xy: 196, 148
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+4ji_rdianju
+  rotate: true
+  xy: 217, 282
+  size: 61, 28
+  orig: 61, 30
+  offset: 0, 1
+  index: -1

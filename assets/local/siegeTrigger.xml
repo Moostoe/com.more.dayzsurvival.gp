@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="siegeTrigger">
+	<ItemSpec id="2001" triggerType="1" triggerValue="30" effectType="1" effectValue="200956;1000" showTime="10" worldMessage="79000332"/>
+</Group>
+
+</tns:database>

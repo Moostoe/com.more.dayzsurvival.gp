@@ -1,0 +1,179 @@
+_alpha_World_nurses_03.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zombie_15_xiong4
+  rotate: false
+  xy: 74, 114
+  size: 29, 26
+  orig: 31, 28
+  offset: 2, 1
+  index: -1
+l_xiaotui
+  rotate: false
+  xy: 53, 200
+  size: 14, 24
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+r_datui
+  rotate: true
+  xy: 32, 116
+  size: 16, 36
+  orig: 16, 44
+  offset: 0, 1
+  index: -1
+yao
+  rotate: true
+  xy: 80, 56
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+zombie_15_r_bian4
+  rotate: false
+  xy: 2, 2
+  size: 72, 71
+  orig: 72, 73
+  offset: 0, 2
+  index: -1
+l_dabi
+  rotate: false
+  xy: 94, 189
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+r_dabi
+  rotate: false
+  xy: 73, 200
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+l_datui2
+  rotate: false
+  xy: 2, 79
+  size: 24, 39
+  orig: 28, 43
+  offset: 4, 3
+  index: -1
+l_jiao2
+  rotate: true
+  xy: 68, 176
+  size: 18, 17
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+zombie_15_xiong2
+  rotate: true
+  xy: 2, 165
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+l_shou
+  rotate: true
+  xy: 94, 171
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+zombie_15_r_bian1
+  rotate: true
+  xy: 38, 165
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 68, 146
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+zombie_15_r_bian2
+  rotate: true
+  xy: 80, 2
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+zombie_15_xiong3
+  rotate: false
+  xy: 2, 204
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+l_xiaobi
+  rotate: false
+  xy: 33, 239
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+l_xiaotui2
+  rotate: false
+  xy: 31, 204
+  size: 16, 29
+  orig: 20, 35
+  offset: 2, 4
+  index: -1
+l_jiao
+  rotate: false
+  xy: 93, 146
+  size: 7, 19
+  orig: 7, 19
+  offset: 0, 0
+  index: -1
+r_xiaotui
+  rotate: true
+  xy: 59, 230
+  size: 22, 23
+  orig: 30, 27
+  offset: 4, 3
+  index: -1
+xiong
+  rotate: false
+  xy: 32, 79
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+r_jiao
+  rotate: false
+  xy: 88, 229
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+zhen
+  rotate: false
+  xy: 2, 242
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+l_datui
+  rotate: true
+  xy: 70, 92
+  size: 16, 39
+  orig: 18, 41
+  offset: 1, 1
+  index: -1
+r_xiaobi
+  rotate: false
+  xy: 2, 124
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+zombie_15_r_bian3
+  rotate: true
+  xy: 30, 138
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1

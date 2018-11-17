@@ -1,0 +1,95 @@
+_alpha_g0107.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Alan_yijin
+  rotate: true
+  xy: 337, 234
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+Alan_zuoyiling
+  rotate: false
+  xy: 125, 268
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+Alan_qiang
+  rotate: false
+  xy: 429, 241
+  size: 46, 58
+  orig: 48, 58
+  offset: 2, 0
+  index: -1
+Alan_bao
+  rotate: false
+  xy: 167, 158
+  size: 103, 187
+  orig: 107, 187
+  offset: 4, 0
+  index: -1
+Alan_zuodabi
+  rotate: false
+  xy: 337, 135
+  size: 88, 93
+  orig: 88, 93
+  offset: 0, 0
+  index: -1
+Alan_youxiaobi
+  rotate: false
+  xy: 2, 268
+  size: 117, 67
+  orig: 117, 67
+  offset: 0, 0
+  index: -1
+Alan_shenti1
+  rotate: false
+  xy: 2, 2
+  size: 159, 260
+  orig: 169, 270
+  offset: 2, 0
+  index: -1
+Alan_youyiling
+  rotate: true
+  xy: 276, 266
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+Alan_youdabi
+  rotate: false
+  xy: 276, 158
+  size: 55, 102
+  orig: 55, 102
+  offset: 0, 0
+  index: -1
+Alan_daizi
+  rotate: true
+  xy: 333, 2
+  size: 127, 171
+  orig: 127, 171
+  offset: 0, 0
+  index: -1
+Alan_head
+  rotate: false
+  xy: 431, 135
+  size: 76, 100
+  orig: 76, 100
+  offset: 0, 0
+  index: -1
+Alan_eye1
+  rotate: false
+  xy: 276, 324
+  size: 40, 9
+  orig: 40, 11
+  offset: 0, 2
+  index: -1
+Alan_xiagnzi
+  rotate: false
+  xy: 167, 2
+  size: 160, 150
+  orig: 160, 152
+  offset: 0, 2
+  index: -1

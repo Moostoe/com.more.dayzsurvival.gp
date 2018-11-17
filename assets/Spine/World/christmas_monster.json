@@ -1,0 +1,737 @@
+{
+"skeleton": { "hash": "DIpaoODuUP3WFvc8CMfJo5elvpQ", "spine": "2.1.27", "width": 126.75, "height": 126.74, "images": "./shengdan/" },
+"bones": [
+	{ "name": "root", "scaleX": 0.65, "scaleY": 0.65 },
+	{ "name": "attack", "parent": "root", "x": 13.14, "y": 11.59 },
+	{ "name": "die", "parent": "root", "x": 19.76, "y": 31.02 },
+	{ "name": "standby", "parent": "root", "x": -0.22, "y": 4.69 }
+],
+"slots": [
+	{ "name": "daiji0001", "bone": "standby", "attachment": "daiji0001" },
+	{ "name": "daiji0002", "bone": "standby" },
+	{ "name": "daiji0003", "bone": "standby" },
+	{ "name": "daiji0004", "bone": "standby" },
+	{ "name": "daiji0005", "bone": "standby" },
+	{ "name": "daiji0006", "bone": "standby" },
+	{ "name": "daiji0007", "bone": "standby" },
+	{ "name": "daiji0008", "bone": "standby" },
+	{ "name": "daiji0009", "bone": "standby" },
+	{ "name": "gongji0001", "bone": "attack" },
+	{ "name": "gongji0002", "bone": "attack" },
+	{ "name": "gongji0003", "bone": "attack" },
+	{ "name": "gongji0004", "bone": "attack" },
+	{ "name": "gongji0005", "bone": "attack" },
+	{ "name": "gongji0006", "bone": "attack" },
+	{ "name": "gongji0007", "bone": "attack" },
+	{ "name": "gongji0008", "bone": "attack" },
+	{ "name": "gongji0009", "bone": "attack" },
+	{ "name": "siwang0001", "bone": "die" },
+	{ "name": "siwang0002", "bone": "die" },
+	{ "name": "siwang0003", "bone": "die" },
+	{ "name": "siwang0004", "bone": "die" },
+	{ "name": "siwang0005", "bone": "die" },
+	{ "name": "siwang0006", "bone": "die" },
+	{ "name": "siwang0007", "bone": "die" },
+	{ "name": "siwang0008", "bone": "die" },
+	{ "name": "siwang0009", "bone": "die" }
+],
+"skins": {
+	"default": {
+		"daiji0001": {
+			"daiji0001": { "x": 1.41, "y": 54.63, "width": 195, "height": 195 }
+		},
+		"daiji0002": {
+			"daiji0002": { "x": 1.41, "y": 54.63, "width": 195, "height": 195 }
+		},
+		"daiji0003": {
+			"daiji0003": { "x": 1.41, "y": 54.63, "width": 195, "height": 195 }
+		},
+		"daiji0004": {
+			"daiji0004": { "x": 1.41, "y": 54.63, "width": 195, "height": 195 }
+		},
+		"daiji0005": {
+			"daiji0005": { "x": 1.41, "y": 54.63, "width": 195, "height": 195 }
+		},
+		"daiji0006": {
+			"daiji0006": { "x": 1.41, "y": 54.63, "width": 195, "height": 195 }
+		},
+		"daiji0007": {
+			"daiji0007": { "x": 1.41, "y": 54.63, "width": 195, "height": 195 }
+		},
+		"daiji0008": {
+			"daiji0008": { "x": 1.41, "y": 54.63, "width": 195, "height": 195 }
+		},
+		"daiji0009": {
+			"daiji0009": { "x": 1.41, "y": 54.63, "width": 195, "height": 195 }
+		},
+		"gongji0001": {
+			"gongji0001": { "x": -10.98, "y": 49.36, "width": 195, "height": 195 }
+		},
+		"gongji0002": {
+			"gongji0002": { "x": -10.98, "y": 49.36, "width": 195, "height": 195 }
+		},
+		"gongji0003": {
+			"gongji0003": { "x": -10.98, "y": 49.36, "width": 195, "height": 195 }
+		},
+		"gongji0004": {
+			"gongji0004": { "x": -10.98, "y": 49.36, "width": 195, "height": 195 }
+		},
+		"gongji0005": {
+			"gongji0005": { "x": -10.98, "y": 49.36, "width": 195, "height": 195 }
+		},
+		"gongji0006": {
+			"gongji0006": { "x": -10.98, "y": 49.36, "width": 195, "height": 195 }
+		},
+		"gongji0007": {
+			"gongji0007": { "x": -10.98, "y": 49.36, "width": 195, "height": 195 }
+		},
+		"gongji0008": {
+			"gongji0008": { "x": -10.98, "y": 49.36, "width": 195, "height": 195 }
+		},
+		"gongji0009": {
+			"gongji0009": { "x": -10.98, "y": 49.36, "width": 195, "height": 195 }
+		},
+		"siwang0001": {
+			"siwang0001": { "x": -20.38, "y": 17.82, "width": 200, "height": 200 }
+		},
+		"siwang0002": {
+			"siwang0002": { "x": -20.38, "y": 17.82, "width": 200, "height": 200 }
+		},
+		"siwang0003": {
+			"siwang0003": { "x": -20.38, "y": 17.82, "width": 200, "height": 200 }
+		},
+		"siwang0004": {
+			"siwang0004": { "x": -20.38, "y": 17.82, "width": 200, "height": 200 }
+		},
+		"siwang0005": {
+			"siwang0005": { "x": -20.38, "y": 17.82, "width": 200, "height": 200 }
+		},
+		"siwang0006": {
+			"siwang0006": { "x": -20.38, "y": 17.82, "width": 200, "height": 200 }
+		},
+		"siwang0007": {
+			"siwang0007": { "x": -20.38, "y": 17.82, "width": 200, "height": 200 }
+		},
+		"siwang0008": {
+			"siwang0008": { "x": -20.38, "y": 17.82, "width": 200, "height": 200 }
+		},
+		"siwang0009": {
+			"siwang0009": { "x": -20.38, "y": 17.82, "width": 200, "height": 200 }
+		}
+	}
+},
+"animations": {
+	"attack": {
+		"slots": {
+			"daiji0001": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"daiji0002": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"daiji0003": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"daiji0004": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"daiji0005": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"daiji0006": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"daiji0007": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"daiji0008": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"daiji0009": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"gongji0001": {
+				"attachment": [
+					{ "time": 0, "name": "gongji0001" },
+					{ "time": 0.1333, "name": null }
+				]
+			},
+			"gongji0002": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "gongji0002" },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"gongji0003": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": "gongji0003" },
+					{ "time": 0.3666, "name": null }
+				]
+			},
+			"gongji0004": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3666, "name": "gongji0004" },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"gongji0005": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5, "name": "gongji0005" },
+					{ "time": 0.6333, "name": null }
+				]
+			},
+			"gongji0006": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.6333, "name": "gongji0006" },
+					{ "time": 0.7666, "name": null }
+				]
+			},
+			"gongji0007": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.7666, "name": "gongji0007" },
+					{ "time": 0.8666, "name": null }
+				]
+			},
+			"gongji0008": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.8666, "name": "gongji0008" },
+					{ "time": 1, "name": null }
+				]
+			},
+			"gongji0009": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1, "name": "gongji0009" }
+				]
+			},
+			"siwang0001": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"siwang0002": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"siwang0003": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"siwang0004": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"siwang0005": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"siwang0006": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"siwang0007": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"siwang0008": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"siwang0009": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	},
+	"die": {
+		"slots": {
+			"daiji0001": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"daiji0002": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"daiji0003": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"daiji0004": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"daiji0005": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"daiji0006": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"daiji0007": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"daiji0008": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"daiji0009": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"gongji0001": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"gongji0002": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"gongji0003": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"gongji0004": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"gongji0005": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"gongji0006": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"gongji0007": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"gongji0008": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"gongji0009": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"siwang0001": {
+				"attachment": [
+					{ "time": 0, "name": "siwang0001" },
+					{ "time": 0.1333, "name": null }
+				]
+			},
+			"siwang0002": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "siwang0002" },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"siwang0003": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "siwang0003" },
+					{ "time": 0.3666, "name": null }
+				]
+			},
+			"siwang0004": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3666, "name": "siwang0004" },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"siwang0005": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5, "name": "siwang0005" },
+					{ "time": 0.6, "name": null }
+				]
+			},
+			"siwang0006": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.6, "name": "siwang0006" },
+					{ "time": 0.7333, "name": null }
+				]
+			},
+			"siwang0007": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.7333, "name": "siwang0007" },
+					{ "time": 0.8666, "name": null }
+				]
+			},
+			"siwang0008": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.8666, "name": "siwang0008" },
+					{ "time": 1, "name": null }
+				]
+			},
+			"siwang0009": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1, "name": "siwang0009" }
+				]
+			}
+		},
+		"bones": {
+			"die": {
+				"translate": [
+					{ "time": 0.3666, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": -24.8, "y": -18.12 }
+				]
+			}
+		}
+	},
+	"move": {
+		"slots": {
+			"daiji0001": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"daiji0002": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"daiji0003": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"daiji0004": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"daiji0005": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"daiji0006": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"daiji0007": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"daiji0008": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"daiji0009": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"gongji0001": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"gongji0002": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"gongji0003": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"gongji0004": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"gongji0005": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"gongji0006": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"gongji0007": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"gongji0008": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"gongji0009": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"siwang0001": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"siwang0002": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"siwang0003": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"siwang0004": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"siwang0005": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"siwang0006": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"siwang0007": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"siwang0008": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"siwang0009": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	},
+	"standby": {
+		"slots": {
+			"daiji0001": {
+				"attachment": [
+					{ "time": 0, "name": "daiji0001" },
+					{ "time": 0.1666, "name": null }
+				]
+			},
+			"daiji0002": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "daiji0002" },
+					{ "time": 0.3333, "name": null }
+				]
+			},
+			"daiji0003": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3333, "name": "daiji0003" },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"daiji0004": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5, "name": "daiji0004" },
+					{ "time": 0.6666, "name": null }
+				]
+			},
+			"daiji0005": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.6666, "name": "daiji0005" },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"daiji0006": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.8333, "name": "daiji0006" },
+					{ "time": 1, "name": null }
+				]
+			},
+			"daiji0007": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1, "name": "daiji0007" },
+					{ "time": 1.1666, "name": null }
+				]
+			},
+			"daiji0008": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.1666, "name": "daiji0008" },
+					{ "time": 1.3333, "name": null }
+				]
+			},
+			"daiji0009": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.3333, "name": "daiji0009" }
+				]
+			},
+			"gongji0001": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"gongji0002": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"gongji0003": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"gongji0004": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"gongji0005": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"gongji0006": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"gongji0007": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"gongji0008": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"gongji0009": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"siwang0001": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"siwang0002": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"siwang0003": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"siwang0004": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"siwang0005": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"siwang0006": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"siwang0007": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"siwang0008": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"siwang0009": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	}
+}
+}

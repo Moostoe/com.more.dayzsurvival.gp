@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="jump_to_science_unlock">
+	    <ItemSpec speedup="904700" delta="1600" type="20004002" type_delta="1"/>
+	    <ItemSpec general_one="904000" delta="1600" type="20004002" type_delta="1" />
+	    <ItemSpec general_two="904600" delta="1600" type="20004002" type_delta="1" />
+	    <ItemSpec general_three="905200" delta="1600" type="20004002" type_delta="1" />
+</Group>
+</tns:database>

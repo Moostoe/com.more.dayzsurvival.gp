@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="pack_filtrate">
+    <ItemSpec id="1" name="81000437" filtrate_type="0"/>
+    <ItemSpec id="2" name="81000426" filtrate_type="1"/>
+    <ItemSpec id="3" name="81000427" filtrate_type="2"/>
+    <ItemSpec id="4" name="81000428" filtrate_type="3"/>
+    <ItemSpec id="5" name="81000429" filtrate_type="4"/>
+    <ItemSpec id="6" name="81000430" filtrate_type="5"/>
+    <ItemSpec id="7" name="81000431" filtrate_type="6"/>
+
+  </Group>
+</tns:database>

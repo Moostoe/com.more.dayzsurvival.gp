@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="battle_field_rank">
+    <ItemSpec id="220300" type="1" name="172482" desc="172483" story="172484;10;30|172485|172486;1600" pic="w4_npc2" building_pic="w4_npc2" />
+    <ItemSpec id="220301" type="1" name="172487" desc="172488" story="172484;10;12|172485|172486;1600" pic="w4_npc1" building_pic="w4_npc1" />
+    <ItemSpec id="220302" type="2" name="110172" desc="172490" story="172491;10;4" building_pic="jupao_pic" />
+    <ItemSpec id="220303" type="1" name="172487" desc="172488" story="172484;10;12|172485|172486;1600" pic="w4_npc1" building_pic="w4_npc1" />
+    <ItemSpec id="220304" type="2" name="110172" desc="172490" story="172491;10;4" building_pic="jupao_pic" />
+</Group>
+</tns:database>

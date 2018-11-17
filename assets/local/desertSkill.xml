@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Group id="desertSkill">
+    <ItemSpec id="10001" type="10001" key="460" name="80000550" icon="skill_10001" description="80000551" CDType="2" cd_time="1440" CD="1" time="0" value1="10000" value2="100000" is_close="0"/>
+    <ItemSpec id="10002" type="10002" key="462" name="80000499" icon="skill_10002" description="80000500" CDType="2" cd_time="1440" CD="1" time="0" is_close="0"/>
+ </Group >
+
+</tns:database>

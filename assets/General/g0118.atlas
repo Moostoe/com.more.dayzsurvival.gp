@@ -1,0 +1,60 @@
+_alpha_g0118.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kzzx_youxiaobi
+  rotate: false
+  xy: 103, 192
+  size: 70, 48
+  orig: 70, 50
+  offset: 0, 2
+  index: -1
+kzzx_shenti
+  rotate: false
+  xy: 2, 2
+  size: 137, 184
+  orig: 137, 186
+  offset: 0, 2
+  index: -1
+kzzx_youshou
+  rotate: true
+  xy: 179, 177
+  size: 66, 64
+  orig: 66, 66
+  offset: 0, 2
+  index: -1
+kzzx_zuodabi
+  rotate: true
+  xy: 2, 192
+  size: 54, 95
+  orig: 60, 99
+  offset: 6, 4
+  index: -1
+kzzx_tuibu
+  rotate: false
+  xy: 206, 66
+  size: 146, 97
+  orig: 146, 97
+  offset: 0, 0
+  index: -1
+kzzx_youdabi
+  rotate: true
+  xy: 249, 2
+  size: 58, 110
+  orig: 62, 110
+  offset: 1, 0
+  index: -1
+kzzx_tou
+  rotate: true
+  xy: 249, 169
+  size: 73, 83
+  orig: 77, 83
+  offset: 0, 0
+  index: -1
+kzzx_zuoxiaobi
+  rotate: true
+  xy: 145, 2
+  size: 169, 55
+  orig: 171, 55
+  offset: 0, 0
+  index: -1

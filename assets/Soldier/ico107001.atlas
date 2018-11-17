@@ -1,0 +1,74 @@
+_alpha_ico107001.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+youbi
+  rotate: true
+  xy: 2, 2
+  size: 87, 172
+  orig: 87, 172
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 180, 2
+  size: 93, 155
+  orig: 93, 155
+  offset: 0, 0
+  index: -1
+zuoxiaobi
+  rotate: false
+  xy: 457, 58
+  size: 53, 109
+  orig: 53, 113
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: true
+  xy: 180, 101
+  size: 48, 92
+  orig: 48, 92
+  offset: 0, 0
+  index: -1
+kua
+  rotate: false
+  xy: 2, 95
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+youxiaotui
+  rotate: true
+  xy: 341, 2
+  size: 50, 122
+  orig: 50, 122
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 333, 122
+  size: 43, 73
+  orig: 43, 73
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: true
+  xy: 83, 95
+  size: 45, 91
+  orig: 45, 91
+  offset: 0, 0
+  index: -1
+zuodabi
+  rotate: false
+  xy: 278, 101
+  size: 49, 66
+  orig: 49, 68
+  offset: 0, 2
+  index: -1
+zuoxiaotui
+  rotate: true
+  xy: 341, 58
+  size: 58, 110
+  orig: 58, 110
+  offset: 0, 0
+  index: -1

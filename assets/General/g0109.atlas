@@ -1,0 +1,95 @@
+_alpha_g0109.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ann_tou
+  rotate: false
+  xy: 184, 141
+  size: 66, 85
+  orig: 66, 85
+  offset: 0, 0
+  index: -1
+Ann_tui
+  rotate: false
+  xy: 130, 2
+  size: 107, 133
+  orig: 111, 141
+  offset: 0, 0
+  index: -1
+Ann_yaoqiang
+  rotate: false
+  xy: 377, 2
+  size: 21, 70
+  orig: 23, 72
+  offset: 0, 2
+  index: -1
+Ann_youxiaobi
+  rotate: false
+  xy: 311, 129
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+Ann_zuodabi
+  rotate: false
+  xy: 243, 2
+  size: 67, 78
+  orig: 67, 78
+  offset: 0, 0
+  index: -1
+Ann_yaozhuangshi
+  rotate: true
+  xy: 256, 129
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+Ann_zuoshou
+  rotate: true
+  xy: 243, 86
+  size: 37, 112
+  orig: 37, 112
+  offset: 0, 0
+  index: -1
+Ann_youshoushu
+  rotate: false
+  xy: 316, 2
+  size: 55, 71
+  orig: 55, 71
+  offset: 0, 0
+  index: -1
+Ann_beibao
+  rotate: true
+  xy: 2, 153
+  size: 91, 176
+  orig: 101, 176
+  offset: 10, 0
+  index: -1
+Ann_shenzi
+  rotate: false
+  xy: 2, 2
+  size: 122, 145
+  orig: 134, 145
+  offset: 9, 0
+  index: -1
+Ann_xiongpai
+  rotate: false
+  xy: 333, 178
+  size: 48, 70
+  orig: 48, 70
+  offset: 0, 0
+  index: -1
+Ann_zuoxiaobi
+  rotate: true
+  xy: 256, 178
+  size: 51, 71
+  orig: 55, 73
+  offset: 0, 2
+  index: -1
+Ann_youdabi
+  rotate: false
+  xy: 361, 79
+  size: 37, 93
+  orig: 43, 93
+  offset: 0, 0
+  index: -1

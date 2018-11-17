@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="new_player_guide_settings">
+    <ItemSpec id="new_player_guide_setting" k1="10" k2="5" k3="3" k4="3"/>
+    <ItemSpec id="mission_gesture_guide" k1="2403001;2200301;2203101" />
+    <ItemSpec id="guide_training_time" k1="2" k2="10" />
+    <ItemSpec id="chat_twinkle_guide" k1="5" k2="360" k3="3" k4="3" k5="2" />
+    <ItemSpec id="music_zombie_base_level" k1="6" k2="150" />
+    <ItemSpec id="alliance_invite_setting" k1="3" k2="5" k3="360" />
+    <ItemSpec id="discovery_setting" k1="3" />
+    <ItemSpec id="second_worker" k1="360;240;120;72;48;24;10" k2="3" />
+    <ItemSpec id="switch_account_setting" k1="10" k2="6"/>
+
+</Group>
+<Group id="new_player_guide_content">
+    <ItemSpec id="1000" name="170644" icon="guide_1000" level="1" order1="1" order2="1" first="0" />
+    <ItemSpec id="1001" name="170641" icon="guide_1001" level="1" order1="2" order2="4" first="0" />
+    <ItemSpec id="1002" name="170643" icon="guide_1002" level="1" order1="3" order2="1" first="0" />
+    <ItemSpec id="1003" name="170640" icon="guide_1003" level="2" order1="4" order2="1" first="0" />
+    <ItemSpec id="1004" name="170642" icon="guide_1004" level="1" order1="5" order2="1" first="0" />
+    <ItemSpec id="1005" name="170645" icon="guide_1005" level="1" order1="2" order2="1" first="1" />
+    <ItemSpec id="1006" name="170647" icon="guide_1006" level="1" order1="2" order2="2" first="1" />
+    <ItemSpec id="1007" name="170646" icon="guide_1007" level="1" order1="2" order2="3" first="1" />
+</Group>
+<Group id="item_use_guide">
+    <ItemSpec id="10000" title="104186" advertise="170655" item="200374" icon="icon_speed_3" describe="103034" unit="2" />
+    <ItemSpec id="10001" title="170653" advertise="170656" item="200102" icon="icon_queue" describe="171009" unit="0" />
+</Group>
+</tns:database>

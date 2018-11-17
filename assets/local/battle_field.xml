@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="battle_field">
+    <ItemSpec id="220100" type="1" name="172351" intro="172352" desc_info="172393" pic="pic220100" />
+    <ItemSpec id="220101" type="2" name="172522" intro="172523" desc_info="172524" pic="pic220101" />
+    <ItemSpec id="220102" type="3" pic="pic220102" />
+</Group>
+</tns:database>

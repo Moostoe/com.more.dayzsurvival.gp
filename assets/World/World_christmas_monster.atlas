@@ -1,0 +1,193 @@
+_alpha_World_christmas_monster.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daiji0007
+  rotate: false
+  xy: 617, 149
+  size: 91, 139
+  orig: 195, 195
+  offset: 59, 24
+  index: -1
+daiji0003
+  rotate: false
+  xy: 425, 151
+  size: 89, 143
+  orig: 195, 195
+  offset: 62, 24
+  index: -1
+gongji0003
+  rotate: false
+  xy: 108, 2
+  size: 103, 155
+  orig: 195, 195
+  offset: 58, 22
+  index: -1
+gongji0007
+  rotate: false
+  xy: 920, 2
+  size: 93, 135
+  orig: 195, 195
+  offset: 48, 22
+  index: -1
+siwang0009
+  rotate: true
+  xy: 559, 298
+  size: 124, 108
+  orig: 200, 200
+  offset: 33, 1
+  index: -1
+siwang0005
+  rotate: true
+  xy: 429, 300
+  size: 122, 124
+  orig: 200, 200
+  offset: 39, 26
+  index: -1
+siwang0001
+  rotate: true
+  xy: 2, 335
+  size: 88, 140
+  orig: 200, 200
+  offset: 62, 36
+  index: -1
+daiji0008
+  rotate: false
+  xy: 520, 151
+  size: 91, 141
+  orig: 195, 195
+  offset: 59, 24
+  index: -1
+daiji0004
+  rotate: false
+  xy: 605, 2
+  size: 89, 141
+  orig: 195, 195
+  offset: 62, 24
+  index: -1
+gongji0004
+  rotate: false
+  xy: 217, 2
+  size: 93, 147
+  orig: 195, 195
+  offset: 67, 22
+  index: -1
+gongji0008
+  rotate: false
+  xy: 809, 144
+  size: 91, 135
+  orig: 195, 195
+  offset: 51, 22
+  index: -1
+siwang0006
+  rotate: false
+  xy: 285, 306
+  size: 138, 114
+  orig: 200, 200
+  offset: 30, 4
+  index: -1
+siwang0002
+  rotate: false
+  xy: 2, 2
+  size: 100, 164
+  orig: 200, 200
+  offset: 47, 36
+  index: -1
+daiji0009
+  rotate: false
+  xy: 328, 153
+  size: 91, 143
+  orig: 195, 195
+  offset: 59, 24
+  index: -1
+gongji0001
+  rotate: false
+  xy: 316, 2
+  size: 91, 145
+  orig: 195, 195
+  offset: 59, 22
+  index: -1
+daiji0005
+  rotate: false
+  xy: 714, 147
+  size: 89, 139
+  orig: 195, 195
+  offset: 62, 24
+  index: -1
+gongji0005
+  rotate: true
+  xy: 673, 294
+  size: 129, 127
+  orig: 195, 195
+  offset: 21, 22
+  index: -1
+daiji0001
+  rotate: false
+  xy: 413, 2
+  size: 91, 143
+  orig: 195, 195
+  offset: 59, 24
+  index: -1
+gongji0009
+  rotate: false
+  xy: 231, 155
+  size: 91, 145
+  orig: 195, 195
+  offset: 59, 22
+  index: -1
+siwang0007
+  rotate: true
+  xy: 806, 292
+  size: 124, 108
+  orig: 200, 200
+  offset: 40, 3
+  index: -1
+siwang0003
+  rotate: false
+  xy: 117, 163
+  size: 108, 150
+  orig: 200, 200
+  offset: 39, 36
+  index: -1
+daiji0006
+  rotate: false
+  xy: 700, 2
+  size: 89, 139
+  orig: 195, 195
+  offset: 62, 24
+  index: -1
+daiji0002
+  rotate: false
+  xy: 510, 2
+  size: 89, 143
+  orig: 195, 195
+  offset: 61, 24
+  index: -1
+gongji0002
+  rotate: false
+  xy: 2, 172
+  size: 109, 157
+  orig: 195, 195
+  offset: 49, 22
+  index: -1
+gongji0006
+  rotate: true
+  xy: 148, 319
+  size: 99, 131
+  orig: 195, 195
+  offset: 47, 22
+  index: -1
+siwang0008
+  rotate: true
+  xy: 906, 144
+  size: 122, 110
+  orig: 200, 200
+  offset: 41, 2
+  index: -1
+siwang0004
+  rotate: false
+  xy: 795, 2
+  size: 114, 136
+  orig: 200, 200
+  offset: 45, 54
+  index: -1

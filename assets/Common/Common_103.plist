@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>Cloud.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{4,4},{250,173}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{250,173}}</string>
+                <key>sourceSize</key>
+                <string>{250,173}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>_alpha_Common_103.pkm</string>
+            <key>size</key>
+            <string>{258,181}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:aa45ae16e63d8cbca3bd0e67e12a6fca:1/1$</string>
+            <key>textureFileName</key>
+            <string>_alpha_Common_103.pkm</string>
+        </dict>
+    </dict>
+</plist>

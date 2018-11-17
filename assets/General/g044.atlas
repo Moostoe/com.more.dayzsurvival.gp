@@ -1,0 +1,151 @@
+_alpha_g044.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jian2
+  rotate: false
+  xy: 50, 262
+  size: 40, 31
+  orig: 144, 67
+  offset: 0, 36
+  index: -1
+hair5
+  rotate: true
+  xy: 96, 277
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+zuoxiabi
+  rotate: false
+  xy: 197, 160
+  size: 62, 138
+  orig: 62, 138
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: true
+  xy: 422, 219
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+nu
+  rotate: false
+  xy: 2, 2
+  size: 169, 164
+  orig: 169, 172
+  offset: 0, 8
+  index: -1
+zuojiake
+  rotate: true
+  xy: 177, 103
+  size: 51, 188
+  orig: 51, 188
+  offset: 0, 0
+  index: -1
+banzhengyan
+  rotate: false
+  xy: 456, 219
+  size: 33, 8
+  orig: 35, 14
+  offset: 0, 4
+  index: -1
+hair6
+  rotate: true
+  xy: 265, 293
+  size: 4, 27
+  orig: 4, 27
+  offset: 0, 0
+  index: -1
+kuzi
+  rotate: true
+  xy: 265, 160
+  size: 127, 102
+  orig: 133, 104
+  offset: 6, 0
+  index: -1
+youshangbi
+  rotate: true
+  xy: 390, 2
+  size: 58, 99
+  orig: 58, 99
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: true
+  xy: 136, 262
+  size: 8, 34
+  orig: 8, 34
+  offset: 0, 0
+  index: -1
+beidai
+  rotate: true
+  xy: 373, 242
+  size: 56, 93
+  orig: 56, 93
+  offset: 0, 0
+  index: -1
+youjiake
+  rotate: true
+  xy: 177, 2
+  size: 95, 207
+  orig: 95, 207
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 96, 262
+  size: 34, 9
+  orig: 34, 11
+  offset: 0, 1
+  index: -1
+zuoshagnbi
+  rotate: true
+  xy: 390, 66
+  size: 51, 94
+  orig: 65, 98
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: false
+  xy: 472, 233
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 422, 123
+  size: 63, 90
+  orig: 67, 90
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 172
+  size: 84, 189
+  orig: 136, 207
+  offset: 30, 18
+  index: -1
+youxiaobi
+  rotate: true
+  xy: 373, 123
+  size: 113, 43
+  orig: 113, 47
+  offset: 0, 4
+  index: -1
+jian1
+  rotate: false
+  xy: 2, 262
+  size: 42, 29
+  orig: 104, 51
+  offset: 42, 0
+  index: -1
+hair4
+  rotate: false
+  xy: 472, 262
+  size: 8, 23
+  orig: 8, 23
+  offset: 0, 0
+  index: -1

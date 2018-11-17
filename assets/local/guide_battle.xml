@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="people">
+                <!--position:出生点 speed:速度 born:出生时间(s) action:(第几秒[实际的10倍,精确到0.1s],动作类型,序列帧数) delay:延迟重复执行 repeat:重复次数 png:那张大图-->
+                
+        <!-- 以下是爬在城墙上的僵尸 -->
+        <!-- <begin id="10000" type="2" resource="banman"      born="2.3" position="2410,1340" speed="90" zorder="100"  action="0,7,3" des="banman" scale="1.0" delay="1" repeat="1000" png="3"/>
+        <begin id="10001" type="2" resource="pangman"     born="2.3" position="2490,1340" speed="90" zorder="100"  action="0,7,3" des="banman" scale="1.0" delay="1" repeat="1000" png="3"/>
+        <begin id="10002" type="2" resource="gunman"      born="2.3" position="2430,1380" speed="90" zorder="100"  action="0,7,3" des="banman" scale="1.0" delay="1" repeat="1000" png="3"/>
+        <begin id="10003" type="2" resource="redman"      born="2.3" position="2510,1380" speed="90" zorder="100"  action="0,7,3" des="banman" scale="1.0" delay="1" repeat="1000" png="3"/>
+        <begin id="10004" type="2" resource="banman"      born="2.3" position="3140,1690" speed="90" zorder="100"  action="0,7,3" des="banman" scale="1.0" delay="1" repeat="1000" png="3"/>
+        <begin id="10005" type="2" resource="pangman"     born="2.3" position="3120,1650" speed="90" zorder="100"  action="0,7,3" des="banman" scale="1.0" delay="1" repeat="1000" png="3"/>
+        <begin id="10006" type="2" resource="gunman"      born="2.3" position="3180,1650" speed="90" zorder="100"  action="0,7,3" des="banman" scale="1.0" delay="1" repeat="1000" png="3"/>
+        <begin id="10007" type="2" resource="redman"      born="2.3" position="3080,1690" speed="90" zorder="100"  action="0,7,3" des="banman" scale="1.0" delay="1" repeat="1000" png="3"/>
+        <begin id="10008" type="2" resource="banman"      born="2.3" position="1615,895" speed="90" zorder="100"  action="0,7,3" des="banman" scale="1.0" delay="1" repeat="1000" png="3"/>
+        <begin id="10009" type="2" resource="pangman"     born="2.3" position="1685,895" speed="90" zorder="100"  action="0,7,3" des="banman" scale="1.0" delay="1" repeat="1000" png="3"/>
+        <begin id="10010" type="2" resource="gunman"      born="2.3" position="1615,935" speed="90" zorder="100"  action="0,7,3" des="banman" scale="1.0" delay="1" repeat="1000" png="3"/>
+        <begin id="10011" type="2" resource="redman"      born="2.3" position="1625,935" speed="90" zorder="100"  action="0,7,3" des="banman" scale="1.0" delay="1" repeat="1000" png="3"/> -->
+
+        <!-- 会死的步兵-->
+        <begin id="10000" type="1" resource="a010_0" position="2663,830" speed="90" zorder="100" born="0.5" action="0.1,1,7|3,2,7|4,6,1" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+        <begin id="10001" type="1" resource="a010_0" position="2956,965" speed="90" zorder="100" born="0.5" action="0.12,1,7|5,2,7|6,6,1" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+        <begin id="10002" type="1" resource="a030_1" position="2931,748" speed="90" zorder="100" born="0.5" action="0.11,1,7|4,2,7|5,6,1" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+        <begin id="10003" type="1" resource="a030_1" position="3268,1163" speed="90" zorder="100" born="0.5" action="0.14,1,7|6,2,7|7,6,1" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+        <begin id="10004" type="1" resource="a010_0" position="2699,673" speed="90" zorder="100" born="0.5" action="0.13,1,7|4,2,7|5,6,1" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+        <begin id="10005" type="1" resource="a010_0" position="3285,962" speed="90" zorder="100" born="0.5" action="0.16,1,7|2.5,2,7|3.5,6,1" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+        <begin id="10006" type="1" resource="a030_1" position="2863,753" speed="90" zorder="100" born="0.5" action="0.2,1,7|3,2,7|4,6,1" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+        <begin id="10007" type="1" resource="a010_0" position="3183,905" speed="90" zorder="100" born="0.5" action="0.18,1,7|5.5,2,7|6.5,6,1" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+        <begin id="10008" type="1" resource="a030_1" position="3264,595" speed="90" zorder="100" born="0.5" action="0.17,1,7|3.5,2,7|4.5,6,1" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+
+        <!-- 对战的僵尸-->
+        <begin id="10201" type="2" resource="pangman" position="2692,787" speed="90" zorder="100" born="0.5" action="0.2,1,9|3,0,9" des="banman" scale="1.3" delay="1" repeat="1" png="3"/>
+        <begin id="10202" type="2" resource="gunman" position="2987,923" speed="90" zorder="100" born="0.5" action="0.1,1,9|5,0,9" des="banman" scale="1.3" delay="1" repeat="1" png="3"/>
+        <begin id="10203" type="2" resource="redman" position="2965,704" speed="90" zorder="100" born="0.5" action="0.3,1,9|4,0,9" des="banman" scale="1.3" delay="1" repeat="1" png="3"/>
+        <begin id="10204" type="2" resource="tongman" position="3333,1096" speed="90" zorder="100" born="0.5" action="0.1,1,9|6,0,9" des="banman" scale="1.3" delay="1" repeat="1" png="3"/>
+        <begin id="10205" type="2" resource="gunman" position="2725,630" speed="90" zorder="100" born="0.5" action="0.15,1,9|4,0,9" des="banman" scale="1.3" delay="1" repeat="1" png="3"/>
+        <begin id="10206" type="2" resource="redman" position="3319,919" speed="90" zorder="100" born="0.5" action="0.18,1,9|2.5,0,9" des="banman" scale="1.3" delay="1" repeat="1" png="3"/>
+        <begin id="10207" type="2" resource="pangman" position="2890,712" speed="90" zorder="100" born="0.5" action="0.21,1,9|3,0,9" des="banman" scale="1.3" delay="1" repeat="1" png="3"/>
+        <begin id="10208" type="2" resource="tongman" position="3242,837" speed="90" zorder="100" born="0.5" action="0.35,1,9|5.5,0,9" des="banman" scale="1.3" delay="1" repeat="1" png="3"/>
+        <begin id="10209" type="2" resource="tongman" position="3318,521" speed="90" zorder="100" born="0.5" action="0.23,1,9|3.5,0,9" des="banman" scale="1.3" delay="1" repeat="1" png="3"/>
+
+        <begin id="10210" type="2" resource="pangman" position="2996,1126" speed="90" zorder="100" born="0.5" action="0.2,1,9" des="banman" scale="1.3" delay="1" repeat="1" png="3"/>
+        <begin id="10211" type="2" resource="gunman" position="2965,1097" speed="90" zorder="100" born="0.5" action="0.1,1,9" des="banman" scale="1.3" delay="1" repeat="1" png="3"/>
+        <begin id="10212" type="2" resource="redman" position="2938,1079" speed="90" zorder="100" born="0.5" action="0.3,1,9" des="banman" scale="1.3" delay="1" repeat="1" png="3"/>
+        <begin id="10213" type="2" resource="gunman" position="2912,1063" speed="90" zorder="100" born="0.5" action="0.23,1,9" des="banman" scale="1.3" delay="1" repeat="1" png="3"/>
+        <begin id="10214" type="2" resource="pangman" position="2883,1045" speed="90" zorder="100" born="0.5" action="0.15,1,9" des="banman" scale="1.3" delay="1" repeat="1" png="3"/>
+        <begin id="10215" type="2" resource="redman" position="2854,1025" speed="90" zorder="100" born="0.5" action="0.18,1,9" des="banman" scale="1.3" delay="1" repeat="1" png="3"/>
+        <begin id="10216" type="2" resource="pangman" position="2825,1007" speed="90" zorder="100" born="0.5" action="0.21,1,9" des="banman" scale="1.3" delay="1" repeat="1" png="3"/>
+        <begin id="10217" type="2" resource="gunman" position="2798,989" speed="90" zorder="100" born="0.5" action="0.27,1,9" des="banman" scale="1.3" delay="1" repeat="1" png="3"/>
+
+        <!-- 步兵 -->
+        <!-- 城门口近战步兵 -->
+        <begin id="10009" type="1" resource="a010_0" position="2916,1148"  speed="90" zorder="100" born="0.5" action="0.1,1,7" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+        <begin id="10010" type="1" resource="a010_0" position="2938,1126" speed="90" zorder="100" born="0.5" action="0.15,1,7" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+        <begin id="10011" type="1" resource="a010_0" position="2907,1101"  speed="90" zorder="100" born="0.5" action="0.2,1,7" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+        <begin id="10012" type="1" resource="a010_0" position="2880,1081" speed="90" zorder="100" born="0.5" action="0.23,1,7" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+        <begin id="10013" type="1" resource="a010_0" position="2849,1061" speed="90" zorder="100" born="0.5" action="0.3,1,7" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+        <begin id="10014" type="1" resource="a010_0" position="2829,1045"  speed="90" zorder="100" born="0.5" action="0.27,1,7" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+        <begin id="10015" type="1" resource="a010_0" position="2800,1027" speed="90" zorder="100" born="0.5" action="0.14,1,7" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+        <begin id="10016" type="1" resource="a010_0" position="2762,1003" speed="90" zorder="100" born="0.5" action="0.17,1,7" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+
+        <!-- zyy 喷火兵 如果修改了ID或者新增了ITEM，请在客户端程序中BattleFieldSceneNew中afterTroopMoved方法内进行相应的调整修改 -->
+        <begin id="10017" type="1" resource="a030_0" position="3138,1475"  speed="90" zorder="100" born="700.5" action="0.1,1,7" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+        <begin id="10018" type="1" resource="a030_0" position="3048,1409"  speed="90" zorder="100" born="700.5" action="0.4,1,7" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+        <begin id="10019" type="1" resource="a030_0" position="2946,1371" speed="90" zorder="100" born="700.5" action="0.3,1,7" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+        <begin id="10020" type="1" resource="a030_0" position="2860,1287"  speed="90" zorder="100" born="700.5" action="0.1,1,7" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+        <begin id="10021" type="1" resource="a030_0" position="2766,1257" speed="90" zorder="100" born="700.5" action="0.2,1,7" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+        <begin id="10022" type="1" resource="a030_0" position="2161,980"  speed="90" zorder="100" born="700.5" action="0.1,1,7" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+        <begin id="10023" type="1" resource="a030_0" position="2024,921" speed="90" zorder="100" born="700.5" action="0.33,1,7" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+        <begin id="10024" type="1" resource="a030_0" position="1930,862"  speed="90" zorder="100" born="700.5" action="0.1,1,7" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+        <begin id="10025" type="1" resource="a030_0" position="1836,813" speed="90" zorder="100" born="700.5" action="0.21,1,7" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+
+        <!-- 城门口步枪兵 -->
+        <begin id="10218" type="1" resource="a030_1" position="2506,1145"  speed="90" zorder="100" born="0.5" action="0.1,1,7" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+        <begin id="10219" type="1" resource="a030_1" position="2541,1165" speed="90" zorder="100" born="0.5" action="0.2,1,7" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+        <begin id="10220" type="1" resource="a030_1" position="2569,1183" speed="90" zorder="100" born="0.5" action="0.3,1,7" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+        <begin id="10221" type="1" resource="a030_1" position="2595,1197"  speed="90" zorder="100" born="0.5" action="0.25,1,7" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+        <begin id="10222" type="1" resource="a030_1" position="2630,1216" speed="90" zorder="100" born="0.5" action="0.15,1,7" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+        <begin id="10223" type="1" resource="a030_1" position="2657,1234"  speed="90" zorder="100" born="0.5" action="0.23,1,7" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+        <begin id="10224" type="1" resource="a030_1" position="2689,1251" speed="90" zorder="100" born="0.5" action="0.17,1,7" des="man" scale="1.3" delay="1" repeat="1" png="1"/>
+
+        <!-- 坦克 10027-10034不要占用也不要修改,否则会有问题 jinpeng-->
+        <!-- zyy 如果修改了ID或者新增了ITEM，请在客户端程序中BattleFieldSceneNew中afterTankMoved方法内进行相应的调整修改 -->
+        <begin id="10027" type="1" resource="HummerCar" position="3136,1078" speed="90" zorder="100" born="999" action="0.1,1,1" des="tank" scale="1" delay="1" repeat="1" png="1"/>
+        <begin id="10028" type="1" resource="HummerCar" position="2928,1065" speed="90" zorder="100" born="999" action="0.1,1,1" des="tank" scale="1" delay="1" repeat="1" png="1"/>
+        <begin id="10029" type="1" resource="HummerCar" position="3015,869" speed="90" zorder="100" born="999" action="0.1,1,1" des="tank" scale="1" delay="1" repeat="1" png="1"/>
+        <begin id="10030" type="1" resource="HummerCar" position="2804,883" speed="90" zorder="100" born="999" action="0.1,1,1" des="tank" scale="1" delay="1" repeat="1" png="1"/>
+        <begin id="10031" type="1" resource="HummerCar" position="2621,878" speed="90" zorder="100" born="999" action="0.1,1,1" des="tank" scale="1" delay="1" repeat="1" png="1"/>
+        <begin id="10032" type="1" resource="HummerCar" position="2450,758" speed="90" zorder="100" born="999" action="0.1,1,1" des="tank" scale="1" delay="1" repeat="1" png="1"/>
+
+        <!-- 坦克炮弹效果 -->
+        <begin id="10037" type="1" resource="daodan" position="3136,1078" speed="150" zorder="100" born="9.0"     action="0.1,9,5|0.5,8,1" des="daodan" scale="2" delay="1" repeat="1000" png="4"/>
+        <begin id="10038" type="1" resource="daodan" position="2928,1065" speed="150" zorder="100" born="9.2"   action="0.1,9,5|0.5,8,1" des="daodan" scale="2" delay="1" repeat="1000" png="4"/>
+        <begin id="10039" type="1" resource="daodan" position="3015,869" speed="150" zorder="100" born="9.4"   action="0.1,9,5|0.5,8,1" des="daodan" scale="2" delay="1" repeat="1000" png="4"/>
+        <begin id="10040" type="1" resource="daodan" position="2804,883" speed="150" zorder="100" born="9.3"   action="0.1,9,5|0.5,8,1" des="daodan" scale="2" delay="1" repeat="1000" png="4"/>
+        <begin id="10041" type="1" resource="daodan" position="2621,878" speed="150" zorder="100" born="10.5"   action="0.1,9,5|0.5,8,1" des="daodan" scale="2" delay="1" repeat="1000" png="4"/>
+        <begin id="10042" type="1" resource="daodan" position="2450,758" speed="150" zorder="100" born="10.2"   action="0.1,9,5|0.5,8,1" des="daodan" scale="2" delay="1" repeat="1000" png="4"/>
+
+		 <!-- 机枪火花 -->
+        <begin id="10045" type="3" resource="effect_dajiqiang"   position="2161,1390" speed="90" zorder="100" born="3.2" action="0,1,3" des="texiao-zhadan" scale="1.3" delay="1" repeat="1" png="2"/>
+        <begin id="10046" type="3" resource="effect_dajiqiang"   position="2185,1409" speed="90" zorder="100" born="3.2" action="0,1,3" des="texiao-zhadan" scale="1.3" delay="1" repeat="1" png="2"/>
+        <begin id="10047" type="3" resource="effect_xiaojiqiang" position="2497,1519" speed="90" zorder="100" born="3.2" action="0,1,2" des="texiao-zhadan" scale="1.3" delay="1" repeat="1" png="2"/>
+        <begin id="10048" type="3" resource="effect_xiaojiqiang" position="2655,1492" speed="90" zorder="100" born="3.2" action="0,1,2" des="texiao-zhadan" scale="1.3" delay="1" repeat="1" png="2"/>
+        <!-- 子弹第一波 -->
+
+        <begin id="10049" type="1" resource="zidan" position="2127,1433|2853,875 " speed="1000" zorder="100" born="3.2" action="0,4,1" des="man5" scale="1.3" delay="1" repeat="100" png="1"/>
+        <begin id="10050" type="1" resource="zidan" position="2153,1448|2855,1076 " speed="1000" zorder="100" born="3.2" action="0,4,1" des="man5" scale="1.3" delay="1" repeat="100" png="1"/>
+        <begin id="10051" type="1" resource="zidan" position="2462,1568|3078,1119" speed="1000" zorder="100" born="3.2" action="0,4,1" des="man5" scale="1.3" delay="1" repeat="100" png="1"/>
+        <begin id="10052" type="1" resource="zidan" position="2620,1533|3052,1110" speed="1000" zorder="100" born="3.2" action="0,4,1" des="man5" scale="1.3" delay="1" repeat="100" png="1"/>
+
+        <begin id="10053" type="1" resource="zidan" position="2127,1433|2853,875 " speed="1000" zorder="100" born="3.2" action="0.1,4,1" des="man5" scale="1.3" delay="1" repeat="100" png="1"/>
+        <begin id="10054" type="1" resource="zidan" position="2153,1448|2855,1076 " speed="1000" zorder="100" born="3.2" action="0.1,4,1" des="man5" scale="1.3" delay="1" repeat="100" png="1"/>
+        <begin id="10055" type="1" resource="zidan" position="2462,1568|3078,1119" speed="1000" zorder="100" born="3.2" action="0.1,4,1" des="man5" scale="1.3" delay="1" repeat="100" png="1"/>
+        <begin id="10056" type="1" resource="zidan" position="2620,1533|3052,1110" speed="1000" zorder="100" born="3.2" action="0.1,4,1" des="man5" scale="1.3" delay="1" repeat="100" png="1"/>
+
+        <begin id="10057" type="1" resource="zidan" position="2127,1433|2853,875 " speed="1000" zorder="100" born="3.2" action="0.2,4,1" des="man5" scale="1.3" delay="1" repeat="100" png="1"/>
+        <begin id="10058" type="1" resource="zidan" position="2153,1448|2855,1076 " speed="1000" zorder="100" born="3.2" action="0.2,4,1" des="man5" scale="1.3" delay="1" repeat="100" png="1"/>
+        <begin id="10059" type="1" resource="zidan" position="2462,1568|3078,1119" speed="1000" zorder="100" born="3.2" action="0.2,4,1" des="man5" scale="1.3" delay="1" repeat="100" png="1"/>
+        <begin id="10060" type="1" resource="zidan" position="2620,1533|3052,1110" speed="1000" zorder="100" born="3.2" action="0.2,4,1" des="man5" scale="1.3" delay="1" repeat="100" png="1"/>
+
+        <begin id="10061" type="1" resource="zidan" position="2127,1433|2853,875 " speed="1000" zorder="100" born="3.2" action="0.3,4,1" des="man5" scale="1.3" delay="1" repeat="100" png="1"/>
+        <begin id="10062" type="1" resource="zidan" position="2153,1448|2855,1076 " speed="1000" zorder="100" born="3.2" action="0.3,4,1" des="man5" scale="1.3" delay="1" repeat="100" png="1"/>
+        <begin id="10063" type="1" resource="zidan" position="2462,1568|3078,1119" speed="1000" zorder="100" born="3.2" action="0.3,4,1" des="man5" scale="1.3" delay="1" repeat="100" png="1"/>
+        <begin id="10064" type="1" resource="zidan" position="2620,1533|3052,1110" speed="1000" zorder="100" born="3.2" action="0.3,4,1" des="man5" scale="1.3" delay="1" repeat="100" png="1"/>
+
+        <begin id="10065" type="1" resource="zidan" position="2127,1433|2853,875 " speed="1000" zorder="100" born="3.2" action="0.4,4,1" des="man5" scale="1.3" delay="1" repeat="100" png="1"/>
+        <begin id="10066" type="1" resource="zidan" position="2153,1448|2855,1076 " speed="1000" zorder="100" born="3.2" action="0.4,4,1" des="man5" scale="1.3" delay="1" repeat="100" png="1"/>
+        <begin id="10067" type="1" resource="zidan" position="2462,1568|3078,1119" speed="1000" zorder="100" born="3.2" action="0.4,4,1" des="man5" scale="1.3" delay="1" repeat="100" png="1"/>
+        <begin id="10068" type="1" resource="zidan" position="2620,1533|3052,1110" speed="1000" zorder="100" born="3.2" action="0.4,4,1" des="man5" scale="1.3" delay="1" repeat="100" png="1"/>
+
+</Group>
+
+<Group id="Operation">
+        <!--type:0 移动屏幕 1:快速移动屏幕 2:动画结束 play变宝箱 3:动画真正的结束 动画消失 4:僵尸出现  5:屏幕闪红 6:显示丧失堆 7:动画暂停开始引导  8出现飞机 9:显示死亡 10:发射炮弹  11图片位移 12显示士兵从兵营出现  13显示Unit列阵移动 14显示子弹效果 15显示火人 16播放指定的序列帧-->
+
+        <!-- 由路移到城门 -->
+        <begin id="20001" type="0"  born="1.0" duration="8" position="2462,1163" scale="1.0" /> 
+
+        <!-- 丧尸群 -->
+        <!-- 正门路右边一 -->
+        <begin id="20002" type="4"  born="0.3" aimpoint="-1,1" origin="3617,918"  rect="300,200" num="30" moveType="1" speedRect="10,50" bossDecrease="1" distance="450"/> 
+        <!-- 正门路中间 -->
+        <begin id="20003" type="4"  born="0.3" aimpoint="-1,1" origin="3247,741" rect="200,100"  num="30"  moveType="1" speedRect="10,50" bossDecrease="1" distance="450"/>
+        <!-- <begin id="20034" type="4"  born="0.3" aimpoint="-1,1" origin="2747,1041" rect="200,100"  num="30"  moveType="1" speedRect="10,50" bossDecrease="1" distance="450"/> -->
+        <!-- 正门路左边一 -->
+        <begin id="20004" type="4"  born="0.3" aimpoint="-1,1" origin="2902,548" rect="400,200"  num="30"  moveType="1" speedRect="10,50" bossDecrease="1" distance="350"/>
+        <!-- 正门路左边二 -->
+        <begin id="20005" type="4"  born="0.3" aimpoint="-1,1" origin="2429,290" rect="400,200"  num="30"  moveType="1" speedRect="10,50" bossDecrease="1" distance="450"/> 
+        <!-- 正门路左边三 -->
+        <begin id="20006" type="4"  born="0.3" aimpoint="-1,1" origin="3171,279" rect="500,200"  num="40"  moveType="1" speedRect="10,50" bossDecrease="1" distance="300"/>
+        <!-- 正门路右边二 -->
+        <begin id="20007" type="4"  born="0.3" aimpoint="-1,1" origin="4155,703" rect="500,200"  num="40"  moveType="1" speedRect="10,50" bossDecrease="1" distance="300"/>
+        <!-- 屏幕闪红 -->
+        <begin id="20011" type="5"  born="0.8" duration="10" />
+        <!-- 中途暂停开始造兵引导 -->
+        <begin id="20012" type="7"  born="7" isPause="1" guideId="4070210"/>
+
+        <!-- 火人 -->
+        <begin id="20013" type="15" born="8.5" topoint="2157,610" origin="2213,708" rect="400,200" num="10" speedRect="70,90"/>
+        <begin id="20014" type="15" born="9"  topoint="3131,910" origin="3275,1173" rect="400,200" num="10" speedRect="70,90"/>
+        <!-- 固定位置添加序列帧动画 -->
+        <begin id="20016" type="16" born="8.5"   position="2213,708|3275,1173" scale="2" resource="huo_%d.png" framcount="8"/>
+
+        <!-- 移动屏幕观看飞机 -->
+        <begin id="20024" type="0"  born="10.2" position="2416,1430" duration="0.2" scale="0.6" />
+        <begin id="20025" type="0"  born="10.4" position="2981,1044" duration="7" scale="0.6" />
+        <!-- 飞机出现 -->
+        <begin id="20028" type="8"  born="10.2" position="2316,1430" aimpoint="3855,265" duration="7.4" />
+        <begin id="20029" type="8"  born="10.2" position="1823,1370" aimpoint="3730,-96" duration="7.4" />
+
+        <!-- 飞机炸弹 type = 17 -->
+        <begin id="20100" type="17"  born="11.5" position="2439,838"/>
+        <begin id="20101" type="17"  born="12.0" position="2785,867"/>
+        <begin id="20102" type="17"  born="12.5" position="3065,1048"/>
+        <begin id="20103" type="17"  born="13.0" position="3065,797"/>
+        <begin id="20104" type="17"  born="13.5" position="2772,634"/>
+        <!-- 第一战结束 -->
+        <begin id="20033" type="3"  born="15.8"/>
+
+        <!-- <begin id="20003" type="4"  born="0.3" aimpoint="-1,1" origin="2710,1310" rect="960,260"  num="60"  moveType="2" speedRect="10,50" bossDecrease="1"/>
+        <begin id="20004" type="4"  born="0.3" aimpoint="-1,1" origin="2210,910" rect="900,280"  num="60"  moveType="2" speedRect="10,50" bossDecrease="1"/>
+        <begin id="20005" type="4"  born="0.3" aimpoint="-1,1" origin="1310,660"  rect="830,210"  num="60"  moveType="2" speedRect="10,50" bossDecrease="1"/>
+        <begin id="20006" type="4"  born="0.3" aimpoint="-1,1" origin="1910,100"  rect="800,400"  num="80"  moveType="1" speedRect="10,50" bossDecrease="1"/>
+        <begin id="20007" type="4"  born="0.3" aimpoint="-1,1" origin="2510,100"  rect="1600,400" num="80"  moveType="1" speedRect="10,50" bossDecrease="1"/>
+        <begin id="20008" type="4"  born="0.3" aimpoint="-1,1" origin="2510,500"  rect="1600,400" num="80"  moveType="1" speedRect="10,50" bossDecrease="1"/> -->
+
+        <!-- <begin id="20009" type="6"  born="0.4" position="1944,982|2964,1502" res="battlefield_sangshidui2" rotation="-30"/> -->
+        <!-- <begin id="20010" type="6"  born="0.4" position="2468,1275" res="battlefield_sangshidui1" rotation="-30"/> -->
+        <!-- <begin id="20011" type="0"  born="1.0" duration="8" position="2312,1263" scale="1.0" />  -->
+        
+
+        <!-- <begin id="20013" type="0"  born="3.4" duration="1.5" position="3160,1580" scale="1.2" />  -->
+        <!-- <begin id="20014" type="0"  born="4.8" duration="3.5" position="2425,1215" scale="1.2" /> -->
+
+        
+
+        <!-- <begin id="20024" type="0"  born="10.2" position="1675,765" duration="0.2" scale="1.0" /> -->
+        <!-- <begin id="20025" type="0"  born="10.4" position="2610,1480" duration="7" scale="0.8" /> -->
+
+        <!-- <begin id="20028" type="8"  born="10.2" position="1982,1614" aimpoint="3281,764" duration="13.4" /> -->
+
+        
+
+
+
+
+        <!-- <begin id="20024" type="0"  born="10.2" position="1982,1614" duration="0.2" scale="0.8" /> -->
+        <!-- <begin id="20025" type="0"  born="10.4" position="3281,764" duration="7" scale="0.7" /> -->
+        <!-- <begin id="20024" type="0"  born="10.2" position="1675,665" duration="0.2" scale="0.9" /> -->
+        <!-- <begin id="20025" type="0"  born="10.4" position="2610,1380" duration="7" scale="0.8" /> -->
+        <!-- <begin id="20026" type="11" born="10.3" position="0,0"     movePoint="-250,300"  moveTime="1.5" res="firstbattle_yanwua"  appearDelayTime="0"/> -->
+        <!-- <begin id="20027" type="10" born="5.4" position="100,200" movePoint="100,250"   moveTime="1.2" res="fristbattle_daodan"/> -->
+        <!-- <begin id="20028" type="8"  born="10.2" position="1665,755" aimpoint="3470,1380" duration="13.4" /> -->
+        <!-- <begin id="20029" type="11" born="11.2" position="0,0"     movePoint="-300,300"  moveTime="3" res="firstbattle_yanwua"  appearDelayTime="0"/> -->
+        <!-- <begin id="20030" type="10" born="11.4" position="100,200" movePoint="150,150"   moveTime="1.6" res="fristbattle_daodan"/> -->
+        <!-- <begin id="20031" type="10" born="12.4" position="100,200" movePoint="-150,250"  moveTime="1.8" res="fristbattle_daodan"/> -->
+        <!-- <begin id="20032" type="10" born="13.5" position="100,200" movePoint="0,150"     moveTime="1.8" res="fristbattle_daodan"/> -->
+        <!-- <begin id="20033" type="3"  born="15.8"/> -->
+    </Group>
+</tns:database>

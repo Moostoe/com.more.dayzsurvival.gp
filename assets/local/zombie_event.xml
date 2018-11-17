@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="zombie_event">
+    <!-- 
+     resource: 图片前缀(speed对应不同resource的速度)
+     road: 行走路径，随机一个出来用
+     part1: 第1组，每一个僵尸之间间隔的秒数，随机一个出来用（出现一个僵尸之后，下一个需要等待多少秒才出现）
+     part2: 第2组，。。。。
+     reward: 奖励（200201,99 表示 9成9的概率获得200201）
+     delay: 进入游戏多少秒之后开始跑僵尸
+     groupcount: 每组groupcount个僵尸，用于切换 part1 到 part2 到 。。。。
+     max: 地图上最多出现多少个僵尸，满员之后需要打死一个或者多个才可以出现新的
+
+     reward_resources3="1-100" reward_resources4="1-50" 
+     reward_limit="3,3,50"  道具 钻石 资源
+     reward_resources1="1-1000"        个数   1代表燃油  2代表粮食
+      WOOD, STONE, IRON, FOOD, SILVER, GOLD, CHIP, DIAMOND;    从0向后    0燃油 3食物
+     -->
+    <zombie_event id="1000" name="zombie_event" resource="redman,pangman,gunman" speed="5,10,3" road="1005,1006,1007,1008,1009,1010,1011,1012,1013"
+        part1="2,3,4,5" part2="11,12,13" part3="21,22,34" part4="44,45,46" part5="55,56,57"
+        reward_item="200306,200307" reward_limit="0,3,50" reward_diamond="1,2,3" reward_rate="20,20,60" reward_resources1="0|500,3|500" delay="1" groupcount="10" max="10"/>
+    <zombie_event id="1001" name="zombie_event_road1" action="attack" position="3329,183|2973,350|2861,440|2861,542|2956,607|3056,259|2846,883|2639,1751"/>
+    <zombie_event id="1002" name="zombie_event_road2" action="move" position="202,188|863,400|1430,707|1715,839|1760,992|2080,1096|2501,1269"/>
+    <zombie_event id="1003" name="zombie_event_road3" action="move" position="2129,854|2224,749|2404,679|2262,654|2092,540|1990,582"/>
+    <zombie_event id="1004" name="zombie_event_road4" action="move" position=",224|367,356|331,400|267,400|198,459|305,537|325,571|429,601|383,691"/>
+    <zombie_event id="1005" name="zombie_event_road5" action="move" position="2203,964|2427,1081|2563,1149|2724,1222|2863,1310" />
+    <zombie_event id="1006" name="zombie_event_road6" action="move" position="3360,723|3465,667|3547,613|3626,590|3697,539|3700,468|3785,468" />
+    <zombie_event id="1007" name="zombie_event_road7" action="move" position="3628,813|3691,876|3745,956|3811,1041|3834,1121|3751,1178|3560,1381|3340,1318" />
+    <zombie_event id="1008" name="zombie_event_road8" action="move" position="2446,386|2472,480|2475,548|2566,582|2634,579|2690,647|2784,701|2852,738" />
+    <zombie_event id="1009" name="zombie_event_road9" action="move" position="3862,1262|3962,1293|4042,1322|4100,1316|4170,1384|4297,1419" />
+    <zombie_event id="1010" name="zombie_event_road10" action="move" position="4511,783|4404,743|4188,706|4035,706|3905,721|3723,732|3456,798|3157,940|2944,1022|2865,1101" />
+    <zombie_event id="1011" name="zombie_event_road11" action="move" position="4511,783|4404,743|4188,706|4035,706|3905,721|3723,732|3456,798|3157,940|2944,1022|2865,1101"/>
+    <zombie_event id="1012" name="zombie_event_road12" action="move" position="3862,1262|3962,1293|4042,1322|4100,1316|4170,1384|4297,1419"/>
+    <zombie_event id="1013" name="zombie_event_road13" action="move" position="3628,813|3691,876|3745,956|3811,1041|3834,1121|3751,1178|3560,1381|3340,1318"/>
+    <zombie_event id="1014" name="zombie_event_road14" action="move" position="578,161|1030,541|1168,598|1219,664|1512,719|1733,961|1908,933|2001,1072|2559,1284"/>
+    <zombie_event id="1015" name="zombie_event_road15" action="move" position="579,162|1026,552|1167,600|1202,650|1528,717|1744,960|1909,931|2003,1071|2545,1271"/>
+    <zombie_event id="1016" name="zombie_event_road16" action="move" position="566,177|1025,540|1155,583|1219,661|1514,717|1729,960|1909,937|1999,1076|2564,1289"/>
+    <zombie_event id="1017" name="zombie_event_road17" action="move" position="578,176|1029,538|1169,601|1205,662|1529,732|1731,948|1904,931|1999,1070|2562,1286"/>
+    <zombie_event id="1018" name="zombie_event_road18" action="move" position="578,177|1025,539|1154,584|1219,661|1525,733|1749,948|1909,932|2004,1076|2548,1271"/>
+    <zombie_event id="1019" name="zombie_event_road19" action="move" position="563,162|1044,556|1155,602|1217,661|1528,715|1729,944|1909,936|2005,1076|2545,1287"/>
+    <zombie_event id="1020" name="zombie_event_road20" action="move" position="560,161|1043,540|1170,584|1218,664|1509,736|1748,944|1905,937|2000,1069|2562,1290"/>
+    <zombie_event id="1021" name="zombie_event_road21" action="move" position="565,180|1045,539|1173,603|1219,646|1508,732|1750,962|1910,936|2000,1076|2547,1290"/>
+    <zombie_event id="1022" name="zombie_event_road22" action="move" position="579,180|1024,555|1151,584|1220,664|1513,734|1730,944|1909,936|2000,1077|2548,1288"/>
+    <zombie_event id="1023" name="zombie_event_road23" action="move" position="579,179|1043,555|1174,599|1221,649|1512,716|1749,945|1910,937|2005,1075|2546,1274"/>
+    <zombie_event id="1024" name="zombie_event_road24" action="move" position="559,176|1026,534|1169,598|1204,664|1531,735|1732,945|1904,936|1999,1077|2561,1288"/>
+    <zombie_event id="1025" name="zombie_event_road25" action="move" position="2395,1279|2303,1210|2106,1142|1924,1051|2024,1059|2194,1108|2371,1191"/>
+    <zombie_event id="1026" name="zombie_event_road26" action="move" position="2388,1275|2303,1212|2098,1134|1931,1056|2033,1050|2196,1108|2371,1184"/>
+    <zombie_event id="1027" name="zombie_event_road27" action="move" position="2395,1284|2311,1202|2096,1132|1920,1054|2025,1059|2193,1104|2376,1191"/>
+    <zombie_event id="1028" name="zombie_event_road28" action="move" position="2388,1278|2305,1204|2105,1141|1924,1047|2025,1057|2195,1101|2369,1185"/>
+    <zombie_event id="1029" name="zombie_event_road29" action="move" position="2390,1279|2310,1204|2097,1139|1929,1055|2026,1058|2187,1108|2377,1182"/>
+    <zombie_event id="1030" name="zombie_event_road30" action="move" position="2397,1276|2315,1213|2095,1132|1919,1043|2022,1063|2185,1098|2380,1191"/>
+    <zombie_event id="1031" name="zombie_event_road31" action="move" position="2388,1277|2303,1200|2093,1130|1931,1043|2022,1049|2184,1100|2377,1192"/>
+    <zombie_event id="1032" name="zombie_event_road32" action="move" position="2386,1275|2303,1214|2106,1143|1932,1043|2021,1061|2198,1101|2381,1192"/>
+    <zombie_event id="1033" name="zombie_event_road33" action="move" position="2386,1288|2303,1214|2097,1142|1931,1055|2033,1059|2196,1097|2378,1181"/>
+    <zombie_event id="1034" name="zombie_event_road34" action="move" position="2387,1286|2315,1214|2096,1131|1932,1044|2033,1050|2184,1111|2378,1193"/>
+    <zombie_event id="1035" name="zombie_event_road35" action="move" position="2386,1291|2317,1212|2094,1129|1921,1044|2035,1046|2185,1095|2381,1179"/>
+    <zombie_event id="1036" name="zombie_event_road36" action="move" position="2384,1274|2315,1213|2091,1127|1932,1058|2037,1045|2197,1097|2382,1178"/>
+    <zombie_event id="1037" name="zombie_event_road37" action="move" position="2388,1273|2299,1213|2094,1129|1918,1056|2020,1065|2183,1110|2364,1177"/>
+    <zombie_event id="1038" name="zombie_event_road38" action="move" position="2402,1275|2313,1212|2107,1142|1917,1057|2018,1045|2182,1097|2382,1196"/>
+    <zombie_event id="1039" name="zombie_event_road39" action="move" position="2384,1292|2303,1197|2091,1143|1919,1044|2035,1047|2186,1095|2379,1193"/>
+    <zombie_event id="1040" name="zombie_event_road40" action="move" position="2381,1292|2317,1215|2110,1144|1934,1057|2039,1044|2183,1117|2364,1196"/>
+    <zombie_event id="1041" name="zombie_event_road41" action="move" position="2404,1272|2300,1218|2091,1144|1917,1062|2018,1047|2199,1113|2362,1194"/>
+    <zombie_event id="1042" name="zombie_event_road42" action="move" position="2383,1275|2314,1218|2093,1146|1936,1061|2017,1046|2184,1094|2384,1177"/>
+    <zombie_event id="1043" name="zombie_event_road43" action="move" position="2384,1291|2316,1198|2094,1145|1920,1040|2019,1062|2201,1097|2365,1195"/>
+    <zombie_event id="1044" name="zombie_event_road44" action="move" position="2382,1274|2315,1216|2093,1126|1918,1063|2017,1066|2202,1117|2363,1180"/>
+
+
+
+
+  </Group>
+</tns:database>

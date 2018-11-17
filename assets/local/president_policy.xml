@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="president_policy">
+    <ItemSpec id="270000" type1="1" type2="1" level="1" level_max="3" property="10" target="1" price="2000" im_price="2000" name="173118" description="173119" pic="pic_270000" position="1;4" relation="2;2|2;6" />
+    <ItemSpec id="270001" type1="1" type2="1" level="2" level_max="3" property="20" target="1" price="2000" im_price="3000" name="173118" description="173119" pic="pic_270000" />
+    <ItemSpec id="270002" type1="1" type2="1" level="3" level_max="3" property="40" target="1" price="2000" im_price="5000" name="173118" description="173119" pic="pic_270000" />
+    <ItemSpec id="270100" type1="1" type2="1" level="1" level_max="5" property="2;8" target="1" price="3000" im_price="2000" unlock="270002" name="173120" description="173121" pic="pic_270100" position="2;2" relation="3;4" />
+    <ItemSpec id="270101" type1="1" type2="1" level="2" level_max="5" property="4;12" target="1" price="3000" im_price="3000" name="173120" description="173121" pic="pic_270100" />
+    <ItemSpec id="270102" type1="1" type2="1" level="3" level_max="5" property="6;15" target="1" price="3000" im_price="5000" name="173120" description="173121" pic="pic_270100" />
+    <ItemSpec id="270103" type1="1" type2="1" level="4" level_max="5" property="8;20" target="1" price="3000" im_price="7000" name="173120" description="173121" pic="pic_270100" />
+    <ItemSpec id="270104" type1="1" type2="1" level="5" level_max="5" property="10;20" target="1" price="3000" im_price="10000" name="173120" description="173121" pic="pic_270100" />
+    <ItemSpec id="270200" type1="1" type2="1" level="1" level_max="5" property="10;8" target="1" price="3000" im_price="3000" unlock="270002" name="173122" description="173123" pic="pic_270200" position="2;6" relation="3;4" />
+    <ItemSpec id="270201" type1="1" type2="1" level="2" level_max="5" property="20;15" target="1" price="3000" im_price="5000" name="173122" description="173123" pic="pic_270200" />
+    <ItemSpec id="270202" type1="1" type2="1" level="3" level_max="5" property="25;15" target="1" price="3000" im_price="8000" name="173122" description="173123" pic="pic_270200" />
+    <ItemSpec id="270203" type1="1" type2="1" level="4" level_max="5" property="35;20" target="1" price="3000" im_price="12000" name="173122" description="173123" pic="pic_270200" />
+    <ItemSpec id="270204" type1="1" type2="1" level="5" level_max="5" property="40;20" target="1" price="3000" im_price="15000" name="173122" description="173123" pic="pic_270200" />
+    <ItemSpec id="270300" type1="2" type2="1" level="1" level_max="3" property="6;7;12" target="1" price="3000" im_price="10000" unlock="270103;270203" name="173124" description="173125" pic="pic_270300" position="3;4" relation="4;2|4;6" />
+    <ItemSpec id="270301" type1="2" type2="1" level="2" level_max="3" property="8;8;12" target="1" price="3000" im_price="13000" name="173124" description="173125" pic="pic_270300" />
+    <ItemSpec id="270302" type1="2" type2="1" level="3" level_max="3" property="10;10;12" target="1" price="3000" im_price="18000" name="173124" description="173125" pic="pic_270300" />
+    <ItemSpec id="270400" type1="1" type2="1" level="1" level_max="5" property="15" target="1" price="2000" im_price="3000" unlock="270302" name="173126" description="173127" pic="pic_270400" position="4;2" relation="5;4" />
+    <ItemSpec id="270401" type1="1" type2="1" level="2" level_max="5" property="20" target="1" price="2000" im_price="5000" name="173126" description="173127" pic="pic_270400" />
+    <ItemSpec id="270402" type1="1" type2="1" level="3" level_max="5" property="25" target="1" price="2000" im_price="7000" name="173126" description="173127" pic="pic_270400" />
+    <ItemSpec id="270403" type1="1" type2="1" level="4" level_max="5" property="30" target="1" price="2000" im_price="10000" name="173126" description="173127" pic="pic_270400" />
+    <ItemSpec id="270404" type1="1" type2="1" level="5" level_max="5" property="30;5" target="1" price="2000" im_price="12000" name="173126" description="173128" pic="pic_270400" />
+    <ItemSpec id="270500" type1="1" type2="1" level="1" level_max="5" property="50" target="1" price="3000" im_price="3000" unlock="270302" name="173129" description="173130" pic="pic_270500" position="4;6" relation="5;4" />
+    <ItemSpec id="270501" type1="1" type2="1" level="2" level_max="5" property="100" target="1" price="3000" im_price="5000" name="173129" description="173130" pic="pic_270500" />
+    <ItemSpec id="270502" type1="1" type2="1" level="3" level_max="5" property="150" target="1" price="3000" im_price="7000" name="173129" description="173130" pic="pic_270500" />
+    <ItemSpec id="270503" type1="1" type2="1" level="4" level_max="5" property="200" target="1" price="3000" im_price="10000" name="173129" description="173130" pic="pic_270500" />
+    <ItemSpec id="270504" type1="1" type2="1" level="5" level_max="5" property="300" target="1" price="3000" im_price="12000" name="173129" description="173130" pic="pic_270500" />
+    <ItemSpec id="270600" type1="1" type2="1" level="1" level_max="4" property="5;5" target="2" price="6000" im_price="5000" unlock="270404;270504" num="1" name="173131" description="173132" pic="pic_270600" position="5;4" relation="6;4" />
+    <ItemSpec id="270601" type1="1" type2="1" level="2" level_max="4" property="10;10" target="2" price="6000" im_price="7000" num="1" name="173131" description="173132" pic="pic_270600" />
+    <ItemSpec id="270602" type1="1" type2="1" level="3" level_max="4" property="15;15" target="2" price="6000" im_price="10000" num="1" name="173131" description="173132" pic="pic_270600" />
+    <ItemSpec id="270603" type1="1" type2="1" level="4" level_max="4" property="20;20" target="2" price="6000" im_price="12000" num="1" name="173131" description="173132" pic="pic_270600" />
+    <ItemSpec id="270700" type1="1" type2="1" level="1" level_max="3" property="5;50" target="1" price="6000" im_price="8000" unlock="270602" name="173133" description="173134" pic="pic_270700" position="6;4" relation="7;4" />
+    <ItemSpec id="270701" type1="1" type2="1" level="2" level_max="3" property="10;50" target="1" price="6000" im_price="10000" name="173133" description="173134" pic="pic_270700" />
+    <ItemSpec id="270702" type1="1" type2="1" level="3" level_max="3" property="15;60" target="1" price="6000" im_price="15000" name="173133" description="173134" pic="pic_270700" />
+    <ItemSpec id="270800" type1="2" type2="1" level="1" level_max="2" property="1;10;50000;24" target="3" price="8000" im_price="10000" unlock="270702" num="1" name="173135" description="173136" pic="pic_270800" position="7;4" />
+    <ItemSpec id="270801" type1="2" type2="1" level="2" level_max="2" property="2;10;50000;24" target="3" price="8000" im_price="20000" num="2" name="173135" description="173136" pic="pic_270800" />
+</Group>
+</tns:database>

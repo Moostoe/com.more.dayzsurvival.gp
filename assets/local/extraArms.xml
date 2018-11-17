@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" num="1" armsId="109000|109100|109200|109300"/>
+    <ItemSpec id="2" num="1" armsId="109000|109100|109200|109300"/>
+    <ItemSpec id="3" num="1" armsId="109000|109100|109200|109300"/>
+    <ItemSpec id="4" num="1" armsId="109001|109101|109201|109301"/>
+    <ItemSpec id="5" num="1" armsId="109001|109101|109201|109301"/>
+    <ItemSpec id="6" num="1" armsId="109001|109101|109201|109301"/>
+    <ItemSpec id="7" num="1" armsId="109002|109102|109202|109302"/>
+    <ItemSpec id="8" num="1" armsId="109002|109102|109202|109302"/>
+    <ItemSpec id="9" num="1" armsId="109002|109102|109202|109302"/>
+    <ItemSpec id="10" num="1" armsId="109003|109103|109203|109303"/>
+    <ItemSpec id="11" num="1" armsId="109003|109103|109203|109303"/>
+    <ItemSpec id="12" num="1" armsId="109003|109103|109203|109303"/>
+    <ItemSpec id="13" num="1" armsId="109004|109104|109204|109304"/>
+    <ItemSpec id="14" num="1" armsId="109004|109104|109204|109304"/>
+    <ItemSpec id="15" num="1" armsId="109004|109104|109204|109304"/>
+    <ItemSpec id="16" num="1" armsId="109005|109105|109205|109305"/>
+    <ItemSpec id="17" num="1" armsId="109005|109105|109205|109305"/>
+    <ItemSpec id="18" num="1" armsId="109005|109105|109205|109305"/>
+    <ItemSpec id="19" num="1" armsId="109006|109106|109206|109306"/>
+    <ItemSpec id="20" num="1" armsId="109006|109106|109206|109306"/>
+    <ItemSpec id="21" num="1" armsId="109006|109106|109206|109306"/>
+    <ItemSpec id="22" num="1" armsId="109007|109107|109207|109307"/>
+    <ItemSpec id="23" num="1" armsId="109007|109107|109207|109307"/>
+    <ItemSpec id="24" num="1" armsId="109007|109107|109207|109307"/>
+    <ItemSpec id="25" num="1" armsId="109007|109107|109207|109307"/>
+    <ItemSpec id="26" num="1" armsId="109008|109108|109208|109308"/>
+    <ItemSpec id="27" num="1" armsId="109008|109108|109208|109308"/>
+    <ItemSpec id="28" num="1" armsId="109008|109108|109208|109308"/>
+    <ItemSpec id="29" num="1" armsId="109008|109108|109208|109308"/>
+    <ItemSpec id="30" num="1" armsId="109009|109109|109209|109309"/>
+</tns:database>

@@ -1,0 +1,95 @@
+_alpha_ico107006.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yaodai
+  rotate: true
+  xy: 213, 128
+  size: 76, 39
+  orig: 76, 39
+  offset: 0, 0
+  index: -1
+qianjin
+  rotate: false
+  xy: 236, 423
+  size: 30, 61
+  orig: 30, 61
+  offset: 0, 0
+  index: -1
+zuoxiaobi
+  rotate: true
+  xy: 66, 360
+  size: 57, 176
+  orig: 57, 176
+  offset: 0, 0
+  index: -1
+youxiabi
+  rotate: false
+  xy: 2, 2
+  size: 205, 165
+  orig: 205, 165
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: false
+  xy: 212, 210
+  size: 36, 69
+  orig: 36, 69
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: false
+  xy: 2, 339
+  size: 58, 125
+  orig: 58, 125
+  offset: 0, 0
+  index: -1
+youxiaotui
+  rotate: false
+  xy: 213, 2
+  size: 48, 120
+  orig: 48, 120
+  offset: 0, 0
+  index: -1
+shenzi
+  rotate: false
+  xy: 2, 173
+  size: 122, 160
+  orig: 122, 160
+  offset: 0, 0
+  index: -1
+tiepian
+  rotate: false
+  xy: 212, 285
+  size: 36, 64
+  orig: 36, 64
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 174, 423
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: false
+  xy: 130, 173
+  size: 76, 181
+  orig: 76, 181
+  offset: 0, 0
+  index: -1
+zuodabi
+  rotate: true
+  xy: 2, 470
+  size: 32, 58
+  orig: 32, 58
+  offset: 0, 0
+  index: -1
+zuoxiaotui
+  rotate: true
+  xy: 66, 423
+  size: 71, 102
+  orig: 71, 102
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,23 @@
+{
+"skeleton": { "hash": "6y5MSsWCMdjP6EJ0FYku/7MhwpY", "spine": "2.1.27", "width": 270, "height": 194, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": -8.55, "y": 14.49 }
+],
+"slots": [
+	{ "name": "panjunyingdi", "bone": "bone", "attachment": "panjunyingdi" }
+],
+"skins": {
+	"default": {
+		"panjunyingdi": {
+			"panjunyingdi": { "x": 9.91, "y": 28.12, "width": 270, "height": 194 }
+		}
+	}
+},
+"animations": {
+	"animation": {},
+	"die": {},
+	"move": {},
+	"standby": {}
+}
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="battle_animation">
+    <ItemSpec id="animation_1" name="103426" skill_id="101008|101009"/>
+    <ItemSpec id="animation_2" name="320023" skill_id="101043"/>
+    <ItemSpec id="animation_3" name="80000181" skill_id="101036|101037"/>
+    <ItemSpec id="animation_4" name="80000182" skill_id="101034|101035"/>
+    <ItemSpec id="animation_5" name="80000183" skill_id="101038|101039"/>
+    <ItemSpec id="animation_6" name="79011100" skill_id="101041"/>
+
+    </Group> 
+</tns:database>

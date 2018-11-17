@@ -1,0 +1,102 @@
+_alpha_ico107019.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11ji_rshou
+  rotate: true
+  xy: 525, 132
+  size: 51, 50
+  orig: 65, 54
+  offset: 10, 1
+  index: -1
+11ji_fuzi
+  rotate: true
+  xy: 428, 2
+  size: 198, 91
+  orig: 200, 93
+  offset: 1, 1
+  index: -1
+yingzi
+  rotate: true
+  xy: 165, 136
+  size: 287, 119
+  orig: 351, 171
+  offset: 32, 26
+  index: -1
+11ji_lshou
+  rotate: false
+  xy: 2, 425
+  size: 90, 77
+  orig: 92, 79
+  offset: 1, 1
+  index: -1
+11ji_tou
+  rotate: true
+  xy: 98, 429
+  size: 74, 79
+  orig: 76, 81
+  offset: 1, 1
+  index: -1
+11ji_tui
+  rotate: false
+  xy: 2, 136
+  size: 157, 283
+  orig: 187, 285
+  offset: 1, 1
+  index: -1
+11ji_rxiaobi
+  rotate: true
+  xy: 418, 409
+  size: 41, 80
+  orig: 43, 82
+  offset: 1, 1
+  index: -1
+11ji_yifu2
+  rotate: false
+  xy: 367, 136
+  size: 45, 298
+  orig: 47, 300
+  offset: 1, 1
+  index: -1
+11ji_body
+  rotate: false
+  xy: 418, 206
+  size: 153, 197
+  orig: 155, 209
+  offset: 0, 11
+  index: -1
+11ji_rdabi
+  rotate: true
+  xy: 183, 446
+  size: 57, 89
+  orig: 59, 91
+  offset: 1, 1
+  index: -1
+11ji_yifu3
+  rotate: false
+  xy: 525, 2
+  size: 42, 124
+  orig: 46, 126
+  offset: 0, 1
+  index: -1
+11ji_wuqi
+  rotate: false
+  xy: 2, 2
+  size: 420, 128
+  orig: 422, 130
+  offset: 1, 1
+  index: -1
+11ji_yifu1
+  rotate: false
+  xy: 290, 136
+  size: 71, 304
+  orig: 87, 306
+  offset: 0, 1
+  index: -1
+11ji_ldabi
+  rotate: true
+  xy: 278, 446
+  size: 56, 68
+  orig: 92, 76
+  offset: 35, 1
+  index: -1

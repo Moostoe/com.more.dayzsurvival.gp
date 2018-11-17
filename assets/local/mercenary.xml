@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="88000" level="1" rate="100" arms="107109" num="100" next="88012" />
+    <ItemSpec id="88001" level="1" rate="100" arms="107209" num="100" next="88013" />
+    <ItemSpec id="88002" level="1" rate="100" arms="108007" num="100" next="88014" />
+    <ItemSpec id="88003" level="1" rate="100" arms="107109" num="300" next="88015" />
+    <ItemSpec id="88004" level="1" rate="100" arms="107209" num="300" next="88016" />
+    <ItemSpec id="88005" level="1" rate="100" arms="108007" num="300" unlock="1" next="88017" />
+    <ItemSpec id="88006" level="1" rate="100" arms="107109" num="150" unlock="1" next="88018" />
+    <ItemSpec id="88007" level="1" rate="100" arms="107209" num="150" next="88019" />
+    <ItemSpec id="88008" level="1" rate="100" arms="108007" num="150" next="88020" />
+    <ItemSpec id="88009" level="1" rate="100" arms="107109" num="250" next="88021" />
+    <ItemSpec id="88010" level="1" rate="100" arms="107209" num="250" unlock="1" next="88022" />
+    <ItemSpec id="88011" level="1" rate="100" arms="108007" num="250" next="88023" />
+    <ItemSpec id="88012" level="2" rate="100" arms="107109" num="100" next="88012" />
+    <ItemSpec id="88013" level="2" rate="100" arms="107209" num="100" next="88013" />
+    <ItemSpec id="88014" level="2" rate="100" arms="108007" num="100" next="88014" />
+    <ItemSpec id="88015" level="2" rate="100" arms="107109" num="300" next="88015" />
+    <ItemSpec id="88016" level="2" rate="100" arms="107209" num="300" next="88016" />
+    <ItemSpec id="88017" level="2" rate="100" arms="108007" num="300" next="88017" />
+    <ItemSpec id="88018" level="2" rate="100" arms="107109" num="150" next="88018" />
+    <ItemSpec id="88019" level="2" rate="100" arms="107209" num="150" next="88019" />
+    <ItemSpec id="88020" level="2" rate="100" arms="108007" num="150" next="88020" />
+    <ItemSpec id="88021" level="2" rate="100" arms="107109" num="250" next="88021" />
+    <ItemSpec id="88022" level="2" rate="100" arms="107209" num="250" next="88022" />
+    <ItemSpec id="88023" level="2" rate="100" arms="108007" num="250" next="88023" />
+    <ItemSpec id="88024" level="2" rate="100" arms="107009" num="100" next="88024" />
+    <ItemSpec id="88025" level="2" rate="100" arms="107009" num="300" next="88025" />
+    <ItemSpec id="88026" level="2" rate="100" arms="107009" num="150" next="88026" />
+    <ItemSpec id="88027" level="2" rate="100" arms="107009" num="250" next="88027" />
+    <ItemSpec id="88012" level="3" rate="100" arms="107109" num="200" next="88028" />
+    <ItemSpec id="88013" level="3" rate="100" arms="107209" num="200" next="88029" />
+    <ItemSpec id="88014" level="3" rate="100" arms="108007" num="200" next="88030" />
+    <ItemSpec id="88015" level="3" rate="100" arms="107109" num="400" next="88031" />
+    <ItemSpec id="88016" level="3" rate="100" arms="107209" num="400" next="88032" />
+    <ItemSpec id="88017" level="3" rate="100" arms="108007" num="400" next="88033" />
+    <ItemSpec id="88018" level="3" rate="100" arms="107109" num="250" next="88034" />
+    <ItemSpec id="88019" level="3" rate="100" arms="107209" num="250" next="88035" />
+    <ItemSpec id="88020" level="3" rate="100" arms="108007" num="250" next="88036" />
+    <ItemSpec id="88021" level="3" rate="100" arms="107109" num="350" next="88037" />
+    <ItemSpec id="88022" level="3" rate="100" arms="107209" num="350" next="88038" />
+    <ItemSpec id="88023" level="3" rate="100" arms="108007" num="350" next="88039" />
+    <ItemSpec id="88024" level="3" rate="100" arms="107009" num="200" next="88040" />
+    <ItemSpec id="88025" level="3" rate="100" arms="107009" num="400" next="88041" />
+    <ItemSpec id="88026" level="3" rate="100" arms="107009" num="250" next="88042" />
+    <ItemSpec id="88027" level="3" rate="100" arms="107009" num="350" next="88043" />
+    <ItemSpec id="88028" level="4" rate="100" arms="107109" num="200" next="88048" />
+    <ItemSpec id="88029" level="4" rate="100" arms="107209" num="200" next="88049" />
+    <ItemSpec id="88030" level="4" rate="100" arms="108007" num="200" next="88050" />
+    <ItemSpec id="88031" level="4" rate="100" arms="107109" num="400" next="88051" />
+    <ItemSpec id="88032" level="4" rate="100" arms="107209" num="400" next="88052" />
+    <ItemSpec id="88033" level="4" rate="100" arms="108007" num="400" next="88053" />
+    <ItemSpec id="88034" level="4" rate="100" arms="107109" num="250" next="88054" />
+    <ItemSpec id="88035" level="4" rate="100" arms="107209" num="250" next="88055" />
+    <ItemSpec id="88036" level="4" rate="100" arms="108007" num="250" next="88056" />
+    <ItemSpec id="88037" level="4" rate="100" arms="107109" num="350" next="88057" />
+    <ItemSpec id="88038" level="4" rate="100" arms="107209" num="350" next="88058" />
+    <ItemSpec id="88039" level="4" rate="100" arms="108007" num="350" next="88059" />
+    <ItemSpec id="88040" level="4" rate="100" arms="107009" num="200" next="88060" />
+    <ItemSpec id="88041" level="4" rate="100" arms="107009" num="400" next="88061" />
+    <ItemSpec id="88042" level="4" rate="100" arms="107009" num="250" next="88062" />
+    <ItemSpec id="88043" level="4" rate="100" arms="107009" num="350" next="88063" />
+    <ItemSpec id="88044" level="4" rate="100" arms="108108" num="200" unlock="1" next="88064" />
+    <ItemSpec id="88045" level="4" rate="100" arms="108108" num="400" unlock="1" next="88065" />
+    <ItemSpec id="88046" level="4" rate="100" arms="108108" num="250" unlock="1" next="88066" />
+    <ItemSpec id="88047" level="4" rate="100" arms="108108" num="350" unlock="1" next="88067" />
+    <ItemSpec id="88048" level="5" rate="100" arms="107109" num="200" next="88068" />
+    <ItemSpec id="88049" level="5" rate="100" arms="107209" num="200" next="88069" />
+    <ItemSpec id="88050" level="5" rate="100" arms="108007" num="200" next="88070" />
+    <ItemSpec id="88051" level="5" rate="100" arms="107109" num="400" next="88071" />
+    <ItemSpec id="88052" level="5" rate="100" arms="107209" num="400" next="88072" />
+    <ItemSpec id="88053" level="5" rate="100" arms="108007" num="400" next="88073" />
+    <ItemSpec id="88054" level="5" rate="100" arms="107109" num="250" next="88074" />
+    <ItemSpec id="88055" level="5" rate="100" arms="107209" num="250" next="88075" />
+    <ItemSpec id="88056" level="5" rate="100" arms="108007" num="250" next="88076" />
+    <ItemSpec id="88057" level="5" rate="100" arms="107109" num="350" next="88077" />
+    <ItemSpec id="88058" level="5" rate="100" arms="107209" num="350" next="88078" />
+    <ItemSpec id="88059" level="5" rate="100" arms="108007" num="350" next="88079" />
+    <ItemSpec id="88060" level="5" rate="100" arms="107009" num="200" next="88080" />
+    <ItemSpec id="88061" level="5" rate="100" arms="107009" num="400" next="88081" />
+    <ItemSpec id="88062" level="5" rate="100" arms="107009" num="250" next="88082" />
+    <ItemSpec id="88063" level="5" rate="100" arms="107009" num="350" next="88083" />
+    <ItemSpec id="88064" level="5" rate="100" arms="108108" num="200" next="88084" />
+    <ItemSpec id="88065" level="5" rate="100" arms="108108" num="400" next="88085" />
+    <ItemSpec id="88066" level="5" rate="100" arms="108108" num="250" next="88086" />
+    <ItemSpec id="88067" level="5" rate="100" arms="108108" num="350" next="88087" />
+    <ItemSpec id="88068" level="6" rate="100" arms="107109" num="200" next="88088" />
+    <ItemSpec id="88069" level="6" rate="100" arms="107209" num="200" next="88089" />
+    <ItemSpec id="88070" level="6" rate="100" arms="108007" num="200" next="88090" />
+    <ItemSpec id="88071" level="6" rate="100" arms="107109" num="400" next="88091" />
+    <ItemSpec id="88072" level="6" rate="100" arms="107209" num="400" next="88092" />
+    <ItemSpec id="88073" level="6" rate="100" arms="108007" num="400" next="88093" />
+    <ItemSpec id="88074" level="6" rate="100" arms="107109" num="250" next="88094" />
+    <ItemSpec id="88075" level="6" rate="100" arms="107209" num="250" next="88095" />
+    <ItemSpec id="88076" level="6" rate="100" arms="108007" num="250" next="88096" />
+    <ItemSpec id="88077" level="6" rate="100" arms="107109" num="350" next="88097" />
+    <ItemSpec id="88078" level="6" rate="100" arms="107209" num="350" next="88098" />
+    <ItemSpec id="88079" level="6" rate="100" arms="108007" num="350" next="88099" />
+    <ItemSpec id="88080" level="6" rate="100" arms="107009" num="200" next="88100" />
+    <ItemSpec id="88081" level="6" rate="100" arms="107009" num="400" next="88101" />
+    <ItemSpec id="88082" level="6" rate="100" arms="107009" num="250" next="88102" />
+    <ItemSpec id="88083" level="6" rate="100" arms="107009" num="350" next="88103" />
+    <ItemSpec id="88084" level="6" rate="100" arms="108108" num="200" next="88104" />
+    <ItemSpec id="88085" level="6" rate="100" arms="108108" num="400" next="88105" />
+    <ItemSpec id="88086" level="6" rate="100" arms="108108" num="250" next="88106" />
+    <ItemSpec id="88087" level="6" rate="100" arms="108108" num="350" next="88107" />
+    <ItemSpec id="88088" level="7" rate="100" arms="107109" num="200" next="88118" />
+    <ItemSpec id="88089" level="7" rate="100" arms="107209" num="200" next="88119" />
+    <ItemSpec id="88090" level="7" rate="100" arms="108007" num="200" next="88120" />
+    <ItemSpec id="88091" level="7" rate="100" arms="107109" num="400" next="88121" />
+    <ItemSpec id="88092" level="7" rate="100" arms="107209" num="400" next="88122" />
+    <ItemSpec id="88093" level="7" rate="100" arms="108007" num="400" next="88123" />
+    <ItemSpec id="88094" level="7" rate="100" arms="107109" num="250" next="88118" />
+    <ItemSpec id="88095" level="7" rate="100" arms="107209" num="250" next="88119" />
+    <ItemSpec id="88096" level="7" rate="100" arms="108007" num="250" next="88120" />
+    <ItemSpec id="88097" level="7" rate="100" arms="107109" num="350" next="88121" />
+    <ItemSpec id="88098" level="7" rate="100" arms="107209" num="350" next="88122" />
+    <ItemSpec id="88099" level="7" rate="100" arms="108007" num="350" next="88123" />
+    <ItemSpec id="88100" level="7" rate="100" arms="107009" num="200" next="88126" />
+    <ItemSpec id="88101" level="7" rate="100" arms="107009" num="400" next="88127" />
+    <ItemSpec id="88102" level="7" rate="100" arms="107009" num="250" next="88126" />
+    <ItemSpec id="88103" level="7" rate="100" arms="107009" num="350" next="88127" />
+    <ItemSpec id="88104" level="7" rate="100" arms="108108" num="200" next="88128" />
+    <ItemSpec id="88105" level="7" rate="100" arms="108108" num="400" next="88129" />
+    <ItemSpec id="88106" level="7" rate="100" arms="108108" num="250" next="88130" />
+    <ItemSpec id="88107" level="7" rate="100" arms="108108" num="350" next="88131" />
+    <ItemSpec id="88108" level="7" rate="100" arms="108208" num="200" next="88132" />
+    <ItemSpec id="88109" level="7" rate="100" arms="108208" num="400" next="88133" />
+    <ItemSpec id="88110" level="7" rate="100" arms="108208" num="250" next="88134" />
+    <ItemSpec id="88111" level="7" rate="100" arms="108208" num="350" next="88135" />
+    <ItemSpec id="88118" level="8" rate="100" arms="107109" num="350" next="88136" />
+    <ItemSpec id="88119" level="8" rate="100" arms="107209" num="350" next="88137" />
+    <ItemSpec id="88120" level="8" rate="100" arms="108007" num="350" next="88138" />
+    <ItemSpec id="88121" level="8" rate="100" arms="107109" num="450" next="88139" />
+    <ItemSpec id="88122" level="8" rate="100" arms="107209" num="450" next="88140" />
+    <ItemSpec id="88123" level="8" rate="100" arms="108007" num="450" next="88141" />
+    <ItemSpec id="88126" level="8" rate="100" arms="107009" num="350" next="88142" />
+    <ItemSpec id="88127" level="8" rate="100" arms="107009" num="450" next="88143" />
+    <ItemSpec id="88128" level="8" rate="100" arms="108108" num="300" next="88144" />
+    <ItemSpec id="88129" level="8" rate="100" arms="108108" num="500" next="88145" />
+    <ItemSpec id="88130" level="8" rate="100" arms="108108" num="350" next="88146" />
+    <ItemSpec id="88131" level="8" rate="100" arms="108108" num="450" next="88147" />
+    <ItemSpec id="88132" level="8" rate="100" arms="108208" num="300" next="88148" />
+    <ItemSpec id="88133" level="8" rate="100" arms="108208" num="500" next="88149" />
+    <ItemSpec id="88134" level="8" rate="100" arms="108208" num="350" next="88150" />
+    <ItemSpec id="88135" level="8" rate="100" arms="108208" num="450" next="88151" />
+    <ItemSpec id="88136" level="9" rate="100" arms="107109" num="350" next="88152" />
+    <ItemSpec id="88137" level="9" rate="100" arms="107209" num="350" next="88153" />
+    <ItemSpec id="88138" level="9" rate="100" arms="108007" num="350" next="88154" />
+    <ItemSpec id="88139" level="9" rate="100" arms="107109" num="450" next="88155" />
+    <ItemSpec id="88140" level="9" rate="100" arms="107209" num="450" next="88156" />
+    <ItemSpec id="88141" level="9" rate="100" arms="108007" num="450" next="88157" />
+    <ItemSpec id="88142" level="9" rate="100" arms="107009" num="350" next="88158" />
+    <ItemSpec id="88143" level="9" rate="100" arms="107009" num="450" next="88159" />
+    <ItemSpec id="88144" level="9" rate="100" arms="108108" num="300" next="88160" />
+    <ItemSpec id="88145" level="9" rate="100" arms="108108" num="500" next="88161" />
+    <ItemSpec id="88146" level="9" rate="100" arms="108108" num="350" next="88162" />
+    <ItemSpec id="88147" level="9" rate="100" arms="108108" num="450" next="88163" />
+    <ItemSpec id="88148" level="9" rate="100" arms="108208" num="300" next="88164" />
+    <ItemSpec id="88149" level="9" rate="100" arms="108208" num="500" next="88165" />
+    <ItemSpec id="88150" level="9" rate="100" arms="108208" num="350" next="88166" />
+    <ItemSpec id="88151" level="9" rate="100" arms="108208" num="450" next="88167" />
+    <ItemSpec id="88152" level="10" rate="100" arms="107109" num="350" />
+    <ItemSpec id="88153" level="10" rate="100" arms="107209" num="350" />
+    <ItemSpec id="88154" level="10" rate="100" arms="108007" num="350" />
+    <ItemSpec id="88155" level="10" rate="100" arms="107109" num="450" />
+    <ItemSpec id="88156" level="10" rate="100" arms="107209" num="450" />
+    <ItemSpec id="88157" level="10" rate="100" arms="108007" num="450" />
+    <ItemSpec id="88158" level="10" rate="100" arms="107009" num="350" />
+    <ItemSpec id="88159" level="10" rate="100" arms="107009" num="450" />
+    <ItemSpec id="88160" level="10" rate="100" arms="108108" num="300" />
+    <ItemSpec id="88161" level="10" rate="100" arms="108108" num="500" />
+    <ItemSpec id="88162" level="10" rate="100" arms="108108" num="350" />
+    <ItemSpec id="88163" level="10" rate="100" arms="108108" num="450" />
+    <ItemSpec id="88164" level="10" rate="100" arms="108208" num="300" />
+    <ItemSpec id="88165" level="10" rate="100" arms="108208" num="500" />
+    <ItemSpec id="88166" level="10" rate="100" arms="108208" num="350" />
+    <ItemSpec id="88167" level="10" rate="100" arms="108208" num="450" />
+    <ItemSpec id="88168" level="10" rate="100" arms="108309" num="300" unlock="1" />
+    <ItemSpec id="88169" level="10" rate="100" arms="108309" num="500" unlock="1" />
+    <ItemSpec id="88170" level="10" rate="100" arms="108309" num="350" unlock="1" />
+    <ItemSpec id="88171" level="10" rate="100" arms="108309" num="450" unlock="1" />
+</tns:database>

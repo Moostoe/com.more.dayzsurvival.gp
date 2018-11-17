@@ -1,0 +1,81 @@
+_alpha_g0110.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Andrew_yiling
+  rotate: true
+  xy: 139, 447
+  size: 61, 99
+  orig: 63, 101
+  offset: 0, 0
+  index: -1
+Andrew_shenzi
+  rotate: true
+  xy: 2, 135
+  size: 151, 234
+  orig: 151, 234
+  offset: 0, 0
+  index: -1
+Andrew_youdabi
+  rotate: false
+  xy: 242, 159
+  size: 97, 99
+  orig: 99, 99
+  offset: 2, 0
+  index: -1
+Andrew_youxiaobi
+  rotate: true
+  xy: 258, 2
+  size: 151, 81
+  orig: 153, 81
+  offset: 2, 0
+  index: -1
+Andrew_hongbao
+  rotate: true
+  xy: 242, 264
+  size: 73, 84
+  orig: 73, 88
+  offset: 0, 2
+  index: -1
+Andrew_shoubi
+  rotate: true
+  xy: 2, 343
+  size: 156, 131
+  orig: 158, 133
+  offset: 0, 2
+  index: -1
+Andrew_tou
+  rotate: true
+  xy: 244, 447
+  size: 57, 81
+  orig: 63, 81
+  offset: 0, 0
+  index: -1
+Andrew_baodai
+  rotate: true
+  xy: 139, 343
+  size: 98, 196
+  orig: 98, 198
+  offset: 0, 0
+  index: -1
+Andrew_biyan
+  rotate: true
+  xy: 74, 292
+  size: 30, 16
+  orig: 30, 20
+  offset: 0, 4
+  index: -1
+Andrew_kuzi
+  rotate: false
+  xy: 2, 2
+  size: 250, 127
+  orig: 250, 127
+  offset: 0, 0
+  index: -1
+Andrew_zuodabi
+  rotate: true
+  xy: 2, 292
+  size: 43, 66
+  orig: 43, 76
+  offset: 0, 0
+  index: -1

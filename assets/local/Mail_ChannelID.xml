@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="Mail_ChannelID">
+    <ItemSpec id="resource" mail_type_order="7" />
+    <ItemSpec id="monster" mail_type_order="8" />
+    <ItemSpec id="knight" mail_type_order="9" />
+    <ItemSpec id="missile" mail_type_order="3" />
+    <ItemSpec id="gift" mail_type_order="2" />
+    <ItemSpec id="battle_game" mail_type_order="4" />
+    <ItemSpec id="arena_game" mail_type_order="6" />
+    <ItemSpec id="shamo_game" mail_type_order="5" />
+    <ItemSpec id="shamo_explore" mail_type_order="10" />
+    <ItemSpec id="mod" mail_type_order="1" />
+
+</Group>
+
+
+</tns:database>

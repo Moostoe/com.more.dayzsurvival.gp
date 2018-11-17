@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="battle_field_rank">
+    <ItemSpec id="220000" type="0" name="172267" pic="pic220000" />
+    <ItemSpec id="220001" type="1" name="172259" pic="pic220001" />
+    <ItemSpec id="220002" type="1" name="172260" pic="pic220002" />
+    <ItemSpec id="220003" type="1" name="172261" pic="pic220003" show_medal="205515" point_min="1500" />
+    <ItemSpec id="220004" type="1" name="172262" pic="pic220004" show_medal="205514" point_min="2000" />
+    <ItemSpec id="220005" type="1" name="172263" pic="pic220005" show_medal="205513" point_min="3000" />
+    <ItemSpec id="220006" type="1" name="172264" pic="pic220006" show_medal="205512" point_min="4000" />
+</Group>
+</tns:database>

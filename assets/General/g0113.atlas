@@ -1,0 +1,123 @@
+_alpha_g0113.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Avery_youdabi
+  rotate: false
+  xy: 100, 437
+  size: 100, 66
+  orig: 100, 66
+  offset: 0, 0
+  index: -1
+Avery_zuodabi
+  rotate: true
+  xy: 2, 338
+  size: 69, 122
+  orig: 69, 122
+  offset: 0, 0
+  index: -1
+Avery_gouyouer
+  rotate: false
+  xy: 255, 437
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+Avery_shenti
+  rotate: true
+  xy: 2, 2
+  size: 151, 192
+  orig: 153, 192
+  offset: 1, 0
+  index: -1
+Avery_xianglian
+  rotate: false
+  xy: 142, 159
+  size: 48, 70
+  orig: 48, 70
+  offset: 0, 0
+  index: -1
+Avery_gouxiaba
+  rotate: false
+  xy: 199, 372
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+Avery_gouzuoer
+  rotate: true
+  xy: 206, 487
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+Avery_shetou
+  rotate: true
+  xy: 142, 235
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+Avery_goutou
+  rotate: false
+  xy: 2, 413
+  size: 92, 93
+  orig: 94, 93
+  offset: 2, 0
+  index: -1
+Avery_goubizi
+  rotate: true
+  xy: 206, 437
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+Avery_tou
+  rotate: true
+  xy: 2, 250
+  size: 82, 128
+  orig: 82, 130
+  offset: 0, 0
+  index: -1
+Avery_xiashen
+  rotate: true
+  xy: 200, 129
+  size: 177, 82
+  orig: 177, 82
+  offset: 0, 0
+  index: -1
+Avery_bojing
+  rotate: false
+  xy: 199, 312
+  size: 85, 54
+  orig: 85, 56
+  offset: 0, 0
+  index: -1
+Avery_zuoxiaobi
+  rotate: false
+  xy: 200, 2
+  size: 83, 121
+  orig: 83, 121
+  offset: 0, 0
+  index: -1
+Avery_youxiaobi
+  rotate: true
+  xy: 136, 274
+  size: 113, 57
+  orig: 113, 57
+  offset: 0, 0
+  index: -1
+Avery_goulianjia
+  rotate: false
+  xy: 130, 393
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+Avery_goushenzi
+  rotate: false
+  xy: 2, 159
+  size: 134, 85
+  orig: 134, 85
+  offset: 0, 0
+  index: -1

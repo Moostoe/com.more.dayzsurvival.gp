@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="rank_show_oreder">
+    <ItemSpec id="0" rank_type="1" show_unlock="0" order="10" rank_name="108101;108103" rank_icon="u_rank_icon03.png" />
+    <ItemSpec id="2" rank_type="2" show_unlock="0" order="20" rank_name="108101;108108" rank_icon="u_rank_icon04.png" />
+    <ItemSpec id="3" rank_type="20" show_unlock="0" order="30" rank_name="108102;102163;108100" rank_icon="u_rank_icon01.png" />
+    <ItemSpec id="4" rank_type="21" show_unlock="0" order="40" rank_name="108102;108108" rank_icon="u_rank_icon02.png" />
+  
+    <ItemSpec id="8" rank_type="3" show_unlock="0" order="80" rank_name="108101;108110" rank_icon="u_rank_icon06.png" />
+ 
+    <ItemSpec id="10" rank_type="29" show_unlock="1" order="100" rank_name="80000222" rank_icon="u_rank_icon07.png" />
+ 
+	
+	
+</Group>
+</tns:database>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="great_emperor_privilege">
+    <ItemSpec id="50000000" name="171715" description="171716" show="1" index="1" />
+    <ItemSpec id="50000001" name="171717" description="171718" show="0" index="2" />
+    <ItemSpec id="50000002" name="171947" description="171948" show="1" index="3" />
+    <ItemSpec id="50000003" name="171721" description="171722" show="1" index="4" />
+    <ItemSpec id="50000004" name="171723" index="5" show="1"/>
+</Group>
+</tns:database>

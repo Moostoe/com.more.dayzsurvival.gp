@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="heroactivity_next_show_info">
+    <ItemSpec id="9001028" name="150701" descriptor="81000289" />
+    <ItemSpec id="9001029" name="150701" descriptor="81000289" />
+    <ItemSpec id="9001030" name="105810" descriptor="81000290" />
+    <ItemSpec id="9001031" name="105810" descriptor="81000290" />
+    <ItemSpec id="9001032" name="105812" descriptor="81000291" />
+    <ItemSpec id="9001033" name="105812" descriptor="81000291" />
+    <ItemSpec id="9001034" name="133142" descriptor="81000292" />
+    <ItemSpec id="9001035" name="133142" descriptor="81000292" />
+    <ItemSpec id="9001036" name="133124" descriptor="81000293" />
+    <ItemSpec id="9001037" name="133124" descriptor="81000293" />
+    <ItemSpec id="9001038" name="105813" descriptor="81000294" />
+    <ItemSpec id="9001039" name="105813" descriptor="81000294" />
+    <ItemSpec id="9001040" name="150701" descriptor="81000295" />
+    <ItemSpec id="9001041" name="150701" descriptor="81000295" />
+    <ItemSpec id="9001042" name="79000294" descriptor="81000294" />
+    <ItemSpec id="9001043" name="79000294" descriptor="81000294" />
+    <ItemSpec id="9001044" name="150701" descriptor="81000295" />
+    <ItemSpec id="9001045" name="150701" descriptor="81000295" />
+    <ItemSpec id="9001228" name="79000249" descriptor="81000298" />
+    <ItemSpec id="9001229" name="79000249" descriptor="81000298" />
+    <ItemSpec id="9001230" name="105810" descriptor="81000290" />
+    <ItemSpec id="9001231" name="105810" descriptor="81000290" />
+    <ItemSpec id="9001232" name="79000260" descriptor="81000299" />
+    <ItemSpec id="9001233" name="79000260" descriptor="81000299" />
+    <ItemSpec id="9001234" name="133142" descriptor="81000292" />
+    <ItemSpec id="9001235" name="133142" descriptor="81000292" />
+    <ItemSpec id="9001236" name="133124" descriptor="81000293" />
+    <ItemSpec id="9001237" name="133124" descriptor="81000293" />
+    <ItemSpec id="9001238" name="105813" descriptor="81000294" />
+    <ItemSpec id="9001239" name="105813" descriptor="81000294" />
+    <ItemSpec id="9001240" name="79000249" descriptor="81000298" />
+    <ItemSpec id="9001241" name="79000249" descriptor="81000298" />
+    <ItemSpec id="9001242" name="79000281" descriptor="81000302" />
+    <ItemSpec id="9001243" name="79000281" descriptor="81000302" />
+    <ItemSpec id="9001244" name="79000282" descriptor="81000303" />
+    <ItemSpec id="9001245" name="79000282" descriptor="81000303" />
+
+
+</Group>
+</tns:database>

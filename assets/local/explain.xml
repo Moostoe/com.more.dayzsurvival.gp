@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="explain">
+    <ItemSpec id="79022070" description="79022110"/>
+    <ItemSpec id="79011017" description="79022110"/>
+    <ItemSpec id="79011052" description="79022110"/>
+    <ItemSpec id="79011053" description="79011032"/>
+    <ItemSpec id="103459" description="190419"/>
+	<ItemSpec id="200338" description="200345"/>
+    <ItemSpec id="79011099" description="79011102"/>
+    <ItemSpec id="77110172" description="122222"/>
+    <ItemSpec id="76601691" description="76601701"/>
+    <ItemSpec id="76601692" description="76601701"/>
+
+    <ItemSpec id="76601804" description="76601805"/>
+    <ItemSpec id="76601806" description="76601807"/>
+
+    <ItemSpec id="76601811" description="76601812"/>
+    <ItemSpec id="76601813" description="76601814"/>
+
+    <ItemSpec id="79011016" description="79022111"/>
+	
+</Group>
+</tns:database>

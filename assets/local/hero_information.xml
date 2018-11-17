@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="hero_information">
+    <ItemSpec id="240031" name="200051" description="79011242"/>
+    <ItemSpec id="240032" name="200052" description="79011241"/>
+    <ItemSpec id="240033" name="200053" description="79011240"/>
+    <ItemSpec id="240035" name="200056" description="79011205"/>
+    <ItemSpec id="240036" name="200057" description="79011234"/>
+    <ItemSpec id="240038" name="200059" description="79011238"/>
+    <ItemSpec id="240039" name="200060" description="79011239"/>
+    <ItemSpec id="240040" name="200061" description="79011237"/>
+    <ItemSpec id="240041" name="200062" description="79011235"/>
+
+    </Group> 
+</tns:database>

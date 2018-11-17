@@ -1,0 +1,123 @@
+_alpha_ico107109.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10ji_deng
+  rotate: false
+  xy: 384, 403
+  size: 17, 15
+  orig: 21, 21
+  offset: 1, 3
+  index: -1
+10ji_zuopao
+  rotate: true
+  xy: 409, 91
+  size: 76, 68
+  orig: 76, 68
+  offset: 0, 0
+  index: -1
+10ji_cheqianchan
+  rotate: false
+  xy: 2, 209
+  size: 330, 121
+  orig: 344, 123
+  offset: 14, 1
+  index: -1
+10ji_hualan
+  rotate: true
+  xy: 408, 2
+  size: 83, 69
+  orig: 111, 69
+  offset: 0, 0
+  index: -1
+10ji_youlaba
+  rotate: false
+  xy: 384, 361
+  size: 32, 36
+  orig: 34, 36
+  offset: 1, 0
+  index: -1
+10ji_deng2
+  rotate: true
+  xy: 438, 173
+  size: 130, 23
+  orig: 140, 35
+  offset: 6, 6
+  index: -1
+10ji_chedeng
+  rotate: true
+  xy: 391, 209
+  size: 146, 41
+  orig: 146, 43
+  offset: 0, 2
+  index: -1
+10ji_cheshen
+  rotate: false
+  xy: 2, 2
+  size: 290, 201
+  orig: 290, 203
+  offset: 0, 1
+  index: -1
+10ji_dianxian2
+  rotate: false
+  xy: 467, 173
+  size: 10, 56
+  orig: 10, 58
+  offset: 0, 1
+  index: -1
+10ji_rdianxian1
+  rotate: false
+  xy: 467, 235
+  size: 10, 53
+  orig: 12, 53
+  offset: 1, 0
+  index: -1
+10ji_zuolaba
+  rotate: false
+  xy: 438, 309
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+10ji_cheqiandeng
+  rotate: false
+  xy: 298, 179
+  size: 104, 24
+  orig: 104, 24
+  offset: 0, 0
+  index: -1
+10ji_zuohoulun
+  rotate: false
+  xy: 298, 2
+  size: 104, 95
+  orig: 120, 111
+  offset: 1, 16
+  index: -1
+10ji_zuoqianlun
+  rotate: true
+  xy: 298, 103
+  size: 70, 105
+  orig: 70, 105
+  offset: 0, 0
+  index: -1
+10ji_chedingpao
+  rotate: true
+  xy: 338, 209
+  size: 113, 47
+  orig: 115, 49
+  offset: 1, 1
+  index: -1
+10ji_lianjie
+  rotate: true
+  xy: 438, 355
+  size: 30, 39
+  orig: 30, 41
+  offset: 0, 1
+  index: -1
+10ji_yingzi
+  rotate: false
+  xy: 2, 336
+  size: 376, 95
+  orig: 400, 107
+  offset: 14, 11
+  index: -1

@@ -1,0 +1,235 @@
+_alpha_ico107318.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shou
+  rotate: true
+  xy: 459, 140
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: true
+  xy: 348, 51
+  size: 36, 76
+  orig: 36, 76
+  offset: 0, 0
+  index: -1
+shandian
+  rotate: false
+  xy: 430, 51
+  size: 23, 54
+  orig: 63, 84
+  offset: 34, 0
+  index: 19
+shandian
+  rotate: true
+  xy: 334, 205
+  size: 57, 54
+  orig: 63, 84
+  offset: 3, 16
+  index: 11
+shandian
+  rotate: true
+  xy: 285, 2
+  size: 39, 82
+  orig: 63, 84
+  offset: 11, 2
+  index: 2
+shandian
+  rotate: false
+  xy: 459, 2
+  size: 49, 70
+  orig: 63, 84
+  offset: 14, 1
+  index: 15
+shandian
+  rotate: false
+  xy: 168, 150
+  size: 41, 74
+  orig: 63, 84
+  offset: 10, 8
+  index: 6
+zuobi
+  rotate: false
+  xy: 95, 2
+  size: 70, 91
+  orig: 70, 91
+  offset: 0, 0
+  index: -1
+xiongbu
+  rotate: true
+  xy: 2, 130
+  size: 109, 84
+  orig: 111, 86
+  offset: 0, 1
+  index: -1
+youxiaotui
+  rotate: true
+  xy: 259, 47
+  size: 33, 83
+  orig: 33, 83
+  offset: 0, 0
+  index: -1
+shandian
+  rotate: true
+  xy: 95, 99
+  size: 45, 70
+  orig: 63, 84
+  offset: 18, 1
+  index: 16
+shandian
+  rotate: true
+  xy: 171, 94
+  size: 43, 76
+  orig: 63, 84
+  offset: 10, 7
+  index: 5
+shandian
+  rotate: true
+  xy: 171, 45
+  size: 43, 82
+  orig: 63, 84
+  offset: 12, 1
+  index: 1
+shandian
+  rotate: false
+  xy: 459, 78
+  size: 49, 56
+  orig: 63, 84
+  offset: 5, 17
+  index: 12
+shandian
+  rotate: true
+  xy: 394, 205
+  size: 57, 48
+  orig: 63, 84
+  offset: 3, 14
+  index: 9
+tunbu
+  rotate: true
+  xy: 92, 150
+  size: 74, 70
+  orig: 74, 70
+  offset: 0, 0
+  index: -1
+dunpai
+  rotate: false
+  xy: 2, 2
+  size: 87, 122
+  orig: 87, 122
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: true
+  xy: 174, 230
+  size: 45, 63
+  orig: 45, 63
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: false
+  xy: 215, 143
+  size: 44, 74
+  orig: 44, 74
+  offset: 0, 0
+  index: -1
+shandian
+  rotate: true
+  xy: 393, 160
+  size: 39, 54
+  orig: 63, 84
+  offset: 24, 1
+  index: 17
+shandian
+  rotate: true
+  xy: 373, 2
+  size: 43, 80
+  orig: 63, 84
+  offset: 10, 4
+  index: 4
+shandian
+  rotate: true
+  xy: 399, 111
+  size: 43, 54
+  orig: 63, 84
+  offset: 14, 0
+  index: 0
+shandian
+  rotate: false
+  xy: 243, 223
+  size: 31, 52
+  orig: 63, 84
+  offset: 13, 19
+  index: 13
+zuoxiaotui
+  rotate: true
+  xy: 171, 2
+  size: 37, 108
+  orig: 37, 108
+  offset: 0, 0
+  index: -1
+shandian
+  rotate: false
+  xy: 328, 143
+  size: 59, 56
+  orig: 63, 84
+  offset: 2, 9
+  index: 8
+tou
+  rotate: true
+  xy: 333, 93
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: true
+  xy: 2, 245
+  size: 29, 59
+  orig: 29, 59
+  offset: 0, 0
+  index: -1
+zuodabi
+  rotate: false
+  xy: 448, 214
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+shandian
+  rotate: true
+  xy: 453, 179
+  size: 29, 52
+  orig: 63, 84
+  offset: 33, 0
+  index: 18
+shandian
+  rotate: true
+  xy: 92, 230
+  size: 45, 76
+  orig: 63, 84
+  offset: 9, 7
+  index: 3
+shandian
+  rotate: true
+  xy: 280, 207
+  size: 59, 48
+  orig: 63, 84
+  offset: 1, 15
+  index: 10
+shandian
+  rotate: true
+  xy: 259, 86
+  size: 51, 68
+  orig: 63, 84
+  offset: 10, 3
+  index: 14
+shandian
+  rotate: false
+  xy: 265, 143
+  size: 57, 58
+  orig: 63, 84
+  offset: 4, 8
+  index: 7

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="merge_shop">
+    <ItemSpec id="1" itemID="200002" price="125"/>
+    <ItemSpec id="2" itemID="200410" price="35"/>
+    <ItemSpec id="3" itemID="200461" price="40"/>
+    <ItemSpec id="4" itemID="200462" price="250"/>
+    <ItemSpec id="5" itemID="200200" price="10"/>
+    <ItemSpec id="6" itemID="200202" price="60"/>
+    <ItemSpec id="7" itemID="200303" price="75"/>
+    <ItemSpec id="8" itemID="200304" price="210"/>
+    <ItemSpec id="9" itemID="200305" price="625"/>
+    <ItemSpec id="10" itemID="200313" price="75"/>
+    <ItemSpec id="11" itemID="200314" price="210"/>
+    <ItemSpec id="12" itemID="200315" price="625"/>
+    <ItemSpec id="13" itemID="200323" price="75"/>
+    <ItemSpec id="14" itemID="200324" price="210"/>
+    <ItemSpec id="15" itemID="200325" price="625"/>
+    <ItemSpec id="16" itemID="200333" price="75"/>
+    <ItemSpec id="17" itemID="200334" price="210"/>
+    <ItemSpec id="18" itemID="200335" price="625"/>
+</Group>
+</tns:database>

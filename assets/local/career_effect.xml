@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="career_effect">
+    <ItemSpec id="222100" type="1" name="102388" description="148011" icon="icon222100" order="3" />
+    <ItemSpec id="222101" type="2" name="148012" description="148013" icon="icon222101" order="2" effect_value="30" />
+    <ItemSpec id="222102" type="2" name="115362" description="148014" icon="icon222102" order="2" effect_value="100" />
+    <ItemSpec id="222103" type="2" name="129200" description="148015" icon="icon222103" order="2" effect_value="100" />
+    <ItemSpec id="222104" type="3" name="148016" description="148017" icon="icon222104" order="1" effect_value="30" />
+    <ItemSpec id="222105" type="3" name="148018" description="148019" icon="icon222105" order="1" effect_value="30" />
+    <ItemSpec id="222106" type="3" name="148020" description="148021" icon="icon222106" order="1" effect_value="50" />
+    <ItemSpec id="222200" type="1" name="102390" description="148043" icon="icon222200" order="3" effect_value="1" />
+    <ItemSpec id="222201" type="2" name="148022" description="148023" icon="icon222201" order="2" effect_value="100" />
+    <ItemSpec id="222202" type="2" name="148024" description="148025" icon="icon222202" order="2" effect_value="70" />
+    <ItemSpec id="222203" type="2" name="148026" description="148027" icon="icon222203" order="2" effect_value="100" />
+    <ItemSpec id="222204" type="3" name="148028" description="148029" icon="icon222204" order="1" effect_value="30" />
+    <ItemSpec id="222205" type="3" name="148030" description="148031" icon="icon222205" order="1" effect_value="50" />
+    <ItemSpec id="222206" type="3" name="148032" description="148033" icon="icon222206" order="1" effect_value="80" />
+    <ItemSpec id="222300" type="1" name="102001" description="148044" icon="icon222300" order="3" effect_value="1" />
+    <ItemSpec id="222301" type="2" name="148034" description="148035" icon="icon222301" order="2" effect_value="50" />
+    <ItemSpec id="222302" type="2" name="148036" description="148037" icon="icon222302" order="2" effect_value="30" />
+    <ItemSpec id="222303" type="2" name="148038" description="148039" icon="icon222303" order="2" effect_value="50" />
+    <ItemSpec id="222304" type="3" name="148040" description="148061" icon="icon222304" order="1" effect_value="100" />
+    <ItemSpec id="222305" type="3" name="148041" description="148042" icon="icon222305" order="1" effect_value="100" />
+</Group>
+</tns:database>

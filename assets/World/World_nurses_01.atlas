@@ -1,0 +1,172 @@
+_alpha_World_nurses_01.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l_xiaotui
+  rotate: false
+  xy: 179, 32
+  size: 14, 24
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+r_datui
+  rotate: false
+  xy: 86, 2
+  size: 16, 36
+  orig: 16, 44
+  offset: 0, 1
+  index: -1
+yao
+  rotate: false
+  xy: 73, 47
+  size: 30, 32
+  orig: 30, 34
+  offset: 0, 1
+  index: -1
+xiong2
+  rotate: false
+  xy: 145, 2
+  size: 28, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+guanzi
+  rotate: false
+  xy: 2, 2
+  size: 26, 66
+  orig: 26, 66
+  offset: 0, 0
+  index: -1
+l_dabi
+  rotate: true
+  xy: 237, 43
+  size: 12, 15
+  orig: 18, 17
+  offset: 2, 1
+  index: -1
+r_dabi3
+  rotate: false
+  xy: 181, 62
+  size: 19, 19
+  orig: 23, 25
+  offset: 2, 5
+  index: -1
+r_dabi
+  rotate: false
+  xy: 206, 62
+  size: 19, 19
+  orig: 23, 25
+  offset: 2, 5
+  index: -1
+l_datui2
+  rotate: false
+  xy: 34, 2
+  size: 24, 39
+  orig: 28, 43
+  offset: 4, 3
+  index: -1
+l_jiao2
+  rotate: true
+  xy: 231, 61
+  size: 18, 17
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+xiong1
+  rotate: true
+  xy: 109, 39
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+l_shou
+  rotate: true
+  xy: 216, 43
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+r_shou
+  rotate: false
+  xy: 163, 67
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 179, 2
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+l_xiaobi
+  rotate: false
+  xy: 233, 24
+  size: 19, 13
+  orig: 23, 15
+  offset: 4, 0
+  index: -1
+l_xiaotui2
+  rotate: false
+  xy: 141, 39
+  size: 16, 29
+  orig: 20, 35
+  offset: 2, 4
+  index: -1
+l_jiao
+  rotate: true
+  xy: 2, 74
+  size: 7, 19
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+r_xiaotui
+  rotate: false
+  xy: 205, 2
+  size: 22, 23
+  orig: 30, 27
+  offset: 4, 3
+  index: -1
+xiong
+  rotate: false
+  xy: 34, 47
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+r_jiao
+  rotate: true
+  xy: 233, 2
+  size: 16, 19
+  orig: 18, 21
+  offset: 2, 0
+  index: -1
+zhen
+  rotate: true
+  xy: 163, 36
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+l_datui
+  rotate: false
+  xy: 64, 2
+  size: 16, 39
+  orig: 18, 41
+  offset: 1, 1
+  index: -1
+r_xiaobi
+  rotate: false
+  xy: 199, 32
+  size: 11, 24
+  orig: 15, 28
+  offset: 2, 3
+  index: -1
+xiong3
+  rotate: false
+  xy: 108, 2
+  size: 31, 31
+  orig: 31, 35
+  offset: 0, 2
+  index: -1

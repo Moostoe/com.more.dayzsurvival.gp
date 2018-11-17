@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="all">
+     <ItemSpec id="1" type="0" icon="event_fail.png" describe="115225" />
+    <ItemSpec id="2" type="1" icon="event_fail.png" describe="115226" />
+    <ItemSpec id="3" type="2" icon="event_science.png" describe="115227" />
+    <ItemSpec id="4" type="3" icon="event_add.png" describe="115228" />
+    <ItemSpec id="5" type="4" icon="event_exit.png" describe="115229" />
+    <ItemSpec id="6" type="8" icon="tile_pop_icon21.png" describe="133080" />
+    <ItemSpec id="7" type="9" icon="event_building.png" describe="115402" />
+    <ItemSpec id="8" type="10" icon="event_building.png" describe="115401" />
+    <ItemSpec id="9" type="12" icon="event_res.png" describe="81000253" />
+    <ItemSpec id="10" type="13" icon="event_stone.png" describe="81000254" />
+    <ItemSpec id="11" type="14" icon="event_shop.png" describe="81000255" />
+    <ItemSpec id="12" type="5" icon="event_announce.png" />
+    <ItemSpec id="13" type="6" icon="event_announce.png" />
+    <ItemSpec id="14" type="7" icon="tile_pop_icon21.png" />
+
+  </Group>
+</tns:database>

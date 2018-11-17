@@ -1,0 +1,5286 @@
+{
+"skeleton": { "hash": "aR0MDZf8Ob+zz6mr3Fu9P31xSxY", "spine": "2.1.25", "width": 162, "height": 186 },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Griffin_dj_0_0_0_", "bone": "root", "attachment": "Griffin_dj_0_0_0_" },
+	{ "name": "Griffin_dj_0_0_1_", "bone": "root", "attachment": "Griffin_dj_0_0_1_" },
+	{ "name": "Griffin_dj_0_0_2_", "bone": "root", "attachment": "Griffin_dj_0_0_2_" },
+	{ "name": "Griffin_dj_0_0_3_", "bone": "root", "attachment": "Griffin_dj_0_0_3_" },
+	{ "name": "Griffin_dj_0_0_4_", "bone": "root", "attachment": "Griffin_dj_0_0_4_" },
+	{ "name": "Griffin_dj_0_0_5_", "bone": "root", "attachment": "Griffin_dj_0_0_5_" },
+	{ "name": "Griffin_dj_0_0_6_", "bone": "root", "attachment": "Griffin_dj_0_0_6_" },
+	{ "name": "Griffin_dj_0_0_7_", "bone": "root", "attachment": "Griffin_dj_0_0_7_" },
+	{ "name": "Griffin_dj_0_0_8_", "bone": "root", "attachment": "Griffin_dj_0_0_8_" },
+	{ "name": "Griffin_dj_0_1_0_", "bone": "root", "attachment": "Griffin_dj_0_1_0_" },
+	{ "name": "Griffin_dj_0_1_1_", "bone": "root", "attachment": "Griffin_dj_0_1_1_" },
+	{ "name": "Griffin_dj_0_1_2_", "bone": "root", "attachment": "Griffin_dj_0_1_2_" },
+	{ "name": "Griffin_dj_0_1_3_", "bone": "root", "attachment": "Griffin_dj_0_1_3_" },
+	{ "name": "Griffin_dj_0_1_4_", "bone": "root", "attachment": "Griffin_dj_0_1_4_" },
+	{ "name": "Griffin_dj_0_1_5_", "bone": "root", "attachment": "Griffin_dj_0_1_5_" },
+	{ "name": "Griffin_dj_0_1_6_", "bone": "root", "attachment": "Griffin_dj_0_1_6_" },
+	{ "name": "Griffin_dj_0_1_7_", "bone": "root", "attachment": "Griffin_dj_0_1_7_" },
+	{ "name": "Griffin_dj_0_2_0_", "bone": "root", "attachment": "Griffin_dj_0_2_0_" },
+	{ "name": "Griffin_dj_0_2_1_", "bone": "root", "attachment": "Griffin_dj_0_2_1_" },
+	{ "name": "Griffin_dj_0_2_2_", "bone": "root", "attachment": "Griffin_dj_0_2_2_" },
+	{ "name": "Griffin_dj_0_2_3_", "bone": "root", "attachment": "Griffin_dj_0_2_3_" },
+	{ "name": "Griffin_dj_0_2_4_", "bone": "root", "attachment": "Griffin_dj_0_2_4_" },
+	{ "name": "Griffin_dj_0_2_5_", "bone": "root", "attachment": "Griffin_dj_0_2_5_" },
+	{ "name": "Griffin_dj_0_2_6_", "bone": "root", "attachment": "Griffin_dj_0_2_6_" },
+	{ "name": "Griffin_dj_0_2_7_", "bone": "root", "attachment": "Griffin_dj_0_2_7_" },
+	{ "name": "Griffin_dj_0_3_0_", "bone": "root", "attachment": "Griffin_dj_0_3_0_" },
+	{ "name": "Griffin_dj_0_3_1_", "bone": "root", "attachment": "Griffin_dj_0_3_1_" },
+	{ "name": "Griffin_dj_0_3_2_", "bone": "root", "attachment": "Griffin_dj_0_3_2_" },
+	{ "name": "Griffin_dj_0_3_3_", "bone": "root", "attachment": "Griffin_dj_0_3_3_" },
+	{ "name": "Griffin_dj_0_3_4_", "bone": "root", "attachment": "Griffin_dj_0_3_4_" },
+	{ "name": "Griffin_dj_0_3_5_", "bone": "root", "attachment": "Griffin_dj_0_3_5_" },
+	{ "name": "Griffin_dj_0_4_0_", "bone": "root", "attachment": "Griffin_dj_0_4_0_" },
+	{ "name": "Griffin_dj_0_4_1_", "bone": "root", "attachment": "Griffin_dj_0_4_1_" },
+	{ "name": "Griffin_dj_0_4_2_", "bone": "root", "attachment": "Griffin_dj_0_4_2_" },
+	{ "name": "Griffin_dj_0_4_3_", "bone": "root", "attachment": "Griffin_dj_0_4_3_" },
+	{ "name": "Griffin_dj_0_4_4_", "bone": "root", "attachment": "Griffin_dj_0_4_4_" },
+	{ "name": "Griffin_dj_0_4_5_", "bone": "root", "attachment": "Griffin_dj_0_4_5_" },
+	{ "name": "Griffin_dj_0_4_6_", "bone": "root", "attachment": "Griffin_dj_0_4_6_" },
+	{ "name": "Griffin_dj_0_4_7_", "bone": "root", "attachment": "Griffin_dj_0_4_7_" },
+	{ "name": "Griffin_dj_0_5_0_", "bone": "root", "attachment": "Griffin_dj_0_5_0_" },
+	{ "name": "Griffin_dj_0_5_1_", "bone": "root", "attachment": "Griffin_dj_0_5_1_" },
+	{ "name": "Griffin_dj_0_5_2_", "bone": "root", "attachment": "Griffin_dj_0_5_2_" },
+	{ "name": "Griffin_dj_0_5_3_", "bone": "root", "attachment": "Griffin_dj_0_5_3_" },
+	{ "name": "Griffin_dj_0_5_4_", "bone": "root", "attachment": "Griffin_dj_0_5_4_" },
+	{ "name": "Griffin_dj_0_5_5_", "bone": "root", "attachment": "Griffin_dj_0_5_5_" },
+	{ "name": "Griffin_dj_0_5_6_", "bone": "root", "attachment": "Griffin_dj_0_5_6_" },
+	{ "name": "Griffin_dj_0_5_7_", "bone": "root", "attachment": "Griffin_dj_0_5_7_" },
+	{ "name": "Griffin_dj_0_5_8_", "bone": "root", "attachment": "Griffin_dj_0_5_8_" },
+	{ "name": "Griffin_dj_0_5_9_", "bone": "root", "attachment": "Griffin_dj_0_5_9_" },
+	{ "name": "Griffin_dj_0_6_0_", "bone": "root", "attachment": "Griffin_dj_0_6_0_" },
+	{ "name": "Griffin_dj_0_6_1_", "bone": "root", "attachment": "Griffin_dj_0_6_1_" },
+	{ "name": "Griffin_dj_0_6_2_", "bone": "root", "attachment": "Griffin_dj_0_6_2_" },
+	{ "name": "Griffin_dj_0_6_3_", "bone": "root", "attachment": "Griffin_dj_0_6_3_" },
+	{ "name": "Griffin_dj_0_6_4_", "bone": "root", "attachment": "Griffin_dj_0_6_4_" },
+	{ "name": "Griffin_dj_0_6_5_", "bone": "root", "attachment": "Griffin_dj_0_6_5_" },
+	{ "name": "Griffin_dj_0_6_6_", "bone": "root", "attachment": "Griffin_dj_0_6_6_" },
+	{ "name": "Griffin_dj_0_6_7_", "bone": "root", "attachment": "Griffin_dj_0_6_7_" },
+	{ "name": "Griffin_dj_0_6_8_", "bone": "root", "attachment": "Griffin_dj_0_6_8_" },
+	{ "name": "Griffin_dj_0_7_0_", "bone": "root", "attachment": "Griffin_dj_0_7_0_" },
+	{ "name": "Griffin_dj_0_7_1_", "bone": "root", "attachment": "Griffin_dj_0_7_1_" },
+	{ "name": "Griffin_dj_0_7_2_", "bone": "root", "attachment": "Griffin_dj_0_7_2_" },
+	{ "name": "Griffin_dj_0_7_3_", "bone": "root", "attachment": "Griffin_dj_0_7_3_" },
+	{ "name": "Griffin_dj_0_7_4_", "bone": "root", "attachment": "Griffin_dj_0_7_4_" },
+	{ "name": "Griffin_dj_0_7_5_", "bone": "root", "attachment": "Griffin_dj_0_7_5_" },
+	{ "name": "Griffin_dj_0_7_6_", "bone": "root", "attachment": "Griffin_dj_0_7_6_" },
+	{ "name": "Griffin_dj_0_7_7_", "bone": "root", "attachment": "Griffin_dj_0_7_7_" },
+	{ "name": "Griffin_dj_0_7_8_", "bone": "root", "attachment": "Griffin_dj_0_7_8_" },
+	{ "name": "Griffin_gj_0_0_0_", "bone": "root", "attachment": "Griffin_gj_0_0_0_" },
+	{ "name": "Griffin_gj_0_0_1_", "bone": "root", "attachment": "Griffin_gj_0_0_1_" },
+	{ "name": "Griffin_gj_0_0_2_", "bone": "root", "attachment": "Griffin_gj_0_0_2_" },
+	{ "name": "Griffin_gj_0_0_3_", "bone": "root", "attachment": "Griffin_gj_0_0_3_" },
+	{ "name": "Griffin_gj_0_0_4_", "bone": "root", "attachment": "Griffin_gj_0_0_4_" },
+	{ "name": "Griffin_gj_0_0_5_", "bone": "root", "attachment": "Griffin_gj_0_0_5_" },
+	{ "name": "Griffin_gj_0_0_6_", "bone": "root", "attachment": "Griffin_gj_0_0_6_" },
+	{ "name": "Griffin_gj_0_0_7_", "bone": "root", "attachment": "Griffin_gj_0_0_7_" },
+	{ "name": "Griffin_gj_0_0_8_", "bone": "root", "attachment": "Griffin_gj_0_0_8_" },
+	{ "name": "Griffin_gj_0_0_9_", "bone": "root", "attachment": "Griffin_gj_0_0_9_" },
+	{ "name": "Griffin_gj_0_0_10_", "bone": "root", "attachment": "Griffin_gj_0_0_10_" },
+	{ "name": "Griffin_gj_0_0_11_", "bone": "root", "attachment": "Griffin_gj_0_0_11_" },
+	{ "name": "Griffin_gj_0_1_0_", "bone": "root", "attachment": "Griffin_gj_0_1_0_" },
+	{ "name": "Griffin_gj_0_1_1_", "bone": "root", "attachment": "Griffin_gj_0_1_1_" },
+	{ "name": "Griffin_gj_0_1_2_", "bone": "root", "attachment": "Griffin_gj_0_1_2_" },
+	{ "name": "Griffin_gj_0_1_3_", "bone": "root", "attachment": "Griffin_gj_0_1_3_" },
+	{ "name": "Griffin_gj_0_1_4_", "bone": "root", "attachment": "Griffin_gj_0_1_4_" },
+	{ "name": "Griffin_gj_0_1_5_", "bone": "root", "attachment": "Griffin_gj_0_1_5_" },
+	{ "name": "Griffin_gj_0_1_6_", "bone": "root", "attachment": "Griffin_gj_0_1_6_" },
+	{ "name": "Griffin_gj_0_1_7_", "bone": "root", "attachment": "Griffin_gj_0_1_7_" },
+	{ "name": "Griffin_gj_0_1_8_", "bone": "root", "attachment": "Griffin_gj_0_1_8_" },
+	{ "name": "Griffin_gj_0_1_9_", "bone": "root", "attachment": "Griffin_gj_0_1_9_" },
+	{ "name": "Griffin_gj_0_1_10_", "bone": "root", "attachment": "Griffin_gj_0_1_10_" },
+	{ "name": "Griffin_gj_0_2_0_", "bone": "root", "attachment": "Griffin_gj_0_2_0_" },
+	{ "name": "Griffin_gj_0_2_1_", "bone": "root", "attachment": "Griffin_gj_0_2_1_" },
+	{ "name": "Griffin_gj_0_2_2_", "bone": "root", "attachment": "Griffin_gj_0_2_2_" },
+	{ "name": "Griffin_gj_0_2_3_", "bone": "root", "attachment": "Griffin_gj_0_2_3_" },
+	{ "name": "Griffin_gj_0_2_4_", "bone": "root", "attachment": "Griffin_gj_0_2_4_" },
+	{ "name": "Griffin_gj_0_2_5_", "bone": "root", "attachment": "Griffin_gj_0_2_5_" },
+	{ "name": "Griffin_gj_0_2_6_", "bone": "root", "attachment": "Griffin_gj_0_2_6_" },
+	{ "name": "Griffin_gj_0_2_7_", "bone": "root", "attachment": "Griffin_gj_0_2_7_" },
+	{ "name": "Griffin_gj_0_2_8_", "bone": "root", "attachment": "Griffin_gj_0_2_8_" },
+	{ "name": "Griffin_gj_0_2_9_", "bone": "root", "attachment": "Griffin_gj_0_2_9_" },
+	{ "name": "Griffin_gj_0_3_0_", "bone": "root", "attachment": "Griffin_gj_0_3_0_" },
+	{ "name": "Griffin_gj_0_3_1_", "bone": "root", "attachment": "Griffin_gj_0_3_1_" },
+	{ "name": "Griffin_gj_0_3_2_", "bone": "root", "attachment": "Griffin_gj_0_3_2_" },
+	{ "name": "Griffin_gj_0_3_3_", "bone": "root", "attachment": "Griffin_gj_0_3_3_" },
+	{ "name": "Griffin_gj_0_3_4_", "bone": "root", "attachment": "Griffin_gj_0_3_4_" },
+	{ "name": "Griffin_gj_0_3_5_", "bone": "root", "attachment": "Griffin_gj_0_3_5_" },
+	{ "name": "Griffin_gj_0_3_6_", "bone": "root", "attachment": "Griffin_gj_0_3_6_" },
+	{ "name": "Griffin_gj_0_3_7_", "bone": "root", "attachment": "Griffin_gj_0_3_7_" },
+	{ "name": "Griffin_gj_0_3_8_", "bone": "root", "attachment": "Griffin_gj_0_3_8_" },
+	{ "name": "Griffin_gj_0_4_0_", "bone": "root", "attachment": "Griffin_gj_0_4_0_" },
+	{ "name": "Griffin_gj_0_4_1_", "bone": "root", "attachment": "Griffin_gj_0_4_1_" },
+	{ "name": "Griffin_gj_0_4_2_", "bone": "root", "attachment": "Griffin_gj_0_4_2_" },
+	{ "name": "Griffin_gj_0_4_3_", "bone": "root", "attachment": "Griffin_gj_0_4_3_" },
+	{ "name": "Griffin_gj_0_4_4_", "bone": "root", "attachment": "Griffin_gj_0_4_4_" },
+	{ "name": "Griffin_gj_0_4_5_", "bone": "root", "attachment": "Griffin_gj_0_4_5_" },
+	{ "name": "Griffin_gj_0_4_6_", "bone": "root", "attachment": "Griffin_gj_0_4_6_" },
+	{ "name": "Griffin_gj_0_4_7_", "bone": "root", "attachment": "Griffin_gj_0_4_7_" },
+	{ "name": "Griffin_gj_0_4_8_", "bone": "root", "attachment": "Griffin_gj_0_4_8_" },
+	{ "name": "Griffin_gj_0_4_9_", "bone": "root", "attachment": "Griffin_gj_0_4_9_" },
+	{ "name": "Griffin_gj_0_4_10_", "bone": "root", "attachment": "Griffin_gj_0_4_10_" },
+	{ "name": "Griffin_gj_0_4_11_", "bone": "root", "attachment": "Griffin_gj_0_4_11_" },
+	{ "name": "Griffin_gj_0_4_12_", "bone": "root", "attachment": "Griffin_gj_0_4_12_" },
+	{ "name": "Griffin_gj_0_5_0_", "bone": "root", "attachment": "Griffin_gj_0_5_0_" },
+	{ "name": "Griffin_gj_0_5_1_", "bone": "root", "attachment": "Griffin_gj_0_5_1_" },
+	{ "name": "Griffin_gj_0_5_2_", "bone": "root", "attachment": "Griffin_gj_0_5_2_" },
+	{ "name": "Griffin_gj_0_5_3_", "bone": "root", "attachment": "Griffin_gj_0_5_3_" },
+	{ "name": "Griffin_gj_0_5_4_", "bone": "root", "attachment": "Griffin_gj_0_5_4_" },
+	{ "name": "Griffin_gj_0_5_5_", "bone": "root", "attachment": "Griffin_gj_0_5_5_" },
+	{ "name": "Griffin_gj_0_5_6_", "bone": "root", "attachment": "Griffin_gj_0_5_6_" },
+	{ "name": "Griffin_gj_0_5_7_", "bone": "root", "attachment": "Griffin_gj_0_5_7_" },
+	{ "name": "Griffin_gj_0_5_8_", "bone": "root", "attachment": "Griffin_gj_0_5_8_" },
+	{ "name": "Griffin_gj_0_5_9_", "bone": "root", "attachment": "Griffin_gj_0_5_9_" },
+	{ "name": "Griffin_gj_0_5_10_", "bone": "root", "attachment": "Griffin_gj_0_5_10_" },
+	{ "name": "Griffin_gj_0_5_11_", "bone": "root", "attachment": "Griffin_gj_0_5_11_" },
+	{ "name": "Griffin_gj_0_6_0_", "bone": "root", "attachment": "Griffin_gj_0_6_0_" },
+	{ "name": "Griffin_gj_0_6_1_", "bone": "root", "attachment": "Griffin_gj_0_6_1_" },
+	{ "name": "Griffin_gj_0_6_2_", "bone": "root", "attachment": "Griffin_gj_0_6_2_" },
+	{ "name": "Griffin_gj_0_6_3_", "bone": "root", "attachment": "Griffin_gj_0_6_3_" },
+	{ "name": "Griffin_gj_0_6_4_", "bone": "root", "attachment": "Griffin_gj_0_6_4_" },
+	{ "name": "Griffin_gj_0_6_5_", "bone": "root", "attachment": "Griffin_gj_0_6_5_" },
+	{ "name": "Griffin_gj_0_6_6_", "bone": "root", "attachment": "Griffin_gj_0_6_6_" },
+	{ "name": "Griffin_gj_0_7_0_", "bone": "root", "attachment": "Griffin_gj_0_7_0_" },
+	{ "name": "Griffin_gj_0_7_1_", "bone": "root", "attachment": "Griffin_gj_0_7_1_" },
+	{ "name": "Griffin_gj_0_7_2_", "bone": "root", "attachment": "Griffin_gj_0_7_2_" },
+	{ "name": "Griffin_gj_0_7_3_", "bone": "root", "attachment": "Griffin_gj_0_7_3_" },
+	{ "name": "Griffin_gj_0_7_4_", "bone": "root", "attachment": "Griffin_gj_0_7_4_" },
+	{ "name": "Griffin_gj_0_7_5_", "bone": "root", "attachment": "Griffin_gj_0_7_5_" },
+	{ "name": "Griffin_gj_0_7_6_", "bone": "root", "attachment": "Griffin_gj_0_7_6_" },
+	{ "name": "Griffin_gj_0_7_7_", "bone": "root", "attachment": "Griffin_gj_0_7_7_" },
+	{ "name": "Griffin_gj_0_7_8_", "bone": "root", "attachment": "Griffin_gj_0_7_8_" },
+	{ "name": "Griffin_gj_0_7_9_", "bone": "root", "attachment": "Griffin_gj_0_7_9_" },
+	{ "name": "Griffin_gj_0_7_10_", "bone": "root", "attachment": "Griffin_gj_0_7_10_" },
+	{ "name": "Griffin_gj_0_7_11_", "bone": "root", "attachment": "Griffin_gj_0_7_11_" },
+	{ "name": "Griffin_gj_0_7_12_", "bone": "root", "attachment": "Griffin_gj_0_7_12_" },
+	{ "name": "Griffin_gj_0_8_0_", "bone": "root", "attachment": "Griffin_gj_0_8_0_" },
+	{ "name": "Griffin_gj_0_8_1_", "bone": "root", "attachment": "Griffin_gj_0_8_1_" },
+	{ "name": "Griffin_gj_0_8_2_", "bone": "root", "attachment": "Griffin_gj_0_8_2_" },
+	{ "name": "Griffin_gj_0_8_3_", "bone": "root", "attachment": "Griffin_gj_0_8_3_" },
+	{ "name": "Griffin_gj_0_8_4_", "bone": "root", "attachment": "Griffin_gj_0_8_4_" },
+	{ "name": "Griffin_gj_0_8_5_", "bone": "root", "attachment": "Griffin_gj_0_8_5_" },
+	{ "name": "Griffin_gj_0_8_6_", "bone": "root", "attachment": "Griffin_gj_0_8_6_" },
+	{ "name": "Griffin_gj_0_8_7_", "bone": "root", "attachment": "Griffin_gj_0_8_7_" },
+	{ "name": "Griffin_gj_0_8_8_", "bone": "root", "attachment": "Griffin_gj_0_8_8_" },
+	{ "name": "Griffin_gj_0_8_9_", "bone": "root", "attachment": "Griffin_gj_0_8_9_" },
+	{ "name": "Griffin_gj_0_8_10_", "bone": "root", "attachment": "Griffin_gj_0_8_10_" },
+	{ "name": "Griffin_gj_0_8_11_", "bone": "root", "attachment": "Griffin_gj_0_8_11_" },
+	{ "name": "Griffin_sw_0_0_0_", "bone": "root", "attachment": "Griffin_sw_0_0_0_" },
+	{ "name": "Griffin_sw_0_0_1_", "bone": "root", "attachment": "Griffin_sw_0_0_1_" },
+	{ "name": "Griffin_sw_0_0_2_", "bone": "root", "attachment": "Griffin_sw_0_0_2_" },
+	{ "name": "Griffin_sw_0_0_3_", "bone": "root", "attachment": "Griffin_sw_0_0_3_" },
+	{ "name": "Griffin_sw_0_0_4_", "bone": "root", "attachment": "Griffin_sw_0_0_4_" },
+	{ "name": "Griffin_sw_0_0_5_", "bone": "root", "attachment": "Griffin_sw_0_0_5_" },
+	{ "name": "Griffin_sw_0_0_6_", "bone": "root", "attachment": "Griffin_sw_0_0_6_" },
+	{ "name": "Griffin_sw_0_0_7_", "bone": "root", "attachment": "Griffin_sw_0_0_7_" },
+	{ "name": "Griffin_sw_0_1_0_", "bone": "root", "attachment": "Griffin_sw_0_1_0_" },
+	{ "name": "Griffin_sw_0_1_1_", "bone": "root", "attachment": "Griffin_sw_0_1_1_" },
+	{ "name": "Griffin_sw_0_1_2_", "bone": "root", "attachment": "Griffin_sw_0_1_2_" },
+	{ "name": "Griffin_sw_0_1_3_", "bone": "root", "attachment": "Griffin_sw_0_1_3_" },
+	{ "name": "Griffin_sw_0_1_4_", "bone": "root", "attachment": "Griffin_sw_0_1_4_" },
+	{ "name": "Griffin_sw_0_1_5_", "bone": "root", "attachment": "Griffin_sw_0_1_5_" },
+	{ "name": "Griffin_sw_0_1_6_", "bone": "root", "attachment": "Griffin_sw_0_1_6_" },
+	{ "name": "Griffin_sw_0_1_7_", "bone": "root", "attachment": "Griffin_sw_0_1_7_" },
+	{ "name": "Griffin_sw_0_2_0_", "bone": "root", "attachment": "Griffin_sw_0_2_0_" },
+	{ "name": "Griffin_sw_0_2_1_", "bone": "root", "attachment": "Griffin_sw_0_2_1_" },
+	{ "name": "Griffin_sw_0_2_2_", "bone": "root", "attachment": "Griffin_sw_0_2_2_" },
+	{ "name": "Griffin_sw_0_2_3_", "bone": "root", "attachment": "Griffin_sw_0_2_3_" },
+	{ "name": "Griffin_sw_0_2_4_", "bone": "root", "attachment": "Griffin_sw_0_2_4_" },
+	{ "name": "Griffin_sw_0_2_5_", "bone": "root", "attachment": "Griffin_sw_0_2_5_" },
+	{ "name": "Griffin_sw_0_2_6_", "bone": "root", "attachment": "Griffin_sw_0_2_6_" },
+	{ "name": "Griffin_sw_0_2_7_", "bone": "root", "attachment": "Griffin_sw_0_2_7_" },
+	{ "name": "Griffin_sw_0_3_0_", "bone": "root", "attachment": "Griffin_sw_0_3_0_" },
+	{ "name": "Griffin_sw_0_3_1_", "bone": "root", "attachment": "Griffin_sw_0_3_1_" },
+	{ "name": "Griffin_sw_0_3_2_", "bone": "root", "attachment": "Griffin_sw_0_3_2_" },
+	{ "name": "Griffin_sw_0_3_3_", "bone": "root", "attachment": "Griffin_sw_0_3_3_" },
+	{ "name": "Griffin_sw_0_3_4_", "bone": "root", "attachment": "Griffin_sw_0_3_4_" },
+	{ "name": "Griffin_sw_0_3_5_", "bone": "root", "attachment": "Griffin_sw_0_3_5_" },
+	{ "name": "Griffin_sw_0_3_6_", "bone": "root", "attachment": "Griffin_sw_0_3_6_" },
+	{ "name": "Griffin_sw_0_4_0_", "bone": "root", "attachment": "Griffin_sw_0_4_0_" },
+	{ "name": "Griffin_sw_0_4_1_", "bone": "root", "attachment": "Griffin_sw_0_4_1_" },
+	{ "name": "Griffin_sw_0_4_2_", "bone": "root", "attachment": "Griffin_sw_0_4_2_" },
+	{ "name": "Griffin_sw_0_4_3_", "bone": "root", "attachment": "Griffin_sw_0_4_3_" },
+	{ "name": "Griffin_sw_0_4_4_", "bone": "root", "attachment": "Griffin_sw_0_4_4_" },
+	{ "name": "Griffin_sw_0_4_5_", "bone": "root", "attachment": "Griffin_sw_0_4_5_" },
+	{ "name": "Griffin_sw_0_4_6_", "bone": "root", "attachment": "Griffin_sw_0_4_6_" },
+	{ "name": "Griffin_sw_0_4_7_", "bone": "root", "attachment": "Griffin_sw_0_4_7_" },
+	{ "name": "Griffin_sw_0_5_0_", "bone": "root", "attachment": "Griffin_sw_0_5_0_" },
+	{ "name": "Griffin_sw_0_5_1_", "bone": "root", "attachment": "Griffin_sw_0_5_1_" },
+	{ "name": "Griffin_sw_0_5_2_", "bone": "root", "attachment": "Griffin_sw_0_5_2_" },
+	{ "name": "Griffin_sw_0_5_3_", "bone": "root", "attachment": "Griffin_sw_0_5_3_" },
+	{ "name": "Griffin_sw_0_6_0_", "bone": "root", "attachment": "Griffin_sw_0_6_0_" },
+	{ "name": "Griffin_sw_0_6_1_", "bone": "root", "attachment": "Griffin_sw_0_6_1_" },
+	{ "name": "Griffin_sw_0_6_2_", "bone": "root", "attachment": "Griffin_sw_0_6_2_" },
+	{ "name": "Griffin_sw_0_6_3_", "bone": "root", "attachment": "Griffin_sw_0_6_3_" },
+	{ "name": "Griffin_sw_0_6_4_", "bone": "root", "attachment": "Griffin_sw_0_6_4_" },
+	{ "name": "Griffin_sw_0_7_0_", "bone": "root", "attachment": "Griffin_sw_0_7_0_" },
+	{ "name": "Griffin_sw_0_7_1_", "bone": "root", "attachment": "Griffin_sw_0_7_1_" },
+	{ "name": "Griffin_sw_0_7_2_", "bone": "root", "attachment": "Griffin_sw_0_7_2_" },
+	{ "name": "Griffin_sw_0_7_3_", "bone": "root", "attachment": "Griffin_sw_0_7_3_" },
+	{ "name": "Griffin_sw_0_8_2_", "bone": "root", "attachment": "Griffin_sw_0_8_2_" },
+	{ "name": "Griffin_sw_0_8_1_", "bone": "root", "attachment": "Griffin_sw_0_8_1_" },
+	{ "name": "Griffin_sw_0_8_0_", "bone": "root", "attachment": "Griffin_sw_0_8_0_" },
+	{ "name": "Griffin_sw_0_9_0_", "bone": "root", "attachment": "Griffin_sw_0_9_0_" },
+	{ "name": "Griffin_sw_0_9_1_", "bone": "root", "attachment": "Griffin_sw_0_9_1_" }
+],
+"skins": {
+	"default": {
+		"Griffin_dj_0_0_0_": {
+			"Griffin_dj_0_0_0_": { "x": 47.54, "y": 73.54, "width": 11, "height": 18 }
+		},
+		"Griffin_dj_0_0_1_": {
+			"Griffin_dj_0_0_1_": { "x": 36.04, "y": 61.54, "width": 26, "height": 18 }
+		},
+		"Griffin_dj_0_0_2_": {
+			"Griffin_dj_0_0_2_": { "x": 57.54, "y": 25.54, "width": 31, "height": 20 }
+		},
+		"Griffin_dj_0_0_3_": {
+			"Griffin_dj_0_0_3_": { "x": 36.54, "y": 35.54, "width": 25, "height": 18 }
+		},
+		"Griffin_dj_0_0_4_": {
+			"Griffin_dj_0_0_4_": { "x": -40.45, "y": 76.04, "width": 19, "height": 23 }
+		},
+		"Griffin_dj_0_0_5_": {
+			"Griffin_dj_0_0_5_": { "x": -60.45, "y": 84.04, "width": 21, "height": 19 }
+		},
+		"Griffin_dj_0_0_6_": {
+			"Griffin_dj_0_0_6_": { "x": -15.45, "y": 7.04, "width": 21, "height": 17 }
+		},
+		"Griffin_dj_0_0_7_": {
+			"Griffin_dj_0_0_7_": { "x": 12.04, "y": 39.04, "width": 26, "height": 43 }
+		},
+		"Griffin_dj_0_0_8_": {
+			"Griffin_dj_0_0_8_": { "x": -15.95, "y": 44.54, "width": 32, "height": 58 }
+		},
+		"Griffin_dj_0_1_0_": {
+			"Griffin_dj_0_1_0_": { "x": -31.95, "y": 80.54, "width": 26, "height": 20 }
+		},
+		"Griffin_dj_0_1_1_": {
+			"Griffin_dj_0_1_1_": { "x": -53.45, "y": 86.04, "width": 23, "height": 17 }
+		},
+		"Griffin_dj_0_1_2_": {
+			"Griffin_dj_0_1_2_": { "x": 48.54, "y": 75.54, "width": 11, "height": 16 }
+		},
+		"Griffin_dj_0_1_3_": {
+			"Griffin_dj_0_1_3_": { "x": 36.54, "y": 62.04, "width": 25, "height": 19 }
+		},
+		"Griffin_dj_0_1_4_": {
+			"Griffin_dj_0_1_4_": { "x": 53.54, "y": 32.54, "width": 23, "height": 20 }
+		},
+		"Griffin_dj_0_1_5_": {
+			"Griffin_dj_0_1_5_": { "x": 37.54, "y": 43.04, "width": 25, "height": 17 }
+		},
+		"Griffin_dj_0_1_6_": {
+			"Griffin_dj_0_1_6_": { "x": -14.95, "y": 8.04, "width": 22, "height": 15 }
+		},
+		"Griffin_dj_0_1_7_": {
+			"Griffin_dj_0_1_7_": { "x": -3.45, "y": 44.54, "width": 57, "height": 58 }
+		},
+		"Griffin_dj_0_2_0_": {
+			"Griffin_dj_0_2_0_": { "x": -44.95, "y": 90.04, "width": 28, "height": 27 }
+		},
+		"Griffin_dj_0_2_1_": {
+			"Griffin_dj_0_2_1_": { "x": -22.45, "y": 81.04, "width": 19, "height": 21 }
+		},
+		"Griffin_dj_0_2_2_": {
+			"Griffin_dj_0_2_2_": { "x": 48.04, "y": 78.04, "width": 12, "height": 17 }
+		},
+		"Griffin_dj_0_2_3_": {
+			"Griffin_dj_0_2_3_": { "x": 40.54, "y": 64.54, "width": 13, "height": 12 }
+		},
+		"Griffin_dj_0_2_4_": {
+			"Griffin_dj_0_2_4_": { "x": 47.04, "y": 47.54, "width": 26, "height": 18 }
+		},
+		"Griffin_dj_0_2_5_": {
+			"Griffin_dj_0_2_5_": { "x": 30.04, "y": 52.54, "width": 10, "height": 20 }
+		},
+		"Griffin_dj_0_2_6_": {
+			"Griffin_dj_0_2_6_": { "x": -12.95, "y": 7.04, "width": 28, "height": 17 }
+		},
+		"Griffin_dj_0_2_7_": {
+			"Griffin_dj_0_2_7_": { "x": -2.95, "y": 43.54, "width": 58, "height": 56 }
+		},
+		"Griffin_dj_0_3_0_": {
+			"Griffin_dj_0_3_0_": { "x": 47.54, "y": 79.54, "width": 11, "height": 14 }
+		},
+		"Griffin_dj_0_3_1_": {
+			"Griffin_dj_0_3_1_": { "x": 38.04, "y": 62.54, "width": 26, "height": 20 }
+		},
+		"Griffin_dj_0_3_2_": {
+			"Griffin_dj_0_3_2_": { "x": -11.45, "y": 5.04, "width": 33, "height": 21 }
+		},
+		"Griffin_dj_0_3_3_": {
+			"Griffin_dj_0_3_3_": { "x": -39.45, "y": 103.04, "width": 15, "height": 17 }
+		},
+		"Griffin_dj_0_3_4_": {
+			"Griffin_dj_0_3_4_": { "x": -19.95, "y": 88.04, "width": 24, "height": 29 }
+		},
+		"Griffin_dj_0_3_5_": {
+			"Griffin_dj_0_3_5_": { "x": -3.45, "y": 44.54, "width": 57, "height": 58 }
+		},
+		"Griffin_dj_0_4_0_": {
+			"Griffin_dj_0_4_0_": { "x": -11.95, "y": 2.04, "width": 34, "height": 23 }
+		},
+		"Griffin_dj_0_4_1_": {
+			"Griffin_dj_0_4_1_": { "x": 15.04, "y": 28.54, "width": 20, "height": 30 }
+		},
+		"Griffin_dj_0_4_2_": {
+			"Griffin_dj_0_4_2_": { "x": -13.45, "y": 28.04, "width": 39, "height": 31 }
+		},
+		"Griffin_dj_0_4_3_": {
+			"Griffin_dj_0_4_3_": { "x": 45.54, "y": 76.04, "width": 11, "height": 21 }
+		},
+		"Griffin_dj_0_4_4_": {
+			"Griffin_dj_0_4_4_": { "x": 23.04, "y": 61.04, "width": 36, "height": 35 }
+		},
+		"Griffin_dj_0_4_5_": {
+			"Griffin_dj_0_4_5_": { "x": -11.45, "y": 61.54, "width": 35, "height": 36 }
+		},
+		"Griffin_dj_0_4_6_": {
+			"Griffin_dj_0_4_6_": { "x": -16.95, "y": 87.04, "width": 16, "height": 17 }
+		},
+		"Griffin_dj_0_4_7_": {
+			"Griffin_dj_0_4_7_": { "x": -25.45, "y": 106.54, "width": 21, "height": 26 }
+		},
+		"Griffin_dj_0_5_0_": {
+			"Griffin_dj_0_5_0_": { "x": 45.54, "y": 76.04, "width": 9, "height": 21 }
+		},
+		"Griffin_dj_0_5_1_": {
+			"Griffin_dj_0_5_1_": { "x": 14.54, "y": 29.04, "width": 19, "height": 29 }
+		},
+		"Griffin_dj_0_5_2_": {
+			"Griffin_dj_0_5_2_": { "x": 23.04, "y": 61.54, "width": 36, "height": 36 }
+		},
+		"Griffin_dj_0_5_3_": {
+			"Griffin_dj_0_5_3_": { "x": -7.95, "y": 1.04, "width": 24, "height": 25 }
+		},
+		"Griffin_dj_0_5_4_": {
+			"Griffin_dj_0_5_4_": { "x": -23.45, "y": 4.54, "width": 13, "height": 18 }
+		},
+		"Griffin_dj_0_5_5_": {
+			"Griffin_dj_0_5_5_": { "x": -14.45, "y": 28.04, "width": 39, "height": 31 }
+		},
+		"Griffin_dj_0_5_6_": {
+			"Griffin_dj_0_5_6_": { "x": -24.95, "y": 74.04, "width": 12, "height": 11 }
+		},
+		"Griffin_dj_0_5_7_": {
+			"Griffin_dj_0_5_7_": { "x": -11.45, "y": 56.54, "width": 35, "height": 26 }
+		},
+		"Griffin_dj_0_5_8_": {
+			"Griffin_dj_0_5_8_": { "x": -26.95, "y": 89.54, "width": 14, "height": 22 }
+		},
+		"Griffin_dj_0_5_9_": {
+			"Griffin_dj_0_5_9_": { "x": -32.95, "y": 111.04, "width": 14, "height": 23 }
+		},
+		"Griffin_dj_0_6_0_": {
+			"Griffin_dj_0_6_0_": { "x": -35.45, "y": 65.54, "width": 5, "height": 6 }
+		},
+		"Griffin_dj_0_6_1_": {
+			"Griffin_dj_0_6_1_": { "x": 44.54, "y": 74.54, "width": 9, "height": 20 }
+		},
+		"Griffin_dj_0_6_2_": {
+			"Griffin_dj_0_6_2_": { "x": 14.04, "y": 28.04, "width": 18, "height": 21 }
+		},
+		"Griffin_dj_0_6_3_": {
+			"Griffin_dj_0_6_3_": { "x": 24.54, "y": 52.54, "width": 41, "height": 28 }
+		},
+		"Griffin_dj_0_6_4_": {
+			"Griffin_dj_0_6_4_": { "x": -12.45, "y": 2.04, "width": 33, "height": 27 }
+		},
+		"Griffin_dj_0_6_5_": {
+			"Griffin_dj_0_6_5_": { "x": -13.95, "y": 41.04, "width": 38, "height": 51 }
+		},
+		"Griffin_dj_0_6_6_": {
+			"Griffin_dj_0_6_6_": { "x": -27.45, "y": 73.54, "width": 11, "height": 14 }
+		},
+		"Griffin_dj_0_6_7_": {
+			"Griffin_dj_0_6_7_": { "x": -32.45, "y": 67.04, "width": 1, "height": 1 }
+		},
+		"Griffin_dj_0_6_8_": {
+			"Griffin_dj_0_6_8_": { "x": -42.95, "y": 94.54, "width": 20, "height": 56 }
+		},
+		"Griffin_dj_0_7_0_": {
+			"Griffin_dj_0_7_0_": { "x": -10.95, "y": 5.54, "width": 32, "height": 26 }
+		},
+		"Griffin_dj_0_7_1_": {
+			"Griffin_dj_0_7_1_": { "x": 38.54, "y": 41.04, "width": 33, "height": 17 }
+		},
+		"Griffin_dj_0_7_2_": {
+			"Griffin_dj_0_7_2_": { "x": 44.04, "y": 75.04, "width": 10, "height": 17 }
+		},
+		"Griffin_dj_0_7_3_": {
+			"Griffin_dj_0_7_3_": { "x": 33.04, "y": 59.04, "width": 22, "height": 17 }
+		},
+		"Griffin_dj_0_7_4_": {
+			"Griffin_dj_0_7_4_": { "x": 13.54, "y": 39.54, "width": 19, "height": 42 }
+		},
+		"Griffin_dj_0_7_5_": {
+			"Griffin_dj_0_7_5_": { "x": -18.45, "y": 42.54, "width": 49, "height": 50 }
+		},
+		"Griffin_dj_0_7_6_": {
+			"Griffin_dj_0_7_6_": { "x": -36.45, "y": 76.04, "width": 17, "height": 17 }
+		},
+		"Griffin_dj_0_7_7_": {
+			"Griffin_dj_0_7_7_": { "x": -49.95, "y": 78.04, "width": 12, "height": 21 }
+		},
+		"Griffin_dj_0_7_8_": {
+			"Griffin_dj_0_7_8_": { "x": -57.45, "y": 103.04, "width": 19, "height": 29 }
+		},
+		"Griffin_gj_0_0_0_": {
+			"Griffin_gj_0_0_0_": { "x": 50.04, "y": 90.54, "width": 22, "height": 12 }
+		},
+		"Griffin_gj_0_0_10_": {
+			"Griffin_gj_0_0_10_": { "x": -68.45, "y": 84.04, "width": 25, "height": 15 }
+		},
+		"Griffin_gj_0_0_11_": {
+			"Griffin_gj_0_0_11_": { "x": -6.45, "y": 52.04, "width": 61, "height": 37 }
+		},
+		"Griffin_gj_0_0_1_": {
+			"Griffin_gj_0_0_1_": { "x": 33.04, "y": 77.04, "width": 18, "height": 21 }
+		},
+		"Griffin_gj_0_0_2_": {
+			"Griffin_gj_0_0_2_": { "x": 44.04, "y": 27.04, "width": 38, "height": 17 }
+		},
+		"Griffin_gj_0_0_3_": {
+			"Griffin_gj_0_0_3_": { "x": 38.04, "y": 40.04, "width": 28, "height": 13 }
+		},
+		"Griffin_gj_0_0_4_": {
+			"Griffin_gj_0_0_4_": { "x": 11.54, "y": 26.54, "width": 15, "height": 16 }
+		},
+		"Griffin_gj_0_0_5_": {
+			"Griffin_gj_0_0_5_": { "x": -10.95, "y": 8.54, "width": 30, "height": 24 }
+		},
+		"Griffin_gj_0_0_6_": {
+			"Griffin_gj_0_0_6_": { "x": -13.95, "y": 26.54, "width": 36, "height": 16 }
+		},
+		"Griffin_gj_0_0_7_": {
+			"Griffin_gj_0_0_7_": { "x": -41.95, "y": 68.04, "width": 12, "height": 5 }
+		},
+		"Griffin_gj_0_0_8_": {
+			"Griffin_gj_0_0_8_": { "x": -29.45, "y": 74.04, "width": 15, "height": 9 }
+		},
+		"Griffin_gj_0_0_9_": {
+			"Griffin_gj_0_0_9_": { "x": -46.45, "y": 78.04, "width": 19, "height": 17 }
+		},
+		"Griffin_gj_0_1_0_": {
+			"Griffin_gj_0_1_0_": { "x": 47.04, "y": 90.04, "width": 22, "height": 27 }
+		},
+		"Griffin_gj_0_1_10_": {
+			"Griffin_gj_0_1_10_": { "x": -54.95, "y": 86.54, "width": 38, "height": 34 }
+		},
+		"Griffin_gj_0_1_1_": {
+			"Griffin_gj_0_1_1_": { "x": 30.54, "y": 72.54, "width": 13, "height": 18 }
+		},
+		"Griffin_gj_0_1_2_": {
+			"Griffin_gj_0_1_2_": { "x": 55.04, "y": 30.54, "width": 28, "height": 10 }
+		},
+		"Griffin_gj_0_1_3_": {
+			"Griffin_gj_0_1_3_": { "x": 40.54, "y": 41.54, "width": 33, "height": 14 }
+		},
+		"Griffin_gj_0_1_4_": {
+			"Griffin_gj_0_1_4_": { "x": 10.04, "y": 29.04, "width": 12, "height": 11 }
+		},
+		"Griffin_gj_0_1_5_": {
+			"Griffin_gj_0_1_5_": { "x": -5.95, "y": 9.04, "width": 20, "height": 27 }
+		},
+		"Griffin_gj_0_1_6_": {
+			"Griffin_gj_0_1_6_": { "x": -26.45, "y": 13.04, "width": 13, "height": 21 }
+		},
+		"Griffin_gj_0_1_7_": {
+			"Griffin_gj_0_1_7_": { "x": -13.95, "y": 27.04, "width": 38, "height": 17 }
+		},
+		"Griffin_gj_0_1_8_": {
+			"Griffin_gj_0_1_8_": { "x": -6.45, "y": 52.04, "width": 61, "height": 37 }
+		},
+		"Griffin_gj_0_1_9_": {
+			"Griffin_gj_0_1_9_": { "x": -25.95, "y": 76.54, "width": 22, "height": 14 }
+		},
+		"Griffin_gj_0_2_0_": {
+			"Griffin_gj_0_2_0_": { "x": 8.04, "y": 32.04, "width": 10, "height": 7 }
+		},
+		"Griffin_gj_0_2_1_": {
+			"Griffin_gj_0_2_1_": { "x": 49.54, "y": 91.04, "width": 21, "height": 25 }
+		},
+		"Griffin_gj_0_2_2_": {
+			"Griffin_gj_0_2_2_": { "x": 32.54, "y": 73.04, "width": 19, "height": 15 }
+		},
+		"Griffin_gj_0_2_3_": {
+			"Griffin_gj_0_2_3_": { "x": 45.54, "y": 39.04, "width": 45, "height": 19 }
+		},
+		"Griffin_gj_0_2_4_": {
+			"Griffin_gj_0_2_4_": { "x": -3.45, "y": 8.54, "width": 17, "height": 26 }
+		},
+		"Griffin_gj_0_2_5_": {
+			"Griffin_gj_0_2_5_": { "x": -30.95, "y": 13.54, "width": 12, "height": 18 }
+		},
+		"Griffin_gj_0_2_6_": {
+			"Griffin_gj_0_2_6_": { "x": -14.95, "y": 27.04, "width": 40, "height": 15 }
+		},
+		"Griffin_gj_0_2_7_": {
+			"Griffin_gj_0_2_7_": { "x": -5.95, "y": 52.54, "width": 62, "height": 36 }
+		},
+		"Griffin_gj_0_2_8_": {
+			"Griffin_gj_0_2_8_": { "x": -23.95, "y": 78.04, "width": 24, "height": 17 }
+		},
+		"Griffin_gj_0_2_9_": {
+			"Griffin_gj_0_2_9_": { "x": -52.45, "y": 91.04, "width": 33, "height": 41 }
+		},
+		"Griffin_gj_0_3_0_": {
+			"Griffin_gj_0_3_0_": { "x": 51.04, "y": 89.04, "width": 24, "height": 25 }
+		},
+		"Griffin_gj_0_3_1_": {
+			"Griffin_gj_0_3_1_": { "x": 30.54, "y": 74.04, "width": 19, "height": 13 }
+		},
+		"Griffin_gj_0_3_2_": {
+			"Griffin_gj_0_3_2_": { "x": 45.04, "y": 39.54, "width": 42, "height": 18 }
+		},
+		"Griffin_gj_0_3_3_": {
+			"Griffin_gj_0_3_3_": { "x": 15.54, "y": 52.54, "width": 19, "height": 36 }
+		},
+		"Griffin_gj_0_3_4_": {
+			"Griffin_gj_0_3_4_": { "x": -7.95, "y": 9.04, "width": 24, "height": 23 }
+		},
+		"Griffin_gj_0_3_5_": {
+			"Griffin_gj_0_3_5_": { "x": -25.45, "y": 14.04, "width": 13, "height": 17 }
+		},
+		"Griffin_gj_0_3_6_": {
+			"Griffin_gj_0_3_6_": { "x": -14.95, "y": 45.04, "width": 42, "height": 51 }
+		},
+		"Griffin_gj_0_3_7_": {
+			"Griffin_gj_0_3_7_": { "x": -24.45, "y": 80.54, "width": 25, "height": 20 }
+		},
+		"Griffin_gj_0_3_8_": {
+			"Griffin_gj_0_3_8_": { "x": -51.45, "y": 92.04, "width": 31, "height": 45 }
+		},
+		"Griffin_gj_0_4_0_": {
+			"Griffin_gj_0_4_0_": { "x": 27.04, "y": 79.04, "width": 28, "height": 11 }
+		},
+		"Griffin_gj_0_4_10_": {
+			"Griffin_gj_0_4_10_": { "x": -48.95, "y": 72.54, "width": 28, "height": 28 }
+		},
+		"Griffin_gj_0_4_11_": {
+			"Griffin_gj_0_4_11_": { "x": 49.54, "y": 90.54, "width": 15, "height": 10 }
+		},
+		"Griffin_gj_0_4_12_": {
+			"Griffin_gj_0_4_12_": { "x": 38.04, "y": 85.54, "width": 8, "height": 6 }
+		},
+		"Griffin_gj_0_4_1_": {
+			"Griffin_gj_0_4_1_": { "x": 11.04, "y": 71.04, "width": 16, "height": 9 }
+		},
+		"Griffin_gj_0_4_2_": {
+			"Griffin_gj_0_4_2_": { "x": 14.04, "y": 62.54, "width": 30, "height": 8 }
+		},
+		"Griffin_gj_0_4_3_": {
+			"Griffin_gj_0_4_3_": { "x": 46.54, "y": 52.54, "width": 23, "height": 12 }
+		},
+		"Griffin_gj_0_4_4_": {
+			"Griffin_gj_0_4_4_": { "x": 17.04, "y": 45.04, "width": 38, "height": 27 }
+		},
+		"Griffin_gj_0_4_5_": {
+			"Griffin_gj_0_4_5_": { "x": 33.04, "y": -0.95, "width": 16, "height": 7 }
+		},
+		"Griffin_gj_0_4_6_": {
+			"Griffin_gj_0_4_6_": { "x": 20.54, "y": 17.54, "width": 45, "height": 30 }
+		},
+		"Griffin_gj_0_4_7_": {
+			"Griffin_gj_0_4_7_": { "x": -16.95, "y": 17.04, "width": 30, "height": 29 }
+		},
+		"Griffin_gj_0_4_8_": {
+			"Griffin_gj_0_4_8_": { "x": -16.95, "y": 42.54, "width": 30, "height": 22 }
+		},
+		"Griffin_gj_0_4_9_": {
+			"Griffin_gj_0_4_9_": { "x": -44.95, "y": 46.54, "width": 28, "height": 26 }
+		},
+		"Griffin_gj_0_5_0_": {
+			"Griffin_gj_0_5_0_": { "x": 26.54, "y": 80.04, "width": 15, "height": 17 }
+		},
+		"Griffin_gj_0_5_10_": {
+			"Griffin_gj_0_5_10_": { "x": -31.45, "y": 20.04, "width": 25, "height": 25 }
+		},
+		"Griffin_gj_0_5_11_": {
+			"Griffin_gj_0_5_11_": { "x": -17.45, "y": 47.04, "width": 59, "height": 29 }
+		},
+		"Griffin_gj_0_5_1_": {
+			"Griffin_gj_0_5_1_": { "x": 19.04, "y": 68.04, "width": 10, "height": 13 }
+		},
+		"Griffin_gj_0_5_2_": {
+			"Griffin_gj_0_5_2_": { "x": 14.04, "y": 57.04, "width": 6, "height": 9 }
+		},
+		"Griffin_gj_0_5_3_": {
+			"Griffin_gj_0_5_3_": { "x": 2.54, "y": 69.04, "width": 15, "height": 15 }
+		},
+		"Griffin_gj_0_5_4_": {
+			"Griffin_gj_0_5_4_": { "x": -18.95, "y": 77.54, "width": 20, "height": 32 }
+		},
+		"Griffin_gj_0_5_5_": {
+			"Griffin_gj_0_5_5_": { "x": -37.45, "y": 73.04, "width": 15, "height": 23 }
+		},
+		"Griffin_gj_0_5_6_": {
+			"Griffin_gj_0_5_6_": { "x": -56.45, "y": 73.54, "width": 15, "height": 24 }
+		},
+		"Griffin_gj_0_5_7_": {
+			"Griffin_gj_0_5_7_": { "x": -56.95, "y": 48.04, "width": 20, "height": 29 }
+		},
+		"Griffin_gj_0_5_8_": {
+			"Griffin_gj_0_5_8_": { "x": -2.95, "y": -2.95, "width": 24, "height": 21 }
+		},
+		"Griffin_gj_0_5_9_": {
+			"Griffin_gj_0_5_9_": { "x": -2.95, "y": 20.54, "width": 34, "height": 26 }
+		},
+		"Griffin_gj_0_6_0_": {
+			"Griffin_gj_0_6_0_": { "x": 25.04, "y": 66.54, "width": 12, "height": 22 }
+		},
+		"Griffin_gj_0_6_1_": {
+			"Griffin_gj_0_6_1_": { "x": 13.04, "y": 51.54, "width": 14, "height": 12 }
+		},
+		"Griffin_gj_0_6_2_": {
+			"Griffin_gj_0_6_2_": { "x": -55.95, "y": 8.54, "width": 8, "height": 12 }
+		},
+		"Griffin_gj_0_6_3_": {
+			"Griffin_gj_0_6_3_": { "x": -25.95, "y": -11.45, "width": 54, "height": 20 }
+		},
+		"Griffin_gj_0_6_4_": {
+			"Griffin_gj_0_6_4_": { "x": -61.95, "y": -15.45, "width": 20, "height": 10 }
+		},
+		"Griffin_gj_0_6_5_": {
+			"Griffin_gj_0_6_5_": { "x": -18.45, "y": 51.04, "width": 49, "height": 31 }
+		},
+		"Griffin_gj_0_6_6_": {
+			"Griffin_gj_0_6_6_": { "x": -23.45, "y": 16.54, "width": 59, "height": 38 }
+		},
+		"Griffin_gj_0_7_0_": {
+			"Griffin_gj_0_7_0_": { "x": 34.04, "y": 67.04, "width": 10, "height": 11 }
+		},
+		"Griffin_gj_0_7_10_": {
+			"Griffin_gj_0_7_10_": { "x": -56.95, "y": 55.04, "width": 20, "height": 27 }
+		},
+		"Griffin_gj_0_7_11_": {
+			"Griffin_gj_0_7_11_": { "x": -47.45, "y": 53.04, "width": 1, "height": 21 }
+		},
+		"Griffin_gj_0_7_12_": {
+			"Griffin_gj_0_7_12_": { "x": -61.45, "y": 83.54, "width": 9, "height": 30 }
+		},
+		"Griffin_gj_0_7_1_": {
+			"Griffin_gj_0_7_1_": { "x": 24.04, "y": 58.54, "width": 16, "height": 12 }
+		},
+		"Griffin_gj_0_7_2_": {
+			"Griffin_gj_0_7_2_": { "x": 9.54, "y": 52.04, "width": 15, "height": 11 }
+		},
+		"Griffin_gj_0_7_3_": {
+			"Griffin_gj_0_7_3_": { "x": 8.54, "y": -20.95, "width": 17, "height": 27 }
+		},
+		"Griffin_gj_0_7_4_": {
+			"Griffin_gj_0_7_4_": { "x": -0.95, "y": 46.04, "width": 24, "height": 7 }
+		},
+		"Griffin_gj_0_7_5_": {
+			"Griffin_gj_0_7_5_": { "x": -16.95, "y": -17.95, "width": 16, "height": 21 }
+		},
+		"Griffin_gj_0_7_6_": {
+			"Griffin_gj_0_7_6_": { "x": -45.95, "y": -10.95, "width": 16, "height": 17 }
+		},
+		"Griffin_gj_0_7_7_": {
+			"Griffin_gj_0_7_7_": { "x": -49.95, "y": 41.54, "width": 6, "height": 4 }
+		},
+		"Griffin_gj_0_7_8_": {
+			"Griffin_gj_0_7_8_": { "x": -36.95, "y": 53.04, "width": 22, "height": 21 }
+		},
+		"Griffin_gj_0_7_9_": {
+			"Griffin_gj_0_7_9_": { "x": -15.95, "y": 17.54, "width": 64, "height": 50 }
+		},
+		"Griffin_gj_0_8_0_": {
+			"Griffin_gj_0_8_0_": { "x": 32.54, "y": 70.04, "width": 17, "height": 9 }
+		},
+		"Griffin_gj_0_8_10_": {
+			"Griffin_gj_0_8_10_": { "x": -75.95, "y": 79.54, "width": 22, "height": 26 }
+		},
+		"Griffin_gj_0_8_11_": {
+			"Griffin_gj_0_8_11_": { "x": 45.04, "y": 74.54, "width": 8, "height": 8 }
+		},
+		"Griffin_gj_0_8_1_": {
+			"Griffin_gj_0_8_1_": { "x": 18.04, "y": 62.54, "width": 14, "height": 10 }
+		},
+		"Griffin_gj_0_8_2_": {
+			"Griffin_gj_0_8_2_": { "x": 32.54, "y": 12.04, "width": 17, "height": 25 }
+		},
+		"Griffin_gj_0_8_3_": {
+			"Griffin_gj_0_8_3_": { "x": 16.54, "y": 24.04, "width": 27, "height": 25 }
+		},
+		"Griffin_gj_0_8_4_": {
+			"Griffin_gj_0_8_4_": { "x": 11.54, "y": 46.04, "width": 17, "height": 23 }
+		},
+		"Griffin_gj_0_8_5_": {
+			"Griffin_gj_0_8_5_": { "x": -11.45, "y": -8.95, "width": 11, "height": 17 }
+		},
+		"Griffin_gj_0_8_6_": {
+			"Griffin_gj_0_8_6_": { "x": -31.45, "y": -6.45, "width": 13, "height": 12 }
+		},
+		"Griffin_gj_0_8_7_": {
+			"Griffin_gj_0_8_7_": { "x": -17.95, "y": 28.04, "width": 44, "height": 59 }
+		},
+		"Griffin_gj_0_8_8_": {
+			"Griffin_gj_0_8_8_": { "x": -55.45, "y": 50.54, "width": 31, "height": 14 }
+		},
+		"Griffin_gj_0_8_9_": {
+			"Griffin_gj_0_8_9_": { "x": -57.45, "y": 64.54, "width": 37, "height": 14 }
+		},
+		"Griffin_sw_0_0_0_": {
+			"Griffin_sw_0_0_0_": { "x": -24.45, "y": 77.04, "width": 17, "height": 15 }
+		},
+		"Griffin_sw_0_0_1_": {
+			"Griffin_sw_0_0_1_": { "x": -38.95, "y": 84.54, "width": 12, "height": 30 }
+		},
+		"Griffin_sw_0_0_2_": {
+			"Griffin_sw_0_0_2_": { "x": -53.45, "y": 99.04, "width": 17, "height": 35 }
+		},
+		"Griffin_sw_0_0_3_": {
+			"Griffin_sw_0_0_3_": { "x": -11.45, "y": 9.04, "width": 29, "height": 25 }
+		},
+		"Griffin_sw_0_0_4_": {
+			"Griffin_sw_0_0_4_": { "x": -16.95, "y": 45.04, "width": 32, "height": 49 }
+		},
+		"Griffin_sw_0_0_5_": {
+			"Griffin_sw_0_0_5_": { "x": 11.04, "y": 40.04, "width": 26, "height": 43 }
+		},
+		"Griffin_sw_0_0_6_": {
+			"Griffin_sw_0_0_6_": { "x": 65.54, "y": 42.04, "width": 13, "height": 5 }
+		},
+		"Griffin_sw_0_0_7_": {
+			"Griffin_sw_0_0_7_": { "x": 41.04, "y": 45.54, "width": 36, "height": 12 }
+		},
+		"Griffin_sw_0_1_0_": {
+			"Griffin_sw_0_1_0_": { "x": 28.54, "y": 134.04, "width": 25, "height": 17 }
+		},
+		"Griffin_sw_0_1_1_": {
+			"Griffin_sw_0_1_1_": { "x": 35.04, "y": 55.04, "width": 22, "height": 21 }
+		},
+		"Griffin_sw_0_1_2_": {
+			"Griffin_sw_0_1_2_": { "x": 15.54, "y": 39.04, "width": 13, "height": 23 }
+		},
+		"Griffin_sw_0_1_3_": {
+			"Griffin_sw_0_1_3_": { "x": 19.54, "y": 58.04, "width": 7, "height": 17 }
+		},
+		"Griffin_sw_0_1_4_": {
+			"Griffin_sw_0_1_4_": { "x": 1.54, "y": 56.54, "width": 29, "height": 18 }
+		},
+		"Griffin_sw_0_1_5_": {
+			"Griffin_sw_0_1_5_": { "x": 17.04, "y": 96.54, "width": 46, "height": 62 }
+		},
+		"Griffin_sw_0_1_6_": {
+			"Griffin_sw_0_1_6_": { "x": -29.45, "y": 95.54, "width": 47, "height": 30 }
+		},
+		"Griffin_sw_0_1_7_": {
+			"Griffin_sw_0_1_7_": { "x": -65.45, "y": 98.04, "width": 25, "height": 27 }
+		},
+		"Griffin_sw_0_2_0_": {
+			"Griffin_sw_0_2_0_": { "x": -43.45, "y": 88.54, "width": 21, "height": 22 }
+		},
+		"Griffin_sw_0_2_1_": {
+			"Griffin_sw_0_2_1_": { "x": -23.45, "y": 94.54, "width": 21, "height": 36 }
+		},
+		"Griffin_sw_0_2_2_": {
+			"Griffin_sw_0_2_2_": { "x": 41.04, "y": 140.04, "width": 24, "height": 23 }
+		},
+		"Griffin_sw_0_2_3_": {
+			"Griffin_sw_0_2_3_": { "x": 26.04, "y": 124.54, "width": 52, "height": 20 }
+		},
+		"Griffin_sw_0_2_4_": {
+			"Griffin_sw_0_2_4_": { "x": -5.95, "y": 127.04, "width": 12, "height": 15 }
+		},
+		"Griffin_sw_0_2_5_": {
+			"Griffin_sw_0_2_5_": { "x": 16.04, "y": 89.54, "width": 58, "height": 50 }
+		},
+		"Griffin_sw_0_2_6_": {
+			"Griffin_sw_0_2_6_": { "x": 19.54, "y": 37.54, "width": 7, "height": 16 }
+		},
+		"Griffin_sw_0_2_7_": {
+			"Griffin_sw_0_2_7_": { "x": 18.54, "y": 54.04, "width": 9, "height": 23 }
+		},
+		"Griffin_sw_0_3_0_": {
+			"Griffin_sw_0_3_0_": { "x": 48.04, "y": 120.04, "width": 26, "height": 29 }
+		},
+		"Griffin_sw_0_3_1_": {
+			"Griffin_sw_0_3_1_": { "x": 17.54, "y": 118.04, "width": 35, "height": 27 }
+		},
+		"Griffin_sw_0_3_2_": {
+			"Griffin_sw_0_3_2_": { "x": 19.54, "y": 33.04, "width": 13, "height": 13 }
+		},
+		"Griffin_sw_0_3_3_": {
+			"Griffin_sw_0_3_3_": { "x": 14.54, "y": 48.04, "width": 9, "height": 19 }
+		},
+		"Griffin_sw_0_3_4_": {
+			"Griffin_sw_0_3_4_": { "x": 16.54, "y": 61.04, "width": 23, "height": 11 }
+		},
+		"Griffin_sw_0_3_5_": {
+			"Griffin_sw_0_3_5_": { "x": 27.54, "y": 85.54, "width": 53, "height": 40 }
+		},
+		"Griffin_sw_0_3_6_": {
+			"Griffin_sw_0_3_6_": { "x": -17.45, "y": 88.04, "width": 39, "height": 33 }
+		},
+		"Griffin_sw_0_4_0_": {
+			"Griffin_sw_0_4_0_": { "x": 19.54, "y": 20.54, "width": 19, "height": 20 }
+		},
+		"Griffin_sw_0_4_1_": {
+			"Griffin_sw_0_4_1_": { "x": 18.54, "y": 36.04, "width": 25, "height": 13 }
+		},
+		"Griffin_sw_0_4_2_": {
+			"Griffin_sw_0_4_2_": { "x": -5.95, "y": 65.04, "width": 26, "height": 35 }
+		},
+		"Griffin_sw_0_4_3_": {
+			"Griffin_sw_0_4_3_": { "x": 60.04, "y": 67.04, "width": 24, "height": 27 }
+		},
+		"Griffin_sw_0_4_4_": {
+			"Griffin_sw_0_4_4_": { "x": 27.04, "y": 62.04, "width": 42, "height": 39 }
+		},
+		"Griffin_sw_0_4_5_": {
+			"Griffin_sw_0_4_5_": { "x": 59.04, "y": 89.54, "width": 30, "height": 18 }
+		},
+		"Griffin_sw_0_4_6_": {
+			"Griffin_sw_0_4_6_": { "x": 38.04, "y": 93.04, "width": 14, "height": 25 }
+		},
+		"Griffin_sw_0_4_7_": {
+			"Griffin_sw_0_4_7_": { "x": 23.04, "y": 94.04, "width": 16, "height": 27 }
+		},
+		"Griffin_sw_0_5_0_": {
+			"Griffin_sw_0_5_0_": { "x": 7.54, "y": 72.54, "width": 21, "height": 12 }
+		},
+		"Griffin_sw_0_5_1_": {
+			"Griffin_sw_0_5_1_": { "x": 37.54, "y": 75.04, "width": 25, "height": 17 }
+		},
+		"Griffin_sw_0_5_2_": {
+			"Griffin_sw_0_5_2_": { "x": 64.04, "y": 48.04, "width": 22, "height": 39 }
+		},
+		"Griffin_sw_0_5_3_": {
+			"Griffin_sw_0_5_3_": { "x": 24.54, "y": 37.54, "width": 59, "height": 58 }
+		},
+		"Griffin_sw_0_6_0_": {
+			"Griffin_sw_0_6_0_": { "x": 9.54, "y": 79.04, "width": 37, "height": 25 }
+		},
+		"Griffin_sw_0_6_1_": {
+			"Griffin_sw_0_6_1_": { "x": 35.04, "y": 76.54, "width": 14, "height": 20 }
+		},
+		"Griffin_sw_0_6_2_": {
+			"Griffin_sw_0_6_2_": { "x": 58.04, "y": 49.04, "width": 22, "height": 43 }
+		},
+		"Griffin_sw_0_6_3_": {
+			"Griffin_sw_0_6_3_": { "x": 38.54, "y": 41.04, "width": 21, "height": 51 }
+		},
+		"Griffin_sw_0_6_4_": {
+			"Griffin_sw_0_6_4_": { "x": 9.54, "y": 38.04, "width": 37, "height": 59 }
+		},
+		"Griffin_sw_0_7_0_": {
+			"Griffin_sw_0_7_0_": { "x": 8.54, "y": 38.04, "width": 65, "height": 59 }
+		},
+		"Griffin_sw_0_7_1_": {
+			"Griffin_sw_0_7_1_": { "x": 24.54, "y": 75.04, "width": 21, "height": 17 }
+		},
+		"Griffin_sw_0_7_2_": {
+			"Griffin_sw_0_7_2_": { "x": -9.45, "y": 78.04, "width": 33, "height": 23 }
+		},
+		"Griffin_sw_0_7_3_": {
+			"Griffin_sw_0_7_3_": { "x": 52.54, "y": 46.04, "width": 25, "height": 49 }
+		},
+		"Griffin_sw_0_8_0_": {
+			"Griffin_sw_0_8_0_": { "x": 51.04, "y": 42.04, "width": 28, "height": 49 }
+		},
+		"Griffin_sw_0_8_1_": {
+			"Griffin_sw_0_8_1_": { "x": 23.04, "y": 39.04, "width": 28, "height": 65 }
+		},
+		"Griffin_sw_0_8_2_": {
+			"Griffin_sw_0_8_2_": { "x": -15.95, "y": 35.04, "width": 50, "height": 57 }
+		},
+		"Griffin_sw_0_9_0_": {
+			"Griffin_sw_0_9_0_": { "x": 37.54, "y": 35.54, "width": 53, "height": 62 }
+		},
+		"Griffin_sw_0_9_1_": {
+			"Griffin_sw_0_9_1_": { "x": -12.95, "y": 31.04, "width": 50, "height": 53 }
+		}
+	}
+},
+"animations": {
+	"dj": {
+		"slots": {
+			"Griffin_dj_0_0_0_": {
+				"attachment": [
+					{ "time": 0, "name": "Griffin_dj_0_0_0_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_0_1_": {
+				"attachment": [
+					{ "time": 0, "name": "Griffin_dj_0_0_1_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_0_2_": {
+				"attachment": [
+					{ "time": 0, "name": "Griffin_dj_0_0_2_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_0_3_": {
+				"attachment": [
+					{ "time": 0, "name": "Griffin_dj_0_0_3_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_0_4_": {
+				"attachment": [
+					{ "time": 0, "name": "Griffin_dj_0_0_4_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_0_5_": {
+				"attachment": [
+					{ "time": 0, "name": "Griffin_dj_0_0_5_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_0_6_": {
+				"attachment": [
+					{ "time": 0, "name": "Griffin_dj_0_0_6_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_0_7_": {
+				"attachment": [
+					{ "time": 0, "name": "Griffin_dj_0_0_7_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_0_8_": {
+				"attachment": [
+					{ "time": 0, "name": "Griffin_dj_0_0_8_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_1_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Griffin_dj_0_1_0_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_1_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Griffin_dj_0_1_1_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_1_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Griffin_dj_0_1_2_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_1_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Griffin_dj_0_1_3_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_1_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Griffin_dj_0_1_4_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_1_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Griffin_dj_0_1_5_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_1_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Griffin_dj_0_1_6_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_1_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Griffin_dj_0_1_7_" },
+					{ "time": 0.0666, "name": "Griffin_dj_0_1_7_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_2_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Griffin_dj_0_2_0_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_2_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Griffin_dj_0_2_1_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_2_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Griffin_dj_0_2_2_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_2_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Griffin_dj_0_2_3_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_2_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Griffin_dj_0_2_4_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_2_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Griffin_dj_0_2_5_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_2_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Griffin_dj_0_2_6_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_2_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Griffin_dj_0_2_7_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_3_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Griffin_dj_0_3_0_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_3_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Griffin_dj_0_3_1_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_3_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Griffin_dj_0_3_2_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_3_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Griffin_dj_0_3_3_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_3_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Griffin_dj_0_3_4_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_3_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Griffin_dj_0_3_5_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_4_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Griffin_dj_0_4_0_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_4_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Griffin_dj_0_4_1_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_4_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Griffin_dj_0_4_2_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_4_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Griffin_dj_0_4_3_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_4_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Griffin_dj_0_4_4_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_4_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Griffin_dj_0_4_5_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_4_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Griffin_dj_0_4_6_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_4_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Griffin_dj_0_4_7_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_5_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Griffin_dj_0_5_0_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_5_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Griffin_dj_0_5_1_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_5_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Griffin_dj_0_5_2_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_5_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Griffin_dj_0_5_3_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_5_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Griffin_dj_0_5_4_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_5_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Griffin_dj_0_5_5_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_5_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Griffin_dj_0_5_6_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_5_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Griffin_dj_0_5_7_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_5_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Griffin_dj_0_5_8_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_5_9_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Griffin_dj_0_5_9_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_6_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Griffin_dj_0_6_0_" },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_6_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Griffin_dj_0_6_1_" },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_6_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Griffin_dj_0_6_2_" },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_6_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Griffin_dj_0_6_3_" },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_6_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Griffin_dj_0_6_4_" },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_6_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Griffin_dj_0_6_5_" },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_6_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Griffin_dj_0_6_6_" },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_6_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Griffin_dj_0_6_7_" },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_6_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Griffin_dj_0_6_8_" },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_dj_0_7_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Griffin_dj_0_7_0_" }
+				]
+			},
+			"Griffin_dj_0_7_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Griffin_dj_0_7_1_" }
+				]
+			},
+			"Griffin_dj_0_7_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Griffin_dj_0_7_2_" }
+				]
+			},
+			"Griffin_dj_0_7_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Griffin_dj_0_7_3_" }
+				]
+			},
+			"Griffin_dj_0_7_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Griffin_dj_0_7_4_" }
+				]
+			},
+			"Griffin_dj_0_7_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Griffin_dj_0_7_5_" }
+				]
+			},
+			"Griffin_dj_0_7_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Griffin_dj_0_7_6_" }
+				]
+			},
+			"Griffin_dj_0_7_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Griffin_dj_0_7_7_" }
+				]
+			},
+			"Griffin_dj_0_7_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Griffin_dj_0_7_8_" }
+				]
+			},
+			"Griffin_gj_0_0_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_10_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_11_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_9_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_10_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_9_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_2_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_2_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_2_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_2_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_2_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_2_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_2_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_2_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_2_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_2_9_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_3_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_3_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_3_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_3_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_3_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_3_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_3_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_3_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_3_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_10_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_11_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_12_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_9_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_10_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_11_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_9_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_6_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_6_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_6_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_6_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_6_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_6_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_6_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_10_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_11_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_12_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_9_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_8_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_8_10_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_8_11_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_8_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_8_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_8_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_8_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_8_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_8_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_8_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_8_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_gj_0_8_9_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_0_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_0_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_0_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_0_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_0_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_0_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_0_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_0_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_1_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_1_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_1_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_1_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_1_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_1_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_1_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_1_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_2_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_2_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_2_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_2_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_2_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_2_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_2_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_2_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_3_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_3_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_3_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_3_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_3_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_3_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_3_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_4_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_4_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_4_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_4_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_4_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_4_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_4_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_4_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_5_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_5_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_5_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_5_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_6_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_6_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_6_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_6_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_6_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_7_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_7_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_7_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_7_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_8_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_8_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_8_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_9_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"Griffin_sw_0_9_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null }
+				]
+			}
+		}
+	},
+	"gj": {
+		"slots": {
+			"Griffin_dj_0_0_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_0_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_0_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_0_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_0_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_0_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_0_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_0_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_0_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_1_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_1_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_1_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_1_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_1_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_1_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_1_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_1_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_2_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_2_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_2_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_2_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_2_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_2_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_2_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_2_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_3_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_3_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_3_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_3_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_3_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_3_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_4_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_4_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_4_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_4_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_4_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_4_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_4_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_4_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_5_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_5_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_5_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_5_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_5_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_5_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_5_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_5_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_5_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_5_9_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_6_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_6_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_6_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_6_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_6_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_6_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_6_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_6_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_6_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_7_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_7_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_7_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_7_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_7_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_7_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_7_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_7_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_dj_0_7_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_0_": {
+				"attachment": [
+					{ "time": 0, "name": "Griffin_gj_0_0_0_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_10_": {
+				"attachment": [
+					{ "time": 0, "name": "Griffin_gj_0_0_10_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_11_": {
+				"attachment": [
+					{ "time": 0, "name": "Griffin_gj_0_0_11_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_1_": {
+				"attachment": [
+					{ "time": 0, "name": "Griffin_gj_0_0_1_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_2_": {
+				"attachment": [
+					{ "time": 0, "name": "Griffin_gj_0_0_2_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_3_": {
+				"attachment": [
+					{ "time": 0, "name": "Griffin_gj_0_0_3_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_4_": {
+				"attachment": [
+					{ "time": 0, "name": "Griffin_gj_0_0_4_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_5_": {
+				"attachment": [
+					{ "time": 0, "name": "Griffin_gj_0_0_5_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_6_": {
+				"attachment": [
+					{ "time": 0, "name": "Griffin_gj_0_0_6_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_7_": {
+				"attachment": [
+					{ "time": 0, "name": "Griffin_gj_0_0_7_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_8_": {
+				"attachment": [
+					{ "time": 0, "name": "Griffin_gj_0_0_8_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_9_": {
+				"attachment": [
+					{ "time": 0, "name": "Griffin_gj_0_0_9_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Griffin_gj_0_1_0_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_10_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Griffin_gj_0_1_10_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Griffin_gj_0_1_1_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Griffin_gj_0_1_2_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Griffin_gj_0_1_3_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Griffin_gj_0_1_4_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Griffin_gj_0_1_5_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Griffin_gj_0_1_6_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Griffin_gj_0_1_7_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Griffin_gj_0_1_8_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_9_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Griffin_gj_0_1_9_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_2_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Griffin_gj_0_2_0_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_2_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Griffin_gj_0_2_1_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_2_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Griffin_gj_0_2_2_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_2_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Griffin_gj_0_2_3_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_2_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Griffin_gj_0_2_4_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_2_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Griffin_gj_0_2_5_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_2_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Griffin_gj_0_2_6_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_2_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Griffin_gj_0_2_7_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_2_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Griffin_gj_0_2_8_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_2_9_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Griffin_gj_0_2_9_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_3_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Griffin_gj_0_3_0_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_3_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Griffin_gj_0_3_1_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_3_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Griffin_gj_0_3_2_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_3_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Griffin_gj_0_3_3_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_3_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Griffin_gj_0_3_4_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_3_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Griffin_gj_0_3_5_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_3_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Griffin_gj_0_3_6_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_3_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Griffin_gj_0_3_7_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_3_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Griffin_gj_0_3_8_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Griffin_gj_0_4_0_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_10_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Griffin_gj_0_4_10_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_11_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Griffin_gj_0_4_11_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_12_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Griffin_gj_0_4_12_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Griffin_gj_0_4_1_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Griffin_gj_0_4_2_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Griffin_gj_0_4_3_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Griffin_gj_0_4_4_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Griffin_gj_0_4_5_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Griffin_gj_0_4_6_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Griffin_gj_0_4_7_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Griffin_gj_0_4_8_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_9_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Griffin_gj_0_4_9_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Griffin_gj_0_5_0_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_10_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Griffin_gj_0_5_10_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_11_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Griffin_gj_0_5_11_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Griffin_gj_0_5_1_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Griffin_gj_0_5_2_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Griffin_gj_0_5_3_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Griffin_gj_0_5_4_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Griffin_gj_0_5_5_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Griffin_gj_0_5_6_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Griffin_gj_0_5_7_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Griffin_gj_0_5_8_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_9_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Griffin_gj_0_5_9_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_6_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Griffin_gj_0_6_0_" },
+					{ "time": 0.2333, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_6_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Griffin_gj_0_6_1_" },
+					{ "time": 0.2333, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_6_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Griffin_gj_0_6_2_" },
+					{ "time": 0.2333, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_6_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Griffin_gj_0_6_3_" },
+					{ "time": 0.2333, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_6_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Griffin_gj_0_6_4_" },
+					{ "time": 0.2333, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_6_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Griffin_gj_0_6_5_" },
+					{ "time": 0.2333, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_6_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Griffin_gj_0_6_6_" },
+					{ "time": 0.2333, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Griffin_gj_0_7_0_" },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_10_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Griffin_gj_0_7_10_" },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_11_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Griffin_gj_0_7_11_" },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_12_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Griffin_gj_0_7_12_" },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Griffin_gj_0_7_1_" },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Griffin_gj_0_7_2_" },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Griffin_gj_0_7_3_" },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Griffin_gj_0_7_4_" },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Griffin_gj_0_7_5_" },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Griffin_gj_0_7_6_" },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Griffin_gj_0_7_7_" },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Griffin_gj_0_7_8_" },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_9_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Griffin_gj_0_7_9_" },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_gj_0_8_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": "Griffin_gj_0_8_0_" }
+				]
+			},
+			"Griffin_gj_0_8_10_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": "Griffin_gj_0_8_10_" }
+				]
+			},
+			"Griffin_gj_0_8_11_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": "Griffin_gj_0_8_11_" }
+				]
+			},
+			"Griffin_gj_0_8_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": "Griffin_gj_0_8_1_" }
+				]
+			},
+			"Griffin_gj_0_8_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": "Griffin_gj_0_8_2_" }
+				]
+			},
+			"Griffin_gj_0_8_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": "Griffin_gj_0_8_3_" }
+				]
+			},
+			"Griffin_gj_0_8_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": "Griffin_gj_0_8_4_" }
+				]
+			},
+			"Griffin_gj_0_8_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": "Griffin_gj_0_8_5_" }
+				]
+			},
+			"Griffin_gj_0_8_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": "Griffin_gj_0_8_6_" }
+				]
+			},
+			"Griffin_gj_0_8_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": "Griffin_gj_0_8_7_" }
+				]
+			},
+			"Griffin_gj_0_8_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": "Griffin_gj_0_8_8_" }
+				]
+			},
+			"Griffin_gj_0_8_9_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": "Griffin_gj_0_8_9_" }
+				]
+			},
+			"Griffin_sw_0_0_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_0_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_0_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_0_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_0_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_0_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_0_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_0_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_1_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_1_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_1_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_1_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_1_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_1_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_1_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_1_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_2_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_2_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_2_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_2_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_2_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_2_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_2_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_2_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_3_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_3_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_3_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_3_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_3_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_3_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_3_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_4_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_4_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_4_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_4_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_4_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_4_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_4_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_4_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_5_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_5_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_5_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_5_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_6_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_6_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_6_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_6_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_6_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_7_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_7_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_7_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_7_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_8_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_8_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_8_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_9_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			},
+			"Griffin_sw_0_9_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": null }
+				]
+			}
+		}
+	},
+	"sw": {
+		"slots": {
+			"Griffin_dj_0_0_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_0_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_0_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_0_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_0_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_0_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_0_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_0_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_0_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_1_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_1_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_1_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_1_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_1_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_1_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_1_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_1_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_2_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_2_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_2_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_2_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_2_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_2_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_2_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_2_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_3_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_3_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_3_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_3_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_3_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_3_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_4_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_4_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_4_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_4_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_4_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_4_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_4_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_4_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_5_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_5_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_5_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_5_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_5_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_5_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_5_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_5_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_5_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_5_9_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_6_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_6_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_6_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_6_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_6_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_6_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_6_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_6_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_6_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_7_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_7_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_7_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_7_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_7_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_7_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_7_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_7_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_dj_0_7_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_10_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_11_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_0_9_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_10_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_1_9_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_2_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_2_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_2_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_2_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_2_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_2_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_2_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_2_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_2_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_2_9_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_3_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_3_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_3_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_3_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_3_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_3_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_3_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_3_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_3_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_10_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_11_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_12_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_4_9_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_10_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_11_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_5_9_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_6_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_6_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_6_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_6_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_6_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_6_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_6_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_10_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_11_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_12_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_7_9_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_8_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_8_10_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_8_11_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_8_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_8_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_8_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_8_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_8_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_8_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_8_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_8_8_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_gj_0_8_9_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_0_0_": {
+				"attachment": [
+					{ "time": 0, "name": "Griffin_sw_0_0_0_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_0_1_": {
+				"attachment": [
+					{ "time": 0, "name": "Griffin_sw_0_0_1_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_0_2_": {
+				"attachment": [
+					{ "time": 0, "name": "Griffin_sw_0_0_2_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_0_3_": {
+				"attachment": [
+					{ "time": 0, "name": "Griffin_sw_0_0_3_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_0_4_": {
+				"attachment": [
+					{ "time": 0, "name": "Griffin_sw_0_0_4_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_0_5_": {
+				"attachment": [
+					{ "time": 0, "name": "Griffin_sw_0_0_5_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_0_6_": {
+				"attachment": [
+					{ "time": 0, "name": "Griffin_sw_0_0_6_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_0_7_": {
+				"attachment": [
+					{ "time": 0, "name": "Griffin_sw_0_0_7_" },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_1_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Griffin_sw_0_1_0_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_1_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Griffin_sw_0_1_1_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_1_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Griffin_sw_0_1_2_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_1_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Griffin_sw_0_1_3_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_1_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Griffin_sw_0_1_4_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_1_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Griffin_sw_0_1_5_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_1_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Griffin_sw_0_1_6_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_1_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "Griffin_sw_0_1_7_" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_2_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Griffin_sw_0_2_0_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_2_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Griffin_sw_0_2_1_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_2_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Griffin_sw_0_2_2_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_2_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Griffin_sw_0_2_3_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_2_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Griffin_sw_0_2_4_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_2_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Griffin_sw_0_2_5_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_2_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Griffin_sw_0_2_6_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_2_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "Griffin_sw_0_2_7_" },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_3_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Griffin_sw_0_3_0_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_3_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Griffin_sw_0_3_1_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_3_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Griffin_sw_0_3_2_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_3_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Griffin_sw_0_3_3_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_3_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Griffin_sw_0_3_4_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_3_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Griffin_sw_0_3_5_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_3_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "Griffin_sw_0_3_6_" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_4_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Griffin_sw_0_4_0_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_4_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Griffin_sw_0_4_1_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_4_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Griffin_sw_0_4_2_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_4_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Griffin_sw_0_4_3_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_4_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Griffin_sw_0_4_4_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_4_5_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Griffin_sw_0_4_5_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_4_6_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Griffin_sw_0_4_6_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_4_7_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1333, "name": "Griffin_sw_0_4_7_" },
+					{ "time": 0.1666, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_5_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Griffin_sw_0_5_0_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_5_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Griffin_sw_0_5_1_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_5_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Griffin_sw_0_5_2_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_5_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1666, "name": "Griffin_sw_0_5_3_" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_6_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Griffin_sw_0_6_0_" },
+					{ "time": 0.2333, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_6_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Griffin_sw_0_6_1_" },
+					{ "time": 0.2333, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_6_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Griffin_sw_0_6_2_" },
+					{ "time": 0.2333, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_6_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Griffin_sw_0_6_3_" },
+					{ "time": 0.2333, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_6_4_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "Griffin_sw_0_6_4_" },
+					{ "time": 0.2333, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_7_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Griffin_sw_0_7_0_" },
+					{ "time": 0.2666, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_7_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Griffin_sw_0_7_1_" },
+					{ "time": 0.2666, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_7_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Griffin_sw_0_7_2_" },
+					{ "time": 0.2666, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_7_3_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "Griffin_sw_0_7_3_" },
+					{ "time": 0.2666, "name": null },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_8_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": "Griffin_sw_0_8_0_" },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_8_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": "Griffin_sw_0_8_1_" },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_8_2_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2666, "name": "Griffin_sw_0_8_2_" },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"Griffin_sw_0_9_0_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": "Griffin_sw_0_9_0_" }
+				]
+			},
+			"Griffin_sw_0_9_1_": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": "Griffin_sw_0_9_1_" }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"translate": [
+					{ "time": 0.3, "x": 0, "y": -0.58 }
+				]
+			}
+		}
+	}
+}
+}

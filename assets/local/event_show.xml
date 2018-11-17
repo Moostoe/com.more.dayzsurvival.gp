@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="event_show">
+    <ItemSpec id="1" eventid="9001028" name="79000400" desc="79000401" icon="item_eventwin" position="2" show_effect="1"/>
+    <ItemSpec id="2" eventid="9001028" name="81000268" desc="81000269" icon="item_activity_time" position="1" show_effect="2"/>
+    <ItemSpec id="3" eventid="9001028" name="79000178" desc="79000179" icon="item_eventbaoxiang" position="1" show_effect="0"/>
+    <ItemSpec id="4" eventid="9001028" name="79000181" desc="79000182" icon="item_eventzuanshi" position="2" show_effect="0"/>
+    <ItemSpec id="5" eventid="9001030" name="79000400" desc="79000401" icon="item_eventwin" position="2" show_effect="1"/>
+    <ItemSpec id="6" eventid="9001030" name="81000268" desc="81000269" icon="item_activity_time" position="1" show_effect="2"/>
+    <ItemSpec id="7" eventid="9001030" name="79000178" desc="79000179" icon="item_eventbaoxiang" position="1" show_effect="0"/>
+    <ItemSpec id="8" eventid="9001030" name="79000181" desc="79000182" icon="item_eventzuanshi" position="2" show_effect="0"/>
+    <ItemSpec id="9" eventid="9001032" name="79000400" desc="79000401" icon="item_eventwin" position="2" show_effect="1"/>
+    <ItemSpec id="10" eventid="9001032" name="81000268" desc="81000269" icon="item_activity_time" position="1" show_effect="2"/>
+    <ItemSpec id="11" eventid="9001032" name="79000178" desc="79000179" icon="item_eventbaoxiang" position="1" show_effect="0"/>
+    <ItemSpec id="12" eventid="9001032" name="79000181" desc="79000182" icon="item_eventzuanshi" position="2" show_effect="0"/>
+    <ItemSpec id="13" eventid="9001034" name="79000400" desc="79000401" icon="item_eventwin" position="2" show_effect="1"/>
+    <ItemSpec id="14" eventid="9001034" name="81000268" desc="81000269" icon="item_activity_time" position="1" show_effect="2"/>
+    <ItemSpec id="15" eventid="9001034" name="79000178" desc="79000179" icon="item_eventbaoxiang" position="1" show_effect="0"/>
+    <ItemSpec id="16" eventid="9001034" name="79000181" desc="79000182" icon="item_eventzuanshi" position="2" show_effect="0"/>
+    <ItemSpec id="17" eventid="9001036" name="79000400" desc="79000401" icon="item_eventwin" position="2" show_effect="1"/>
+    <ItemSpec id="18" eventid="9001036" name="81000268" desc="81000269" icon="item_activity_time" position="1" show_effect="2"/>
+    <ItemSpec id="19" eventid="9001036" name="79000178" desc="79000179" icon="item_eventbaoxiang" position="1" show_effect="0"/>
+    <ItemSpec id="20" eventid="9001036" name="79000181" desc="79000182" icon="item_eventzuanshi" position="2" show_effect="0"/>
+    <ItemSpec id="21" eventid="9001038" name="79000400" desc="79000401" icon="item_eventwin" position="2" show_effect="1"/>
+    <ItemSpec id="22" eventid="9001038" name="81000268" desc="81000269" icon="item_activity_time" position="1" show_effect="2"/>
+    <ItemSpec id="23" eventid="9001038" name="79000178" desc="79000179" icon="item_eventbaoxiang" position="1" show_effect="0"/>
+    <ItemSpec id="24" eventid="9001038" name="79000181" desc="79000182" icon="item_eventzuanshi" position="2" show_effect="0"/>
+    <ItemSpec id="25" eventid="9001040" name="79000400" desc="79000401" icon="item_eventwin" position="2" show_effect="1"/>
+    <ItemSpec id="26" eventid="9001040" name="81000268" desc="81000269" icon="item_activity_time" position="1" show_effect="2"/>
+    <ItemSpec id="27" eventid="9001040" name="79000178" desc="79000179" icon="item_eventbaoxiang" position="1" show_effect="0"/>
+    <ItemSpec id="28" eventid="9001040" name="79000181" desc="79000182" icon="item_eventzuanshi" position="2" show_effect="0"/>
+    <ItemSpec id="29" eventid="9001042" name="79000400" desc="79000401" icon="item_eventwin" position="2" show_effect="1"/>
+    <ItemSpec id="30" eventid="9001042" name="81000268" desc="81000269" icon="item_activity_time" position="1" show_effect="2"/>
+    <ItemSpec id="31" eventid="9001042" name="79000178" desc="79000179" icon="item_eventbaoxiang" position="1" show_effect="0"/>
+    <ItemSpec id="32" eventid="9001042" name="79000181" desc="79000182" icon="item_eventzuanshi" position="2" show_effect="0"/>
+    <ItemSpec id="33" eventid="9001044" name="79000400" desc="79000401" icon="item_eventwin" position="2" show_effect="1"/>
+    <ItemSpec id="34" eventid="9001044" name="81000268" desc="81000269" icon="item_activity_time" position="1" show_effect="2"/>
+    <ItemSpec id="35" eventid="9001044" name="79000178" desc="79000179" icon="item_eventbaoxiang" position="1" show_effect="0"/>
+    <ItemSpec id="36" eventid="9001044" name="79000181" desc="79000182" icon="item_eventzuanshi" position="2" show_effect="0"/>
+    <ItemSpec id="37" eventid="9001232" name="79000400" desc="79000401" icon="item_eventwin" position="2" show_effect="1"/>
+    <ItemSpec id="38" eventid="9001232" name="81000268" desc="81000269" icon="item_activity_time" position="1" show_effect="2"/>
+    <ItemSpec id="39" eventid="9001232" name="79000178" desc="79000179" icon="item_eventbaoxiang" position="1" show_effect="0"/>
+    <ItemSpec id="40" eventid="9001232" name="79000181" desc="79000182" icon="item_eventzuanshi" position="2" show_effect="0"/>
+    <ItemSpec id="41" eventid="9001234" name="79000400" desc="79000401" icon="item_eventwin" position="2" show_effect="1"/>
+    <ItemSpec id="42" eventid="9001234" name="81000268" desc="81000269" icon="item_activity_time" position="1" show_effect="2"/>
+    <ItemSpec id="43" eventid="9001234" name="79000178" desc="79000179" icon="item_eventbaoxiang" position="1" show_effect="0"/>
+    <ItemSpec id="44" eventid="9001234" name="79000181" desc="79000182" icon="item_eventzuanshi" position="2" show_effect="0"/>
+    <ItemSpec id="45" eventid="9001236" name="79000400" desc="79000401" icon="item_eventwin" position="2" show_effect="1"/>
+    <ItemSpec id="46" eventid="9001236" name="81000268" desc="81000269" icon="item_activity_time" position="1" show_effect="2"/>
+    <ItemSpec id="47" eventid="9001236" name="79000178" desc="79000179" icon="item_eventbaoxiang" position="1" show_effect="0"/>
+    <ItemSpec id="48" eventid="9001236" name="79000181" desc="79000182" icon="item_eventzuanshi" position="2" show_effect="0"/>
+    <ItemSpec id="49" eventid="9001238" name="79000400" desc="79000401" icon="item_eventwin" position="2" show_effect="1"/>
+    <ItemSpec id="50" eventid="9001238" name="81000268" desc="81000269" icon="item_activity_time" position="1" show_effect="2"/>
+    <ItemSpec id="51" eventid="9001238" name="79000178" desc="79000179" icon="item_eventbaoxiang" position="1" show_effect="0"/>
+    <ItemSpec id="52" eventid="9001238" name="79000181" desc="79000182" icon="item_eventzuanshi" position="2" show_effect="0"/>
+    <ItemSpec id="53" eventid="9001242" name="79000400" desc="79000401" icon="item_eventwin" position="2" show_effect="1"/>
+    <ItemSpec id="54" eventid="9001242" name="81000268" desc="81000269" icon="item_activity_time" position="1" show_effect="2"/>
+    <ItemSpec id="55" eventid="9001242" name="79000178" desc="79000179" icon="item_eventbaoxiang" position="1" show_effect="0"/>
+    <ItemSpec id="56" eventid="9001242" name="79000181" desc="79000182" icon="item_eventzuanshi" position="2" show_effect="0"/>
+    <ItemSpec id="57" eventid="9001244" name="79000400" desc="79000401" icon="item_eventwin" position="2" show_effect="1"/>
+    <ItemSpec id="58" eventid="9001244" name="81000268" desc="81000269" icon="item_activity_time" position="1" show_effect="2"/>
+    <ItemSpec id="59" eventid="9001244" name="79000178" desc="79000179" icon="item_eventbaoxiang" position="1" show_effect="0"/>
+    <ItemSpec id="60" eventid="9001244" name="79000181" desc="79000182" icon="item_eventzuanshi" position="2" show_effect="0"/>
+    <ItemSpec id="61" eventid="9001228" name="79000400" desc="79000401" icon="item_eventwin" position="2" show_effect="1"/>
+    <ItemSpec id="62" eventid="9001228" name="81000268" desc="81000269" icon="item_activity_time" position="1" show_effect="2"/>
+    <ItemSpec id="63" eventid="9001228" name="79000178" desc="79000179" icon="item_eventbaoxiang" position="1" show_effect="0"/>
+    <ItemSpec id="64" eventid="9001228" name="79000181" desc="79000182" icon="item_eventzuanshi" position="2" show_effect="0"/>
+    <ItemSpec id="65" eventid="9001230" name="79000400" desc="79000401" icon="item_eventwin" position="2" show_effect="1"/>
+    <ItemSpec id="66" eventid="9001230" name="81000268" desc="81000269" icon="item_activity_time" position="1" show_effect="2"/>
+    <ItemSpec id="67" eventid="9001230" name="79000178" desc="79000179" icon="item_eventbaoxiang" position="1" show_effect="0"/>
+    <ItemSpec id="68" eventid="9001230" name="79000181" desc="79000182" icon="item_eventzuanshi" position="2" show_effect="0"/>
+
+
+</Group>
+</tns:database>

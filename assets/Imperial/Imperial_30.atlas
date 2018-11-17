@@ -1,0 +1,81 @@
+_alpha_Imperial_30.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Stone_1_s
+  rotate: false
+  xy: 4, 83
+  size: 48, 36
+  orig: 50, 40
+  offset: 1, 2
+  index: -1
+ActivitiesCoin_3_s
+  rotate: false
+  xy: 4, 4
+  size: 81, 73
+  orig: 99, 99
+  offset: 15, 13
+  index: -1
+ActivitiesCoin_4_s
+  rotate: false
+  xy: 4, 4
+  size: 81, 73
+  orig: 99, 99
+  offset: 15, 13
+  index: -1
+ActivitiesCoin_5_s
+  rotate: false
+  xy: 4, 4
+  size: 81, 73
+  orig: 99, 99
+  offset: 15, 13
+  index: -1
+ActivitiesCoin_6_s
+  rotate: false
+  xy: 4, 4
+  size: 81, 73
+  orig: 99, 99
+  offset: 15, 13
+  index: -1
+Food_1_s
+  rotate: false
+  xy: 58, 83
+  size: 28, 39
+  orig: 38, 45
+  offset: 5, 3
+  index: -1
+Wood_1_s
+  rotate: false
+  xy: 92, 58
+  size: 34, 41
+  orig: 38, 45
+  offset: 2, 1
+  index: -1
+ActivitiesCoin_1_s
+  rotate: false
+  xy: 4, 4
+  size: 81, 73
+  orig: 99, 99
+  offset: 15, 13
+  index: -1
+ActivitiesCoin_2_s
+  rotate: false
+  xy: 4, 4
+  size: 81, 73
+  orig: 99, 99
+  offset: 15, 13
+  index: -1
+Iron_1_s
+  rotate: true
+  xy: 91, 4
+  size: 48, 34
+  orig: 56, 40
+  offset: 4, 4
+  index: -1
+ActivitiesCoin_7_s
+  rotate: false
+  xy: 4, 4
+  size: 81, 73
+  orig: 99, 99
+  offset: 15, 13
+  index: -1

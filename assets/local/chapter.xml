@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="chapter">
+    <ItemSpec id="1" chapter="1" name="83000135" description="83000140" pic="u_TaskBg/u_TaskBg01" reward="350513" gold="30" rate="100|100|100|100" item="200370|200201|200300|200330" num="1|5|1|1" circle="1|1|1|1" quest="2300102|2200602|2100102" />
+    <ItemSpec id="2" chapter="2" name="83000136" description="83000141" pic="u_TaskBg/u_TaskBg02" reward="350514" gold="40" rate="100|100|100|100" item="200800|200201|200301|200331" num="1|10|1|1" circle="1|1|1|1" quest="2300103|2403001|2200301|2203101|2206801" />
+    <ItemSpec id="3" chapter="3" name="83000137" description="83000142" pic="u_TaskBg/u_TaskBg03" reward="350515" gold="50" rate="100|100|100|100" item="200008|200226|200301|200331" num="1|5|1|1" circle="1|1|1|1" quest="2300104|2105001|2105002|2300202" />
+    <ItemSpec id="4" chapter="4" name="83000138" description="83000143" pic="u_TaskBg/u_TaskBg04" reward="350516" gold="60" rate="100|100|100|100" item="200205|200226|200302|200332" num="20|10|1|1" circle="1|1|1|1" quest="2300105|2200604|2400101|2402501|2104201" />
+    <ItemSpec id="5" chapter="5" name="83000139" description="83000144" pic="u_TaskBg/u_TaskBg05" reward="350517" gold="80" rate="100|100|100|100" item="200411|200200|200302|200332" num="1|2|1|1" circle="1|1|1|1" quest="2300106|2100505|2201101|2201500|2200504" />
+	</Group>
+</tns:database>

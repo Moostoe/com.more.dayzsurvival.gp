@@ -1,0 +1,207 @@
+_alpha_World_nurses_02.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l_xiaotui
+  rotate: true
+  xy: 119, 86
+  size: 14, 24
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+r_datui
+  rotate: true
+  xy: 173, 2
+  size: 16, 36
+  orig: 16, 44
+  offset: 0, 1
+  index: -1
+zombie_13_r_bian2
+  rotate: false
+  xy: 2, 2
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+yao
+  rotate: false
+  xy: 42, 2
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+zombie_13_r_bian6
+  rotate: true
+  xy: 79, 86
+  size: 15, 34
+  orig: 15, 34
+  offset: 0, 0
+  index: -1
+xiong2
+  rotate: false
+  xy: 123, 23
+  size: 28, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+zombie_13_r_bian3
+  rotate: true
+  xy: 123, 2
+  size: 15, 44
+  orig: 15, 44
+  offset: 0, 0
+  index: -1
+l_dabi
+  rotate: false
+  xy: 186, 91
+  size: 12, 15
+  orig: 14, 17
+  offset: 1, 1
+  index: -1
+r_dabi3
+  rotate: false
+  xy: 145, 106
+  size: 16, 19
+  orig: 22, 23
+  offset: 2, 3
+  index: -1
+zombie_13_r_bian7
+  rotate: true
+  xy: 88, 107
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+r_dabi
+  rotate: false
+  xy: 192, 48
+  size: 16, 19
+  orig: 22, 23
+  offset: 2, 3
+  index: -1
+l_datui2
+  rotate: true
+  xy: 78, 2
+  size: 24, 39
+  orig: 28, 43
+  offset: 4, 3
+  index: -1
+l_jiao2
+  rotate: true
+  xy: 192, 24
+  size: 18, 17
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+xiong1
+  rotate: false
+  xy: 157, 24
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+l_shou
+  rotate: true
+  xy: 192, 73
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+zombie_13_r_bian4
+  rotate: false
+  xy: 31, 59
+  size: 13, 44
+  orig: 13, 46
+  offset: 0, 1
+  index: -1
+tou
+  rotate: true
+  xy: 50, 83
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+l_xiaobi
+  rotate: true
+  xy: 167, 94
+  size: 19, 13
+  orig: 23, 15
+  offset: 4, 0
+  index: -1
+l_xiaotui2
+  rotate: true
+  xy: 157, 56
+  size: 16, 29
+  orig: 20, 35
+  offset: 2, 4
+  index: -1
+l_jiao
+  rotate: true
+  xy: 186, 112
+  size: 7, 19
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+r_xiaotui
+  rotate: false
+  xy: 124, 57
+  size: 22, 23
+  orig: 30, 27
+  offset: 4, 3
+  index: -1
+xiong
+  rotate: true
+  xy: 50, 44
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+r_jiao
+  rotate: false
+  xy: 123, 106
+  size: 16, 19
+  orig: 18, 21
+  offset: 2, 0
+  index: -1
+zombie_13_r_bian5
+  rotate: false
+  xy: 2, 59
+  size: 23, 46
+  orig: 23, 46
+  offset: 0, 0
+  index: -1
+zhen
+  rotate: false
+  xy: 152, 78
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+zombie_13_r_bian1
+  rotate: true
+  xy: 86, 69
+  size: 11, 32
+  orig: 11, 32
+  offset: 0, 0
+  index: -1
+l_datui
+  rotate: true
+  xy: 43, 109
+  size: 16, 39
+  orig: 18, 41
+  offset: 1, 1
+  index: -1
+r_xiaobi
+  rotate: true
+  xy: 2, 111
+  size: 14, 35
+  orig: 14, 35
+  offset: 0, 0
+  index: -1
+xiong3
+  rotate: false
+  xy: 86, 32
+  size: 31, 31
+  orig: 31, 35
+  offset: 0, 2
+  index: -1

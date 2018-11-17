@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="random_effect">
+    <ItemSpec id="109000" type="1" type2="1" lv="1" effect="113800;1" effect_all="113800;1" show_type="1" icon="icon109000" />
+    <ItemSpec id="109001" type="1" type2="1" lv="2" effect="113800;1" effect_all="113800;2" show_type="1" icon="icon109000" />
+    <ItemSpec id="109002" type="1" type2="1" lv="3" effect="113800;1" effect_all="113800;3" show_type="1" icon="icon109000" />
+    <ItemSpec id="109003" type="1" type2="1" lv="4" effect="113800;1" effect_all="113800;4" show_type="1" icon="icon109000" />
+    <ItemSpec id="109004" type="1" type2="1" lv="5" effect="113800;2" effect_all="113800;6" show_type="1" icon="icon109000" />
+    <ItemSpec id="109005" type="1" type2="1" lv="6" effect="113800;2" effect_all="113800;8" show_type="1" icon="icon109000" />
+    <ItemSpec id="109006" type="1" type2="1" lv="7" effect="113800;2" effect_all="113800;10" show_type="1" icon="icon109000" />
+    <ItemSpec id="109007" type="1" type2="1" lv="8" effect="113800;3" effect_all="113800;13" show_type="1" icon="icon109000" />
+    <ItemSpec id="109008" type="1" type2="1" lv="9" effect="113800;3" effect_all="113800;16" show_type="1" icon="icon109000" />
+    <ItemSpec id="109009" type="1" type2="1" lv="10" effect="113800;4" effect_all="113800;20" show_type="1" icon="icon109000" />
+    <ItemSpec id="109010" type="1" type2="2" lv="1" effect="113801;1" effect_all="113801;1" show_type="1" icon="icon109010" />
+    <ItemSpec id="109011" type="1" type2="2" lv="2" effect="113801;1" effect_all="113801;2" show_type="1" icon="icon109010" />
+    <ItemSpec id="109012" type="1" type2="2" lv="3" effect="113801;1" effect_all="113801;3" show_type="1" icon="icon109010" />
+    <ItemSpec id="109013" type="1" type2="2" lv="4" effect="113801;1" effect_all="113801;4" show_type="1" icon="icon109010" />
+    <ItemSpec id="109014" type="1" type2="2" lv="5" effect="113801;2" effect_all="113801;6" show_type="1" icon="icon109010" />
+    <ItemSpec id="109015" type="1" type2="2" lv="6" effect="113801;2" effect_all="113801;8" show_type="1" icon="icon109010" />
+    <ItemSpec id="109016" type="1" type2="2" lv="7" effect="113801;2" effect_all="113801;10" show_type="1" icon="icon109010" />
+    <ItemSpec id="109017" type="1" type2="2" lv="8" effect="113801;3" effect_all="113801;13" show_type="1" icon="icon109010" />
+    <ItemSpec id="109018" type="1" type2="2" lv="9" effect="113801;3" effect_all="113801;16" show_type="1" icon="icon109010" />
+    <ItemSpec id="109019" type="1" type2="2" lv="10" effect="113801;4" effect_all="113801;20" show_type="1" icon="icon109010" />
+    <ItemSpec id="109020" type="1" type2="3" lv="1" effect="113802;1" effect_all="113802;1" show_type="1" icon="icon109020" />
+    <ItemSpec id="109021" type="1" type2="3" lv="2" effect="113802;1" effect_all="113802;2" show_type="1" icon="icon109020" />
+    <ItemSpec id="109022" type="1" type2="3" lv="3" effect="113802;1" effect_all="113802;3" show_type="1" icon="icon109020" />
+    <ItemSpec id="109023" type="1" type2="3" lv="4" effect="113802;1" effect_all="113802;4" show_type="1" icon="icon109020" />
+    <ItemSpec id="109024" type="1" type2="3" lv="5" effect="113802;1" effect_all="113802;5" show_type="1" icon="icon109020" />
+    <ItemSpec id="109025" type="1" type2="3" lv="6" effect="113802;2" effect_all="113802;7" show_type="1" icon="icon109020" />
+    <ItemSpec id="109026" type="1" type2="3" lv="7" effect="113802;3" effect_all="113802;10" show_type="1" icon="icon109020" />
+    <ItemSpec id="109027" type="1" type2="4" lv="1" effect="113803;1" effect_all="113803;1" show_type="2" icon="icon109027" />
+    <ItemSpec id="109028" type="1" type2="4" lv="2" effect="113803;1" effect_all="113803;2" show_type="2" icon="icon109027" />
+    <ItemSpec id="109029" type="1" type2="4" lv="3" effect="113803;1" effect_all="113803;3" show_type="2" icon="icon109027" />
+    <ItemSpec id="109030" type="1" type2="4" lv="4" effect="113803;1" effect_all="113803;4" show_type="2" icon="icon109027" />
+    <ItemSpec id="109031" type="1" type2="4" lv="5" effect="113803;1" effect_all="113803;5" show_type="2" icon="icon109027" />
+    <ItemSpec id="109032" type="1" type2="4" lv="6" effect="113803;1" effect_all="113803;6" show_type="2" icon="icon109027" />
+    <ItemSpec id="109033" type="1" type2="4" lv="7" effect="113803;1" effect_all="113803;7" show_type="2" icon="icon109027" />
+    <ItemSpec id="109034" type="1" type2="5" lv="1" effect="180000;0|180001;0" effect_all="180000;0|180001;0" icon="skill_109034" />
+    <ItemSpec id="109035" type="1" type2="5" lv="2" effect="180000;0|180001;0" effect_all="180000;0|180001;0" icon="skill_109034" />
+    <ItemSpec id="109036" type="1" type2="6" lv="1" effect="180002;0|180003;0" effect_all="180002;0|180003;0" icon="skill_109036" />
+    <ItemSpec id="109037" type="1" type2="6" lv="2" effect="180002;0|180003;0" effect_all="180002;0|180003;0" icon="skill_109036" />
+    <ItemSpec id="109038" type="1" type2="7" lv="1" effect="180004;0|180005;0" effect_all="180004;0|180005;0" icon="skill_109038" />
+    <ItemSpec id="109039" type="1" type2="7" lv="2" effect="180004;0|180005;0" effect_all="180004;0|180005;0" icon="skill_109038" />
+    <ItemSpec id="109040" type="1" type2="8" lv="1" effect="180008;0|180009;0" effect_all="180008;0|180009;0" icon="skill_109040" />
+    <ItemSpec id="109041" type="1" type2="8" lv="2" effect="180008;0|180009;0" effect_all="180008;0|180009;0" icon="skill_109040" />
+    <ItemSpec id="109042" type="1" type2="9" lv="1" effect="180010;0|180011;0" effect_all="180010;0|180011;0" icon="skill_109042" />
+    <ItemSpec id="109043" type="1" type2="9" lv="2" effect="180010;0|180011;0" effect_all="180010;0|180011;0" icon="skill_109042" />
+    <ItemSpec id="109044" type="1" type2="10" lv="1" effect="180012;0|180013;0" effect_all="180012;0|180013;0" icon="skill_109044" />
+    <ItemSpec id="109045" type="1" type2="10" lv="2" effect="180012;0|180013;0" effect_all="180012;0|180013;0" icon="skill_109044" />
+    <ItemSpec id="109046" type="1" type2="11" lv="1" effect="180006;0|180007;0" effect_all="180006;0|180007;0" icon="skill_109046" />
+    <ItemSpec id="109047" type="1" type2="11" lv="2" effect="180006;0|180007;0" effect_all="180006;0|180007;0" icon="skill_109046" />
+    <ItemSpec id="109048" type="1" type2="12" lv="1" effect="180014;0|180015;0" effect_all="180014;0|180015;0" icon="skill_109048" />
+    <ItemSpec id="109049" type="1" type2="12" lv="2" effect="180014;0|180015;0" effect_all="180014;0|180015;0" icon="skill_109048" />
+    <ItemSpec id="109050" type="2" type2="1" lv="1" effect="113808;1" effect_all="113808;1" show_type="1" icon="icon109050" />
+    <ItemSpec id="109051" type="2" type2="1" lv="2" effect="113808;1" effect_all="113808;2" show_type="1" icon="icon109050" />
+    <ItemSpec id="109052" type="2" type2="1" lv="3" effect="113808;1" effect_all="113808;3" show_type="1" icon="icon109050" />
+    <ItemSpec id="109053" type="2" type2="1" lv="4" effect="113808;1" effect_all="113808;4" show_type="1" icon="icon109050" />
+    <ItemSpec id="109054" type="2" type2="1" lv="5" effect="113808;2" effect_all="113808;6" show_type="1" icon="icon109050" />
+    <ItemSpec id="109055" type="2" type2="1" lv="6" effect="113808;2" effect_all="113808;8" show_type="1" icon="icon109050" />
+    <ItemSpec id="109056" type="2" type2="1" lv="7" effect="113808;2" effect_all="113808;10" show_type="1" icon="icon109050" />
+    <ItemSpec id="109057" type="2" type2="1" lv="8" effect="113808;3" effect_all="113808;13" show_type="1" icon="icon109050" />
+    <ItemSpec id="109058" type="2" type2="1" lv="9" effect="113808;3" effect_all="113808;16" show_type="1" icon="icon109050" />
+    <ItemSpec id="109059" type="2" type2="1" lv="10" effect="113808;4" effect_all="113808;20" show_type="1" icon="icon109050" />
+    <ItemSpec id="109060" type="2" type2="2" lv="1" effect="113809;1" effect_all="113809;1" show_type="1" icon="icon109060" />
+    <ItemSpec id="109061" type="2" type2="2" lv="2" effect="113809;1" effect_all="113809;2" show_type="1" icon="icon109060" />
+    <ItemSpec id="109062" type="2" type2="2" lv="3" effect="113809;1" effect_all="113809;3" show_type="1" icon="icon109060" />
+    <ItemSpec id="109063" type="2" type2="2" lv="4" effect="113809;1" effect_all="113809;4" show_type="1" icon="icon109060" />
+    <ItemSpec id="109064" type="2" type2="2" lv="5" effect="113809;2" effect_all="113809;6" show_type="1" icon="icon109060" />
+    <ItemSpec id="109065" type="2" type2="2" lv="6" effect="113809;2" effect_all="113809;8" show_type="1" icon="icon109060" />
+    <ItemSpec id="109066" type="2" type2="2" lv="7" effect="113809;2" effect_all="113809;10" show_type="1" icon="icon109060" />
+    <ItemSpec id="109067" type="2" type2="2" lv="8" effect="113809;3" effect_all="113809;13" show_type="1" icon="icon109060" />
+    <ItemSpec id="109068" type="2" type2="2" lv="9" effect="113809;3" effect_all="113809;16" show_type="1" icon="icon109060" />
+    <ItemSpec id="109069" type="2" type2="2" lv="10" effect="113809;4" effect_all="113809;20" show_type="1" icon="icon109060" />
+    <ItemSpec id="109070" type="2" type2="3" lv="1" effect="113850;1" effect_all="113850;1" show_type="1" icon="icon109070" />
+    <ItemSpec id="109071" type="2" type2="3" lv="2" effect="113850;2" effect_all="113850;3" show_type="1" icon="icon109070" />
+    <ItemSpec id="109072" type="2" type2="3" lv="3" effect="113850;2" effect_all="113850;5" show_type="1" icon="icon109070" />
+    <ItemSpec id="109073" type="2" type2="3" lv="4" effect="113850;2" effect_all="113850;7" show_type="1" icon="icon109070" />
+    <ItemSpec id="109074" type="2" type2="3" lv="5" effect="113850;3" effect_all="113850;10" show_type="1" icon="icon109070" />
+    <ItemSpec id="109075" type="2" type2="3" lv="6" effect="113850;4" effect_all="113850;14" show_type="1" icon="icon109070" />
+    <ItemSpec id="109076" type="2" type2="3" lv="7" effect="113850;6" effect_all="113850;20" show_type="1" icon="icon109070" />
+    <ItemSpec id="109077" type="2" type2="4" lv="1" effect="113811;1" effect_all="113811;1" show_type="1" icon="icon109077" />
+    <ItemSpec id="109078" type="2" type2="4" lv="2" effect="113811;1" effect_all="113811;2" show_type="1" icon="icon109077" />
+    <ItemSpec id="109079" type="2" type2="4" lv="3" effect="113811;1" effect_all="113811;3" show_type="1" icon="icon109077" />
+    <ItemSpec id="109080" type="2" type2="4" lv="4" effect="113811;1" effect_all="113811;4" show_type="1" icon="icon109077" />
+    <ItemSpec id="109081" type="2" type2="4" lv="5" effect="113811;1" effect_all="113811;5" show_type="1" icon="icon109077" />
+    <ItemSpec id="109082" type="2" type2="4" lv="6" effect="113811;2" effect_all="113811;7" show_type="1" icon="icon109077" />
+    <ItemSpec id="109083" type="2" type2="4" lv="7" effect="113811;3" effect_all="113811;10" show_type="1" icon="icon109077" />
+    <ItemSpec id="109084" type="2" type2="5" lv="1" effect="180016;0|180017;0" effect_all="180016;0|180017;0" icon="skill_109084" />
+    <ItemSpec id="109085" type="2" type2="5" lv="2" effect="180016;0|180017;0" effect_all="180016;0|180017;0" icon="skill_109084" />
+    <ItemSpec id="109086" type="2" type2="6" lv="1" effect="180018;0|180019;0" effect_all="180018;0|180019;0" icon="skill_109086" />
+    <ItemSpec id="109087" type="2" type2="6" lv="2" effect="180018;0|180019;0" effect_all="180018;0|180019;0" icon="skill_109086" />
+    <ItemSpec id="109088" type="2" type2="7" lv="1" effect="180020;0|180021;0" effect_all="180020;0|180021;0" icon="skill_109088" />
+    <ItemSpec id="109089" type="2" type2="7" lv="2" effect="180020;0|180021;0" effect_all="180020;0|180021;0" icon="skill_109088" />
+    <ItemSpec id="109090" type="2" type2="8" lv="1" effect="180024;0|180025;0" effect_all="180024;0|180025;0" icon="skill_109090" />
+    <ItemSpec id="109091" type="2" type2="8" lv="2" effect="180024;0|180025;0" effect_all="180024;0|180025;0" icon="skill_109090" />
+    <ItemSpec id="109092" type="2" type2="9" lv="1" effect="180026;0|180027;0" effect_all="180026;0|180027;0" icon="skill_109092" />
+    <ItemSpec id="109093" type="2" type2="9" lv="2" effect="180026;0|180027;0" effect_all="180026;0|180027;0" icon="skill_109092" />
+    <ItemSpec id="109094" type="2" type2="10" lv="1" effect="180028;0|180029;0" effect_all="180028;0|180029;0" icon="skill_109094" />
+    <ItemSpec id="109095" type="2" type2="10" lv="2" effect="180028;0|180029;0" effect_all="180028;0|180029;0" icon="skill_109094" />
+    <ItemSpec id="109096" type="2" type2="11" lv="1" effect="180022;0|180023;0" effect_all="180022;0|180023;0" icon="skill_109096" />
+    <ItemSpec id="109097" type="2" type2="11" lv="2" effect="180022;0|180023;0" effect_all="180022;0|180023;0" icon="skill_109096" />
+    <ItemSpec id="109098" type="2" type2="12" lv="1" effect="180030;0|180031;0" effect_all="180030;0|180031;0" icon="skill_109098" />
+    <ItemSpec id="109099" type="2" type2="12" lv="2" effect="180030;0|180031;0" effect_all="180030;0|180031;0" icon="skill_109098" />
+    <ItemSpec id="109100" type="3" type2="1" lv="1" effect="113804;1" effect_all="113804;1" show_type="1" icon="icon109100" />
+    <ItemSpec id="109101" type="3" type2="1" lv="2" effect="113804;1" effect_all="113804;2" show_type="1" icon="icon109100" />
+    <ItemSpec id="109102" type="3" type2="1" lv="3" effect="113804;1" effect_all="113804;3" show_type="1" icon="icon109100" />
+    <ItemSpec id="109103" type="3" type2="1" lv="4" effect="113804;1" effect_all="113804;4" show_type="1" icon="icon109100" />
+    <ItemSpec id="109104" type="3" type2="1" lv="5" effect="113804;2" effect_all="113804;6" show_type="1" icon="icon109100" />
+    <ItemSpec id="109105" type="3" type2="1" lv="6" effect="113804;2" effect_all="113804;8" show_type="1" icon="icon109100" />
+    <ItemSpec id="109106" type="3" type2="1" lv="7" effect="113804;2" effect_all="113804;10" show_type="1" icon="icon109100" />
+    <ItemSpec id="109107" type="3" type2="1" lv="8" effect="113804;3" effect_all="113804;13" show_type="1" icon="icon109100" />
+    <ItemSpec id="109108" type="3" type2="1" lv="9" effect="113804;3" effect_all="113804;16" show_type="1" icon="icon109100" />
+    <ItemSpec id="109109" type="3" type2="1" lv="10" effect="113804;4" effect_all="113804;20" show_type="1" icon="icon109100" />
+    <ItemSpec id="109110" type="3" type2="2" lv="1" effect="113805;1" effect_all="113805;1" show_type="1" icon="icon109110" />
+    <ItemSpec id="109111" type="3" type2="2" lv="2" effect="113805;1" effect_all="113805;2" show_type="1" icon="icon109110" />
+    <ItemSpec id="109112" type="3" type2="2" lv="3" effect="113805;1" effect_all="113805;3" show_type="1" icon="icon109110" />
+    <ItemSpec id="109113" type="3" type2="2" lv="4" effect="113805;1" effect_all="113805;4" show_type="1" icon="icon109110" />
+    <ItemSpec id="109114" type="3" type2="2" lv="5" effect="113805;2" effect_all="113805;6" show_type="1" icon="icon109110" />
+    <ItemSpec id="109115" type="3" type2="2" lv="6" effect="113805;2" effect_all="113805;8" show_type="1" icon="icon109110" />
+    <ItemSpec id="109116" type="3" type2="2" lv="7" effect="113805;2" effect_all="113805;10" show_type="1" icon="icon109110" />
+    <ItemSpec id="109117" type="3" type2="2" lv="8" effect="113805;3" effect_all="113805;13" show_type="1" icon="icon109110" />
+    <ItemSpec id="109118" type="3" type2="2" lv="9" effect="113805;3" effect_all="113805;16" show_type="1" icon="icon109110" />
+    <ItemSpec id="109119" type="3" type2="2" lv="10" effect="113805;4" effect_all="113805;20" show_type="1" icon="icon109110" />
+    <ItemSpec id="109120" type="3" type2="3" lv="1" effect="113865;1" effect_all="113865;1" show_type="1" icon="icon109120" />
+    <ItemSpec id="109121" type="3" type2="3" lv="2" effect="113865;2" effect_all="113865;3" show_type="1" icon="icon109120" />
+    <ItemSpec id="109122" type="3" type2="3" lv="3" effect="113865;3" effect_all="113865;6" show_type="1" icon="icon109120" />
+    <ItemSpec id="109123" type="3" type2="3" lv="4" effect="113865;4" effect_all="113865;10" show_type="1" icon="icon109120" />
+    <ItemSpec id="109124" type="3" type2="3" lv="5" effect="113865;5" effect_all="113865;15" show_type="1" icon="icon109120" />
+    <ItemSpec id="109125" type="3" type2="3" lv="6" effect="113865;6" effect_all="113865;21" show_type="1" icon="icon109120" />
+    <ItemSpec id="109126" type="3" type2="3" lv="7" effect="113865;9" effect_all="113865;30" show_type="1" icon="icon109120" />
+    <ItemSpec id="109127" type="3" type2="4" lv="1" effect="113866;1" effect_all="113866;1" show_type="1" icon="icon109127" />
+    <ItemSpec id="109128" type="3" type2="4" lv="2" effect="113866;2" effect_all="113866;3" show_type="1" icon="icon109127" />
+    <ItemSpec id="109129" type="3" type2="4" lv="3" effect="113866;5" effect_all="113866;8" show_type="1" icon="icon109127" />
+    <ItemSpec id="109130" type="3" type2="4" lv="4" effect="113866;8" effect_all="113866;16" show_type="1" icon="icon109127" />
+    <ItemSpec id="109131" type="3" type2="4" lv="5" effect="113866;10" effect_all="113866;26" show_type="1" icon="icon109127" />
+    <ItemSpec id="109132" type="3" type2="4" lv="6" effect="113866;12" effect_all="113866;38" show_type="1" icon="icon109127" />
+    <ItemSpec id="109133" type="3" type2="4" lv="7" effect="113866;12" effect_all="113866;50" show_type="1" icon="icon109127" />
+    <ItemSpec id="109134" type="3" type2="5" lv="1" effect="180032;0|180033;0" effect_all="180032;0|180033;0" icon="skill_109134" />
+    <ItemSpec id="109135" type="3" type2="5" lv="2" effect="180032;0|180033;0" effect_all="180032;0|180033;0" icon="skill_109134" />
+    <ItemSpec id="109136" type="3" type2="6" lv="1" effect="180034;0|180035;0" effect_all="180034;0|180035;0" icon="skill_109136" />
+    <ItemSpec id="109137" type="3" type2="6" lv="2" effect="180034;0|180035;0" effect_all="180034;0|180035;0" icon="skill_109136" />
+    <ItemSpec id="109138" type="3" type2="7" lv="1" effect="180036;0|180037;0" effect_all="180036;0|180037;0" icon="skill_109138" />
+    <ItemSpec id="109139" type="3" type2="7" lv="2" effect="180036;0|180037;0" effect_all="180036;0|180037;0" icon="skill_109138" />
+    <ItemSpec id="109140" type="3" type2="8" lv="1" effect="180040;0|180041;0" effect_all="180040;0|180041;0" icon="skill_109140" />
+    <ItemSpec id="109141" type="3" type2="8" lv="2" effect="180040;0|180041;0" effect_all="180040;0|180041;0" icon="skill_109140" />
+    <ItemSpec id="109142" type="3" type2="9" lv="1" effect="180042;0|180043;0" effect_all="180042;0|180043;0" icon="skill_109142" />
+    <ItemSpec id="109143" type="3" type2="9" lv="2" effect="180042;0|180043;0" effect_all="180042;0|180043;0" icon="skill_109142" />
+    <ItemSpec id="109144" type="3" type2="10" lv="1" effect="180044;0|180045;0" effect_all="180044;0|180045;0" icon="skill_109144" />
+    <ItemSpec id="109145" type="3" type2="10" lv="2" effect="180044;0|180045;0" effect_all="180044;0|180045;0" icon="skill_109144" />
+    <ItemSpec id="109146" type="3" type2="11" lv="1" effect="180038;0|180039;0" effect_all="180038;0|180039;0" icon="skill_109146" />
+    <ItemSpec id="109147" type="3" type2="11" lv="2" effect="180038;0|180039;0" effect_all="180038;0|180039;0" icon="skill_109146" />
+    <ItemSpec id="109148" type="3" type2="12" lv="1" effect="180046;0|180047;0" effect_all="180046;0|180047;0" icon="skill_109148" />
+    <ItemSpec id="109149" type="3" type2="12" lv="2" effect="180046;0|180047;0" effect_all="180046;0|180047;0" icon="skill_109148" />
+    <ItemSpec id="109150" type="4" type2="1" lv="1" effect="113812;1" effect_all="113812;1" show_type="1" icon="icon109150" />
+    <ItemSpec id="109151" type="4" type2="1" lv="2" effect="113812;1" effect_all="113812;2" show_type="1" icon="icon109150" />
+    <ItemSpec id="109152" type="4" type2="1" lv="3" effect="113812;1" effect_all="113812;3" show_type="1" icon="icon109150" />
+    <ItemSpec id="109153" type="4" type2="1" lv="4" effect="113812;1" effect_all="113812;4" show_type="1" icon="icon109150" />
+    <ItemSpec id="109154" type="4" type2="1" lv="5" effect="113812;2" effect_all="113812;6" show_type="1" icon="icon109150" />
+    <ItemSpec id="109155" type="4" type2="1" lv="6" effect="113812;2" effect_all="113812;8" show_type="1" icon="icon109150" />
+    <ItemSpec id="109156" type="4" type2="1" lv="7" effect="113812;2" effect_all="113812;10" show_type="1" icon="icon109150" />
+    <ItemSpec id="109157" type="4" type2="1" lv="8" effect="113812;3" effect_all="113812;13" show_type="1" icon="icon109150" />
+    <ItemSpec id="109158" type="4" type2="1" lv="9" effect="113812;3" effect_all="113812;16" show_type="1" icon="icon109150" />
+    <ItemSpec id="109159" type="4" type2="1" lv="10" effect="113812;4" effect_all="113812;20" show_type="1" icon="icon109150" />
+    <ItemSpec id="109160" type="4" type2="2" lv="1" effect="113813;1" effect_all="113813;1" show_type="1" icon="icon109160" />
+    <ItemSpec id="109161" type="4" type2="2" lv="2" effect="113813;1" effect_all="113813;2" show_type="1" icon="icon109160" />
+    <ItemSpec id="109162" type="4" type2="2" lv="3" effect="113813;1" effect_all="113813;3" show_type="1" icon="icon109160" />
+    <ItemSpec id="109163" type="4" type2="2" lv="4" effect="113813;1" effect_all="113813;4" show_type="1" icon="icon109160" />
+    <ItemSpec id="109164" type="4" type2="2" lv="5" effect="113813;2" effect_all="113813;6" show_type="1" icon="icon109160" />
+    <ItemSpec id="109165" type="4" type2="2" lv="6" effect="113813;2" effect_all="113813;8" show_type="1" icon="icon109160" />
+    <ItemSpec id="109166" type="4" type2="2" lv="7" effect="113813;2" effect_all="113813;10" show_type="1" icon="icon109160" />
+    <ItemSpec id="109167" type="4" type2="2" lv="8" effect="113813;3" effect_all="113813;13" show_type="1" icon="icon109160" />
+    <ItemSpec id="109168" type="4" type2="2" lv="9" effect="113813;3" effect_all="113813;16" show_type="1" icon="icon109160" />
+    <ItemSpec id="109169" type="4" type2="2" lv="10" effect="113813;4" effect_all="113813;20" show_type="1" icon="icon109160" />
+    <ItemSpec id="109170" type="4" type2="3" lv="1" effect="113815;1" effect_all="113815;1" show_type="1" icon="icon109170" />
+    <ItemSpec id="109171" type="4" type2="3" lv="2" effect="113815;2" effect_all="113815;3" show_type="1" icon="icon109170" />
+    <ItemSpec id="109172" type="4" type2="3" lv="3" effect="113815;2" effect_all="113815;5" show_type="1" icon="icon109170" />
+    <ItemSpec id="109173" type="4" type2="3" lv="4" effect="113815;2" effect_all="113815;7" show_type="1" icon="icon109170" />
+    <ItemSpec id="109174" type="4" type2="3" lv="5" effect="113815;3" effect_all="113815;10" show_type="1" icon="icon109170" />
+    <ItemSpec id="109175" type="4" type2="3" lv="6" effect="113815;4" effect_all="113815;14" show_type="1" icon="icon109170" />
+    <ItemSpec id="109176" type="4" type2="3" lv="7" effect="113815;6" effect_all="113815;20" show_type="1" icon="icon109170" />
+    <ItemSpec id="109177" type="4" type2="4" lv="1" effect="113845;1" effect_all="113845;1" show_type="1" icon="icon109177" />
+    <ItemSpec id="109178" type="4" type2="4" lv="2" effect="113845;2" effect_all="113845;3" show_type="1" icon="icon109177" />
+    <ItemSpec id="109179" type="4" type2="4" lv="3" effect="113845;2" effect_all="113845;5" show_type="1" icon="icon109177" />
+    <ItemSpec id="109180" type="4" type2="4" lv="4" effect="113845;2" effect_all="113845;7" show_type="1" icon="icon109177" />
+    <ItemSpec id="109181" type="4" type2="4" lv="5" effect="113845;3" effect_all="113845;10" show_type="1" icon="icon109177" />
+    <ItemSpec id="109182" type="4" type2="4" lv="6" effect="113845;4" effect_all="113845;14" show_type="1" icon="icon109177" />
+    <ItemSpec id="109183" type="4" type2="4" lv="7" effect="113845;6" effect_all="113845;20" show_type="1" icon="icon109177" />
+    <ItemSpec id="109184" type="4" type2="5" lv="1" effect="180048;0|180049;0" effect_all="180048;0|180049;0" icon="skill_109184" />
+    <ItemSpec id="109185" type="4" type2="5" lv="2" effect="180048;0|180049;0" effect_all="180048;0|180049;0" icon="skill_109184" />
+    <ItemSpec id="109186" type="4" type2="6" lv="1" effect="180050;0|180051;0" effect_all="180050;0|180051;0" icon="skill_109186" />
+    <ItemSpec id="109187" type="4" type2="6" lv="2" effect="180050;0|180051;0" effect_all="180050;0|180051;0" icon="skill_109186" />
+    <ItemSpec id="109188" type="4" type2="7" lv="1" effect="180052;0|180053;0" effect_all="180052;0|180053;0" icon="skill_109188" />
+    <ItemSpec id="109189" type="4" type2="7" lv="2" effect="180052;0|180053;0" effect_all="180052;0|180053;0" icon="skill_109188" />
+    <ItemSpec id="109190" type="4" type2="8" lv="1" effect="180056;0|180057;0" effect_all="180056;0|180057;0" icon="skill_109190" />
+    <ItemSpec id="109191" type="4" type2="8" lv="2" effect="180056;0|180057;0" effect_all="180056;0|180057;0" icon="skill_109190" />
+    <ItemSpec id="109192" type="4" type2="9" lv="1" effect="180058;0|180059;0" effect_all="180058;0|180059;0" icon="skill_109192" />
+    <ItemSpec id="109193" type="4" type2="9" lv="2" effect="180058;0|180059;0" effect_all="180058;0|180059;0" icon="skill_109192" />
+    <ItemSpec id="109194" type="4" type2="10" lv="1" effect="180060;0|180061;0" effect_all="180060;0|180061;0" icon="skill_109194" />
+    <ItemSpec id="109195" type="4" type2="10" lv="2" effect="180060;0|180061;0" effect_all="180060;0|180061;0" icon="skill_109194" />
+    <ItemSpec id="109196" type="4" type2="11" lv="1" effect="180054;0|180055;0" effect_all="180054;0|180055;0" icon="skill_109196" />
+    <ItemSpec id="109197" type="4" type2="11" lv="2" effect="180054;0|180055;0" effect_all="180054;0|180055;0" icon="skill_109196" />
+    <ItemSpec id="109198" type="4" type2="12" lv="1" effect="180062;0|180063;0" effect_all="180062;0|180063;0" icon="skill_109198" />
+    <ItemSpec id="109199" type="4" type2="12" lv="2" effect="180062;0|180063;0" effect_all="180062;0|180063;0" icon="skill_109198" />
+    <ItemSpec id="109200" type="100" type2="5" lv="1" />
+    <ItemSpec id="109201" type="100" type2="5" lv="1" />
+    <ItemSpec id="109202" type="100" type2="5" lv="1" />
+    <ItemSpec id="109203" type="100" type2="5" lv="1" />
+    <ItemSpec id="109204" type="100" type2="5" lv="1" />
+    <ItemSpec id="109205" type="100" type2="5" lv="1" />
+    <ItemSpec id="109206" type="100" type2="5" lv="1" />
+    <ItemSpec id="109207" type="100" type2="5" lv="1" />
+    <ItemSpec id="109300" type="1" type2="1" lv="11" effect="113800;4" effect_all="113800;24" show_type="1" icon="icon109000" />
+    <ItemSpec id="109301" type="1" type2="1" lv="12" effect="113800;4" effect_all="113800;28" show_type="1" icon="icon109000" />
+    <ItemSpec id="109302" type="1" type2="1" lv="13" effect="113800;4" effect_all="113800;32" show_type="1" icon="icon109000" />
+    <ItemSpec id="109303" type="1" type2="1" lv="14" effect="113800;4" effect_all="113800;36" show_type="1" icon="icon109000" />
+    <ItemSpec id="109304" type="1" type2="1" lv="15" effect="113800;4" effect_all="113800;40" show_type="1" icon="icon109000" />
+    <ItemSpec id="109305" type="1" type2="1" lv="16" effect="113800;5" effect_all="113800;45" show_type="1" icon="icon109000" />
+    <ItemSpec id="109306" type="1" type2="1" lv="17" effect="113800;5" effect_all="113800;50" show_type="1" icon="icon109000" />
+    <ItemSpec id="109307" type="1" type2="2" lv="11" effect="113801;4" effect_all="113801;24" show_type="1" icon="icon109010" />
+    <ItemSpec id="109308" type="1" type2="2" lv="12" effect="113801;4" effect_all="113801;28" show_type="1" icon="icon109010" />
+    <ItemSpec id="109309" type="1" type2="2" lv="13" effect="113801;4" effect_all="113801;32" show_type="1" icon="icon109010" />
+    <ItemSpec id="109310" type="1" type2="2" lv="14" effect="113801;4" effect_all="113801;36" show_type="1" icon="icon109010" />
+    <ItemSpec id="109311" type="1" type2="2" lv="15" effect="113801;4" effect_all="113801;40" show_type="1" icon="icon109010" />
+    <ItemSpec id="109312" type="1" type2="2" lv="16" effect="113801;5" effect_all="113801;45" show_type="1" icon="icon109010" />
+    <ItemSpec id="109313" type="1" type2="2" lv="17" effect="113801;5" effect_all="113801;50" show_type="1" icon="icon109010" />
+    <ItemSpec id="109314" type="1" type2="3" lv="8" effect="113802;3" effect_all="113802;13" show_type="1" icon="icon109020" />
+    <ItemSpec id="109315" type="1" type2="3" lv="9" effect="113802;3" effect_all="113802;16" show_type="1" icon="icon109020" />
+    <ItemSpec id="109316" type="1" type2="3" lv="10" effect="113802;4" effect_all="113802;20" show_type="1" icon="icon109020" />
+    <ItemSpec id="109317" type="1" type2="3" lv="11" effect="113802;5" effect_all="113802;25" show_type="1" icon="icon109020" />
+    <ItemSpec id="109318" type="1" type2="4" lv="8" effect="113803;1" effect_all="113803;8" show_type="2" icon="icon109027" />
+    <ItemSpec id="109319" type="1" type2="4" lv="9" effect="113803;1" effect_all="113803;9" show_type="2" icon="icon109027" />
+    <ItemSpec id="109320" type="1" type2="4" lv="10" effect="113803;1" effect_all="113803;10" show_type="2" icon="icon109027" />
+    <ItemSpec id="109321" type="1" type2="4" lv="11" effect="113803;1" effect_all="113803;11" show_type="2" icon="icon109027" />
+    <ItemSpec id="109322" type="1" type2="5" lv="3" effect="180000;0|180001;0" effect_all="180000;0|180001;0" icon="skill_109034" />
+    <ItemSpec id="109323" type="1" type2="6" lv="3" effect="180002;0|180003;0" effect_all="180002;0|180003;0" icon="skill_109036" />
+    <ItemSpec id="109324" type="1" type2="7" lv="3" effect="180004;0|180005;0" effect_all="180004;0|180005;0" icon="skill_109038" />
+    <ItemSpec id="109325" type="1" type2="8" lv="3" effect="180008;0|180009;0" effect_all="180008;0|180009;0" icon="skill_109040" />
+    <ItemSpec id="109326" type="1" type2="9" lv="3" effect="180010;0|180011;0" effect_all="180010;0|180011;0" icon="skill_109042" />
+    <ItemSpec id="109327" type="1" type2="10" lv="3" effect="180012;0|180013;0" effect_all="180012;0|180013;0" icon="skill_109044" />
+    <ItemSpec id="109328" type="1" type2="11" lv="3" effect="180006;0|180007;0" effect_all="180006;0|180007;0" icon="skill_109046" />
+    <ItemSpec id="109329" type="1" type2="12" lv="3" effect="180014;0|180015;0" effect_all="180014;0|180015;0" icon="skill_109048" />
+    <ItemSpec id="109400" type="2" type2="1" lv="11" effect="113808;4" effect_all="113808;24" show_type="1" icon="icon109050" />
+    <ItemSpec id="109401" type="2" type2="1" lv="12" effect="113808;4" effect_all="113808;28" show_type="1" icon="icon109050" />
+    <ItemSpec id="109402" type="2" type2="1" lv="13" effect="113808;4" effect_all="113808;32" show_type="1" icon="icon109050" />
+    <ItemSpec id="109403" type="2" type2="1" lv="14" effect="113808;4" effect_all="113808;36" show_type="1" icon="icon109050" />
+    <ItemSpec id="109404" type="2" type2="1" lv="15" effect="113808;4" effect_all="113808;40" show_type="1" icon="icon109050" />
+    <ItemSpec id="109405" type="2" type2="1" lv="16" effect="113808;5" effect_all="113808;45" show_type="1" icon="icon109050" />
+    <ItemSpec id="109406" type="2" type2="1" lv="17" effect="113808;5" effect_all="113808;50" show_type="1" icon="icon109050" />
+    <ItemSpec id="109407" type="2" type2="2" lv="11" effect="113809;4" effect_all="113809;24" show_type="1" icon="icon109060" />
+    <ItemSpec id="109408" type="2" type2="2" lv="12" effect="113809;4" effect_all="113809;28" show_type="1" icon="icon109060" />
+    <ItemSpec id="109409" type="2" type2="2" lv="13" effect="113809;4" effect_all="113809;32" show_type="1" icon="icon109060" />
+    <ItemSpec id="109410" type="2" type2="2" lv="14" effect="113809;4" effect_all="113809;36" show_type="1" icon="icon109060" />
+    <ItemSpec id="109411" type="2" type2="2" lv="15" effect="113809;4" effect_all="113809;40" show_type="1" icon="icon109060" />
+    <ItemSpec id="109412" type="2" type2="2" lv="16" effect="113809;5" effect_all="113809;45" show_type="1" icon="icon109060" />
+    <ItemSpec id="109413" type="2" type2="2" lv="17" effect="113809;5" effect_all="113809;50" show_type="1" icon="icon109060" />
+    <ItemSpec id="109414" type="2" type2="3" lv="8" effect="113850;6" effect_all="113850;26" show_type="1" icon="icon109070" />
+    <ItemSpec id="109415" type="2" type2="3" lv="9" effect="113850;6" effect_all="113850;32" show_type="1" icon="icon109070" />
+    <ItemSpec id="109416" type="2" type2="3" lv="10" effect="113850;6" effect_all="113850;38" show_type="1" icon="icon109070" />
+    <ItemSpec id="109417" type="2" type2="3" lv="11" effect="113850;6" effect_all="113850;44" show_type="1" icon="icon109070" />
+    <ItemSpec id="109418" type="2" type2="4" lv="8" effect="113811;3" effect_all="113811;13" show_type="1" icon="icon109077" />
+    <ItemSpec id="109419" type="2" type2="4" lv="9" effect="113811;3" effect_all="113811;16" show_type="1" icon="icon109077" />
+    <ItemSpec id="109420" type="2" type2="4" lv="10" effect="113811;3" effect_all="113811;19" show_type="1" icon="icon109077" />
+    <ItemSpec id="109421" type="2" type2="4" lv="11" effect="113811;3" effect_all="113811;22" show_type="1" icon="icon109077" />
+    <ItemSpec id="109422" type="2" type2="5" lv="3" effect="180016;0|180017;0" effect_all="180016;0|180017;0" icon="skill_109084" />
+    <ItemSpec id="109423" type="2" type2="6" lv="3" effect="180018;0|180019;0" effect_all="180018;0|180019;0" icon="skill_109086" />
+    <ItemSpec id="109424" type="2" type2="7" lv="3" effect="180020;0|180021;0" effect_all="180020;0|180021;0" icon="skill_109088" />
+    <ItemSpec id="109425" type="2" type2="8" lv="3" effect="180024;0|180025;0" effect_all="180024;0|180025;0" icon="skill_109090" />
+    <ItemSpec id="109426" type="2" type2="9" lv="3" effect="180026;0|180027;0" effect_all="180026;0|180027;0" icon="skill_109092" />
+    <ItemSpec id="109427" type="2" type2="10" lv="3" effect="180028;0|180029;0" effect_all="180028;0|180029;0" icon="skill_109094" />
+    <ItemSpec id="109428" type="2" type2="11" lv="3" effect="180022;0|180023;0" effect_all="180022;0|180023;0" icon="skill_109096" />
+    <ItemSpec id="109429" type="2" type2="12" lv="3" effect="180030;0|180031;0" effect_all="180030;0|180031;0" icon="skill_109098" />
+    <ItemSpec id="109500" type="3" type2="1" lv="11" effect="113804;4" effect_all="113804;24" show_type="1" icon="icon109100" />
+    <ItemSpec id="109501" type="3" type2="1" lv="12" effect="113804;4" effect_all="113804;28" show_type="1" icon="icon109100" />
+    <ItemSpec id="109502" type="3" type2="1" lv="13" effect="113804;4" effect_all="113804;32" show_type="1" icon="icon109100" />
+    <ItemSpec id="109503" type="3" type2="1" lv="14" effect="113804;4" effect_all="113804;36" show_type="1" icon="icon109100" />
+    <ItemSpec id="109504" type="3" type2="1" lv="15" effect="113804;4" effect_all="113804;40" show_type="1" icon="icon109100" />
+    <ItemSpec id="109505" type="3" type2="1" lv="16" effect="113804;5" effect_all="113804;45" show_type="1" icon="icon109100" />
+    <ItemSpec id="109506" type="3" type2="1" lv="17" effect="113804;5" effect_all="113804;50" show_type="1" icon="icon109100" />
+    <ItemSpec id="109507" type="3" type2="2" lv="11" effect="113805;4" effect_all="113805;24" show_type="1" icon="icon109110" />
+    <ItemSpec id="109508" type="3" type2="2" lv="12" effect="113805;4" effect_all="113805;28" show_type="1" icon="icon109110" />
+    <ItemSpec id="109509" type="3" type2="2" lv="13" effect="113805;4" effect_all="113805;32" show_type="1" icon="icon109110" />
+    <ItemSpec id="109510" type="3" type2="2" lv="14" effect="113805;4" effect_all="113805;36" show_type="1" icon="icon109110" />
+    <ItemSpec id="109511" type="3" type2="2" lv="15" effect="113805;4" effect_all="113805;40" show_type="1" icon="icon109110" />
+    <ItemSpec id="109512" type="3" type2="2" lv="16" effect="113805;5" effect_all="113805;45" show_type="1" icon="icon109110" />
+    <ItemSpec id="109513" type="3" type2="2" lv="17" effect="113805;5" effect_all="113805;50" show_type="1" icon="icon109110" />
+    <ItemSpec id="109514" type="3" type2="3" lv="8" effect="113865;9" effect_all="113865;39" show_type="1" icon="icon109120" />
+    <ItemSpec id="109515" type="3" type2="3" lv="9" effect="113865;9" effect_all="113865;48" show_type="1" icon="icon109120" />
+    <ItemSpec id="109516" type="3" type2="3" lv="10" effect="113865;10" effect_all="113865;58" show_type="1" icon="icon109120" />
+    <ItemSpec id="109517" type="3" type2="3" lv="11" effect="113865;12" effect_all="113865;70" show_type="1" icon="icon109120" />
+    <ItemSpec id="109518" type="3" type2="4" lv="8" effect="113866;12" effect_all="113866;62" show_type="1" icon="icon109127" />
+    <ItemSpec id="109519" type="3" type2="4" lv="9" effect="113866;14" effect_all="113866;76" show_type="1" icon="icon109127" />
+    <ItemSpec id="109520" type="3" type2="4" lv="10" effect="113866;16" effect_all="113866;92" show_type="1" icon="icon109127" />
+    <ItemSpec id="109521" type="3" type2="4" lv="11" effect="113866;18" effect_all="113866;110" show_type="1" icon="icon109127" />
+    <ItemSpec id="109522" type="3" type2="5" lv="3" effect="180032;0|180033;0" effect_all="180032;0|180033;0" icon="skill_109134" />
+    <ItemSpec id="109523" type="3" type2="6" lv="3" effect="180034;0|180035;0" effect_all="180034;0|180035;0" icon="skill_109136" />
+    <ItemSpec id="109524" type="3" type2="7" lv="3" effect="180036;0|180037;0" effect_all="180036;0|180037;0" icon="skill_109138" />
+    <ItemSpec id="109525" type="3" type2="8" lv="3" effect="180040;0|180041;0" effect_all="180040;0|180041;0" icon="skill_109140" />
+    <ItemSpec id="109526" type="3" type2="9" lv="3" effect="180042;0|180043;0" effect_all="180042;0|180043;0" icon="skill_109142" />
+    <ItemSpec id="109527" type="3" type2="10" lv="3" effect="180044;0|180045;0" effect_all="180044;0|180045;0" icon="skill_109144" />
+    <ItemSpec id="109528" type="3" type2="11" lv="3" effect="180038;0|180039;0" effect_all="180038;0|180039;0" icon="skill_109146" />
+    <ItemSpec id="109529" type="3" type2="12" lv="3" effect="180046;0|180047;0" effect_all="180046;0|180047;0" icon="skill_109148" />
+    <ItemSpec id="109600" type="4" type2="1" lv="11" effect="113812;4" effect_all="113812;24" show_type="1" icon="icon109150" />
+    <ItemSpec id="109601" type="4" type2="1" lv="12" effect="113812;4" effect_all="113812;28" show_type="1" icon="icon109150" />
+    <ItemSpec id="109602" type="4" type2="1" lv="13" effect="113812;4" effect_all="113812;32" show_type="1" icon="icon109150" />
+    <ItemSpec id="109603" type="4" type2="1" lv="14" effect="113812;4" effect_all="113812;36" show_type="1" icon="icon109150" />
+    <ItemSpec id="109604" type="4" type2="1" lv="15" effect="113812;4" effect_all="113812;40" show_type="1" icon="icon109150" />
+    <ItemSpec id="109605" type="4" type2="1" lv="16" effect="113812;5" effect_all="113812;45" show_type="1" icon="icon109150" />
+    <ItemSpec id="109606" type="4" type2="1" lv="17" effect="113812;5" effect_all="113812;50" show_type="1" icon="icon109150" />
+    <ItemSpec id="109607" type="4" type2="2" lv="11" effect="113813;4" effect_all="113813;24" show_type="1" icon="icon109160" />
+    <ItemSpec id="109608" type="4" type2="2" lv="12" effect="113813;4" effect_all="113813;28" show_type="1" icon="icon109160" />
+    <ItemSpec id="109609" type="4" type2="2" lv="13" effect="113813;4" effect_all="113813;32" show_type="1" icon="icon109160" />
+    <ItemSpec id="109610" type="4" type2="2" lv="14" effect="113813;4" effect_all="113813;36" show_type="1" icon="icon109160" />
+    <ItemSpec id="109611" type="4" type2="2" lv="15" effect="113813;4" effect_all="113813;40" show_type="1" icon="icon109160" />
+    <ItemSpec id="109612" type="4" type2="2" lv="16" effect="113813;5" effect_all="113813;45" show_type="1" icon="icon109160" />
+    <ItemSpec id="109613" type="4" type2="2" lv="17" effect="113813;5" effect_all="113813;50" show_type="1" icon="icon109160" />
+    <ItemSpec id="109614" type="4" type2="3" lv="8" effect="113815;6" effect_all="113815;26" show_type="1" icon="icon109170" />
+    <ItemSpec id="109615" type="4" type2="3" lv="9" effect="113815;6" effect_all="113815;32" show_type="1" icon="icon109170" />
+    <ItemSpec id="109616" type="4" type2="3" lv="10" effect="113815;6" effect_all="113815;38" show_type="1" icon="icon109170" />
+    <ItemSpec id="109617" type="4" type2="3" lv="11" effect="113815;6" effect_all="113815;44" show_type="1" icon="icon109170" />
+    <ItemSpec id="109618" type="4" type2="4" lv="8" effect="113845;6" effect_all="113845;26" show_type="1" icon="icon109177" />
+    <ItemSpec id="109619" type="4" type2="4" lv="9" effect="113845;6" effect_all="113845;32" show_type="1" icon="icon109177" />
+    <ItemSpec id="109620" type="4" type2="4" lv="10" effect="113845;6" effect_all="113845;38" show_type="1" icon="icon109177" />
+    <ItemSpec id="109621" type="4" type2="4" lv="11" effect="113845;6" effect_all="113845;44" show_type="1" icon="icon109177" />
+    <ItemSpec id="109622" type="4" type2="5" lv="3" effect="180048;0|180049;0" effect_all="180048;0|180049;0" icon="skill_109184" />
+    <ItemSpec id="109623" type="4" type2="6" lv="3" effect="180050;0|180051;0" effect_all="180050;0|180051;0" icon="skill_109186" />
+    <ItemSpec id="109624" type="4" type2="7" lv="3" effect="180052;0|180053;0" effect_all="180052;0|180053;0" icon="skill_109188" />
+    <ItemSpec id="109625" type="4" type2="8" lv="3" effect="180056;0|180057;0" effect_all="180056;0|180057;0" icon="skill_109190" />
+    <ItemSpec id="109626" type="4" type2="9" lv="3" effect="180058;0|180059;0" effect_all="180058;0|180059;0" icon="skill_109192" />
+    <ItemSpec id="109627" type="4" type2="10" lv="3" effect="180060;0|180061;0" effect_all="180060;0|180061;0" icon="skill_109194" />
+    <ItemSpec id="109628" type="4" type2="11" lv="3" effect="180054;0|180055;0" effect_all="180054;0|180055;0" icon="skill_109196" />
+    <ItemSpec id="109629" type="4" type2="12" lv="3" effect="180062;0|180063;0" effect_all="180062;0|180063;0" icon="skill_109198" />
+</Group>
+</tns:database>

@@ -1,0 +1,95 @@
+_alpha_g0122.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+youjian
+  rotate: false
+  xy: 143, 2
+  size: 106, 156
+  orig: 106, 158
+  offset: 0, 1
+  index: -1
+piaodai3
+  rotate: true
+  xy: 255, 2
+  size: 98, 95
+  orig: 98, 95
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 2
+  size: 135, 165
+  orig: 135, 169
+  offset: 0, 1
+  index: -1
+piaodai1
+  rotate: false
+  xy: 223, 415
+  size: 105, 40
+  orig: 107, 48
+  offset: 2, 2
+  index: -1
+zuoxiaobi
+  rotate: true
+  xy: 185, 164
+  size: 130, 105
+  orig: 130, 107
+  offset: 0, 2
+  index: -1
+tunbu
+  rotate: true
+  xy: 2, 173
+  size: 169, 123
+  orig: 175, 123
+  offset: 4, 0
+  index: -1
+youdabi
+  rotate: false
+  xy: 296, 164
+  size: 54, 90
+  orig: 56, 90
+  offset: 0, 0
+  index: -1
+zuojian
+  rotate: false
+  xy: 2, 348
+  size: 106, 152
+  orig: 106, 152
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: false
+  xy: 185, 300
+  size: 129, 109
+  orig: 129, 109
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 114, 415
+  size: 70, 103
+  orig: 72, 103
+  offset: 2, 0
+  index: -1
+peijian
+  rotate: false
+  xy: 131, 173
+  size: 48, 219
+  orig: 48, 219
+  offset: 0, 0
+  index: -1
+piaodai2
+  rotate: true
+  xy: 320, 260
+  size: 127, 30
+  orig: 129, 34
+  offset: 0, 2
+  index: -1
+zuodabi
+  rotate: true
+  xy: 255, 106
+  size: 52, 92
+  orig: 56, 92
+  offset: 4, 0
+  index: -1

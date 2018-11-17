@@ -1,0 +1,137 @@
+_alpha_ico107106.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7ji_youqianlun1
+  rotate: true
+  xy: 126, 376
+  size: 111, 103
+  orig: 121, 103
+  offset: 10, 0
+  index: -1
+7ji_youlungai
+  rotate: false
+  xy: 229, 225
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+7ji_houluntai
+  rotate: true
+  xy: 2, 407
+  size: 83, 118
+  orig: 85, 118
+  offset: 1, 0
+  index: -1
+7ji_qianzhou
+  rotate: true
+  xy: 204, 172
+  size: 137, 19
+  orig: 139, 27
+  offset: 1, 2
+  index: -1
+7ji_zuoqianlun2
+  rotate: false
+  xy: 235, 375
+  size: 117, 100
+  orig: 117, 102
+  offset: 0, 1
+  index: -1
+7ji_baoxiangang
+  rotate: false
+  xy: 348, 207
+  size: 147, 62
+  orig: 149, 70
+  offset: 1, 8
+  index: -1
+7ji_chetou
+  rotate: false
+  xy: 81, 217
+  size: 117, 153
+  orig: 125, 153
+  offset: 0, 0
+  index: -1
+7ji_qizi
+  rotate: true
+  xy: 292, 225
+  size: 41, 47
+  orig: 43, 47
+  offset: 1, 0
+  index: -1
+7ji_yingzi
+  rotate: true
+  xy: 2, 2
+  size: 399, 73
+  orig: 401, 73
+  offset: 2, 0
+  index: -1
+7ji_chedingpao
+  rotate: true
+  xy: 330, 275
+  size: 90, 80
+  orig: 92, 82
+  offset: 1, 1
+  index: -1
+7ji_zuoqianlun1
+  rotate: false
+  xy: 358, 371
+  size: 131, 118
+  orig: 139, 118
+  offset: 4, 0
+  index: -1
+7ji_chehoushen
+  rotate: true
+  xy: 351, 2
+  size: 199, 147
+  orig: 199, 149
+  offset: 0, 1
+  index: -1
+chesandeng
+  rotate: true
+  xy: 81, 376
+  size: 25, 20
+  orig: 35, 28
+  offset: 4, 4
+  index: -1
+7ji_houzhou
+  rotate: true
+  xy: 81, 2
+  size: 209, 39
+  orig: 211, 47
+  offset: 1, 8
+  index: -1
+7ji_jian
+  rotate: false
+  xy: 306, 275
+  size: 18, 92
+  orig: 18, 92
+  offset: 0, 0
+  index: -1
+7ji_youqianlun2
+  rotate: false
+  xy: 229, 275
+  size: 71, 94
+  orig: 73, 102
+  offset: 1, 0
+  index: -1
+7ji_zuoqiang
+  rotate: false
+  xy: 126, 2
+  size: 219, 164
+  orig: 227, 208
+  offset: 8, 44
+  index: -1
+7ji_ruanguan
+  rotate: true
+  xy: 416, 275
+  size: 76, 85
+  orig: 78, 87
+  offset: 1, 1
+  index: -1
+7ji_zuolungai
+  rotate: false
+  xy: 235, 172
+  size: 107, 47
+  orig: 113, 55
+  offset: 6, 8
+  index: -1

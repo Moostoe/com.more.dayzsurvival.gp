@@ -1,0 +1,11 @@
+_alpha_World_banjunyingdi.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+panjunyingdi
+  rotate: true
+  xy: 2, 2
+  size: 188, 149
+  orig: 190, 149
+  offset: 0, 0
+  index: -1

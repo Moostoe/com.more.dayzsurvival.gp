@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="player_career">
+    <ItemSpec id="222000" name="148001" story="148006" icon="icon222000" image="image222000" />
+    <ItemSpec id="222001" name="148002" story="148007" icon="icon222001" image="image222001" />
+    <ItemSpec id="222002" name="148003" story="148008" icon="icon222002" image="image222002" />
+</Group>
+</tns:database>

@@ -1,0 +1,88 @@
+_alpha_Common_257.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fxy_xiong
+  rotate: false
+  xy: 4, 470
+  size: 213, 202
+  orig: 213, 202
+  offset: 0, 0
+  index: -1
+fxy_shouzhi1
+  rotate: false
+  xy: 93, 411
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+fxy_zuoxiaobi
+  rotate: false
+  xy: 157, 329
+  size: 73, 135
+  orig: 73, 135
+  offset: 0, 0
+  index: -1
+fxy_zuoshou
+  rotate: false
+  xy: 4, 411
+  size: 83, 53
+  orig: 83, 53
+  offset: 0, 0
+  index: -1
+fxy_fubu
+  rotate: true
+  xy: 4, 678
+  size: 206, 179
+  orig: 206, 179
+  offset: 0, 0
+  index: -1
+fxy_shouzhi2
+  rotate: false
+  xy: 132, 312
+  size: 19, 45
+  orig: 19, 45
+  offset: 0, 0
+  index: -1
+fxy_tun
+  rotate: true
+  xy: 161, 4
+  size: 175, 90
+  orig: 179, 90
+  offset: 1, 0
+  index: -1
+fxy_shouzhi3
+  rotate: false
+  xy: 124, 411
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+fxy_yanjing
+  rotate: true
+  xy: 189, 678
+  size: 91, 40
+  orig: 91, 40
+  offset: 0, 0
+  index: -1
+fxy_zuodabi
+  rotate: true
+  xy: 161, 185
+  size: 138, 90
+  orig: 138, 90
+  offset: 0, 0
+  index: -1
+fxy_tou
+  rotate: true
+  xy: 4, 312
+  size: 93, 122
+  orig: 93, 122
+  offset: 0, 0
+  index: -1
+fxy_youbi
+  rotate: false
+  xy: 4, 4
+  size: 151, 302
+  orig: 151, 302
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="chapter_1">
+    <ItemSpec id="1" chapter="1" base_lv="1" name="83300013" description="83200548" pic="u_TaskBg/u_TaskBg01" reward="420112" quest="2500004|2500005|2500006|2500001|2500003"/>
+    <ItemSpec id="2" chapter="2" base_lv="2" name="83400046" description="83200549" pic="u_TaskBg/u_TaskBg02" reward="420113" quest="2500110|2500209|2500101|2500103|2500105"/>
+    <ItemSpec id="3" chapter="3" base_lv="2" name="83400047" description="83200550" pic="u_TaskBg/u_TaskBg03" reward="420114" quest="2500202|2500208|2500109|2500306|2500210"/>
+    <ItemSpec id="4" chapter="4" base_lv="3" name="83400048" description="83200551" pic="u_TaskBg/u_TaskBg03" reward="420115" quest="2500305|2500301|2500403|2500201|2500308"/>
+    <ItemSpec id="5" chapter="5" base_lv="4" name="83400049" description="83200552" pic="u_TaskBg/u_TaskBg03" reward="420116" quest="2500401|2500500|2500405|2500406|2500407"/>
+    <ItemSpec id="6" chapter="6" base_lv="5" name="83400050" description="83200553" pic="u_TaskBg/u_TaskBg04" reward="420116" quest="2500409|2500410|2500411|2500412|2500413"/>
+
+
+	</Group>
+</tns:database>

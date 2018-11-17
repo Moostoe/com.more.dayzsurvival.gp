@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="siegeFunction">
+    <ItemSpec id="1000" name="79030001" namePlus="79031083" picture="zfd_start_camp1" transRange="4;4;4;4" buffRange="2" buffValue="1060;50|1090;50|1011;100" buffArrowNum="1" point="1" enemyBuffRange="2" enemyBuffvalue="1060;-50|1090;-50|1011;-100" debuffArrowNum="1" god="1" resources="50;50;8;2" arms="0" rewardRate="0" level="20" monsterId="3016;3016;3017;3018;3019;3020;3020;3020;3020;3020;3020" offsetPos="25;60" nameX="168" nameY="65"/>
+    <ItemSpec id="1020" name="79030002" picture="w4_npc1" transRange="4;4;4;4" buffRange="2" buffValue="1060;50|1090;50|1011;100" buffArrowNum="1" point="1" enemyBuffRange="2" enemyBuffvalue="1060;-50|1090;-50|1011;-100" god="0" resources="50;50;8;2" arms="0" rewardRate="0" level="1" monsterId="3001;3001;3002;3003;3004;3004" offsetPos="0"/>
+    <ItemSpec id="1021" name="79030011" picture="w4_npc1" transRange="4;4;4;4" buffRange="2" buffValue="1060;50|1090;50|1011;100" buffArrowNum="1" point="1" enemyBuffRange="2" enemyBuffvalue="1060;-50|1090;-50|1011;-100" god="0" resources="50;50;8;2" arms="0" rewardRate="0" level="2" monsterId="3002;3002;3003;3004;3005;3005" offsetPos="0"/>
+    <ItemSpec id="1022" picture="w4_npc1" transRange="4;4;4;4" buffRange="2" buffValue="1060;50|1090;50|1011;100" buffArrowNum="1" point="1" enemyBuffRange="2" enemyBuffvalue="1060;-50|1090;-50|1011;-100" god="0" resources="50;50;8;2" arms="0" rewardRate="0" level="3" monsterId="3003;3003;3004;3005;3006;3006" offsetPos="0"/>
+    <ItemSpec id="1030" name="79030003" picture="zfd_spe1" transRange="4;4;4;4" buffRange="2" buffValue="1060;50|1090;50|1011;100" buffArrowNum="1" point="1" enemyBuffvalue="1060;-50|1090;-50|1011;-100" god="0" resources="50;50;8;2" arms="0" rewardRate="0" level="1" monsterId="3001;3001;3002;3003;3004;3004" offsetPos="0" flagPos="-42;81"/>
+    <ItemSpec id="1031" name="79030003" picture="zfd_spe1" transRange="4;4;4;4" buffValue="1060;50|1090;50|1011;100" buffArrowNum="1" point="1" enemyBuffvalue="1060;-50|1090;-50|1011;-100" god="0" resources="50;50;8;2" arms="0" rewardRate="0" level="2" monsterId="3002;3002;3003;3004;3005;3005" offsetPos="0" flagPos="-42;81"/>
+    <ItemSpec id="1032" name="79030003" picture="zfd_spe1" transRange="4;4;4;4" buffValue="1060;50|1090;50|1011;100" buffArrowNum="1" point="1" enemyBuffvalue="1060;-50|1090;-50|1011;-100" god="0" resources="50;50;8;2" arms="0" rewardRate="0" level="3" monsterId="3003;3003;3004;3005;3006;3006" offsetPos="0" flagPos="-42;81"/>
+    <ItemSpec id="1033" name="79030003" picture="zfd_spe1" transRange="4;4;4;4" buffValue="1060;50|1090;50|1011;100" buffArrowNum="1" point="1" enemyBuffvalue="1060;-50|1090;-50|1011;-100" god="0" resources="50;50;8;2" arms="0" rewardRate="0" level="4" monsterId="3004;3004;3005;3006;3007;3007" offsetPos="0" flagPos="-42;81"/>
+    <ItemSpec id="1034" name="79030003" picture="zfd_spe1" transRange="4;4;4;4" buffValue="1060;50|1090;50|1011;100" buffArrowNum="1" point="1" enemyBuffvalue="1060;-50|1090;-50|1011;-100" god="0" resources="50;50;8;2" arms="0" rewardRate="0" level="5" monsterId="3005;3005;3006;3007;3008;3008" offsetPos="0" flagPos="-42;81"/>
+    <ItemSpec id="1035" name="79030003" picture="zfd_spe1" transRange="4;4;4;4" buffValue="1060;50|1090;50|1011;100" buffArrowNum="1" point="1" enemyBuffvalue="1060;-50|1090;-50|1011;-100" god="0" resources="50;50;8;2" arms="0" rewardRate="0" level="6" monsterId="3006;3006;3007;3008;3009;3010;3010;3011" offsetPos="0" flagPos="-42;81"/>
+    <ItemSpec id="1036" name="79030003" picture="zfd_spe1" transRange="4;4;4;4" buffValue="1060;50|1090;50|1011;100" buffArrowNum="1" point="1" enemyBuffvalue="1060;-50|1090;-50|1011;-100" god="0" resources="50;50;8;2" arms="0" rewardRate="0" level="7" monsterId="3007;3007;3008;3009;3010;3011;3011;3012;3012" offsetPos="0" flagPos="-42;81"/>
+    <ItemSpec id="1037" name="79030003" picture="zfd_spe1" transRange="4;4;4;4" buffValue="1060;50|1090;50|1011;100" buffArrowNum="1" point="1" enemyBuffvalue="1060;-50|1090;-50|1011;-100" god="0" resources="50;50;8;2" arms="0" rewardRate="0" level="8" monsterId="3008;3008;3009;3010;3011;3012;3012;3012;3012;3012" offsetPos="0" flagPos="-42;81"/>
+    <ItemSpec id="1038" name="79030003" picture="zfd_spe1" transRange="4;4;4;4" buffValue="1060;50|1090;50|1011;100" buffArrowNum="1" point="1" enemyBuffvalue="1060;-50|1090;-50|1011;-100" god="0" resources="50;50;8;2" arms="0" rewardRate="0" level="9" monsterId="3009;3009;3010;3011;3012;3013;3013;3013;3013;3013" offsetPos="0" flagPos="-42;81"/>
+    <ItemSpec id="1040" name="79030004" picture="zfd_spe2" transRange="4;4;4;4" buffRange="2" buffValue="1060;50|1090;50|1011;100" buffArrowNum="1" point="1" enemyBuffvalue="1060;-50|1090;-50|1011;-100" god="0" resources="50;50;8;2" arms="0" rewardRate="0" level="10" monsterId="3010;3010;3011;3012;3013;3014;3014;3014;3014;3014" offsetPos="0"/>
+    <ItemSpec id="1041" name="79030005" picture="zfd_spe2" transRange="4;4;4;4" buffRange="2" buffValue="1060;50|1090;50|1011;100" buffArrowNum="1" point="1" enemyBuffvalue="1060;-50|1090;-50|1011;-100" god="0" resources="50;50;8;2" arms="0" rewardRate="0" level="10" monsterId="3010;3010;3011;3012;3013;3014;3014;3014;3014;3014" offsetPos="0"/>
+    <ItemSpec id="1042" picture="zfd_spe2" transRange="4;4;4;4" buffRange="2" buffValue="1060;50|1090;50|1011;100" buffArrowNum="1" point="1" enemyBuffvalue="1060;-50|1090;-50|1011;-100" god="0" resources="50;50;8;2" arms="0" rewardRate="0" level="10" monsterId="3010;3010;3011;3012;3013;3014;3014;3014;3014;3014" offsetPos="0"/>
+    <ItemSpec id="1043" picture="zfd_spe2" transRange="4;4;4;4" buffRange="2" buffValue="1060;50|1090;50|1011;100" buffArrowNum="1" point="1" enemyBuffvalue="1060;-50|1090;-50|1011;-100" god="0" resources="50;50;8;2" arms="0" rewardRate="0" level="10" monsterId="3010;3010;3011;3012;3013;3014;3014;3014;3014;3014" offsetPos="0"/>
+    <ItemSpec id="1044" name="79030006" picture="zfd_spe1" transRange="4;4;4;4" buffRange="2" buffValue="1060;50|1090;50|1011;100" buffArrowNum="1" point="1" enemyBuffvalue="1060;-50|1090;-50|1011;-100" god="0" resources="50;50;8;2" arms="0" rewardRate="0" level="10" monsterId="3010;3010;3011;3012;3013;3014;3014;3014;3014;3014" offsetPos="0" flagPos="-42;81"/>
+    <ItemSpec id="1060" name="79030007" namePlus="79031084" desc="79031017" picture="zfd_sci1" transRange="4;4;4;4" buffRange="2" buffValue="1060;50|1090;50|1011;100" buffArrowNum="1" point="3" enemyBuffvalue="1060;-50|1090;-50|1011;-100" god="0" arms="0" rewardRate="2" level="13" monsterId="3010;3010;3011;3012;3013;3014;3014;3014;3014;3014;3014" offsetPos="0" flagPos="-72;47"/>
+    <ItemSpec id="1061" name="79030008" namePlus="79031085" desc="79031018" picture="w4_npc2" transRange="4;4;4;4" buffRange="2" buffValue="1060;50|1090;50|1011;100" buffArrowNum="1" point="3" enemyBuffvalue="1060;-50|1090;-50|1011;-100" god="0" arms="0" rewardRate="5" level="15" monsterId="3011;3011;3012;3013;3014;3015;3015;3015;3015;3015;3015" offsetPos="0" nameX="100" nameY="-50"/>
+    <ItemSpec id="1070" name="79030009" picture="zfd_spe1" transRange="4;4;4;4" buffRange="2" buffValue="1060;50|1090;50|1011;100" buffArrowNum="1" point="3" enemyBuffvalue="1060;-50|1090;-50|1011;-100" god="0" resources="50;50;8;2" arms="0" rewardRate="0" level="12" monsterId="3010;3010;3011;3012;3013;3014;3014;3014;3014;3014" offsetPos="0" flagPos="-42;81"/>
+    <ItemSpec id="1080" name="79031090" namePlus="79031090" picture="zfd_center1" transRange="4;4;4;4" buffRange="2" buffValue="1060;50|1090;50|1011;100" buffArrowNum="1" point="3" enemyBuffvalue="1060;-50|1090;-50|1011;-100" god="1" resources="50;50;8;2" arms="0" rewardRate="0" level="20" monsterId="3016;3016;3017;3018;3019;3020;3020;3020;3020;3020;3020" offsetPos="0" nameX="119" nameY="-54"/>
+    <ItemSpec id="1090" name="79031077" namePlus="79031077" picture="w4_npc1" transRange="4;4;4;4" buffRange="2" buffValue="1060;50|1090;50|1011;100" buffArrowNum="1" point="3" enemyBuffvalue="1060;-50|1090;-50|1011;-100" god="0" resources="50;50;8;2" arms="0" rewardRate="0" level="12" monsterId="3010;3010;3011;3012;3013;3014;3014;3014;3014;3014" offsetPos="0"/>
+</Group> 
+
+
+<Group id="siegeCamp">
+    <ItemSpec id="1" flag="Flag01" positionId="6" positionIcon="u_siegeIslands_Camp01" RGB="255,147,59" miniMapColor="u_mini01" Icon="u_Flag01"/>
+    <ItemSpec id="2" flag="Flag02" positionId="14" positionIcon="u_siegeIslands_Camp02" RGB="255,114,193" miniMapColor="u_mini02" Icon="u_Flag02"/>
+    <ItemSpec id="3" flag="Flag03" positionId="114" positionIcon="u_siegeIslands_Camp03" RGB="167,53,255" miniMapColor="u_mini03" Icon="u_Flag03"/>
+    <ItemSpec id="4" flag="Flag04" positionId="266" positionIcon="u_siegeIslands_Camp04" RGB="241,46,46" miniMapColor="u_mini04" Icon="u_Flag04"/>
+    <ItemSpec id="5" flag="Flag05" positionId="356" positionIcon="u_siegeIslands_Camp05" RGB="238,181,53" miniMapColor="u_mini05" Icon="u_Flag05"/>
+    <ItemSpec id="6" flag="Flag06" positionId="348" positionIcon="u_siegeIslands_Camp06" RGB="41,193,241" miniMapColor="u_mini06" Icon="u_Flag06"/>
+    <ItemSpec id="7" flag="Flag07" positionId="248" positionIcon="u_siegeIslands_Camp07" RGB="44,223,56" miniMapColor="u_mini07" Icon="u_Flag07"/>
+    <ItemSpec id="8" flag="Flag08" positionId="96" positionIcon="u_siegeIslands_Camp08" RGB="85,2,255" miniMapColor="u_mini08" Icon="u_Flag08"/>
+</Group> 
+
+<Group id="siegeQuest">
+
+    <ItemSpec id="50001" name="79031036" desc="79031037" icon="item207053" condition="4" color="1" rewardId="340603"/>
+    <ItemSpec id="50002" name="79031038" desc="79031039" icon="item207053" condition="1" color="2" rewardId="340602"/>
+    <ItemSpec id="50003" name="79031040" desc="79031041" icon="item207053" condition="3" color="3" rewardId="340601"/>
+</Group> 
+
+
+
+
+<Group id="siegeScoreAction">
+    <ItemSpec id="40001" type="1" value="107000|107100|107200|107300|108000|108100|108200|108300|109000|109100|109200|109300" points="1" name="106018"/>
+    <ItemSpec id="40002" type="1" value="107001|107101|107201|107301|108001|108101|108201|108301|109001|109101|109201|109301" points="2" name="106019"/>
+    <ItemSpec id="40003" type="1" value="107002|107102|107202|107302|108002|108102|108202|108302|109002|109102|109202|109302" points="4" name="106020"/>
+    <ItemSpec id="40004" type="1" value="107003|107103|107203|107303|108003|108103|108203|108303|109003|109103|109203|109303" points="7" name="106021"/>
+    <ItemSpec id="40005" type="1" value="107004|107104|107204|107304|108004|108104|108204|108304|109004|109104|109204|109304" points="13" name="106022"/>
+    <ItemSpec id="40006" type="1" value="107005|107105|107205|107305|108005|108105|108205|108305|109005|109105|109205|109305" points="21" name="106023"/>
+    <ItemSpec id="40007" type="1" value="107006|107106|107206|107306|108006|108106|108206|108306|109006|109106|109206|109306" points="33" name="106024"/>
+    <ItemSpec id="40008" type="1" value="107007|107107|107207|107307|108007|108107|108207|108307|109007|109107|109207|109307" points="49" name="106025"/>
+    <ItemSpec id="40009" type="1" value="107008|107108|107208|107308|108008|108108|108208|108308|109008|109108|109208|109308" points="70" name="106026"/>
+    <ItemSpec id="40010" type="1" value="107009|107109|107209|107309|108009|108109|108209|108309|109009|109109|109209|109309|107019|107119|107219|107319" points="97" name="106027"/>
+    <ItemSpec id="40021" type="3" value="10" points="100000" name="79031001"/>
+</Group> 
+
+
+<Group id="siegeNPC">
+    <ItemSpec id="3001" level="1" name="79031042" npcIcon="ico107300_small" armsId="107000;7500|107100;7500|107200;7500|107300;7500" speed="100" armsBuff="1010;30|1030;30"/>
+    <ItemSpec id="3002" level="2" name="79031043" npcIcon="ico107301_small" armsId="107001;15000|107101;15000|107201;15000|107301;15000" speed="100" armsBuff="1010;50|1030;50"/>
+    <ItemSpec id="3003" level="3" name="79031044" npcIcon="ico107302_small" armsId="107002;22500|107102;22500|107202;22500|107302;22500" speed="100" armsBuff="1010;70|1030;70"/>
+    <ItemSpec id="3004" level="4" name="79031045" npcIcon="ico107303_small" armsId="107003;30000|107103;30000|107203;30000|107303;30000" speed="100" armsBuff="1010;90|1030;90"/>
+    <ItemSpec id="3005" level="5" name="79031046" npcIcon="ico107304_small" armsId="107004;37500|107104;37500|107204;37500|107304;37500" speed="100" armsBuff="1010;110|1030;110"/>
+    <ItemSpec id="3006" level="6" name="79031047" npcIcon="ico107305_small" armsId="107005;45000|107105;45000|107205;45000|107305;45000" speed="100" armsBuff="1010;130|1030;130"/>
+    <ItemSpec id="3007" level="7" name="79031048" npcIcon="ico107306_small" armsId="107006;52500|107106;52500|107206;52500|107306;52500" speed="100" armsBuff="1010;150|1030;150"/>
+    <ItemSpec id="3008" level="8" name="79031049" npcIcon="ico107307_small" armsId="107007;60000|107107;60000|107207;60000|107307;60000" speed="100" armsBuff="1010;170|1030;170"/>
+    <ItemSpec id="3009" level="9" name="79031050" npcIcon="ico107308_small" armsId="107008;67500|107108;67500|107208;67500|107308;67500" speed="100" armsBuff="1010;190|1030;190"/>
+    <ItemSpec id="3010" level="10" name="79031051" npcIcon="ico107309_small" armsId="107009;75000|107109;75000|107209;75000|107309;75000" speed="100" armsBuff="1010;210|1030;210"/>
+    <ItemSpec id="3011" level="11" name="79031091" npcIcon="ico107319_small" armsId="107019;100000|107119;100000|107219;100000|107319;100000" speed="100" armsBuff="1010;220|1030;220"/>
+    <ItemSpec id="3012" level="12" name="79031091" npcIcon="ico107319_small" armsId="107019;120000|107119;120000|107219;120000|107319;120000" speed="100" armsBuff="1010;240|1030;240"/>
+    <ItemSpec id="3013" level="13" name="79031091" npcIcon="ico107319_small" armsId="107019;140000|107119;140000|107219;140000|107319;140000" speed="100" armsBuff="1010;260|1030;260"/>
+    <ItemSpec id="3014" level="14" name="79031091" npcIcon="ico107319_small" armsId="107019;160000|107119;160000|107219;160000|107319;160000" speed="100" armsBuff="1010;280|1030;280"/>
+    <ItemSpec id="3015" level="15" name="79031091" npcIcon="ico107319_small" armsId="107019;180000|107119;180000|107219;180000|107319;180000" speed="100" armsBuff="1010;350|1030;350"/>
+    <ItemSpec id="3016" level="16" name="79031091" npcIcon="ico107319_small" armsId="107019;200000|107119;200000|107219;200000|107319;200000" speed="100" armsBuff="1010;420|1030;420"/>
+    <ItemSpec id="3017" level="17" name="79031091" npcIcon="ico107319_small" armsId="107019;220000|107119;220000|107219;220000|107319;220000" speed="100" armsBuff="1010;490|1030;490"/>
+    <ItemSpec id="3018" level="18" name="79031091" npcIcon="ico107319_small" armsId="107019;240000|107119;240000|107219;240000|107319;240000" speed="100" armsBuff="1010;560|1030;560"/>
+    <ItemSpec id="3019" level="19" name="79031091" npcIcon="ico107319_small" armsId="107019;260000|107119;260000|107219;260000|107319;260000" speed="100" armsBuff="1010;630|1030;630"/>
+    <ItemSpec id="3020" level="20" name="79031091" npcIcon="ico107319_small" armsId="107019;280000|107119;280000|107219;280000|107319;280000" speed="100" armsBuff="1010;700|1030;700"/>
+    <ItemSpec id="3101" level="1" name="79031052" npcIcon="ico107000_small" armsId="107000;7500|107100;7500|107200;7500|107300;7500" speed="100" armsBuff="1010;30|1030;30"/>
+    <ItemSpec id="3102" level="2" name="79031053" npcIcon="ico107001_small" armsId="107001;15000|107101;15000|107201;15000|107301;15000" speed="100" armsBuff="1010;50|1030;50"/>
+    <ItemSpec id="3103" level="3" name="79031054" npcIcon="ico107002_small" armsId="107002;22500|107102;22500|107202;22500|107302;22500" speed="100" armsBuff="1010;70|1030;70"/>
+    <ItemSpec id="3104" level="4" name="79031055" npcIcon="ico107003_small" armsId="107003;30000|107103;30000|107203;30000|107303;30000" speed="100" armsBuff="1010;90|1030;90"/>
+    <ItemSpec id="3105" level="5" name="79031056" npcIcon="ico107004_small" armsId="107004;37500|107104;37500|107204;37500|107304;37500" speed="100" armsBuff="1010;110|1030;110"/>
+    <ItemSpec id="3106" level="6" name="79031057" npcIcon="ico107005_small" armsId="107005;45000|107105;45000|107205;45000|107305;45000" speed="100" armsBuff="1010;130|1030;130"/>
+    <ItemSpec id="3107" level="7" name="79031058" npcIcon="ico107006_small" armsId="107006;52500|107106;52500|107206;52500|107306;52500" speed="100" armsBuff="1010;150|1030;150"/>
+    <ItemSpec id="3108" level="8" name="79031059" npcIcon="ico107007_small" armsId="107007;60000|107107;60000|107207;60000|107307;60000" speed="100" armsBuff="1010;170|1030;170"/>
+    <ItemSpec id="3109" level="9" name="79031060" npcIcon="ico107008_small" armsId="107008;67500|107108;67500|107208;67500|107308;67500" speed="100" armsBuff="1010;190|1030;190"/>
+    <ItemSpec id="3110" level="10" name="79031061" npcIcon="ico107009_small" armsId="107009;75000|107109;75000|107209;75000|107309;75000" speed="100" armsBuff="1010;210|1030;210"/>
+    <ItemSpec id="3111" level="11" name="79031092" npcIcon="ico107319_small" armsId="107000;7500|107100;7500|107200;7500|107300;7500" speed="100" armsBuff="1010;220|1030;220"/>
+    <ItemSpec id="3112" level="12" name="79031092" npcIcon="ico107319_small" armsId="107001;15000|107101;15000|107201;15000|107301;15000" speed="100" armsBuff="1010;240|1030;240"/>
+    <ItemSpec id="3113" level="13" name="79031092" npcIcon="ico107319_small" armsId="107002;22500|107102;22500|107202;22500|107302;22500" speed="100" armsBuff="1010;260|1030;260"/>
+    <ItemSpec id="3114" level="14" name="79031092" npcIcon="ico107319_small" armsId="107003;30000|107103;30000|107203;30000|107303;30000" speed="100" armsBuff="1010;280|1030;280"/>
+    <ItemSpec id="3115" level="15" name="79031092" npcIcon="ico107319_small" armsId="107004;37500|107104;37500|107204;37500|107304;37500" speed="100" armsBuff="1010;350|1030;350"/>
+    <ItemSpec id="3116" level="16" name="79031092" npcIcon="ico107319_small" armsId="107005;45000|107105;45000|107205;45000|107305;45000" speed="100" armsBuff="1010;420|1030;420"/>
+    <ItemSpec id="3117" level="17" name="79031092" npcIcon="ico107319_small" armsId="107006;52500|107106;52500|107206;52500|107306;52500" speed="100" armsBuff="1010;490|1030;490"/>
+    <ItemSpec id="3118" level="18" name="79031092" npcIcon="ico107319_small" armsId="107007;60000|107107;60000|107207;60000|107307;60000" speed="100" armsBuff="1010;560|1030;560"/>
+    <ItemSpec id="3119" level="19" name="79031092" npcIcon="ico107319_small" armsId="107008;67500|107108;67500|107208;67500|107308;67500" speed="100" armsBuff="1010;630|1030;630"/>
+    <ItemSpec id="3120" level="20" name="79031092" npcIcon="ico107319_small" armsId="107009;75000|107109;75000|107209;75000|107309;75000" speed="100" armsBuff="1010;700|1030;700"/>
+    <ItemSpec id="13001" level="1" name="79031042" npcIcon="ico107300_small" armsId="120000;7500|120100;7500|120200;7500|120300;7500" speed="100" armsBuff="1010;30|1030;30"/>
+    <ItemSpec id="13002" level="2" name="79031043" npcIcon="ico107301_small" armsId="120001;15000|120101;15000|120201;15000|120301;15000" speed="100" armsBuff="1010;50|1030;50"/>
+    <ItemSpec id="13003" level="3" name="79031044" npcIcon="ico107302_small" armsId="120002;22500|120102;22500|120202;22500|120302;22500" speed="100" armsBuff="1010;70|1030;70"/>
+    <ItemSpec id="13004" level="4" name="79031045" npcIcon="ico107303_small" armsId="120003;30000|120103;30000|120203;30000|120303;30000" speed="100" armsBuff="1010;90|1030;90"/>
+    <ItemSpec id="13005" level="5" name="79031046" npcIcon="ico107304_small" armsId="120004;37500|120104;37500|120204;37500|120304;37500" speed="100" armsBuff="1010;110|1030;110"/>
+    <ItemSpec id="13006" level="6" name="79031047" npcIcon="ico107305_small" armsId="120005;45000|120105;45000|120205;45000|120305;45000" speed="100" armsBuff="1010;130|1030;130"/>
+    <ItemSpec id="13007" level="7" name="79031048" npcIcon="ico107306_small" armsId="120006;52500|120106;52500|120206;52500|120306;52500" speed="100" armsBuff="1010;150|1030;150"/>
+    <ItemSpec id="13008" level="8" name="79031049" npcIcon="ico107307_small" armsId="120007;60000|120107;60000|120207;60000|120307;60000" speed="100" armsBuff="1010;170|1030;170"/>
+    <ItemSpec id="13009" level="9" name="79031050" npcIcon="ico107308_small" armsId="120008;67500|120108;67500|120208;67500|120308;67500" speed="100" armsBuff="1010;190|1030;190"/>
+    <ItemSpec id="13010" level="10" name="79031051" npcIcon="ico107309_small" armsId="120009;75000|120109;75000|120209;75000|120309;75000" speed="100" armsBuff="1010;210|1030;210"/>
+    <ItemSpec id="13011" level="11" name="79031091" npcIcon="ico107319_small" armsId="120019;100000|120119;100000|120219;100000|120319;100000" speed="100" armsBuff="1010;220|1030;220"/>
+    <ItemSpec id="13012" level="12" name="79031091" npcIcon="ico107319_small" armsId="120019;120000|120119;120000|120219;120000|120319;120000" speed="100" armsBuff="1010;240|1030;240"/>
+    <ItemSpec id="13013" level="13" name="79031091" npcIcon="ico107319_small" armsId="120019;140000|120119;140000|120219;140000|120319;140000" speed="100" armsBuff="1010;260|1030;260"/>
+    <ItemSpec id="13014" level="14" name="79031091" npcIcon="ico107319_small" armsId="120019;160000|120119;160000|120219;160000|120319;160000" speed="100" armsBuff="1010;280|1030;280"/>
+    <ItemSpec id="13015" level="15" name="79031091" npcIcon="ico107319_small" armsId="120019;180000|120119;180000|120219;180000|120319;180000" speed="100" armsBuff="1010;350|1030;350"/>
+    <ItemSpec id="13016" level="16" name="79031091" npcIcon="ico107319_small" armsId="120019;200000|120119;200000|120219;200000|120319;200000" speed="100" armsBuff="1010;420|1030;420"/>
+    <ItemSpec id="13017" level="17" name="79031091" npcIcon="ico107319_small" armsId="120019;220000|120119;220000|120219;220000|120319;220000" speed="100" armsBuff="1010;490|1030;490"/>
+    <ItemSpec id="13018" level="18" name="79031091" npcIcon="ico107319_small" armsId="120019;240000|120119;240000|120219;240000|120319;240000" speed="100" armsBuff="1010;560|1030;560"/>
+    <ItemSpec id="13019" level="19" name="79031091" npcIcon="ico107319_small" armsId="120019;260000|120119;260000|120219;260000|120319;260000" speed="100" armsBuff="1010;630|1030;630"/>
+    <ItemSpec id="13020" level="20" name="79031091" npcIcon="ico107319_small" armsId="120019;280000|120119;280000|120219;280000|120319;280000" speed="100" armsBuff="1010;700|1030;700"/>
+    <ItemSpec id="13101" level="1" name="79031052" npcIcon="ico107000_small" armsId="120000;7500|120100;7500|120200;7500|120300;7500" speed="100" armsBuff="1010;30|1030;30"/>
+    <ItemSpec id="13102" level="2" name="79031053" npcIcon="ico107001_small" armsId="120001;15000|120101;15000|120201;15000|120301;15000" speed="100" armsBuff="1010;50|1030;50"/>
+    <ItemSpec id="13103" level="3" name="79031054" npcIcon="ico107002_small" armsId="120002;22500|120102;22500|120202;22500|120302;22500" speed="100" armsBuff="1010;70|1030;70"/>
+    <ItemSpec id="13104" level="4" name="79031055" npcIcon="ico107003_small" armsId="120003;30000|120103;30000|120203;30000|120303;30000" speed="100" armsBuff="1010;90|1030;90"/>
+    <ItemSpec id="13105" level="5" name="79031056" npcIcon="ico107004_small" armsId="120004;37500|120104;37500|120204;37500|120304;37500" speed="100" armsBuff="1010;110|1030;110"/>
+    <ItemSpec id="13106" level="6" name="79031057" npcIcon="ico107005_small" armsId="120005;45000|120105;45000|120205;45000|120305;45000" speed="100" armsBuff="1010;130|1030;130"/>
+    <ItemSpec id="13107" level="7" name="79031058" npcIcon="ico107006_small" armsId="120006;52500|120106;52500|120206;52500|120306;52500" speed="100" armsBuff="1010;150|1030;150"/>
+    <ItemSpec id="13108" level="8" name="79031059" npcIcon="ico107007_small" armsId="120007;60000|120107;60000|120207;60000|120307;60000" speed="100" armsBuff="1010;170|1030;170"/>
+    <ItemSpec id="13109" level="9" name="79031060" npcIcon="ico107008_small" armsId="120008;67500|120108;67500|120208;67500|120308;67500" speed="100" armsBuff="1010;190|1030;190"/>
+    <ItemSpec id="13110" level="10" name="79031061" npcIcon="ico107009_small" armsId="120009;75000|120109;75000|120209;75000|120309;75000" speed="100" armsBuff="1010;210|1030;210"/>
+    <ItemSpec id="13111" level="11" name="79031092" npcIcon="ico107319_small" armsId="120000;7500|120100;7500|120200;7500|120300;7500" speed="100" armsBuff="1010;220|1030;220"/>
+    <ItemSpec id="13112" level="12" name="79031092" npcIcon="ico107319_small" armsId="120001;15000|120101;15000|120201;15000|120301;15000" speed="100" armsBuff="1010;240|1030;240"/>
+    <ItemSpec id="13113" level="13" name="79031092" npcIcon="ico107319_small" armsId="120002;22500|120102;22500|120202;22500|120302;22500" speed="100" armsBuff="1010;260|1030;260"/>
+    <ItemSpec id="13114" level="14" name="79031092" npcIcon="ico107319_small" armsId="120003;30000|120103;30000|120203;30000|120303;30000" speed="100" armsBuff="1010;280|1030;280"/>
+    <ItemSpec id="13115" level="15" name="79031092" npcIcon="ico107319_small" armsId="120004;37500|120104;37500|120204;37500|120304;37500" speed="100" armsBuff="1010;350|1030;350"/>
+    <ItemSpec id="13116" level="16" name="79031092" npcIcon="ico107319_small" armsId="120005;45000|120105;45000|120205;45000|120305;45000" speed="100" armsBuff="1010;420|1030;420"/>
+    <ItemSpec id="13117" level="17" name="79031092" npcIcon="ico107319_small" armsId="120006;52500|120106;52500|120206;52500|120306;52500" speed="100" armsBuff="1010;490|1030;490"/>
+    <ItemSpec id="13118" level="18" name="79031092" npcIcon="ico107319_small" armsId="120007;60000|120107;60000|120207;60000|120307;60000" speed="100" armsBuff="1010;560|1030;560"/>
+    <ItemSpec id="13119" level="19" name="79031092" npcIcon="ico107319_small" armsId="120008;67500|120108;67500|120208;67500|120308;67500" speed="100" armsBuff="1010;630|1030;630"/>
+    <ItemSpec id="13120" level="20" name="79031092" npcIcon="ico107319_small" armsId="120009;75000|120109;75000|120209;75000|120309;75000" speed="100" armsBuff="1010;700|1030;700"/>
+    <ItemSpec id="32001" level="1" name="79031092" npcIcon="ico107000_small" armsId="107000;50000|107100;50000|107200;50000|107300;50000" speed="100"/>
+    <ItemSpec id="32002" level="1" name="79031092" npcIcon="ico107001_small" armsId="107000;53500|107100;53500|107200;53500|107300;53500" speed="100"/>
+    <ItemSpec id="32003" level="1" name="79031092" npcIcon="ico107002_small" armsId="107000;57000|107100;57000|107200;57000|107300;57000" speed="100"/>
+    <ItemSpec id="32004" level="1" name="79031092" npcIcon="ico107003_small" armsId="107000;60500|107100;60500|107200;60500|107300;60500" speed="100"/>
+    <ItemSpec id="32005" level="1" name="79031092" npcIcon="ico107004_small" armsId="107000;64000|107100;64000|107200;64000|107300;64000" speed="100"/>
+    <ItemSpec id="32006" level="1" name="79031092" npcIcon="ico107005_small" armsId="107000;67500|107100;67500|107200;67500|107300;67500" speed="100"/>
+    <ItemSpec id="32007" level="1" name="79031092" npcIcon="ico107006_small" armsId="107000;71000|107100;71000|107200;71000|107300;71000" speed="100"/>
+    <ItemSpec id="32008" level="1" name="79031092" npcIcon="ico107007_small" armsId="107000;74500|107100;74500|107200;74500|107300;74500" speed="100"/>
+    <ItemSpec id="32009" level="1" name="79031092" npcIcon="ico107008_small" armsId="107000;78000|107100;78000|107200;78000|107300;78000" speed="100"/>
+    <ItemSpec id="32010" level="1" name="79031092" npcIcon="hero1" armsId="107000;81500|107100;81500|107200;81500|107300;81500" speed="100"/>
+    <ItemSpec id="32011" level="1" name="79031092" npcIcon="ico107100_small" armsId="107001;85000|107101;85000|107201;85000|107301;85000" speed="100"/>
+    <ItemSpec id="32012" level="1" name="79031092" npcIcon="ico107101_small" armsId="107001;88500|107101;88500|107201;88500|107301;88500" speed="100"/>
+    <ItemSpec id="32013" level="1" name="79031092" npcIcon="ico107102_small" armsId="107001;92000|107101;92000|107201;92000|107301;92000" speed="100"/>
+    <ItemSpec id="32014" level="1" name="79031092" npcIcon="ico107103_small" armsId="107001;95500|107101;95500|107201;95500|107301;95500" speed="100"/>
+    <ItemSpec id="32015" level="1" name="79031092" npcIcon="ico107104_small" armsId="107001;99000|107101;99000|107201;99000|107301;99000" speed="100"/>
+    <ItemSpec id="32016" level="1" name="79031092" npcIcon="ico107105_small" armsId="107001;102500|107101;102500|107201;102500|107301;102500" speed="100"/>
+    <ItemSpec id="32017" level="1" name="79031092" npcIcon="ico107106_small" armsId="107001;106000|107101;106000|107201;106000|107301;106000" speed="100"/>
+    <ItemSpec id="32018" level="1" name="79031092" npcIcon="ico107107_small" armsId="107001;109500|107101;109500|107201;109500|107301;109500" speed="100"/>
+    <ItemSpec id="32019" level="1" name="79031092" npcIcon="ico107108_small" armsId="107001;113000|107101;113000|107201;113000|107301;113000" speed="100"/>
+    <ItemSpec id="32020" level="1" name="79031092" npcIcon="hero2" armsId="107001;116500|107101;116500|107201;116500|107301;116500" speed="100"/>
+    <ItemSpec id="32021" level="1" name="79031092" npcIcon="ico107200_small" armsId="107002;120000|107102;120000|107202;120000|107302;120000" speed="100"/>
+    <ItemSpec id="32022" level="1" name="79031092" npcIcon="ico107201_small" armsId="107002;123500|107102;123500|107202;123500|107302;123500" speed="100"/>
+    <ItemSpec id="32023" level="1" name="79031092" npcIcon="ico107202_small" armsId="107002;127000|107102;127000|107202;127000|107302;127000" speed="100"/>
+    <ItemSpec id="32024" level="1" name="79031092" npcIcon="ico107203_small" armsId="107002;130500|107102;130500|107202;130500|107302;130500" speed="100"/>
+    <ItemSpec id="32025" level="1" name="79031092" npcIcon="ico107204_small" armsId="107002;134000|107102;134000|107202;134000|107302;134000" speed="100"/>
+    <ItemSpec id="32026" level="1" name="79031092" npcIcon="ico107205_small" armsId="107002;137500|107102;137500|107202;137500|107302;137500" speed="100"/>
+    <ItemSpec id="32027" level="1" name="79031092" npcIcon="ico107206_small" armsId="107002;141000|107102;141000|107202;141000|107302;141000" speed="100"/>
+    <ItemSpec id="32028" level="1" name="79031092" npcIcon="ico107207_small" armsId="107002;144500|107102;144500|107202;144500|107302;144500" speed="100"/>
+    <ItemSpec id="32029" level="1" name="79031092" npcIcon="ico107208_small" armsId="107002;148000|107102;148000|107202;148000|107302;148000" speed="100"/>
+    <ItemSpec id="32030" level="1" name="79031092" npcIcon="hero3" armsId="107002;151500|107102;151500|107202;151500|107302;151500" speed="100"/>
+    <ItemSpec id="32031" level="1" name="79031092" npcIcon="ico107300_small" armsId="107003;155000|107103;155000|107203;155000|107303;155000" speed="100"/>
+    <ItemSpec id="32032" level="1" name="79031092" npcIcon="ico107301_small" armsId="107003;158500|107103;158500|107203;158500|107303;158500" speed="100"/>
+    <ItemSpec id="32033" level="1" name="79031092" npcIcon="ico107302_small" armsId="107003;162000|107103;162000|107203;162000|107303;162000" speed="100"/>
+    <ItemSpec id="32034" level="1" name="79031092" npcIcon="ico107303_small" armsId="107003;165500|107103;165500|107203;165500|107303;165500" speed="100"/>
+    <ItemSpec id="32035" level="1" name="79031092" npcIcon="ico107304_small" armsId="107003;169000|107103;169000|107203;169000|107303;169000" speed="100"/>
+    <ItemSpec id="32036" level="1" name="79031092" npcIcon="ico107305_small" armsId="107003;172500|107103;172500|107203;172500|107303;172500" speed="100"/>
+    <ItemSpec id="32037" level="1" name="79031092" npcIcon="ico107306_small" armsId="107003;176000|107103;176000|107203;176000|107303;176000" speed="100"/>
+    <ItemSpec id="32038" level="1" name="79031092" npcIcon="ico107307_small" armsId="107003;179500|107103;179500|107203;179500|107303;179500" speed="100"/>
+    <ItemSpec id="32039" level="1" name="79031092" npcIcon="ico107308_small" armsId="107003;183000|107103;183000|107203;183000|107303;183000" speed="100"/>
+    <ItemSpec id="32040" level="1" name="79031092" npcIcon="hero4" armsId="107003;186500|107103;186500|107203;186500|107303;186500" speed="100"/>
+    <ItemSpec id="32041" level="1" name="79031092" npcIcon="ico107001_small" armsId="107004;190000|107104;190000|107204;190000|107304;190000" speed="100"/>
+    <ItemSpec id="32042" level="1" name="79031092" npcIcon="ico107002_small" armsId="107004;193500|107104;193500|107204;193500|107304;193500" speed="100"/>
+    <ItemSpec id="32043" level="1" name="79031092" npcIcon="ico107003_small" armsId="107004;197000|107104;197000|107204;197000|107304;197000" speed="100"/>
+    <ItemSpec id="32044" level="1" name="79031092" npcIcon="ico107004_small" armsId="107004;200500|107104;200500|107204;200500|107304;200500" speed="100"/>
+    <ItemSpec id="32045" level="1" name="79031092" npcIcon="ico107005_small" armsId="107004;204000|107104;204000|107204;204000|107304;204000" speed="100"/>
+    <ItemSpec id="32046" level="1" name="79031092" npcIcon="ico107006_small" armsId="107004;207500|107104;207500|107204;207500|107304;207500" speed="100"/>
+    <ItemSpec id="32047" level="1" name="79031092" npcIcon="ico107007_small" armsId="107004;211000|107104;211000|107204;211000|107304;211000" speed="100"/>
+    <ItemSpec id="32048" level="1" name="79031092" npcIcon="ico107008_small" armsId="107004;214500|107104;214500|107204;214500|107304;214500" speed="100"/>
+    <ItemSpec id="32049" level="1" name="79031092" npcIcon="ico107009_small" armsId="107004;218000|107104;218000|107204;218000|107304;218000" speed="100"/>
+    <ItemSpec id="32050" level="1" name="79031092" npcIcon="hero5" armsId="107004;221500|107104;221500|107204;221500|107304;221500" speed="100"/>
+    <ItemSpec id="32051" level="1" name="79031092" npcIcon="ico107101_small" armsId="107005;225000|107105;225000|107205;225000|107305;225000" speed="100"/>
+    <ItemSpec id="32052" level="1" name="79031092" npcIcon="ico107102_small" armsId="107005;228500|107105;228500|107205;228500|107305;228500" speed="100"/>
+    <ItemSpec id="32053" level="1" name="79031092" npcIcon="ico107103_small" armsId="107005;232000|107105;232000|107205;232000|107305;232000" speed="100"/>
+    <ItemSpec id="32054" level="1" name="79031092" npcIcon="ico107104_small" armsId="107005;235500|107105;235500|107205;235500|107305;235500" speed="100"/>
+    <ItemSpec id="32055" level="1" name="79031092" npcIcon="ico107105_small" armsId="107005;239000|107105;239000|107205;239000|107305;239000" speed="100"/>
+    <ItemSpec id="32056" level="1" name="79031092" npcIcon="ico107106_small" armsId="107005;242500|107105;242500|107205;242500|107305;242500" speed="100"/>
+    <ItemSpec id="32057" level="1" name="79031092" npcIcon="ico107107_small" armsId="107005;246000|107105;246000|107205;246000|107305;246000" speed="100"/>
+    <ItemSpec id="32058" level="1" name="79031092" npcIcon="ico107108_small" armsId="107005;249500|107105;249500|107205;249500|107305;249500" speed="100"/>
+    <ItemSpec id="32059" level="1" name="79031092" npcIcon="ico107109_small" armsId="107005;253000|107105;253000|107205;253000|107305;253000" speed="100"/>
+    <ItemSpec id="32060" level="1" name="79031092" npcIcon="hero6" armsId="107005;256500|107105;256500|107205;256500|107305;256500" speed="100"/>
+    <ItemSpec id="32061" level="1" name="79031092" npcIcon="ico107201_small" armsId="107006;260000|107106;260000|107206;260000|107306;260000" speed="100"/>
+    <ItemSpec id="32062" level="1" name="79031092" npcIcon="ico107202_small" armsId="107006;263500|107106;263500|107206;263500|107306;263500" speed="100"/>
+    <ItemSpec id="32063" level="1" name="79031092" npcIcon="ico107203_small" armsId="107006;267000|107106;267000|107206;267000|107306;267000" speed="100"/>
+    <ItemSpec id="32064" level="1" name="79031092" npcIcon="ico107204_small" armsId="107006;270500|107106;270500|107206;270500|107306;270500" speed="100"/>
+    <ItemSpec id="32065" level="1" name="79031092" npcIcon="ico107205_small" armsId="107006;274000|107106;274000|107206;274000|107306;274000" speed="100"/>
+    <ItemSpec id="32066" level="1" name="79031092" npcIcon="ico107206_small" armsId="107006;277500|107106;277500|107206;277500|107306;277500" speed="100"/>
+    <ItemSpec id="32067" level="1" name="79031092" npcIcon="ico107207_small" armsId="107006;281000|107106;281000|107206;281000|107306;281000" speed="100"/>
+    <ItemSpec id="32068" level="1" name="79031092" npcIcon="ico107208_small" armsId="107006;284500|107106;284500|107206;284500|107306;284500" speed="100"/>
+    <ItemSpec id="32069" level="1" name="79031092" npcIcon="ico107209_small" armsId="107006;288000|107106;288000|107206;288000|107306;288000" speed="100"/>
+    <ItemSpec id="32070" level="1" name="79031092" npcIcon="hero7" armsId="107006;291500|107106;291500|107206;291500|107306;291500" speed="100"/>
+    <ItemSpec id="32071" level="1" name="79031092" npcIcon="ico107301_small" armsId="107007;295000|107107;295000|107207;295000|107307;295000" speed="100"/>
+    <ItemSpec id="32072" level="1" name="79031092" npcIcon="ico107302_small" armsId="107007;298500|107107;298500|107207;298500|107307;298500" speed="100"/>
+    <ItemSpec id="32073" level="1" name="79031092" npcIcon="ico107303_small" armsId="107007;302000|107107;302000|107207;302000|107307;302000" speed="100"/>
+    <ItemSpec id="32074" level="1" name="79031092" npcIcon="ico107304_small" armsId="107007;305500|107107;305500|107207;305500|107307;305500" speed="100"/>
+    <ItemSpec id="32075" level="1" name="79031092" npcIcon="ico107305_small" armsId="107007;309000|107107;309000|107207;309000|107307;309000" speed="100"/>
+    <ItemSpec id="32076" level="1" name="79031092" npcIcon="ico107306_small" armsId="107007;312500|107107;312500|107207;312500|107307;312500" speed="100"/>
+    <ItemSpec id="32077" level="1" name="79031092" npcIcon="ico107307_small" armsId="107007;316000|107107;316000|107207;316000|107307;316000" speed="100"/>
+    <ItemSpec id="32078" level="1" name="79031092" npcIcon="ico107308_small" armsId="107007;319500|107107;319500|107207;319500|107307;319500" speed="100"/>
+    <ItemSpec id="32079" level="1" name="79031092" npcIcon="ico107309_small" armsId="107007;323000|107107;323000|107207;323000|107307;323000" speed="100"/>
+    <ItemSpec id="32080" level="1" name="79031092" npcIcon="hero8" armsId="107007;326500|107107;326500|107207;326500|107307;326500" speed="100"/>
+    <ItemSpec id="32081" level="1" name="79031092" npcIcon="ico107002_small" armsId="107008;330000|107108;330000|107208;330000|107308;330000" speed="100"/>
+    <ItemSpec id="32082" level="1" name="79031092" npcIcon="ico107003_small" armsId="107008;333500|107108;333500|107208;333500|107308;333500" speed="100"/>
+    <ItemSpec id="32083" level="1" name="79031092" npcIcon="ico107004_small" armsId="107008;337000|107108;337000|107208;337000|107308;337000" speed="100"/>
+    <ItemSpec id="32084" level="1" name="79031092" npcIcon="ico107005_small" armsId="107008;340500|107108;340500|107208;340500|107308;340500" speed="100"/>
+    <ItemSpec id="32085" level="1" name="79031092" npcIcon="ico107006_small" armsId="107008;344000|107108;344000|107208;344000|107308;344000" speed="100"/>
+    <ItemSpec id="32086" level="1" name="79031092" npcIcon="ico107007_small" armsId="107008;347500|107108;347500|107208;347500|107308;347500" speed="100"/>
+    <ItemSpec id="32087" level="1" name="79031092" npcIcon="ico107008_small" armsId="107008;351000|107108;351000|107208;351000|107308;351000" speed="100"/>
+    <ItemSpec id="32088" level="1" name="79031092" npcIcon="ico107009_small" armsId="107008;354500|107108;354500|107208;354500|107308;354500" speed="100"/>
+    <ItemSpec id="32089" level="1" name="79031092" npcIcon="ico107019_small" armsId="107008;358000|107108;358000|107208;358000|107308;358000" speed="100"/>
+    <ItemSpec id="32090" level="1" name="79031092" npcIcon="hero9" armsId="107008;361500|107108;361500|107208;361500|107308;361500" speed="100"/>
+    <ItemSpec id="32091" level="1" name="79031092" npcIcon="ico107102_small" armsId="107009;365000|107109;365000|107209;365000|107309;365000" speed="100"/>
+    <ItemSpec id="32092" level="1" name="79031092" npcIcon="ico107103_small" armsId="107009;368500|107109;368500|107209;368500|107309;368500" speed="100"/>
+    <ItemSpec id="32093" level="1" name="79031092" npcIcon="ico107104_small" armsId="107009;372000|107109;372000|107209;372000|107309;372000" speed="100"/>
+    <ItemSpec id="32094" level="1" name="79031092" npcIcon="ico107105_small" armsId="107009;375500|107109;375500|107209;375500|107309;375500" speed="100"/>
+    <ItemSpec id="32095" level="1" name="79031092" npcIcon="ico107106_small" armsId="107009;379000|107109;379000|107209;379000|107309;379000" speed="100"/>
+    <ItemSpec id="32096" level="1" name="79031092" npcIcon="ico107107_small" armsId="107009;382500|107109;382500|107209;382500|107309;382500" speed="100"/>
+    <ItemSpec id="32097" level="1" name="79031092" npcIcon="ico107108_small" armsId="107009;386000|107109;386000|107209;386000|107309;386000" speed="100"/>
+    <ItemSpec id="32098" level="1" name="79031092" npcIcon="ico107109_small" armsId="107009;389500|107109;389500|107209;389500|107309;389500" speed="100"/>
+    <ItemSpec id="32099" level="1" name="79031092" npcIcon="ico107119_small" armsId="107009;393000|107109;393000|107209;393000|107309;393000" speed="100"/>
+    <ItemSpec id="32100" level="1" name="79031092" npcIcon="hero10" armsId="107009;396500|107109;396500|107209;396500|107309;396500" speed="100"/>
+    <ItemSpec id="32101" level="1" name="79031092" npcIcon="ico107202_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32102" level="1" name="79031092" npcIcon="ico107203_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32103" level="1" name="79031092" npcIcon="ico107204_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32104" level="1" name="79031092" npcIcon="ico107205_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32105" level="1" name="79031092" npcIcon="ico107206_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32106" level="1" name="79031092" npcIcon="ico107207_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32107" level="1" name="79031092" npcIcon="ico107208_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32108" level="1" name="79031092" npcIcon="ico107209_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32109" level="1" name="79031092" npcIcon="ico107219_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32110" level="1" name="79031092" npcIcon="hero11" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32111" level="1" name="79031092" npcIcon="ico107002_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32112" level="1" name="79031092" npcIcon="ico107003_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32113" level="1" name="79031092" npcIcon="ico107004_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32114" level="1" name="79031092" npcIcon="ico107005_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32115" level="1" name="79031092" npcIcon="ico107006_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32116" level="1" name="79031092" npcIcon="ico107007_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32117" level="1" name="79031092" npcIcon="ico107008_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32118" level="1" name="79031092" npcIcon="ico107009_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32119" level="1" name="79031092" npcIcon="ico107019_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32120" level="1" name="79031092" npcIcon="hero12" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32121" level="1" name="79031092" npcIcon="ico107102_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32122" level="1" name="79031092" npcIcon="ico107103_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32123" level="1" name="79031092" npcIcon="ico107104_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32124" level="1" name="79031092" npcIcon="ico107105_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32125" level="1" name="79031092" npcIcon="ico107106_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32126" level="1" name="79031092" npcIcon="ico107107_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32127" level="1" name="79031092" npcIcon="ico107108_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32128" level="1" name="79031092" npcIcon="ico107109_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32129" level="1" name="79031092" npcIcon="ico107119_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32130" level="1" name="79031092" npcIcon="hero13" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32131" level="1" name="79031092" npcIcon="ico107202_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32132" level="1" name="79031092" npcIcon="ico107203_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32133" level="1" name="79031092" npcIcon="ico107204_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32134" level="1" name="79031092" npcIcon="ico107205_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32135" level="1" name="79031092" npcIcon="ico107206_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32136" level="1" name="79031092" npcIcon="ico107207_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32137" level="1" name="79031092" npcIcon="ico107208_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32138" level="1" name="79031092" npcIcon="ico107209_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32139" level="1" name="79031092" npcIcon="ico107210_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32140" level="1" name="79031092" npcIcon="hero14" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32141" level="1" name="79031092" npcIcon="ico107302_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32142" level="1" name="79031092" npcIcon="ico107303_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32143" level="1" name="79031092" npcIcon="ico107304_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32144" level="1" name="79031092" npcIcon="ico107305_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32145" level="1" name="79031092" npcIcon="ico107306_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32146" level="1" name="79031092" npcIcon="ico107307_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32147" level="1" name="79031092" npcIcon="ico107308_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32148" level="1" name="79031092" npcIcon="ico107309_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32149" level="1" name="79031092" npcIcon="ico107310_small" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    <ItemSpec id="32150" level="1" name="79031092" npcIcon="hero16" armsId="107019;400000|107119;400000|107219;400000|107319;400000" speed="100"/>
+    
+</Group>
+
+
+
+<Group id="siegeConfig">
+    <ItemSpec id="siegeBattleTime" time="2"/>
+    <ItemSpec id="battleIcon" icon="zfd_icon_zhandou01"/>
+    <ItemSpec id="rewardBar" point="10_22_36_54_74_100"/>
+    <ItemSpec id="baseSize" size="4"/>
+    <ItemSpec id="miniMap" size="19"/>
+    <ItemSpec id="miniMapDefault" icon="u_mini00"/>
+    <ItemSpec id="miniMapUnitSize"  width="114" picWidth="60"/>
+    <ItemSpec id="miniMapDefaultColor" color="200,200,200"/>
+
+
+
+
+</Group>
+
+
+<Group id="siegeTrigger">
+    <ItemSpec id="2001" triggerType="1" rate="100" triggerValue="180" delay="120" effectType="1" effectValue="200956;1000" effectIcon="item009" effectName="104037" effectDesc="79000332" worldMessage="79000332"/>
+    <ItemSpec id="2002" triggerType="1" rate="80" triggerValue="180" delay="120" effectType="1" effectValue="200956;1000" effectIcon="item006" effectName="104037" effectDesc="79000332" worldMessage="79000332"/>
+    <ItemSpec id="2003" triggerType="1" rate="50" triggerValue="180" delay="120" effectType="2" effectValue="200956" effectIcon="item007" effectName="104037" effectDesc="79000332" worldMessage="79000332"/>
+</Group>
+
+<Group id="siegeDialog">
+    <ItemSpec id="7001" dialogId="79031099"/>
+    <ItemSpec id="7002" dialogId="79031100"/>
+    <ItemSpec id="7003" dialogId="79031101"/>
+    <ItemSpec id="7004" dialogId="79031102"/>
+    <ItemSpec id="7005" dialogId="79031103"/>
+    <ItemSpec id="7006" dialogId="79031104"/>
+    <ItemSpec id="7007" dialogId="79031105"/>
+    <ItemSpec id="7008" dialogId="79031106"/>
+    <ItemSpec id="7009" dialogId="79031107"/>
+    <ItemSpec id="7010" dialogId="79031108"/>
+    <ItemSpec id="7011" dialogId="79031109"/>
+    <ItemSpec id="7012" dialogId="79031110"/>
+    <ItemSpec id="7013" dialogId="79031111"/>
+    <ItemSpec id="7014" dialogId="79031112"/>
+    <ItemSpec id="7015" dialogId="79031113"/>
+    <ItemSpec id="7016" dialogId="79031114"/>
+</Group>
+
+
+
+<Group id="siegePosition">
+    <ItemSpec id="1" x="519" y="519" miniMapX="5" miniMapY="5" connection="20;2" nearby="20;2" functionId="1080" camp="0" size="3" miniMapSize="1" name="lan0001" namePlus="79031090" nameX="119" nameY="-54"/>
+    <ItemSpec id="2" x="528" y="519" miniMapX="6" miniMapY="5" connection="21;1;3" nearby="21;1;3" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0002"/>
+    <ItemSpec id="3" x="537" y="519" miniMapX="7" miniMapY="5" connection="22;2;4" nearby="22;2;4" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0003"/>
+    <ItemSpec id="4" x="546" y="519" miniMapX="8" miniMapY="5" connection="23;3;5" nearby="23;3;5" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0004"/>
+    <ItemSpec id="5" x="555" y="519" miniMapX="9" miniMapY="5" connection="24;4;6" nearby="24;4;6" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0005"/>
+    <ItemSpec id="6" x="564" y="519" miniMapX="10" miniMapY="5" connection="25;5;7" nearby="25;5;7" functionId="1000" camp="1" size="3" miniMapSize="1" name="lan0006" namePlus="79031083" nameX="168" nameY="65"/>
+    <ItemSpec id="7" x="573" y="519" miniMapX="11" miniMapY="5" connection="26;6;8" nearby="26;6;8" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0007"/>
+    <ItemSpec id="8" x="582" y="519" miniMapX="12" miniMapY="5" connection="27;7;9" nearby="27;7;9" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0008"/>
+    <ItemSpec id="9" x="591" y="519" miniMapX="13" miniMapY="5" connection="28;8;10" nearby="28;8;10" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0009"/>
+    <ItemSpec id="10" x="600" y="519" miniMapX="14" miniMapY="5" connection="29;9;11" nearby="29;9;11" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0010"/>
+    <ItemSpec id="11" x="609" y="519" miniMapX="15" miniMapY="5" connection="30;10;12" nearby="30;10;12" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0011"/>
+    <ItemSpec id="12" x="618" y="519" miniMapX="16" miniMapY="5" connection="31;11;13" nearby="31;11;13" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0012"/>
+    <ItemSpec id="13" x="627" y="519" miniMapX="17" miniMapY="5" connection="32;12;14" nearby="32;12;14" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0013"/>
+    <ItemSpec id="14" x="636" y="519" miniMapX="18" miniMapY="5" connection="33;13;15" nearby="33;13;15" functionId="1000" camp="2" size="3" miniMapSize="1" name="lan0014" namePlus="79031083" nameX="168" nameY="65"/>
+    <ItemSpec id="15" x="645" y="519" miniMapX="19" miniMapY="5" connection="34;14;16" nearby="34;14;16" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0015"/>
+    <ItemSpec id="16" x="654" y="519" miniMapX="20" miniMapY="5" connection="35;15;17" nearby="35;15;17" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0016"/>
+    <ItemSpec id="17" x="663" y="519" miniMapX="21" miniMapY="5" connection="36;16;18" nearby="36;16;18" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0017"/>
+    <ItemSpec id="18" x="672" y="519" miniMapX="22" miniMapY="5" connection="37;17;19" nearby="37;17;19" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0018"/>
+    <ItemSpec id="19" x="681" y="519" miniMapX="23" miniMapY="5" connection="38;18" nearby="38;18" functionId="1080" camp="0" size="3" miniMapSize="1" name="lan0019" namePlus="79031090" nameX="119" nameY="-54"/>
+    <ItemSpec id="20" x="519" y="528" miniMapX="5" miniMapY="6" connection="1;39;21" nearby="1;39;21" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0020"/>
+    <ItemSpec id="21" x="528" y="528" miniMapX="6" miniMapY="6" connection="2;40;20;22" nearby="2;40;20;22" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0021"/>
+    <ItemSpec id="22" x="537" y="528" miniMapX="7" miniMapY="6" connection="3;41;21;23" nearby="3;41;21;23" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0022"/>
+    <ItemSpec id="23" x="546" y="528" miniMapX="8" miniMapY="6" connection="4;42;22;24" nearby="4;42;22;24" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0023"/>
+    <ItemSpec id="24" x="555" y="528" miniMapX="9" miniMapY="6" connection="5;43;23;25" nearby="5;43;23;25" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0024"/>
+    <ItemSpec id="25" x="564" y="528" miniMapX="10" miniMapY="6" connection="6;44;24;26" nearby="6;44;24;26" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0025"/>
+    <ItemSpec id="26" x="573" y="528" miniMapX="11" miniMapY="6" connection="7;45;25;27" nearby="7;45;25;27" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0026"/>
+    <ItemSpec id="27" x="582" y="528" miniMapX="12" miniMapY="6" connection="8;46;26;28" nearby="8;46;26;28" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0027"/>
+    <ItemSpec id="28" x="591" y="528" miniMapX="13" miniMapY="6" connection="9;47;27;29" nearby="9;47;27;29" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0028"/>
+    <ItemSpec id="29" x="600" y="528" miniMapX="14" miniMapY="6" connection="10;48;28;30" nearby="10;48;28;30" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0029"/>
+    <ItemSpec id="30" x="609" y="528" miniMapX="15" miniMapY="6" connection="11;49;29;31" nearby="11;49;29;31" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0030"/>
+    <ItemSpec id="31" x="618" y="528" miniMapX="16" miniMapY="6" connection="12;50;30;32" nearby="12;50;30;32" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0031"/>
+    <ItemSpec id="32" x="627" y="528" miniMapX="17" miniMapY="6" connection="13;51;31;33" nearby="13;51;31;33" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0032"/>
+    <ItemSpec id="33" x="636" y="528" miniMapX="18" miniMapY="6" connection="14;52;32;34" nearby="14;52;32;34" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0033"/>
+    <ItemSpec id="34" x="645" y="528" miniMapX="19" miniMapY="6" connection="15;53;33;35" nearby="15;53;33;35" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0034"/>
+    <ItemSpec id="35" x="654" y="528" miniMapX="20" miniMapY="6" connection="16;54;34;36" nearby="16;54;34;36" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0035"/>
+    <ItemSpec id="36" x="663" y="528" miniMapX="21" miniMapY="6" connection="17;55;35;37" nearby="17;55;35;37" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0036"/>
+    <ItemSpec id="37" x="672" y="528" miniMapX="22" miniMapY="6" connection="18;56;36;38" nearby="18;56;36;38" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0037"/>
+    <ItemSpec id="38" x="681" y="528" miniMapX="23" miniMapY="6" connection="19;57;37" nearby="19;57;37" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0038"/>
+    <ItemSpec id="39" x="519" y="537" miniMapX="5" miniMapY="7" connection="20;58;40" nearby="20;58;40" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0039"/>
+    <ItemSpec id="40" x="528" y="537" miniMapX="6" miniMapY="7" connection="21;59;39;41" nearby="21;59;39;41" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0040"/>
+    <ItemSpec id="41" x="537" y="537" miniMapX="7" miniMapY="7" connection="22;60;40;42" nearby="22;60;40;42" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0041"/>
+    <ItemSpec id="42" x="546" y="537" miniMapX="8" miniMapY="7" connection="23;61;41;43" nearby="23;61;41;43" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0042"/>
+    <ItemSpec id="43" x="555" y="537" miniMapX="9" miniMapY="7" connection="24;62;42;44" nearby="24;62;42;44" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0043"/>
+    <ItemSpec id="44" x="564" y="537" miniMapX="10" miniMapY="7" connection="25;63;43;45" nearby="25;63;43;45" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0044"/>
+    <ItemSpec id="45" x="573" y="537" miniMapX="11" miniMapY="7" connection="26;64;44;46" nearby="26;64;44;46" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0045"/>
+    <ItemSpec id="46" x="582" y="537" miniMapX="12" miniMapY="7" connection="27;65;45;47" nearby="27;65;45;47" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0046"/>
+    <ItemSpec id="47" x="591" y="537" miniMapX="13" miniMapY="7" connection="28;66;46;48" nearby="28;66;46;48" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0047"/>
+    <ItemSpec id="48" x="600" y="537" miniMapX="14" miniMapY="7" connection="29;67;47;49" nearby="29;67;47;49" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0048"/>
+    <ItemSpec id="49" x="609" y="537" miniMapX="15" miniMapY="7" connection="30;68;48;50" nearby="30;68;48;50" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0049"/>
+    <ItemSpec id="50" x="618" y="537" miniMapX="16" miniMapY="7" connection="31;69;49;51" nearby="31;69;49;51" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0050"/>
+    <ItemSpec id="51" x="627" y="537" miniMapX="17" miniMapY="7" connection="32;70;50;52" nearby="32;70;50;52" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0051"/>
+    <ItemSpec id="52" x="636" y="537" miniMapX="18" miniMapY="7" connection="33;71;51;53" nearby="33;71;51;53" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0052"/>
+    <ItemSpec id="53" x="645" y="537" miniMapX="19" miniMapY="7" connection="34;72;52;54" nearby="34;72;52;54" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0053"/>
+    <ItemSpec id="54" x="654" y="537" miniMapX="20" miniMapY="7" connection="35;73;53;55" nearby="35;73;53;55" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0054"/>
+    <ItemSpec id="55" x="663" y="537" miniMapX="21" miniMapY="7" connection="36;74;54;56" nearby="36;74;54;56" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0055"/>
+    <ItemSpec id="56" x="672" y="537" miniMapX="22" miniMapY="7" connection="37;75;55;57" nearby="37;75;55;57" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0056"/>
+    <ItemSpec id="57" x="681" y="537" miniMapX="23" miniMapY="7" connection="38;76;56" nearby="38;76;56" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0057"/>
+    <ItemSpec id="58" x="519" y="546" miniMapX="5" miniMapY="8" connection="39;77;59" nearby="39;77;59" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0058"/>
+    <ItemSpec id="59" x="528" y="546" miniMapX="6" miniMapY="8" connection="40;78;58;60" nearby="40;78;58;60" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0059"/>
+    <ItemSpec id="60" x="537" y="546" miniMapX="7" miniMapY="8" connection="41;79;59;61" nearby="41;79;59;61" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0060"/>
+    <ItemSpec id="61" x="546" y="546" miniMapX="8" miniMapY="8" connection="42;80;60;62" nearby="42;80;60;62" functionId="1060" camp="0" size="1" miniMapSize="1" name="lan0061" namePlus="79031084"/>
+    <ItemSpec id="62" x="555" y="546" miniMapX="9" miniMapY="8" connection="43;81;61;63" nearby="43;81;61;63" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0062"/>
+    <ItemSpec id="63" x="564" y="546" miniMapX="10" miniMapY="8" connection="44;82;62;64" nearby="44;82;62;64" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0063"/>
+    <ItemSpec id="64" x="573" y="546" miniMapX="11" miniMapY="8" connection="45;83;63;65" nearby="45;83;63;65" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0064"/>
+    <ItemSpec id="65" x="582" y="546" miniMapX="12" miniMapY="8" connection="46;84;64;66" nearby="46;84;64;66" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0065"/>
+    <ItemSpec id="66" x="591" y="546" miniMapX="13" miniMapY="8" connection="47;85;65;67" nearby="47;85;65;67" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0066"/>
+    <ItemSpec id="67" x="600" y="546" miniMapX="14" miniMapY="8" connection="48;86;66;68" nearby="48;86;66;68" functionId="1060" camp="0" size="1" miniMapSize="1" name="lan0067" namePlus="79031084"/>
+    <ItemSpec id="68" x="609" y="546" miniMapX="15" miniMapY="8" connection="49;87;67;69" nearby="49;87;67;69" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0068"/>
+    <ItemSpec id="69" x="618" y="546" miniMapX="16" miniMapY="8" connection="50;88;68;70" nearby="50;88;68;70" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0069"/>
+    <ItemSpec id="70" x="627" y="546" miniMapX="17" miniMapY="8" connection="51;89;69;71" nearby="51;89;69;71" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0070"/>
+    <ItemSpec id="71" x="636" y="546" miniMapX="18" miniMapY="8" connection="52;90;70;72" nearby="52;90;70;72" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0071"/>
+    <ItemSpec id="72" x="645" y="546" miniMapX="19" miniMapY="8" connection="53;91;71;73" nearby="53;91;71;73" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0072"/>
+    <ItemSpec id="73" x="654" y="546" miniMapX="20" miniMapY="8" connection="54;92;72;74" nearby="54;92;72;74" functionId="1060" camp="0" size="1" miniMapSize="1" name="lan0073" namePlus="79031084"/>
+    <ItemSpec id="74" x="663" y="546" miniMapX="21" miniMapY="8" connection="55;93;73;75" nearby="55;93;73;75" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0074"/>
+    <ItemSpec id="75" x="672" y="546" miniMapX="22" miniMapY="8" connection="56;94;74;76" nearby="56;94;74;76" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0075"/>
+    <ItemSpec id="76" x="681" y="546" miniMapX="23" miniMapY="8" connection="57;95;75" nearby="57;95;75" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0076"/>
+    <ItemSpec id="77" x="519" y="555" miniMapX="5" miniMapY="9" connection="58;96;78" nearby="58;96;78" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0077"/>
+    <ItemSpec id="78" x="528" y="555" miniMapX="6" miniMapY="9" connection="59;97;77;79" nearby="59;97;77;79" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0078"/>
+    <ItemSpec id="79" x="537" y="555" miniMapX="7" miniMapY="9" connection="60;98;78;80" nearby="60;98;78;80" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0079"/>
+    <ItemSpec id="80" x="546" y="555" miniMapX="8" miniMapY="9" connection="61;99;79;81" nearby="61;99;79;81" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0080"/>
+    <ItemSpec id="81" x="555" y="555" miniMapX="9" miniMapY="9" connection="62;100;80;82" nearby="62;100;80;82" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0081"/>
+    <ItemSpec id="82" x="564" y="555" miniMapX="10" miniMapY="9" connection="63;81;83" nearby="63;81;83" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0082"/>
+    <ItemSpec id="83" x="573" y="555" miniMapX="11" miniMapY="9" connection="64;82;84" nearby="64;82;84" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0083"/>
+    <ItemSpec id="84" x="582" y="555" miniMapX="12" miniMapY="9" connection="65;83;85" nearby="65;83;85" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0084"/>
+    <ItemSpec id="85" x="591" y="555" miniMapX="13" miniMapY="9" connection="66;84;86" nearby="66;84;86" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0085"/>
+    <ItemSpec id="86" x="600" y="555" miniMapX="14" miniMapY="9" connection="67;105;85;87" nearby="67;105;85;87" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0086"/>
+    <ItemSpec id="87" x="609" y="555" miniMapX="15" miniMapY="9" connection="68;86;88" nearby="68;86;88" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0087"/>
+    <ItemSpec id="88" x="618" y="555" miniMapX="16" miniMapY="9" connection="69;87;89" nearby="69;87;89" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0088"/>
+    <ItemSpec id="89" x="627" y="555" miniMapX="17" miniMapY="9" connection="70;88;90" nearby="70;88;90" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0089"/>
+    <ItemSpec id="90" x="636" y="555" miniMapX="18" miniMapY="9" connection="71;89;91" nearby="71;89;91" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0090"/>
+    <ItemSpec id="91" x="645" y="555" miniMapX="19" miniMapY="9" connection="72;110;90;92" nearby="72;110;90;92" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0091"/>
+    <ItemSpec id="92" x="654" y="555" miniMapX="20" miniMapY="9" connection="73;111;91;93" nearby="73;111;91;93" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0092"/>
+    <ItemSpec id="93" x="663" y="555" miniMapX="21" miniMapY="9" connection="74;112;92;94" nearby="74;112;92;94" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0093"/>
+    <ItemSpec id="94" x="672" y="555" miniMapX="22" miniMapY="9" connection="75;113;93;95" nearby="75;113;93;95" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0094"/>
+    <ItemSpec id="95" x="681" y="555" miniMapX="23" miniMapY="9" connection="76;114;94" nearby="76;114;94" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0095"/>
+    <ItemSpec id="96" x="519" y="564" miniMapX="5" miniMapY="10" connection="77;115;97" nearby="77;115;97" functionId="1000" camp="8" size="3" miniMapSize="1" name="lan0096" namePlus="79031083" nameX="168" nameY="65"/>
+    <ItemSpec id="97" x="528" y="564" miniMapX="6" miniMapY="10" connection="78;116;96;98" nearby="78;116;96;98" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0097"/>
+    <ItemSpec id="98" x="537" y="564" miniMapX="7" miniMapY="10" connection="79;117;97;99" nearby="79;117;97;99" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0098"/>
+    <ItemSpec id="99" x="546" y="564" miniMapX="8" miniMapY="10" connection="80;118;98;100" nearby="80;118;98;100" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0099"/>
+    <ItemSpec id="100" x="555" y="564" miniMapX="9" miniMapY="10" connection="81;119;99" nearby="81;119;99" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0100"/>
+
+
+
+
+    <ItemSpec id="105" x="600" y="564" miniMapX="14" miniMapY="10" connection="86;124" nearby="86;124" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0105"/>
+
+
+
+
+    <ItemSpec id="110" x="645" y="564" miniMapX="19" miniMapY="10" connection="91;129;111" nearby="91;129;111" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0110"/>
+    <ItemSpec id="111" x="654" y="564" miniMapX="20" miniMapY="10" connection="92;130;110;112" nearby="92;130;110;112" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0111"/>
+    <ItemSpec id="112" x="663" y="564" miniMapX="21" miniMapY="10" connection="93;131;111;113" nearby="93;131;111;113" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0112"/>
+    <ItemSpec id="113" x="672" y="564" miniMapX="22" miniMapY="10" connection="94;132;112;114" nearby="94;132;112;114" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0113"/>
+    <ItemSpec id="114" x="681" y="564" miniMapX="23" miniMapY="10" connection="95;133;113" nearby="95;133;113" functionId="1000" camp="3" size="3" miniMapSize="1" name="lan0114" namePlus="79031083" nameX="168" nameY="65"/>
+    <ItemSpec id="115" x="519" y="573" miniMapX="5" miniMapY="11" connection="96;134;116" nearby="96;134;116" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0115"/>
+    <ItemSpec id="116" x="528" y="573" miniMapX="6" miniMapY="11" connection="97;135;115;117" nearby="97;135;115;117" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0116"/>
+    <ItemSpec id="117" x="537" y="573" miniMapX="7" miniMapY="11" connection="98;136;116;118" nearby="98;136;116;118" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0117"/>
+    <ItemSpec id="118" x="546" y="573" miniMapX="8" miniMapY="11" connection="99;137;117;119" nearby="99;137;117;119" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0118"/>
+    <ItemSpec id="119" x="555" y="573" miniMapX="9" miniMapY="11" connection="100;138;118" nearby="100;138;118" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0119"/>
+
+    <ItemSpec id="121" x="573" y="573" miniMapX="11" miniMapY="11" connection="140;122" nearby="140;122" functionId="1035" camp="0" size="1" miniMapSize="1" name="lan0121"/>
+    <ItemSpec id="122" x="582" y="573" miniMapX="12" miniMapY="11" connection="141;121;123" nearby="141;121;123" functionId="1035" camp="0" size="1" miniMapSize="1" name="lan0122"/>
+    <ItemSpec id="123" x="591" y="573" miniMapX="13" miniMapY="11" connection="142;122;124" nearby="142;122;124" functionId="1035" camp="0" size="1" miniMapSize="1" name="lan0123"/>
+    <ItemSpec id="124" x="600" y="573" miniMapX="14" miniMapY="11" connection="105;143;123;125" nearby="105;143;123;125" functionId="1035" camp="0" size="1" miniMapSize="1" name="lan0124"/>
+    <ItemSpec id="125" x="609" y="573" miniMapX="15" miniMapY="11" connection="144;124;126" nearby="144;124;126" functionId="1035" camp="0" size="1" miniMapSize="1" name="lan0125"/>
+    <ItemSpec id="126" x="618" y="573" miniMapX="16" miniMapY="11" connection="145;125;127" nearby="145;125;127" functionId="1035" camp="0" size="1" miniMapSize="1" name="lan0126"/>
+    <ItemSpec id="127" x="627" y="573" miniMapX="17" miniMapY="11" connection="146;126" nearby="146;126" functionId="1035" camp="0" size="1" miniMapSize="1" name="lan0127"/>
+
+    <ItemSpec id="129" x="645" y="573" miniMapX="19" miniMapY="11" connection="110;148;130" nearby="110;148;130" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0129"/>
+    <ItemSpec id="130" x="654" y="573" miniMapX="20" miniMapY="11" connection="111;149;129;131" nearby="111;149;129;131" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0130"/>
+    <ItemSpec id="131" x="663" y="573" miniMapX="21" miniMapY="11" connection="112;150;130;132" nearby="112;150;130;132" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0131"/>
+    <ItemSpec id="132" x="672" y="573" miniMapX="22" miniMapY="11" connection="113;151;131;133" nearby="113;151;131;133" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0132"/>
+    <ItemSpec id="133" x="681" y="573" miniMapX="23" miniMapY="11" connection="114;152;132" nearby="114;152;132" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0133"/>
+    <ItemSpec id="134" x="519" y="582" miniMapX="5" miniMapY="12" connection="115;153;135" nearby="115;153;135" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0134"/>
+    <ItemSpec id="135" x="528" y="582" miniMapX="6" miniMapY="12" connection="116;154;134;136" nearby="116;154;134;136" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0135"/>
+    <ItemSpec id="136" x="537" y="582" miniMapX="7" miniMapY="12" connection="117;155;135;137" nearby="117;155;135;137" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0136"/>
+    <ItemSpec id="137" x="546" y="582" miniMapX="8" miniMapY="12" connection="118;156;136;138" nearby="118;156;136;138" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0137"/>
+    <ItemSpec id="138" x="555" y="582" miniMapX="9" miniMapY="12" connection="119;157;137" nearby="119;157;137" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0138"/>
+
+    <ItemSpec id="140" x="573" y="582" miniMapX="11" miniMapY="12" connection="121;159;141" nearby="121;159;141" functionId="1035" camp="0" size="1" miniMapSize="1" name="lan0140"/>
+    <ItemSpec id="141" x="582" y="582" miniMapX="12" miniMapY="12" connection="122;160;140;142" nearby="122;160;140;142" functionId="1036" camp="0" size="1" miniMapSize="1" name="lan0141"/>
+    <ItemSpec id="142" x="591" y="582" miniMapX="13" miniMapY="12" connection="123;161;141;143" nearby="123;161;141;143" functionId="1036" camp="0" size="1" miniMapSize="1" name="lan0142"/>
+    <ItemSpec id="143" x="600" y="582" miniMapX="14" miniMapY="12" connection="124;162;142;144" nearby="124;162;142;144" functionId="1036" camp="0" size="1" miniMapSize="1" name="lan0143"/>
+    <ItemSpec id="144" x="609" y="582" miniMapX="15" miniMapY="12" connection="125;163;143;145" nearby="125;163;143;145" functionId="1036" camp="0" size="1" miniMapSize="1" name="lan0144"/>
+    <ItemSpec id="145" x="618" y="582" miniMapX="16" miniMapY="12" connection="126;164;144;146" nearby="126;164;144;146" functionId="1036" camp="0" size="1" miniMapSize="1" name="lan0145"/>
+    <ItemSpec id="146" x="627" y="582" miniMapX="17" miniMapY="12" connection="127;165;145" nearby="127;165;145" functionId="1035" camp="0" size="1" miniMapSize="1" name="lan0146"/>
+
+    <ItemSpec id="148" x="645" y="582" miniMapX="19" miniMapY="12" connection="129;167;149" nearby="129;167;149" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0148"/>
+    <ItemSpec id="149" x="654" y="582" miniMapX="20" miniMapY="12" connection="130;168;148;150" nearby="130;168;148;150" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0149"/>
+    <ItemSpec id="150" x="663" y="582" miniMapX="21" miniMapY="12" connection="131;169;149;151" nearby="131;169;149;151" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0150"/>
+    <ItemSpec id="151" x="672" y="582" miniMapX="22" miniMapY="12" connection="132;170;150;152" nearby="132;170;150;152" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0151"/>
+    <ItemSpec id="152" x="681" y="582" miniMapX="23" miniMapY="12" connection="133;171;151" nearby="133;171;151" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0152"/>
+    <ItemSpec id="153" x="519" y="591" miniMapX="5" miniMapY="13" connection="134;172;154" nearby="134;172;154" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0153"/>
+    <ItemSpec id="154" x="528" y="591" miniMapX="6" miniMapY="13" connection="135;173;153;155" nearby="135;173;153;155" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0154"/>
+    <ItemSpec id="155" x="537" y="591" miniMapX="7" miniMapY="13" connection="136;174;154;156" nearby="136;174;154;156" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0155"/>
+    <ItemSpec id="156" x="546" y="591" miniMapX="8" miniMapY="13" connection="137;175;155;157" nearby="137;175;155;157" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0156"/>
+    <ItemSpec id="157" x="555" y="591" miniMapX="9" miniMapY="13" connection="138;176;156" nearby="138;176;156" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0157"/>
+
+    <ItemSpec id="159" x="573" y="591" miniMapX="11" miniMapY="13" connection="140;178;160" nearby="140;178;160" functionId="1035" camp="0" size="1" miniMapSize="1" name="lan0159"/>
+    <ItemSpec id="160" x="582" y="591" miniMapX="12" miniMapY="13" connection="141;179;159;161" nearby="141;179;159;161" functionId="1036" camp="0" size="1" miniMapSize="1" name="lan0160"/>
+    <ItemSpec id="161" x="591" y="591" miniMapX="13" miniMapY="13" connection="142;180;160;162" nearby="142;180;160;162" functionId="1037" camp="0" size="1" miniMapSize="1" name="lan0161"/>
+    <ItemSpec id="162" x="600" y="591" miniMapX="14" miniMapY="13" connection="143;181;161;163" nearby="143;181;161;163" functionId="1037" camp="0" size="1" miniMapSize="1" name="lan0162"/>
+    <ItemSpec id="163" x="609" y="591" miniMapX="15" miniMapY="13" connection="144;182;162;164" nearby="144;182;162;164" functionId="1037" camp="0" size="1" miniMapSize="1" name="lan0163"/>
+    <ItemSpec id="164" x="618" y="591" miniMapX="16" miniMapY="13" connection="145;183;163;165" nearby="145;183;163;165" functionId="1036" camp="0" size="1" miniMapSize="1" name="lan0164"/>
+    <ItemSpec id="165" x="627" y="591" miniMapX="17" miniMapY="13" connection="146;184;164" nearby="146;184;164" functionId="1035" camp="0" size="1" miniMapSize="1" name="lan0165"/>
+
+    <ItemSpec id="167" x="645" y="591" miniMapX="19" miniMapY="13" connection="148;186;168" nearby="148;186;168" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0167"/>
+    <ItemSpec id="168" x="654" y="591" miniMapX="20" miniMapY="13" connection="149;187;167;169" nearby="149;187;167;169" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0168"/>
+    <ItemSpec id="169" x="663" y="591" miniMapX="21" miniMapY="13" connection="150;188;168;170" nearby="150;188;168;170" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0169"/>
+    <ItemSpec id="170" x="672" y="591" miniMapX="22" miniMapY="13" connection="151;189;169;171" nearby="151;189;169;171" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0170"/>
+    <ItemSpec id="171" x="681" y="591" miniMapX="23" miniMapY="13" connection="152;190;170" nearby="152;190;170" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0171"/>
+    <ItemSpec id="172" x="519" y="600" miniMapX="5" miniMapY="14" connection="153;191;173" nearby="153;191;173" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0172"/>
+    <ItemSpec id="173" x="528" y="600" miniMapX="6" miniMapY="14" connection="154;192;172;174" nearby="154;192;172;174" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0173"/>
+    <ItemSpec id="174" x="537" y="600" miniMapX="7" miniMapY="14" connection="155;193;173;175" nearby="155;193;173;175" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0174"/>
+    <ItemSpec id="175" x="546" y="600" miniMapX="8" miniMapY="14" connection="156;194;174;176" nearby="156;194;174;176" functionId="1060" camp="0" size="1" miniMapSize="1" name="lan0175" namePlus="79031084"/>
+    <ItemSpec id="176" x="555" y="600" miniMapX="9" miniMapY="14" connection="157;195;175;177" nearby="157;195;175;177" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0176"/>
+    <ItemSpec id="177" x="564" y="600" miniMapX="10" miniMapY="14" connection="176;178" nearby="176;178" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0177"/>
+    <ItemSpec id="178" x="573" y="600" miniMapX="11" miniMapY="14" connection="159;197;177;179" nearby="159;197;177;179" functionId="1035" camp="0" size="1" miniMapSize="1" name="lan0178"/>
+    <ItemSpec id="179" x="582" y="600" miniMapX="12" miniMapY="14" connection="160;198;178;180" nearby="160;198;178;180" functionId="1036" camp="0" size="1" miniMapSize="1" name="lan0179"/>
+    <ItemSpec id="180" x="591" y="600" miniMapX="13" miniMapY="14" connection="161;199;179;181" nearby="161;199;179;181" functionId="1037" camp="0" size="1" miniMapSize="1" name="lan0180"/>
+    <ItemSpec id="181" x="600" y="600" miniMapX="14" miniMapY="14" connection="162;200;180;182" nearby="162;200;180;182" functionId="1061" camp="0" size="3" miniMapSize="1" name="lan0181" namePlus="79031085" nameX="100" nameY="-50"/>
+    <ItemSpec id="182" x="609" y="600" miniMapX="15" miniMapY="14" connection="163;201;181;183" nearby="163;201;181;183" functionId="1037" camp="0" size="1" miniMapSize="1" name="lan0182"/>
+    <ItemSpec id="183" x="618" y="600" miniMapX="16" miniMapY="14" connection="164;202;182;184" nearby="164;202;182;184" functionId="1036" camp="0" size="1" miniMapSize="1" name="lan0183"/>
+    <ItemSpec id="184" x="627" y="600" miniMapX="17" miniMapY="14" connection="165;203;183;185" nearby="165;203;183;185" functionId="1035" camp="0" size="1" miniMapSize="1" name="lan0184"/>
+    <ItemSpec id="185" x="636" y="600" miniMapX="18" miniMapY="14" connection="184;186" nearby="184;186" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0185"/>
+    <ItemSpec id="186" x="645" y="600" miniMapX="19" miniMapY="14" connection="167;205;185;187" nearby="167;205;185;187" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0186"/>
+    <ItemSpec id="187" x="654" y="600" miniMapX="20" miniMapY="14" connection="168;206;186;188" nearby="168;206;186;188" functionId="1060" camp="0" size="1" miniMapSize="1" name="lan0187" namePlus="79031084"/>
+    <ItemSpec id="188" x="663" y="600" miniMapX="21" miniMapY="14" connection="169;207;187;189" nearby="169;207;187;189" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0188"/>
+    <ItemSpec id="189" x="672" y="600" miniMapX="22" miniMapY="14" connection="170;208;188;190" nearby="170;208;188;190" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0189"/>
+    <ItemSpec id="190" x="681" y="600" miniMapX="23" miniMapY="14" connection="171;209;189" nearby="171;209;189" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0190"/>
+    <ItemSpec id="191" x="519" y="609" miniMapX="5" miniMapY="15" connection="172;210;192" nearby="172;210;192" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0191"/>
+    <ItemSpec id="192" x="528" y="609" miniMapX="6" miniMapY="15" connection="173;211;191;193" nearby="173;211;191;193" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0192"/>
+    <ItemSpec id="193" x="537" y="609" miniMapX="7" miniMapY="15" connection="174;212;192;194" nearby="174;212;192;194" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0193"/>
+    <ItemSpec id="194" x="546" y="609" miniMapX="8" miniMapY="15" connection="175;213;193;195" nearby="175;213;193;195" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0194"/>
+    <ItemSpec id="195" x="555" y="609" miniMapX="9" miniMapY="15" connection="176;214;194" nearby="176;214;194" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0195"/>
+
+    <ItemSpec id="197" x="573" y="609" miniMapX="11" miniMapY="15" connection="178;216;198" nearby="178;216;198" functionId="1035" camp="0" size="1" miniMapSize="1" name="lan0197"/>
+    <ItemSpec id="198" x="582" y="609" miniMapX="12" miniMapY="15" connection="179;217;197;199" nearby="179;217;197;199" functionId="1036" camp="0" size="1" miniMapSize="1" name="lan0198"/>
+    <ItemSpec id="199" x="591" y="609" miniMapX="13" miniMapY="15" connection="180;218;198;200" nearby="180;218;198;200" functionId="1037" camp="0" size="1" miniMapSize="1" name="lan0199"/>
+    <ItemSpec id="200" x="600" y="609" miniMapX="14" miniMapY="15" connection="181;219;199;201" nearby="181;219;199;201" functionId="1037" camp="0" size="1" miniMapSize="1" name="lan0200"/>
+    <ItemSpec id="201" x="609" y="609" miniMapX="15" miniMapY="15" connection="182;220;200;202" nearby="182;220;200;202" functionId="1037" camp="0" size="1" miniMapSize="1" name="lan0201"/>
+    <ItemSpec id="202" x="618" y="609" miniMapX="16" miniMapY="15" connection="183;221;201;203" nearby="183;221;201;203" functionId="1036" camp="0" size="1" miniMapSize="1" name="lan0202"/>
+    <ItemSpec id="203" x="627" y="609" miniMapX="17" miniMapY="15" connection="184;222;202" nearby="184;222;202" functionId="1035" camp="0" size="1" miniMapSize="1" name="lan0203"/>
+
+    <ItemSpec id="205" x="645" y="609" miniMapX="19" miniMapY="15" connection="186;224;206" nearby="186;224;206" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0205"/>
+    <ItemSpec id="206" x="654" y="609" miniMapX="20" miniMapY="15" connection="187;225;205;207" nearby="187;225;205;207" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0206"/>
+    <ItemSpec id="207" x="663" y="609" miniMapX="21" miniMapY="15" connection="188;226;206;208" nearby="188;226;206;208" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0207"/>
+    <ItemSpec id="208" x="672" y="609" miniMapX="22" miniMapY="15" connection="189;227;207;209" nearby="189;227;207;209" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0208"/>
+    <ItemSpec id="209" x="681" y="609" miniMapX="23" miniMapY="15" connection="190;228;208" nearby="190;228;208" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0209"/>
+    <ItemSpec id="210" x="519" y="618" miniMapX="5" miniMapY="16" connection="191;229;211" nearby="191;229;211" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0210"/>
+    <ItemSpec id="211" x="528" y="618" miniMapX="6" miniMapY="16" connection="192;230;210;212" nearby="192;230;210;212" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0211"/>
+    <ItemSpec id="212" x="537" y="618" miniMapX="7" miniMapY="16" connection="193;231;211;213" nearby="193;231;211;213" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0212"/>
+    <ItemSpec id="213" x="546" y="618" miniMapX="8" miniMapY="16" connection="194;232;212;214" nearby="194;232;212;214" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0213"/>
+    <ItemSpec id="214" x="555" y="618" miniMapX="9" miniMapY="16" connection="195;233;213" nearby="195;233;213" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0214"/>
+
+    <ItemSpec id="216" x="573" y="618" miniMapX="11" miniMapY="16" connection="197;235;217" nearby="197;235;217" functionId="1035" camp="0" size="1" miniMapSize="1" name="lan0216"/>
+    <ItemSpec id="217" x="582" y="618" miniMapX="12" miniMapY="16" connection="198;236;216;218" nearby="198;236;216;218" functionId="1036" camp="0" size="1" miniMapSize="1" name="lan0217"/>
+    <ItemSpec id="218" x="591" y="618" miniMapX="13" miniMapY="16" connection="199;237;217;219" nearby="199;237;217;219" functionId="1036" camp="0" size="1" miniMapSize="1" name="lan0218"/>
+    <ItemSpec id="219" x="600" y="618" miniMapX="14" miniMapY="16" connection="200;238;218;220" nearby="200;238;218;220" functionId="1036" camp="0" size="1" miniMapSize="1" name="lan0219"/>
+    <ItemSpec id="220" x="609" y="618" miniMapX="15" miniMapY="16" connection="201;239;219;221" nearby="201;239;219;221" functionId="1036" camp="0" size="1" miniMapSize="1" name="lan0220"/>
+    <ItemSpec id="221" x="618" y="618" miniMapX="16" miniMapY="16" connection="202;240;220;222" nearby="202;240;220;222" functionId="1036" camp="0" size="1" miniMapSize="1" name="lan0221"/>
+    <ItemSpec id="222" x="627" y="618" miniMapX="17" miniMapY="16" connection="203;241;221" nearby="203;241;221" functionId="1035" camp="0" size="1" miniMapSize="1" name="lan0222"/>
+
+    <ItemSpec id="224" x="645" y="618" miniMapX="19" miniMapY="16" connection="205;243;225" nearby="205;243;225" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0224"/>
+    <ItemSpec id="225" x="654" y="618" miniMapX="20" miniMapY="16" connection="206;244;224;226" nearby="206;244;224;226" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0225"/>
+    <ItemSpec id="226" x="663" y="618" miniMapX="21" miniMapY="16" connection="207;245;225;227" nearby="207;245;225;227" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0226"/>
+    <ItemSpec id="227" x="672" y="618" miniMapX="22" miniMapY="16" connection="208;246;226;228" nearby="208;246;226;228" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0227"/>
+    <ItemSpec id="228" x="681" y="618" miniMapX="23" miniMapY="16" connection="209;247;227" nearby="209;247;227" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0228"/>
+    <ItemSpec id="229" x="519" y="627" miniMapX="5" miniMapY="17" connection="210;248;230" nearby="210;248;230" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0229"/>
+    <ItemSpec id="230" x="528" y="627" miniMapX="6" miniMapY="17" connection="211;249;229;231" nearby="211;249;229;231" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0230"/>
+    <ItemSpec id="231" x="537" y="627" miniMapX="7" miniMapY="17" connection="212;250;230;232" nearby="212;250;230;232" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0231"/>
+    <ItemSpec id="232" x="546" y="627" miniMapX="8" miniMapY="17" connection="213;251;231;233" nearby="213;251;231;233" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0232"/>
+    <ItemSpec id="233" x="555" y="627" miniMapX="9" miniMapY="17" connection="214;252;232" nearby="214;252;232" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0233"/>
+
+    <ItemSpec id="235" x="573" y="627" miniMapX="11" miniMapY="17" connection="216;236" nearby="216;236" functionId="1035" camp="0" size="1" miniMapSize="1" name="lan0235"/>
+    <ItemSpec id="236" x="582" y="627" miniMapX="12" miniMapY="17" connection="217;235;237" nearby="217;235;237" functionId="1035" camp="0" size="1" miniMapSize="1" name="lan0236"/>
+    <ItemSpec id="237" x="591" y="627" miniMapX="13" miniMapY="17" connection="218;236;238" nearby="218;236;238" functionId="1035" camp="0" size="1" miniMapSize="1" name="lan0237"/>
+    <ItemSpec id="238" x="600" y="627" miniMapX="14" miniMapY="17" connection="219;257;237;239" nearby="219;257;237;239" functionId="1035" camp="0" size="1" miniMapSize="1" name="lan0238"/>
+    <ItemSpec id="239" x="609" y="627" miniMapX="15" miniMapY="17" connection="220;238;240" nearby="220;238;240" functionId="1035" camp="0" size="1" miniMapSize="1" name="lan0239"/>
+    <ItemSpec id="240" x="618" y="627" miniMapX="16" miniMapY="17" connection="221;239;241" nearby="221;239;241" functionId="1035" camp="0" size="1" miniMapSize="1" name="lan0240"/>
+    <ItemSpec id="241" x="627" y="627" miniMapX="17" miniMapY="17" connection="222;240" nearby="222;240" functionId="1035" camp="0" size="1" miniMapSize="1" name="lan0241"/>
+
+    <ItemSpec id="243" x="645" y="627" miniMapX="19" miniMapY="17" connection="224;262;244" nearby="224;262;244" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0243"/>
+    <ItemSpec id="244" x="654" y="627" miniMapX="20" miniMapY="17" connection="225;263;243;245" nearby="225;263;243;245" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0244"/>
+    <ItemSpec id="245" x="663" y="627" miniMapX="21" miniMapY="17" connection="226;264;244;246" nearby="226;264;244;246" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0245"/>
+    <ItemSpec id="246" x="672" y="627" miniMapX="22" miniMapY="17" connection="227;265;245;247" nearby="227;265;245;247" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0246"/>
+    <ItemSpec id="247" x="681" y="627" miniMapX="23" miniMapY="17" connection="228;266;246" nearby="228;266;246" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0247"/>
+    <ItemSpec id="248" x="519" y="636" miniMapX="5" miniMapY="18" connection="229;267;249" nearby="229;267;249" functionId="1000" camp="7" size="3" miniMapSize="1" name="lan0248" namePlus="79031083" nameX="168" nameY="65"/>
+    <ItemSpec id="249" x="528" y="636" miniMapX="6" miniMapY="18" connection="230;268;248;250" nearby="230;268;248;250" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0249"/>
+    <ItemSpec id="250" x="537" y="636" miniMapX="7" miniMapY="18" connection="231;269;249;251" nearby="231;269;249;251" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0250"/>
+    <ItemSpec id="251" x="546" y="636" miniMapX="8" miniMapY="18" connection="232;270;250;252" nearby="232;270;250;252" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0251"/>
+    <ItemSpec id="252" x="555" y="636" miniMapX="9" miniMapY="18" connection="233;271;251" nearby="233;271;251" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0252"/>
+
+
+
+
+    <ItemSpec id="257" x="600" y="636" miniMapX="14" miniMapY="18" connection="238;276" nearby="238;276" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0257"/>
+
+
+
+
+    <ItemSpec id="262" x="645" y="636" miniMapX="19" miniMapY="18" connection="243;281;263" nearby="243;281;263" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0262"/>
+    <ItemSpec id="263" x="654" y="636" miniMapX="20" miniMapY="18" connection="244;282;262;264" nearby="244;282;262;264" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0263"/>
+    <ItemSpec id="264" x="663" y="636" miniMapX="21" miniMapY="18" connection="245;283;263;265" nearby="245;283;263;265" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0264"/>
+    <ItemSpec id="265" x="672" y="636" miniMapX="22" miniMapY="18" connection="246;284;264;266" nearby="246;284;264;266" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0265"/>
+    <ItemSpec id="266" x="681" y="636" miniMapX="23" miniMapY="18" connection="247;285;265" nearby="247;285;265" functionId="1000" camp="4" size="3" miniMapSize="1" name="lan0266" namePlus="79031083" nameX="168" nameY="65"/>
+    <ItemSpec id="267" x="519" y="645" miniMapX="5" miniMapY="19" connection="248;286;268" nearby="248;286;268" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0267"/>
+    <ItemSpec id="268" x="528" y="645" miniMapX="6" miniMapY="19" connection="249;287;267;269" nearby="249;287;267;269" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0268"/>
+    <ItemSpec id="269" x="537" y="645" miniMapX="7" miniMapY="19" connection="250;288;268;270" nearby="250;288;268;270" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0269"/>
+    <ItemSpec id="270" x="546" y="645" miniMapX="8" miniMapY="19" connection="251;289;269;271" nearby="251;289;269;271" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0270"/>
+    <ItemSpec id="271" x="555" y="645" miniMapX="9" miniMapY="19" connection="252;290;270;272" nearby="252;290;270;272" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0271"/>
+    <ItemSpec id="272" x="564" y="645" miniMapX="10" miniMapY="19" connection="291;271;273" nearby="291;271;273" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0272"/>
+    <ItemSpec id="273" x="573" y="645" miniMapX="11" miniMapY="19" connection="292;272;274" nearby="292;272;274" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0273"/>
+    <ItemSpec id="274" x="582" y="645" miniMapX="12" miniMapY="19" connection="293;273;275" nearby="293;273;275" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0274"/>
+    <ItemSpec id="275" x="591" y="645" miniMapX="13" miniMapY="19" connection="294;274;276" nearby="294;274;276" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0275"/>
+    <ItemSpec id="276" x="600" y="645" miniMapX="14" miniMapY="19" connection="257;295;275;277" nearby="257;295;275;277" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0276"/>
+    <ItemSpec id="277" x="609" y="645" miniMapX="15" miniMapY="19" connection="296;276;278" nearby="296;276;278" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0277"/>
+    <ItemSpec id="278" x="618" y="645" miniMapX="16" miniMapY="19" connection="297;277;279" nearby="297;277;279" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0278"/>
+    <ItemSpec id="279" x="627" y="645" miniMapX="17" miniMapY="19" connection="298;278;280" nearby="298;278;280" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0279"/>
+    <ItemSpec id="280" x="636" y="645" miniMapX="18" miniMapY="19" connection="299;279;281" nearby="299;279;281" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0280"/>
+    <ItemSpec id="281" x="645" y="645" miniMapX="19" miniMapY="19" connection="262;300;280;282" nearby="262;300;280;282" functionId="1034" camp="0" size="1" miniMapSize="1" name="lan0281"/>
+    <ItemSpec id="282" x="654" y="645" miniMapX="20" miniMapY="19" connection="263;301;281;283" nearby="263;301;281;283" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0282"/>
+    <ItemSpec id="283" x="663" y="645" miniMapX="21" miniMapY="19" connection="264;302;282;284" nearby="264;302;282;284" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0283"/>
+    <ItemSpec id="284" x="672" y="645" miniMapX="22" miniMapY="19" connection="265;303;283;285" nearby="265;303;283;285" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0284"/>
+    <ItemSpec id="285" x="681" y="645" miniMapX="23" miniMapY="19" connection="266;304;284" nearby="266;304;284" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0285"/>
+    <ItemSpec id="286" x="519" y="654" miniMapX="5" miniMapY="20" connection="267;305;287" nearby="267;305;287" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0286"/>
+    <ItemSpec id="287" x="528" y="654" miniMapX="6" miniMapY="20" connection="268;306;286;288" nearby="268;306;286;288" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0287"/>
+    <ItemSpec id="288" x="537" y="654" miniMapX="7" miniMapY="20" connection="269;307;287;289" nearby="269;307;287;289" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0288"/>
+    <ItemSpec id="289" x="546" y="654" miniMapX="8" miniMapY="20" connection="270;308;288;290" nearby="270;308;288;290" functionId="1060" camp="0" size="1" miniMapSize="1" name="lan0289" namePlus="79031084"/>
+    <ItemSpec id="290" x="555" y="654" miniMapX="9" miniMapY="20" connection="271;309;289;291" nearby="271;309;289;291" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0290"/>
+    <ItemSpec id="291" x="564" y="654" miniMapX="10" miniMapY="20" connection="272;310;290;292" nearby="272;310;290;292" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0291"/>
+    <ItemSpec id="292" x="573" y="654" miniMapX="11" miniMapY="20" connection="273;311;291;293" nearby="273;311;291;293" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0292"/>
+    <ItemSpec id="293" x="582" y="654" miniMapX="12" miniMapY="20" connection="274;312;292;294" nearby="274;312;292;294" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0293"/>
+    <ItemSpec id="294" x="591" y="654" miniMapX="13" miniMapY="20" connection="275;313;293;295" nearby="275;313;293;295" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0294"/>
+    <ItemSpec id="295" x="600" y="654" miniMapX="14" miniMapY="20" connection="276;314;294;296" nearby="276;314;294;296" functionId="1060" camp="0" size="1" miniMapSize="1" name="lan0295" namePlus="79031084"/>
+    <ItemSpec id="296" x="609" y="654" miniMapX="15" miniMapY="20" connection="277;315;295;297" nearby="277;315;295;297" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0296"/>
+    <ItemSpec id="297" x="618" y="654" miniMapX="16" miniMapY="20" connection="278;316;296;298" nearby="278;316;296;298" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0297"/>
+    <ItemSpec id="298" x="627" y="654" miniMapX="17" miniMapY="20" connection="279;317;297;299" nearby="279;317;297;299" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0298"/>
+    <ItemSpec id="299" x="636" y="654" miniMapX="18" miniMapY="20" connection="280;318;298;300" nearby="280;318;298;300" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0299"/>
+    <ItemSpec id="300" x="645" y="654" miniMapX="19" miniMapY="20" connection="281;319;299;301" nearby="281;319;299;301" functionId="1033" camp="0" size="1" miniMapSize="1" name="lan0300"/>
+    <ItemSpec id="301" x="654" y="654" miniMapX="20" miniMapY="20" connection="282;320;300;302" nearby="282;320;300;302" functionId="1060" camp="0" size="1" miniMapSize="1" name="lan0301" namePlus="79031084"/>
+    <ItemSpec id="302" x="663" y="654" miniMapX="21" miniMapY="20" connection="283;321;301;303" nearby="283;321;301;303" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0302"/>
+    <ItemSpec id="303" x="672" y="654" miniMapX="22" miniMapY="20" connection="284;322;302;304" nearby="284;322;302;304" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0303"/>
+    <ItemSpec id="304" x="681" y="654" miniMapX="23" miniMapY="20" connection="285;323;303" nearby="285;323;303" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0304"/>
+    <ItemSpec id="305" x="519" y="663" miniMapX="5" miniMapY="21" connection="286;324;306" nearby="286;324;306" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0305"/>
+    <ItemSpec id="306" x="528" y="663" miniMapX="6" miniMapY="21" connection="287;325;305;307" nearby="287;325;305;307" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0306"/>
+    <ItemSpec id="307" x="537" y="663" miniMapX="7" miniMapY="21" connection="288;326;306;308" nearby="288;326;306;308" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0307"/>
+    <ItemSpec id="308" x="546" y="663" miniMapX="8" miniMapY="21" connection="289;327;307;309" nearby="289;327;307;309" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0308"/>
+    <ItemSpec id="309" x="555" y="663" miniMapX="9" miniMapY="21" connection="290;328;308;310" nearby="290;328;308;310" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0309"/>
+    <ItemSpec id="310" x="564" y="663" miniMapX="10" miniMapY="21" connection="291;329;309;311" nearby="291;329;309;311" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0310"/>
+    <ItemSpec id="311" x="573" y="663" miniMapX="11" miniMapY="21" connection="292;330;310;312" nearby="292;330;310;312" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0311"/>
+    <ItemSpec id="312" x="582" y="663" miniMapX="12" miniMapY="21" connection="293;331;311;313" nearby="293;331;311;313" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0312"/>
+    <ItemSpec id="313" x="591" y="663" miniMapX="13" miniMapY="21" connection="294;332;312;314" nearby="294;332;312;314" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0313"/>
+    <ItemSpec id="314" x="600" y="663" miniMapX="14" miniMapY="21" connection="295;333;313;315" nearby="295;333;313;315" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0314"/>
+    <ItemSpec id="315" x="609" y="663" miniMapX="15" miniMapY="21" connection="296;334;314;316" nearby="296;334;314;316" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0315"/>
+    <ItemSpec id="316" x="618" y="663" miniMapX="16" miniMapY="21" connection="297;335;315;317" nearby="297;335;315;317" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0316"/>
+    <ItemSpec id="317" x="627" y="663" miniMapX="17" miniMapY="21" connection="298;336;316;318" nearby="298;336;316;318" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0317"/>
+    <ItemSpec id="318" x="636" y="663" miniMapX="18" miniMapY="21" connection="299;337;317;319" nearby="299;337;317;319" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0318"/>
+    <ItemSpec id="319" x="645" y="663" miniMapX="19" miniMapY="21" connection="300;338;318;320" nearby="300;338;318;320" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0319"/>
+    <ItemSpec id="320" x="654" y="663" miniMapX="20" miniMapY="21" connection="301;339;319;321" nearby="301;339;319;321" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0320"/>
+    <ItemSpec id="321" x="663" y="663" miniMapX="21" miniMapY="21" connection="302;340;320;322" nearby="302;340;320;322" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0321"/>
+    <ItemSpec id="322" x="672" y="663" miniMapX="22" miniMapY="21" connection="303;341;321;323" nearby="303;341;321;323" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0322"/>
+    <ItemSpec id="323" x="681" y="663" miniMapX="23" miniMapY="21" connection="304;342;322" nearby="304;342;322" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0323"/>
+    <ItemSpec id="324" x="519" y="672" miniMapX="5" miniMapY="22" connection="305;343;325" nearby="305;343;325" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0324"/>
+    <ItemSpec id="325" x="528" y="672" miniMapX="6" miniMapY="22" connection="306;344;324;326" nearby="306;344;324;326" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0325"/>
+    <ItemSpec id="326" x="537" y="672" miniMapX="7" miniMapY="22" connection="307;345;325;327" nearby="307;345;325;327" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0326"/>
+    <ItemSpec id="327" x="546" y="672" miniMapX="8" miniMapY="22" connection="308;346;326;328" nearby="308;346;326;328" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0327"/>
+    <ItemSpec id="328" x="555" y="672" miniMapX="9" miniMapY="22" connection="309;347;327;329" nearby="309;347;327;329" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0328"/>
+    <ItemSpec id="329" x="564" y="672" miniMapX="10" miniMapY="22" connection="310;348;328;330" nearby="310;348;328;330" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0329"/>
+    <ItemSpec id="330" x="573" y="672" miniMapX="11" miniMapY="22" connection="311;349;329;331" nearby="311;349;329;331" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0330"/>
+    <ItemSpec id="331" x="582" y="672" miniMapX="12" miniMapY="22" connection="312;350;330;332" nearby="312;350;330;332" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0331"/>
+    <ItemSpec id="332" x="591" y="672" miniMapX="13" miniMapY="22" connection="313;351;331;333" nearby="313;351;331;333" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0332"/>
+    <ItemSpec id="333" x="600" y="672" miniMapX="14" miniMapY="22" connection="314;352;332;334" nearby="314;352;332;334" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0333"/>
+    <ItemSpec id="334" x="609" y="672" miniMapX="15" miniMapY="22" connection="315;353;333;335" nearby="315;353;333;335" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0334"/>
+    <ItemSpec id="335" x="618" y="672" miniMapX="16" miniMapY="22" connection="316;354;334;336" nearby="316;354;334;336" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0335"/>
+    <ItemSpec id="336" x="627" y="672" miniMapX="17" miniMapY="22" connection="317;355;335;337" nearby="317;355;335;337" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0336"/>
+    <ItemSpec id="337" x="636" y="672" miniMapX="18" miniMapY="22" connection="318;356;336;338" nearby="318;356;336;338" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0337"/>
+    <ItemSpec id="338" x="645" y="672" miniMapX="19" miniMapY="22" connection="319;357;337;339" nearby="319;357;337;339" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0338"/>
+    <ItemSpec id="339" x="654" y="672" miniMapX="20" miniMapY="22" connection="320;358;338;340" nearby="320;358;338;340" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0339"/>
+    <ItemSpec id="340" x="663" y="672" miniMapX="21" miniMapY="22" connection="321;359;339;341" nearby="321;359;339;341" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0340"/>
+    <ItemSpec id="341" x="672" y="672" miniMapX="22" miniMapY="22" connection="322;360;340;342" nearby="322;360;340;342" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0341"/>
+    <ItemSpec id="342" x="681" y="672" miniMapX="23" miniMapY="22" connection="323;361;341" nearby="323;361;341" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0342"/>
+    <ItemSpec id="343" x="519" y="681" miniMapX="5" miniMapY="23" connection="324;344" nearby="324;344" functionId="1080" camp="0" size="3" miniMapSize="1" name="lan0343" namePlus="79031090" nameX="119" nameY="-54"/>
+    <ItemSpec id="344" x="528" y="681" miniMapX="6" miniMapY="23" connection="325;343;345" nearby="325;343;345" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0344"/>
+    <ItemSpec id="345" x="537" y="681" miniMapX="7" miniMapY="23" connection="326;344;346" nearby="326;344;346" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0345"/>
+    <ItemSpec id="346" x="546" y="681" miniMapX="8" miniMapY="23" connection="327;345;347" nearby="327;345;347" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0346"/>
+    <ItemSpec id="347" x="555" y="681" miniMapX="9" miniMapY="23" connection="328;346;348" nearby="328;346;348" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0347"/>
+    <ItemSpec id="348" x="564" y="681" miniMapX="10" miniMapY="23" connection="329;347;349" nearby="329;347;349" functionId="1000" camp="6" size="3" miniMapSize="1" name="lan0348" namePlus="79031083" nameX="168" nameY="65"/>
+    <ItemSpec id="349" x="573" y="681" miniMapX="11" miniMapY="23" connection="330;348;350" nearby="330;348;350" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0349"/>
+    <ItemSpec id="350" x="582" y="681" miniMapX="12" miniMapY="23" connection="331;349;351" nearby="331;349;351" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0350"/>
+    <ItemSpec id="351" x="591" y="681" miniMapX="13" miniMapY="23" connection="332;350;352" nearby="332;350;352" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0351"/>
+    <ItemSpec id="352" x="600" y="681" miniMapX="14" miniMapY="23" connection="333;351;353" nearby="333;351;353" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0352"/>
+    <ItemSpec id="353" x="609" y="681" miniMapX="15" miniMapY="23" connection="334;352;354" nearby="334;352;354" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0353"/>
+    <ItemSpec id="354" x="618" y="681" miniMapX="16" miniMapY="23" connection="335;353;355" nearby="335;353;355" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0354"/>
+    <ItemSpec id="355" x="627" y="681" miniMapX="17" miniMapY="23" connection="336;354;356" nearby="336;354;356" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0355"/>
+    <ItemSpec id="356" x="636" y="681" miniMapX="18" miniMapY="23" connection="337;355;357" nearby="337;355;357" functionId="1000" camp="5" size="3" miniMapSize="1" name="lan0356" namePlus="79031083" nameX="168" nameY="65"/>
+    <ItemSpec id="357" x="645" y="681" miniMapX="19" miniMapY="23" connection="338;356;358" nearby="338;356;358" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0357"/>
+    <ItemSpec id="358" x="654" y="681" miniMapX="20" miniMapY="23" connection="339;357;359" nearby="339;357;359" functionId="1030" camp="0" size="1" miniMapSize="1" name="lan0358"/>
+    <ItemSpec id="359" x="663" y="681" miniMapX="21" miniMapY="23" connection="340;358;360" nearby="340;358;360" functionId="1031" camp="0" size="1" miniMapSize="1" name="lan0359"/>
+    <ItemSpec id="360" x="672" y="681" miniMapX="22" miniMapY="23" connection="341;359;361" nearby="341;359;361" functionId="1032" camp="0" size="1" miniMapSize="1" name="lan0360"/>
+    <ItemSpec id="361" x="681" y="681" miniMapX="23" miniMapY="23" connection="342;360" nearby="342;360" functionId="1080" camp="0" size="3" miniMapSize="1" name="lan0361" namePlus="79031090" nameX="119" nameY="-54"/>
+</Group>
+
+
+
+
+</tns:database>

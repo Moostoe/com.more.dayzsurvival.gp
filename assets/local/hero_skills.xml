@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Group id="hero_skills">
+    <ItemSpec id="50000" name="83420000" desc="83425000" combat_skill="0" type="2" group="216" overlay="2" effect="216;-10" effect_add="-1" />
+    <ItemSpec id="50001" name="83420001" desc="83425001" combat_skill="0" type="3" need_appoint="1" group="8" overlay="1" effect="8;100" effect_add="100" />
+    <ItemSpec id="50002" name="83420002" desc="83425002" combat_skill="101008" type="1" />
+    <ItemSpec id="50003" name="83420003" desc="83425003" combat_skill="101009" type="1" />
+    <ItemSpec id="50004" name="83420004" desc="83425004" combat_skill="101010" type="1" />
+    <ItemSpec id="50005" name="83420005" desc="83425005" combat_skill="101011" type="1" />
+    <ItemSpec id="50006" name="83420006" desc="83425006" combat_skill="101012" type="1" />
+    <ItemSpec id="50007" name="83420007" desc="83425007" combat_skill="101013" type="1" />
+    <ItemSpec id="50008" name="83420008" desc="83425008" combat_skill="101014" type="1" />
+    <ItemSpec id="50009" name="83420009" desc="83425009" combat_skill="101015" type="1" />
+    <ItemSpec id="50010" name="83420010" desc="83425010" combat_skill="101016" type="1" />
+  </Group> 
+</tns:database>

@@ -1,0 +1,186 @@
+_alpha_g0104.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cecil_huoqiang01
+  rotate: false
+  xy: 312, 435
+  size: 42, 71
+  orig: 60, 95
+  offset: 11, 17
+  index: -1
+Cecil_youdabi
+  rotate: true
+  xy: 255, 98
+  size: 60, 93
+  orig: 60, 93
+  offset: 0, 0
+  index: -1
+Cecil_huoqiang05
+  rotate: false
+  xy: 208, 281
+  size: 42, 81
+  orig: 60, 95
+  offset: 11, 8
+  index: -1
+Cecil_huoqiang10
+  rotate: true
+  xy: 243, 164
+  size: 40, 79
+  orig: 60, 95
+  offset: 13, 9
+  index: -1
+Cecil_xiaobao
+  rotate: false
+  xy: 96, 197
+  size: 42, 85
+  orig: 42, 85
+  offset: 0, 0
+  index: -1
+Cecil_huoqiang09
+  rotate: true
+  xy: 256, 343
+  size: 42, 77
+  orig: 60, 95
+  offset: 11, 12
+  index: -1
+Cecil_banshou
+  rotate: false
+  xy: 255, 2
+  size: 104, 90
+  orig: 104, 90
+  offset: 0, 0
+  index: -1
+Cecil_wuqi
+  rotate: true
+  xy: 2, 197
+  size: 206, 88
+  orig: 216, 88
+  offset: 10, 0
+  index: -1
+Cecil_zuoshou
+  rotate: false
+  xy: 311, 210
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+Cecil_huoqiang00
+  rotate: true
+  xy: 222, 391
+  size: 40, 75
+  orig: 60, 95
+  offset: 13, 13
+  index: -1
+Cecil_huoqiang04
+  rotate: false
+  xy: 268, 437
+  size: 38, 73
+  orig: 60, 95
+  offset: 15, 15
+  index: -1
+Cecil_huoqiang08
+  rotate: true
+  xy: 228, 210
+  size: 44, 77
+  orig: 60, 95
+  offset: 9, 12
+  index: -1
+Cecil_zuoxiaobi
+  rotate: false
+  xy: 124, 456
+  size: 58, 52
+  orig: 68, 52
+  offset: 10, 0
+  index: -1
+Cecil_youxiaobi
+  rotate: true
+  xy: 155, 281
+  size: 80, 47
+  orig: 80, 47
+  offset: 0, 0
+  index: -1
+Cecil_huoqiang03
+  rotate: false
+  xy: 170, 368
+  size: 46, 73
+  orig: 60, 95
+  offset: 7, 16
+  index: -1
+Cecil_huoqiang07
+  rotate: false
+  xy: 256, 260
+  size: 44, 77
+  orig: 60, 95
+  offset: 9, 12
+  index: -1
+Cecil_tui
+  rotate: false
+  xy: 2, 409
+  size: 116, 97
+  orig: 120, 109
+  offset: 4, 0
+  index: -1
+Cecil_beibao
+  rotate: false
+  xy: 96, 288
+  size: 53, 81
+  orig: 61, 83
+  offset: 0, 2
+  index: -1
+Cecil_wuqi2
+  rotate: false
+  xy: 121, 2
+  size: 128, 129
+  orig: 128, 139
+  offset: 0, 0
+  index: -1
+Cecil_youshou
+  rotate: true
+  xy: 303, 391
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+Cecil_huoqiang11
+  rotate: false
+  xy: 124, 375
+  size: 40, 75
+  orig: 60, 95
+  offset: 13, 14
+  index: -1
+Cecil_huoqiang02
+  rotate: false
+  xy: 222, 437
+  size: 40, 73
+  orig: 60, 95
+  offset: 13, 16
+  index: -1
+Cecil_huoqiang06
+  rotate: false
+  xy: 306, 260
+  size: 44, 77
+  orig: 60, 95
+  offset: 9, 11
+  index: -1
+Cecil_zuodabi
+  rotate: true
+  xy: 121, 137
+  size: 49, 116
+  orig: 53, 116
+  offset: 2, 0
+  index: -1
+Cecil_tou
+  rotate: false
+  xy: 144, 192
+  size: 78, 83
+  orig: 78, 83
+  offset: 0, 0
+  index: -1
+Cecil_qugan
+  rotate: false
+  xy: 2, 2
+  size: 113, 189
+  orig: 139, 189
+  offset: 11, 0
+  index: -1
